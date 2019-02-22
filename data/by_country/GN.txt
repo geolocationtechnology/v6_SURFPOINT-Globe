@@ -1,0 +1,5 @@
+2c0f:ee38:0000:0000:0000:0000:0000:0000	2c0f:ee38:ffff:ffff:ffff:ffff:ffff:ffff	GN
+2c0f:f180:0000:0000:0000:0000:0000:0000	2c0f:f180:ffff:ffff:ffff:ffff:ffff:ffff	GN
+2c0f:f600:0000:0000:0000:0000:0000:0000	2c0f:f600:ffff:ffff:ffff:ffff:ffff:ffff	GN
+2c0f:f990:0000:0000:0000:0000:0000:0000	2c0f:f990:ffff:ffff:ffff:ffff:ffff:ffff	GN
+2c0f:fbd0:0000:0000:0000:0000:0000:0000	2c0f:fbd0:ffff:ffff:ffff:ffff:ffff:ffff	GN

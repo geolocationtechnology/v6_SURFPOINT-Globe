@@ -1,0 +1,11 @@
+2401:df40:0000:0000:0000:0000:0000:0000	2401:df40:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a01:00d0:0000:0000:0000:0000:0000:0000	2a01:00d0:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a01:8c40:0000:0000:0000:0000:0000:0000	2a01:8c40:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a02:0638:0000:0000:0000:0000:0000:0000	2a02:0638:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a02:ffc0:0000:0000:0000:0000:0000:0000	2a02:ffc7:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a03:50c0:0000:0000:0000:0000:0000:0000	2a03:50c0:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a05:8c00:0000:0000:0000:0000:0000:0000	2a05:8c07:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a05:b180:0000:0000:0000:0000:0000:0000	2a05:b187:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a07:3b80:0000:0000:0000:0000:0000:0000	2a07:3b87:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a09:82c0:0000:0000:0000:0000:0000:0000	2a09:82c7:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a09:fe40:0000:0000:0000:0000:0000:0000	2a09:fe47:ffff:ffff:ffff:ffff:ffff:ffff	GI

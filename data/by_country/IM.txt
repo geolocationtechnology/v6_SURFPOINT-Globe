@@ -1,0 +1,9 @@
+2a00:45e0:0000:0000:0000:0000:0000:0000	2a00:45e7:ffff:ffff:ffff:ffff:ffff:ffff	IM
+2a02:7260:0000:0000:0000:0000:0000:0000	2a02:7267:ffff:ffff:ffff:ffff:ffff:ffff	IM
+2a02:ff40:0000:0000:0000:0000:0000:0000	2a02:ff47:ffff:ffff:ffff:ffff:ffff:ffff	IM
+2a03:7aa0:0000:0000:0000:0000:0000:0000	2a03:7aa0:ffff:ffff:ffff:ffff:ffff:ffff	IM
+2a03:9e00:0000:0000:0000:0000:0000:0000	2a03:9e00:ffff:ffff:ffff:ffff:ffff:ffff	IM
+2a04:b240:0000:0000:0000:0000:0000:0000	2a04:b247:ffff:ffff:ffff:ffff:ffff:ffff	IM
+2a09:53c0:0000:0000:0000:0000:0000:0000	2a09:53c7:ffff:ffff:ffff:ffff:ffff:ffff	IM
+2a0a:aa80:0000:0000:0000:0000:0000:0000	2a0a:aa87:ffff:ffff:ffff:ffff:ffff:ffff	IM
+2a0c:9880:0000:0000:0000:0000:0000:0000	2a0c:9887:ffff:ffff:ffff:ffff:ffff:ffff	IM

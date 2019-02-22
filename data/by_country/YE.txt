@@ -1,0 +1,6 @@
+2a02:2718:0000:0000:0000:0000:0000:0000	2a02:271f:ffff:ffff:ffff:ffff:ffff:ffff	YE
+2a02:e280:0000:0000:0000:0000:0000:0000	2a02:e287:ffff:ffff:ffff:ffff:ffff:ffff	YE
+2a05:3380:0000:0000:0000:0000:0000:0000	2a05:3387:ffff:ffff:ffff:ffff:ffff:ffff	YE
+2a05:7a40:0000:0000:0000:0000:0000:0000	2a05:7a47:ffff:ffff:ffff:ffff:ffff:ffff	YE
+2a05:7d80:0000:0000:0000:0000:0000:0000	2a05:7d87:ffff:ffff:ffff:ffff:ffff:ffff	YE
+2a07:fd40:0000:0000:0000:0000:0000:0000	2a07:fd47:ffff:ffff:ffff:ffff:ffff:ffff	YE

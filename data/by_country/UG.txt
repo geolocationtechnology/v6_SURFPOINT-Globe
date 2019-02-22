@@ -1,0 +1,14 @@
+2001:43f8:1370:0000:0000:0000:0000:0000	2001:43f8:1370:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:efb8:0000:0000:0000:0000:0000:0000	2c0f:efb8:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:f200:0000:0000:0000:0000:0000:0000	2c0f:f200:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:f658:0000:0000:0000:0000:0000:0000	2c0f:f658:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:f6d0:0000:0000:0000:0000:0000:0000	2c0f:f6d0:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:f750:0000:0000:0000:0000:0000:0000	2c0f:f750:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:fb00:0000:0000:0000:0000:0000:0000	2c0f:fb00:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:fbc8:0000:0000:0000:0000:0000:0000	2c0f:fbc8:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:fd60:0000:0000:0000:0000:0000:0000	2c0f:fd60:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:fdb8:0000:0000:0000:0000:0000:0000	2c0f:fdb8:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:fe10:0000:0000:0000:0000:0000:0000	2c0f:fe10:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:fec0:0000:0000:0000:0000:0000:0000	2c0f:fec0:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:ff98:0000:0000:0000:0000:0000:0000	2c0f:ff98:ffff:ffff:ffff:ffff:ffff:ffff	UG
+2c0f:ffa0:0000:0000:0000:0000:0000:0000	2c0f:ffa0:ffff:ffff:ffff:ffff:ffff:ffff	UG

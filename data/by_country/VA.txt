@@ -1,0 +1,4 @@
+2a01:00b8:0000:0000:0000:0000:0000:0000	2a01:00b8:ffff:ffff:ffff:ffff:ffff:ffff	VA
+2a04:0640:0000:0000:0000:0000:0000:0000	2a04:0647:ffff:ffff:ffff:ffff:ffff:ffff	VA
+2a06:9f80:0000:0000:0000:0000:0000:0000	2a06:9f87:ffff:ffff:ffff:ffff:ffff:ffff	VA
+2a07:8100:0000:0000:0000:0000:0000:0000	2a07:8107:ffff:ffff:ffff:ffff:ffff:ffff	VA

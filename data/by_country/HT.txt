@@ -1,0 +1,6 @@
+2001:1370:0000:0000:0000:0000:0000:0000	2001:1370:ffff:ffff:ffff:ffff:ffff:ffff	HT
+2800:0570:0000:0000:0000:0000:0000:0000	2800:0570:ffff:ffff:ffff:ffff:ffff:ffff	HT
+2803:8600:0000:0000:0000:0000:0000:0000	2803:8600:ffff:ffff:ffff:ffff:ffff:ffff	HT
+2803:a580:0000:0000:0000:0000:0000:0000	2803:a580:ffff:ffff:ffff:ffff:ffff:ffff	HT
+2803:c680:0000:0000:0000:0000:0000:0000	2803:c680:ffff:ffff:ffff:ffff:ffff:ffff	HT
+2803:cac0:0000:0000:0000:0000:0000:0000	2803:cac0:ffff:ffff:ffff:ffff:ffff:ffff	HT

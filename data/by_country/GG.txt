@@ -1,0 +1,3 @@
+2a01:5480:0000:0000:0000:0000:0000:0000	2a01:5480:ffff:ffff:ffff:ffff:ffff:ffff	GG
+2a04:6b40:0000:0000:0000:0000:0000:0000	2a04:6b47:ffff:ffff:ffff:ffff:ffff:ffff	GG
+2a09:5d40:0000:0000:0000:0000:0000:0000	2a09:5d47:ffff:ffff:ffff:ffff:ffff:ffff	GG

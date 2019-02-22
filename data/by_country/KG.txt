@@ -1,0 +1,14 @@
+2a00:47a0:0000:0000:0000:0000:0000:0000	2a00:47a0:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a00:5700:0000:0000:0000:0000:0000:0000	2a00:5700:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a00:7160:0000:0000:0000:0000:0000:0000	2a00:7160:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a00:b020:0000:0000:0000:0000:0000:0000	2a00:b020:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a01:96a0:0000:0000:0000:0000:0000:0000	2a01:96a0:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a01:9d00:0000:0000:0000:0000:0000:0000	2a01:9d00:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a01:bfa0:0000:0000:0000:0000:0000:0000	2a01:bfa0:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a02:0820:0000:0000:0000:0000:0000:0000	2a02:0820:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a04:5600:0000:0000:0000:0000:0000:0000	2a04:5607:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a04:b340:0000:0000:0000:0000:0000:0000	2a04:b347:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a05:c880:0000:0000:0000:0000:0000:0000	2a05:c887:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a0b:6e40:0000:0000:0000:0000:0000:0000	2a0b:6e47:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a0b:d7c0:0000:0000:0000:0000:0000:0000	2a0b:d7c7:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a0d:dd00:0000:0000:0000:0000:0000:0000	2a0d:dd07:ffff:ffff:ffff:ffff:ffff:ffff	KG

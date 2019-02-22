@@ -1,0 +1,6 @@
+2c0f:ef70:0000:0000:0000:0000:0000:0000	2c0f:ef70:ffff:ffff:ffff:ffff:ffff:ffff	BI
+2c0f:f198:0000:0000:0000:0000:0000:0000	2c0f:f198:ffff:ffff:ffff:ffff:ffff:ffff	BI
+2c0f:f6a8:0000:0000:0000:0000:0000:0000	2c0f:f6a8:ffff:ffff:ffff:ffff:ffff:ffff	BI
+2c0f:f788:0000:0000:0000:0000:0000:0000	2c0f:f788:ffff:ffff:ffff:ffff:ffff:ffff	BI
+2c0f:f908:0000:0000:0000:0000:0000:0000	2c0f:f908:ffff:ffff:ffff:ffff:ffff:ffff	BI
+2c0f:fd78:0000:0000:0000:0000:0000:0000	2c0f:fd78:ffff:ffff:ffff:ffff:ffff:ffff	BI

@@ -1,0 +1,8 @@
+2001:4288:0000:0000:0000:0000:0000:0000	2001:4288:ffff:ffff:ffff:ffff:ffff:ffff	MA
+2001:4310:0000:0000:0000:0000:0000:0000	2001:4310:ffff:ffff:ffff:ffff:ffff:ffff	MA
+2c0f:ee40:0000:0000:0000:0000:0000:0000	2c0f:ee40:ffff:ffff:ffff:ffff:ffff:ffff	MA
+2c0f:eef0:0000:0000:0000:0000:0000:0000	2c0f:eef0:ffff:ffff:ffff:ffff:ffff:ffff	MA
+2c0f:f2e0:0000:0000:0000:0000:0000:0000	2c0f:f2e0:ffff:ffff:ffff:ffff:ffff:ffff	MA
+2c0f:f378:0000:0000:0000:0000:0000:0000	2c0f:f378:ffff:ffff:ffff:ffff:ffff:ffff	MA
+2c0f:fa18:0000:0000:0000:0000:0000:0000	2c0f:fa18:ffff:ffff:ffff:ffff:ffff:ffff	MA
+2c0f:fb20:0000:0000:0000:0000:0000:0000	2c0f:fb20:ffff:ffff:ffff:ffff:ffff:ffff	MA

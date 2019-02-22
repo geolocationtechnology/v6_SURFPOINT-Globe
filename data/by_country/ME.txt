@@ -1,0 +1,13 @@
+2a00:8700:0000:0000:0000:0000:0000:0000	2a00:8707:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a00:fe80:0000:0000:0000:0000:0000:0000	2a00:fe87:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a01:5160:0000:0000:0000:0000:0000:0000	2a01:5160:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a01:5da0:0000:0000:0000:0000:0000:0000	2a01:5da0:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a02:4280:0000:0000:0000:0000:0000:0000	2a02:4280:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a03:07a0:0000:0000:0000:0000:0000:0000	2a03:07a7:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a03:16a0:0000:0000:0000:0000:0000:0000	2a03:16a0:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a03:2920:0000:0000:0000:0000:0000:0000	2a03:2920:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a04:7400:0000:0000:0000:0000:0000:0000	2a04:7407:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a05:7b40:0000:0000:0000:0000:0000:0000	2a05:7b47:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a06:e340:0000:0000:0000:0000:0000:0000	2a06:e347:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a0b:9e40:0000:0000:0000:0000:0000:0000	2a0b:9e47:ffff:ffff:ffff:ffff:ffff:ffff	ME
+2a0c:60c0:0000:0000:0000:0000:0000:0000	2a0c:60c7:ffff:ffff:ffff:ffff:ffff:ffff	ME
