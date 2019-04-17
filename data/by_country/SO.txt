@@ -1,3 +1,4 @@
+2001:43f8:1380:0000:0000:0000:0000:0000	2001:43f8:1380:ffff:ffff:ffff:ffff:ffff	SO
 2c0f:ed08:0000:0000:0000:0000:0000:0000	2c0f:ed08:ffff:ffff:ffff:ffff:ffff:ffff	SO
 2c0f:eef8:0000:0000:0000:0000:0000:0000	2c0f:eef8:ffff:ffff:ffff:ffff:ffff:ffff	SO
 2c0f:f068:0000:0000:0000:0000:0000:0000	2c0f:f068:ffff:ffff:ffff:ffff:ffff:ffff	SO

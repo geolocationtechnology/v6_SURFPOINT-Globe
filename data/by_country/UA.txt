@@ -390,3 +390,5 @@
 2a0e:1400:0000:0000:0000:0000:0000:0000	2a0e:1407:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:5000:0000:0000:0000:0000:0000:0000	2a0e:5007:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:6800:0000:0000:0000:0000:0000:0000	2a0e:6807:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a0e:7600:0000:0000:0000:0000:0000:0000	2a0e:7607:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a0e:7e00:0000:0000:0000:0000:0000:0000	2a0e:7e07:ffff:ffff:ffff:ffff:ffff:ffff	UA

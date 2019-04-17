@@ -1632,6 +1632,7 @@
 2a0d:fe00:0000:0000:0000:0000:0000:0000	2a0d:fe07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0d:ff40:0000:0000:0000:0000:0000:0000	2a0d:ff47:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:5a00:0000:0000:0000:0000:0000:0000	2a0e:5a07:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a0e:8e00:0000:0000:0000:0000:0000:0000	2a0e:8e07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:a000:0000:0000:0000:0000:0000:0000	2a0e:a007:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:ac00:0000:0000:0000:0000:0000:0000	2a0e:ac00:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:d000:0000:0000:0000:0000:0000:0000	2a0e:d007:ffff:ffff:ffff:ffff:ffff:ffff	GB

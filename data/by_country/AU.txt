@@ -510,7 +510,7 @@
 2401:cc80:0000:0000:0000:0000:0000:0000	2401:cc80:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2401:cd80:0000:0000:0000:0000:0000:0000	2401:cd81:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2401:cf00:0000:0000:0000:0000:0000:0000	2401:cf00:ffff:ffff:ffff:ffff:ffff:ffff	AU
-2401:d000:0000:0000:0000:0000:0000:0000	2401:d000:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2401:d000:0000:0000:0000:0000:0000:0000	2401:d00f:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2401:d040:0000:0000:0000:0000:0000:0000	2401:d040:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2401:d1c0:0000:0000:0000:0000:0000:0000	2401:d1c0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2401:d480:0000:0000:0000:0000:0000:0000	2401:d480:ffff:ffff:ffff:ffff:ffff:ffff	AU

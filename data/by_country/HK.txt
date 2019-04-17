@@ -326,6 +326,8 @@
 2404:ae00:0000:0000:0000:0000:0000:0000	2404:ae00:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2404:af00:0000:0000:0000:0000:0000:0000	2404:af00:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2404:bb40:0000:0000:0000:0000:0000:0000	2404:bb40:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2404:c0c0:0000:0000:0000:0000:0000:0000	2404:c0c0:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2404:c140:0000:0000:0000:0000:0000:0000	2404:c140:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2404:c500:0000:0000:0000:0000:0000:0000	2404:c500:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2404:c680:0000:0000:0000:0000:0000:0000	2404:c680:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2404:c800:0000:0000:0000:0000:0000:0000	2404:c807:ffff:ffff:ffff:ffff:ffff:ffff	HK

@@ -1232,5 +1232,7 @@
 2a0e:4e00:0000:0000:0000:0000:0000:0000	2a0e:4e07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:6400:0000:0000:0000:0000:0000:0000	2a0e:6407:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:7c00:0000:0000:0000:0000:0000:0000	2a0e:7c07:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:8200:0000:0000:0000:0000:0000:0000	2a0e:8207:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:8a00:0000:0000:0000:0000:0000:0000	2a0e:8a07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:e800:0000:0000:0000:0000:0000:0000	2a0e:e807:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:f800:0000:0000:0000:0000:0000:0000	2a0e:f807:ffff:ffff:ffff:ffff:ffff:ffff	NL

@@ -1860,6 +1860,7 @@
 2a0e:5600:0000:0000:0000:0000:0000:0000	2a0e:5607:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:5e00:0000:0000:0000:0000:0000:0000	2a0e:5e07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:7000:0000:0000:0000:0000:0000:0000	2a0e:7007:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:7200:0000:0000:0000:0000:0000:0000	2a0e:7207:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:9800:0000:0000:0000:0000:0000:0000	2a0e:9807:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:f000:0000:0000:0000:0000:0000:0000	2a0e:f007:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:f400:0000:0000:0000:0000:0000:0000	2a0e:f407:ffff:ffff:ffff:ffff:ffff:ffff	RU
