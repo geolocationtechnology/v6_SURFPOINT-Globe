@@ -548,3 +548,4 @@
 2a0d:d780:0000:0000:0000:0000:0000:0000	2a0d:d787:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0d:eb00:0000:0000:0000:0000:0000:0000	2a0d:eb07:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0e:e000:0000:0000:0000:0000:0000:0000	2a0e:e007:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a0e:e600:0000:0000:0000:0000:0000:0000	2a0e:e607:ffff:ffff:ffff:ffff:ffff:ffff	PL

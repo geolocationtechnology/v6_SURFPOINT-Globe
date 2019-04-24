@@ -160,6 +160,7 @@
 2404:a580:0000:0000:0000:0000:0000:0000	2404:a580:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2404:aa00:0000:0000:0000:0000:0000:0000	2404:aa00:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2404:b980:0000:0000:0000:0000:0000:0000	2404:b980:ffff:ffff:ffff:ffff:ffff:ffff	SG
+2404:cc40:0000:0000:0000:0000:0000:0000	2404:cc40:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2404:e600:0000:0000:0000:0000:0000:0000	2404:e600:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2404:e800:0000:0000:0000:0000:0000:0000	2404:e801:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2404:f801:0000:0000:0000:0000:0000:0000	2404:f801:ffff:ffff:ffff:ffff:ffff:ffff	SG

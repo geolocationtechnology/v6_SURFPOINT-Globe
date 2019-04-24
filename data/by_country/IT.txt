@@ -656,7 +656,6 @@
 2a0b:46c0:0000:0000:0000:0000:0000:0000	2a0b:46c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0b:5580:0000:0000:0000:0000:0000:0000	2a0b:5587:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0b:5ac0:0000:0000:0000:0000:0000:0000	2a0b:5ac7:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a0b:5f00:0000:0000:0000:0000:0000:0000	2a0b:5f07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0b:63c0:0000:0000:0000:0000:0000:0000	2a0b:63c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0b:6ac0:0000:0000:0000:0000:0000:0000	2a0b:6ac7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0b:7380:0000:0000:0000:0000:0000:0000	2a0b:7387:ffff:ffff:ffff:ffff:ffff:ffff	IT

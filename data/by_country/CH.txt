@@ -547,4 +547,5 @@
 2a0d:e940:0000:0000:0000:0000:0000:0000	2a0d:e940:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0d:ed80:0000:0000:0000:0000:0000:0000	2a0d:ed80:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0e:2400:0000:0000:0000:0000:0000:0000	2a0e:2407:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a0e:9e00:0000:0000:0000:0000:0000:0000	2a0e:9e07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0e:a400:0000:0000:0000:0000:0000:0000	2a0e:a407:ffff:ffff:ffff:ffff:ffff:ffff	CH

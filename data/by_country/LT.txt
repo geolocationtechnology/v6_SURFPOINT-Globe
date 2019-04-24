@@ -105,3 +105,4 @@
 2a0e:2c00:0000:0000:0000:0000:0000:0000	2a0e:2c07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:6c00:0000:0000:0000:0000:0000:0000	2a0e:6c07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:8400:0000:0000:0000:0000:0000:0000	2a0e:8407:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a0e:be00:0000:0000:0000:0000:0000:0000	2a0e:be07:ffff:ffff:ffff:ffff:ffff:ffff	LT

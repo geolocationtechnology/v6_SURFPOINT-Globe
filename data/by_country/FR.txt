@@ -1,4 +1,5 @@
 2001:0660:0000:0000:0000:0000:0000:0000	2001:0667:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2001:0678:0a64:0000:0000:0000:0000:0000	2001:0678:0a64:ffff:ffff:ffff:ffff:ffff	FR
 2001:0688:0000:0000:0000:0000:0000:0000	2001:0688:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2001:0758:0000:0000:0000:0000:0000:0000	2001:0758:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2001:07a8:0000:0000:0000:0000:0000:0000	2001:07a8:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -1003,3 +1004,4 @@
 2a0e:7400:0000:0000:0000:0000:0000:0000	2a0e:7407:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:c400:0000:0000:0000:0000:0000:0000	2a0e:c407:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:c800:0000:0000:0000:0000:0000:0000	2a0e:c807:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0e:ee00:0000:0000:0000:0000:0000:0000	2a0e:ee07:ffff:ffff:ffff:ffff:ffff:ffff	FR

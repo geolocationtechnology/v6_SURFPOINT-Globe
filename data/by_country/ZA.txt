@@ -34,6 +34,10 @@
 2c0f:ed30:0000:0000:0000:0000:0000:0000	2c0f:ed30:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ed38:0000:0000:0000:0000:0000:0000	2c0f:ed38:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ed40:0000:0000:0000:0000:0000:0000	2c0f:ed40:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:ed48:0000:0000:0000:0000:0000:0000	2c0f:ed48:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:ed50:0000:0000:0000:0000:0000:0000	2c0f:ed50:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:ed58:0000:0000:0000:0000:0000:0000	2c0f:ed58:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:ed60:0000:0000:0000:0000:0000:0000	2c0f:ed60:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ee20:0000:0000:0000:0000:0000:0000	2c0f:ee20:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ee28:0000:0000:0000:0000:0000:0000	2c0f:ee28:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ee30:0000:0000:0000:0000:0000:0000	2c0f:ee30:ffff:ffff:ffff:ffff:ffff:ffff	ZA

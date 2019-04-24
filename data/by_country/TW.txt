@@ -202,6 +202,8 @@
 2404:b540:0000:0000:0000:0000:0000:0000	2404:b540:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:b840:0000:0000:0000:0000:0000:0000	2404:b840:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:bac0:0000:0000:0000:0000:0000:0000	2404:bac0:ffff:ffff:ffff:ffff:ffff:ffff	TW
+2404:c740:0000:0000:0000:0000:0000:0000	2404:c740:ffff:ffff:ffff:ffff:ffff:ffff	TW
+2404:c7c0:0000:0000:0000:0000:0000:0000	2404:c7c0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:db00:0000:0000:0000:0000:0000:0000	2404:db00:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2405:0a00:0000:0000:0000:0000:0000:0000	2405:0a00:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2405:3300:0000:0000:0000:0000:0000:0000	2405:3300:ffff:ffff:ffff:ffff:ffff:ffff	TW

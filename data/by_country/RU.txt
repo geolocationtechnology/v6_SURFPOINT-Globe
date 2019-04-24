@@ -1,5 +1,4 @@
 2001:0640:0000:0000:0000:0000:0000:0000	2001:0640:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2001:0678:0a60:0000:0000:0000:0000:0000	2001:0678:0a60:ffff:ffff:ffff:ffff:ffff	RU
 2001:06d0:0000:0000:0000:0000:0000:0000	2001:06d0:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2001:07fc:0004:0000:0000:0000:0000:0000	2001:07fc:0007:ffff:ffff:ffff:ffff:ffff	RU
 2001:0a58:0000:0000:0000:0000:0000:0000	2001:0a58:ffff:ffff:ffff:ffff:ffff:ffff	RU
@@ -1861,7 +1860,15 @@
 2a0e:5e00:0000:0000:0000:0000:0000:0000	2a0e:5e07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:7000:0000:0000:0000:0000:0000:0000	2a0e:7007:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:7200:0000:0000:0000:0000:0000:0000	2a0e:7207:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:9600:0000:0000:0000:0000:0000:0000	2a0e:9607:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:9800:0000:0000:0000:0000:0000:0000	2a0e:9807:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:ae00:0000:0000:0000:0000:0000:0000	2a0e:ae07:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:b200:0000:0000:0000:0000:0000:0000	2a0e:b207:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:b600:0000:0000:0000:0000:0000:0000	2a0e:b607:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:ba00:0000:0000:0000:0000:0000:0000	2a0e:ba07:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:c200:0000:0000:0000:0000:0000:0000	2a0e:c207:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:d600:0000:0000:0000:0000:0000:0000	2a0e:d607:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:da00:0000:0000:0000:0000:0000:0000	2a0e:da07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:f000:0000:0000:0000:0000:0000:0000	2a0e:f007:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:f400:0000:0000:0000:0000:0000:0000	2a0e:f407:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:fc00:0000:0000:0000:0000:0000:0000	2a0e:fc07:ffff:ffff:ffff:ffff:ffff:ffff	RU
