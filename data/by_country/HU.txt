@@ -123,3 +123,5 @@
 2a0d:2300:0000:0000:0000:0000:0000:0000	2a0d:2307:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0d:3980:0000:0000:0000:0000:0000:0000	2a0d:3987:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0d:a400:0000:0000:0000:0000:0000:0000	2a0d:a407:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a0e:4300:0000:0000:0000:0000:0000:0000	2a0e:4303:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a0e:8700:0000:0000:0000:0000:0000:0000	2a0e:8707:ffff:ffff:ffff:ffff:ffff:ffff	HU

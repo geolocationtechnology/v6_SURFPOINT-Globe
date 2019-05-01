@@ -13,7 +13,6 @@
 2a00:1608:0000:0000:0000:0000:0000:0000	2a00:1608:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a00:8860:0000:0000:0000:0000:0000:0000	2a00:8867:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a00:9940:0000:0000:0000:0000:0000:0000	2a00:9940:ffff:ffff:ffff:ffff:ffff:ffff	EU
-2a00:dd80:0000:0000:0000:0000:0000:0000	2a00:dd80:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a00:e8a0:0000:0000:0000:0000:0000:0000	2a00:e8a0:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a01:0110:0000:0000:0000:0000:0000:0000	2a01:0111:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a01:0300:0000:0000:0000:0000:0000:0000	2a01:0307:ffff:ffff:ffff:ffff:ffff:ffff	EU
@@ -57,3 +56,4 @@
 2a0c:3b80:0000:0000:0000:0000:0000:0000	2a0c:3b87:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0d:5640:0000:0000:0000:0000:0000:0000	2a0d:5647:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0d:f400:0000:0000:0000:0000:0000:0000	2a0d:f407:ffff:ffff:ffff:ffff:ffff:ffff	EU
+2a0e:6900:0000:0000:0000:0000:0000:0000	2a0e:6907:ffff:ffff:ffff:ffff:ffff:ffff	EU

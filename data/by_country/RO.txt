@@ -160,3 +160,4 @@
 2a0d:cf80:0000:0000:0000:0000:0000:0000	2a0d:cf87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0d:f080:0000:0000:0000:0000:0000:0000	2a0d:f087:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0e:4600:0000:0000:0000:0000:0000:0000	2a0e:4607:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a0e:8100:0000:0000:0000:0000:0000:0000	2a0e:8107:ffff:ffff:ffff:ffff:ffff:ffff	RO

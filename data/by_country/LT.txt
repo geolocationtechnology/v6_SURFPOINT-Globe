@@ -100,9 +100,12 @@
 2a0d:db00:0000:0000:0000:0000:0000:0000	2a0d:db07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:df40:0000:0000:0000:0000:0000:0000	2a0d:df47:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:e0c0:0000:0000:0000:0000:0000:0000	2a0d:e0c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a0e:0b00:0000:0000:0000:0000:0000:0000	2a0e:0b07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:1c00:0000:0000:0000:0000:0000:0000	2a0e:1c07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:2800:0000:0000:0000:0000:0000:0000	2a0e:2807:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a0e:2b00:0000:0000:0000:0000:0000:0000	2a0e:2b07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:2c00:0000:0000:0000:0000:0000:0000	2a0e:2c07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:6c00:0000:0000:0000:0000:0000:0000	2a0e:6c07:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a0e:7b00:0000:0000:0000:0000:0000:0000	2a0e:7b07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:8400:0000:0000:0000:0000:0000:0000	2a0e:8407:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:be00:0000:0000:0000:0000:0000:0000	2a0e:be07:ffff:ffff:ffff:ffff:ffff:ffff	LT

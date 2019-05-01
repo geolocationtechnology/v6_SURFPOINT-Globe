@@ -360,6 +360,7 @@
 2404:c980:0000:0000:0000:0000:0000:0000	2404:c980:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:ca40:0000:0000:0000:0000:0000:0000	2404:ca40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:cb40:0000:0000:0000:0000:0000:0000	2404:cb40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2404:cf40:0000:0000:0000:0000:0000:0000	2404:cf40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:df80:0000:0000:0000:0000:0000:0000	2404:df80:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:e580:0000:0000:0000:0000:0000:0000	2404:e580:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:f100:0000:0000:0000:0000:0000:0000	2404:f100:ffff:ffff:ffff:ffff:ffff:ffff	IN

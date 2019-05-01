@@ -80,6 +80,7 @@
 2404:ae80:0000:0000:0000:0000:0000:0000	2404:ae80:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2404:b680:0000:0000:0000:0000:0000:0000	2404:b680:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2404:be40:0000:0000:0000:0000:0000:0000	2404:be40:ffff:ffff:ffff:ffff:ffff:ffff	TH
+2404:cfc0:0000:0000:0000:0000:0000:0000	2404:cfc0:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2404:db80:0000:0000:0000:0000:0000:0000	2404:db80:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2404:e680:0000:0000:0000:0000:0000:0000	2404:e680:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2405:2500:0000:0000:0000:0000:0000:0000	2405:2500:ffff:ffff:ffff:ffff:ffff:ffff	TH

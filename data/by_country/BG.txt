@@ -177,5 +177,6 @@
 2a0d:ddc0:0000:0000:0000:0000:0000:0000	2a0d:ddc7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0d:e700:0000:0000:0000:0000:0000:0000	2a0d:e707:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0d:ef40:0000:0000:0000:0000:0000:0000	2a0d:ef47:ffff:ffff:ffff:ffff:ffff:ffff	BG
+2a0e:3d00:0000:0000:0000:0000:0000:0000	2a0e:3d07:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0e:b000:0000:0000:0000:0000:0000:0000	2a0e:b007:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0e:b800:0000:0000:0000:0000:0000:0000	2a0e:b807:ffff:ffff:ffff:ffff:ffff:ffff	BG
