@@ -64,3 +64,4 @@
 2a0c:8d00:0000:0000:0000:0000:0000:0000	2a0c:8d07:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a0c:c880:0000:0000:0000:0000:0000:0000	2a0c:c887:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a0d:1740:0000:0000:0000:0000:0000:0000	2a0d:1740:ffff:ffff:ffff:ffff:ffff:ffff	LV
+2a0e:e300:0000:0000:0000:0000:0000:0000	2a0e:e307:ffff:ffff:ffff:ffff:ffff:ffff	LV

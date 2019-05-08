@@ -2,6 +2,7 @@
 2001:4368:0000:0000:0000:0000:0000:0000	2001:4368:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2001:4370:0000:0000:0000:0000:0000:0000	2001:4370:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2001:43d0:0000:0000:0000:0000:0000:0000	2001:43d0:ffff:ffff:ffff:ffff:ffff:ffff	KE
+2c0f:ed78:0000:0000:0000:0000:0000:0000	2c0f:ed78:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:ee68:0000:0000:0000:0000:0000:0000	2c0f:ee68:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:efd8:0000:0000:0000:0000:0000:0000	2c0f:efd8:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:f008:0000:0000:0000:0000:0000:0000	2c0f:f008:ffff:ffff:ffff:ffff:ffff:ffff	KE

@@ -306,6 +306,7 @@
 2404:ca00:0000:0000:0000:0000:0000:0000	2404:ca00:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2404:cb00:0000:0000:0000:0000:0000:0000	2404:cb00:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2404:ce00:0000:0000:0000:0000:0000:0000	2404:ce00:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2404:d540:0000:0000:0000:0000:0000:0000	2404:d540:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2404:e000:0000:0000:0000:0000:0000:0000	2404:e000:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2404:e480:0000:0000:0000:0000:0000:0000	2404:e480:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2404:ec00:0000:0000:0000:0000:0000:0000	2404:ec00:ffff:ffff:ffff:ffff:ffff:ffff	JP
@@ -392,3 +393,4 @@
 240d:0000:0000:0000:0000:0000:0000:0000	240d:001f:ffff:ffff:ffff:ffff:ffff:ffff	JP
 240f:0000:0000:0000:0000:0000:0000:0000	240f:01ff:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2a09:7640:0000:0000:0000:0000:0000:0000	2a09:7647:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2a0e:9300:0000:0000:0000:0000:0000:0000	2a0e:9307:ffff:ffff:ffff:ffff:ffff:ffff	JP

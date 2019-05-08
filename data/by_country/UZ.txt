@@ -19,3 +19,4 @@
 2a0b:1c80:0000:0000:0000:0000:0000:0000	2a0b:1c87:ffff:ffff:ffff:ffff:ffff:ffff	UZ
 2a0b:9540:0000:0000:0000:0000:0000:0000	2a0b:9547:ffff:ffff:ffff:ffff:ffff:ffff	UZ
 2a0c:5d80:0000:0000:0000:0000:0000:0000	2a0c:5d87:ffff:ffff:ffff:ffff:ffff:ffff	UZ
+2a0e:9f00:0000:0000:0000:0000:0000:0000	2a0e:9f07:ffff:ffff:ffff:ffff:ffff:ffff	UZ

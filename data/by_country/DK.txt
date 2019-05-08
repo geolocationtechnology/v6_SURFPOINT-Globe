@@ -294,3 +294,5 @@
 2a0d:d600:0000:0000:0000:0000:0000:0000	2a0d:d607:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0d:e980:0000:0000:0000:0000:0000:0000	2a0d:e980:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0e:0e00:0000:0000:0000:0000:0000:0000	2a0e:0e00:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a0e:c300:0000:0000:0000:0000:0000:0000	2a0e:c307:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a0e:f300:0000:0000:0000:0000:0000:0000	2a0e:f300:ffff:ffff:ffff:ffff:ffff:ffff	DK

@@ -213,3 +213,5 @@
 2a0d:e640:0000:0000:0000:0000:0000:0000	2a0d:e647:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0d:f480:0000:0000:0000:0000:0000:0000	2a0d:f487:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0e:2600:0000:0000:0000:0000:0000:0000	2a0e:2607:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a0e:b300:0000:0000:0000:0000:0000:0000	2a0e:b307:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a0e:e500:0000:0000:0000:0000:0000:0000	2a0e:e507:ffff:ffff:ffff:ffff:ffff:ffff	BE

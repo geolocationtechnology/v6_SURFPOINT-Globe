@@ -121,7 +121,6 @@
 2403:b100:0000:0000:0000:0000:0000:0000	2403:b100:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2403:bc80:0000:0000:0000:0000:0000:0000	2403:bc80:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2403:c500:0000:0000:0000:0000:0000:0000	2403:c500:ffff:ffff:ffff:ffff:ffff:ffff	SG
-2403:c7c0:0000:0000:0000:0000:0000:0000	2403:c7c0:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2403:cb00:0000:0000:0000:0000:0000:0000	2403:cb00:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2403:cc00:0000:0000:0000:0000:0000:0000	2403:cc00:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2403:cfc0:0000:0000:0000:0000:0000:0000	2403:cfc0:ffff:ffff:ffff:ffff:ffff:ffff	SG
