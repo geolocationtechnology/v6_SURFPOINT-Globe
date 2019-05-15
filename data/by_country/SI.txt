@@ -63,3 +63,4 @@
 2a0b:c300:0000:0000:0000:0000:0000:0000	2a0b:c307:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a0d:0b80:0000:0000:0000:0000:0000:0000	2a0d:0b80:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a0d:cec0:0000:0000:0000:0000:0000:0000	2a0d:cec7:ffff:ffff:ffff:ffff:ffff:ffff	SI
+2a0e:2080:0000:0000:0000:0000:0000:0000	2a0e:2087:ffff:ffff:ffff:ffff:ffff:ffff	SI

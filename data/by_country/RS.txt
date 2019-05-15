@@ -68,4 +68,5 @@
 2a0c:b240:0000:0000:0000:0000:0000:0000	2a0c:b240:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0c:c940:0000:0000:0000:0000:0000:0000	2a0c:c947:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0d:a6c0:0000:0000:0000:0000:0000:0000	2a0d:a6c7:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0e:1e80:0000:0000:0000:0000:0000:0000	2a0e:1e87:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0e:9400:0000:0000:0000:0000:0000:0000	2a0e:9407:ffff:ffff:ffff:ffff:ffff:ffff	RS

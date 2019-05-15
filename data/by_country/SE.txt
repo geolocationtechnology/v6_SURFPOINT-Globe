@@ -406,4 +406,5 @@
 2a0d:b680:0000:0000:0000:0000:0000:0000	2a0d:b687:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0d:db80:0000:0000:0000:0000:0000:0000	2a0d:db87:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0d:eb80:0000:0000:0000:0000:0000:0000	2a0d:eb87:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a0e:1c80:0000:0000:0000:0000:0000:0000	2a0e:1c87:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0e:c000:0000:0000:0000:0000:0000:0000	2a0e:c007:ffff:ffff:ffff:ffff:ffff:ffff	SE

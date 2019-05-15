@@ -128,7 +128,7 @@
 2a02:6340:0000:0000:0000:0000:0000:0000	2a02:6340:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:6420:0000:0000:0000:0000:0000:0000	2a02:6420:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:6600:0000:0000:0000:0000:0000:0000	2a02:6600:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a02:73a0:0000:0000:0000:0000:0000:0000	2a02:73a0:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a02:73a0:0000:0000:0000:0000:0000:0000	2a02:73a7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:ae80:0000:0000:0000:0000:0000:0000	2a02:ae87:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:c340:0000:0000:0000:0000:0000:0000	2a02:c347:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:cc40:0000:0000:0000:0000:0000:0000	2a02:cc47:ffff:ffff:ffff:ffff:ffff:ffff	NO
