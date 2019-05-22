@@ -102,3 +102,4 @@
 2a0c:f600:0000:0000:0000:0000:0000:0000	2a0c:f607:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a0d:3700:0000:0000:0000:0000:0000:0000	2a0d:3707:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a0d:4a00:0000:0000:0000:0000:0000:0000	2a0d:4a00:ffff:ffff:ffff:ffff:ffff:ffff	SK
+2a0e:4d80:0000:0000:0000:0000:0000:0000	2a0e:4d87:ffff:ffff:ffff:ffff:ffff:ffff	SK

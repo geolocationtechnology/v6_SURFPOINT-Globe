@@ -1635,6 +1635,8 @@
 2a0e:1b80:0000:0000:0000:0000:0000:0000	2a0e:1b80:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:2e80:0000:0000:0000:0000:0000:0000	2a0e:2e87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:3700:0000:0000:0000:0000:0000:0000	2a0e:3707:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a0e:4280:0000:0000:0000:0000:0000:0000	2a0e:4287:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a0e:5980:0000:0000:0000:0000:0000:0000	2a0e:5987:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:5a00:0000:0000:0000:0000:0000:0000	2a0e:5a07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:7300:0000:0000:0000:0000:0000:0000	2a0e:7307:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:8500:0000:0000:0000:0000:0000:0000	2a0e:8507:ffff:ffff:ffff:ffff:ffff:ffff	GB

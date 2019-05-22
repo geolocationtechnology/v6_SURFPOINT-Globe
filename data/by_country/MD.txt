@@ -58,3 +58,4 @@
 2a0d:c680:0000:0000:0000:0000:0000:0000	2a0d:c687:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a0d:dac0:0000:0000:0000:0000:0000:0000	2a0d:dac7:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a0d:dec0:0000:0000:0000:0000:0000:0000	2a0d:dec7:ffff:ffff:ffff:ffff:ffff:ffff	MD
+2a0e:5180:0000:0000:0000:0000:0000:0000	2a0e:5187:ffff:ffff:ffff:ffff:ffff:ffff	MD

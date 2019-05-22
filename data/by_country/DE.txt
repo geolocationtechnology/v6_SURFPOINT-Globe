@@ -1800,7 +1800,10 @@
 2a0e:2c80:0000:0000:0000:0000:0000:0000	2a0e:2c87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:3200:0000:0000:0000:0000:0000:0000	2a0e:3207:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:4500:0000:0000:0000:0000:0000:0000	2a0e:4507:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0e:4580:0000:0000:0000:0000:0000:0000	2a0e:4587:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0e:4680:0000:0000:0000:0000:0000:0000	2a0e:4680:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:4700:0000:0000:0000:0000:0000:0000	2a0e:4707:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0e:4c80:0000:0000:0000:0000:0000:0000	2a0e:4c87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:5100:0000:0000:0000:0000:0000:0000	2a0e:5107:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:5b00:0000:0000:0000:0000:0000:0000	2a0e:5b07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:6f00:0000:0000:0000:0000:0000:0000	2a0e:6f07:ffff:ffff:ffff:ffff:ffff:ffff	DE

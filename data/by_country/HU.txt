@@ -125,6 +125,7 @@
 2a0d:a400:0000:0000:0000:0000:0000:0000	2a0d:a407:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0e:1180:0000:0000:0000:0000:0000:0000	2a0e:1187:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0e:4300:0000:0000:0000:0000:0000:0000	2a0e:4303:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a0e:5580:0000:0000:0000:0000:0000:0000	2a0e:5587:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0e:8700:0000:0000:0000:0000:0000:0000	2a0e:8707:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0e:9500:0000:0000:0000:0000:0000:0000	2a0e:9507:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0e:ed00:0000:0000:0000:0000:0000:0000	2a0e:ed07:ffff:ffff:ffff:ffff:ffff:ffff	HU
