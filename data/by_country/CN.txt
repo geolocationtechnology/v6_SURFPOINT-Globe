@@ -1137,6 +1137,8 @@
 2404:df00:0000:0000:0000:0000:0000:0000	2404:df00:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:e180:0000:0000:0000:0000:0000:0000	2404:e180:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:e280:0000:0000:0000:0000:0000:0000	2404:e280:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2404:e540:0000:0000:0000:0000:0000:0000	2404:e540:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2404:e5c0:0000:0000:0000:0000:0000:0000	2404:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:e780:0000:0000:0000:0000:0000:0000	2404:e780:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:e880:0000:0000:0000:0000:0000:0000	2404:e880:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:eb80:0000:0000:0000:0000:0000:0000	2404:eb80:ffff:ffff:ffff:ffff:ffff:ffff	CN

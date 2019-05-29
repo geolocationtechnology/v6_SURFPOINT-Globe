@@ -855,6 +855,7 @@
 2404:db40:0000:0000:0000:0000:0000:0000	2404:db40:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2404:dd00:0000:0000:0000:0000:0000:0000	2404:dd00:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2404:de00:0000:0000:0000:0000:0000:0000	2404:de00:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2404:e440:0000:0000:0000:0000:0000:0000	2404:e440:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2404:ea00:0000:0000:0000:0000:0000:0000	2404:ea00:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2404:f200:0000:0000:0000:0000:0000:0000	2404:f200:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2404:f580:0000:0000:0000:0000:0000:0000	2404:f580:ffff:ffff:ffff:ffff:ffff:ffff	AU

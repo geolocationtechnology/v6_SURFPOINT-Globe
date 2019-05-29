@@ -434,6 +434,8 @@
 2404:da40:0000:0000:0000:0000:0000:0000	2404:da40:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2404:dc80:0000:0000:0000:0000:0000:0000	2404:dc80:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2404:e380:0000:0000:0000:0000:0000:0000	2404:e380:ffff:ffff:ffff:ffff:ffff:ffff	BD
+2404:e3c0:0000:0000:0000:0000:0000:0000	2404:e3c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
+2404:e6c0:0000:0000:0000:0000:0000:0000	2404:e6c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2404:f380:0000:0000:0000:0000:0000:0000	2404:f380:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2405:1500:0000:0000:0000:0000:0000:0000	2405:1500:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2405:1d00:0000:0000:0000:0000:0000:0000	2405:1d00:ffff:ffff:ffff:ffff:ffff:ffff	BD

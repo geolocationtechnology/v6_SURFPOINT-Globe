@@ -92,3 +92,5 @@
 2a0d:cfc0:0000:0000:0000:0000:0000:0000	2a0d:cfc7:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:4c00:0000:0000:0000:0000:0000:0000	2a0e:4c07:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:6200:0000:0000:0000:0000:0000:0000	2a0e:6207:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a0e:7c80:0000:0000:0000:0000:0000:0000	2a0e:7c87:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a0e:7d80:0000:0000:0000:0000:0000:0000	2a0e:7d87:ffff:ffff:ffff:ffff:ffff:ffff	EE

@@ -365,6 +365,8 @@
 2404:de40:0000:0000:0000:0000:0000:0000	2404:de40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:df80:0000:0000:0000:0000:0000:0000	2404:df80:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:e580:0000:0000:0000:0000:0000:0000	2404:e580:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2404:e640:0000:0000:0000:0000:0000:0000	2404:e640:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2404:e740:0000:0000:0000:0000:0000:0000	2404:e740:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:f100:0000:0000:0000:0000:0000:0000	2404:f100:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:f280:0000:0000:0000:0000:0000:0000	2404:f280:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2404:f480:0000:0000:0000:0000:0000:0000	2404:f480:ffff:ffff:ffff:ffff:ffff:ffff	IN

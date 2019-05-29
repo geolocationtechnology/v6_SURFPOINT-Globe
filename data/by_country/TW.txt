@@ -210,6 +210,7 @@
 2404:dcc0:0000:0000:0000:0000:0000:0000	2404:dcc0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:dfc0:0000:0000:0000:0000:0000:0000	2404:dfc0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:e0c0:0000:0000:0000:0000:0000:0000	2404:e0c0:ffff:ffff:ffff:ffff:ffff:ffff	TW
+2404:e340:0000:0000:0000:0000:0000:0000	2404:e340:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2405:0a00:0000:0000:0000:0000:0000:0000	2405:0a00:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2405:3300:0000:0000:0000:0000:0000:0000	2405:3300:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2405:4500:0000:0000:0000:0000:0000:0000	2405:4500:ffff:ffff:ffff:ffff:ffff:ffff	TW
