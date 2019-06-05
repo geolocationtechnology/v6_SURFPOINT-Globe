@@ -50,4 +50,3 @@
 2a0c:e540:0000:0000:0000:0000:0000:0000	2a0c:e547:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0c:e680:0000:0000:0000:0000:0000:0000	2a0c:e687:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0d:8240:0000:0000:0000:0000:0000:0000	2a0d:8247:ffff:ffff:ffff:ffff:ffff:ffff	HR
-2a0e:ec00:0000:0000:0000:0000:0000:0000	2a0e:ec07:ffff:ffff:ffff:ffff:ffff:ffff	HR

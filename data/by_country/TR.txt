@@ -376,5 +376,7 @@
 2a0e:4a80:0000:0000:0000:0000:0000:0000	2a0e:4a87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0e:5a80:0000:0000:0000:0000:0000:0000	2a0e:5a87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0e:7d00:0000:0000:0000:0000:0000:0000	2a0e:7d07:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a0e:8e80:0000:0000:0000:0000:0000:0000	2a0e:8e87:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a0e:9280:0000:0000:0000:0000:0000:0000	2a0e:9287:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0e:9c00:0000:0000:0000:0000:0000:0000	2a0e:9c07:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0e:f700:0000:0000:0000:0000:0000:0000	2a0e:f707:ffff:ffff:ffff:ffff:ffff:ffff	TR

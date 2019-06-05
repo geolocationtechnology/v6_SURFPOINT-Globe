@@ -40,6 +40,7 @@
 2404:bb80:0000:0000:0000:0000:0000:0000	2404:bb80:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2404:cc00:0000:0000:0000:0000:0000:0000	2404:cc00:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2404:e980:0000:0000:0000:0000:0000:0000	2404:e980:ffff:ffff:ffff:ffff:ffff:ffff	KH
+2404:eac0:0000:0000:0000:0000:0000:0000	2404:eac0:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2405:0b00:0000:0000:0000:0000:0000:0000	2405:0b00:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2405:1a00:0000:0000:0000:0000:0000:0000	2405:1a00:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2405:3900:0000:0000:0000:0000:0000:0000	2405:3900:ffff:ffff:ffff:ffff:ffff:ffff	KH

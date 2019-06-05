@@ -469,3 +469,4 @@
 2a0e:5480:0000:0000:0000:0000:0000:0000	2a0e:5487:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0e:6d00:0000:0000:0000:0000:0000:0000	2a0e:6d07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0e:7680:0000:0000:0000:0000:0000:0000	2a0e:7687:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a0e:9c80:0000:0000:0000:0000:0000:0000	2a0e:9c87:ffff:ffff:ffff:ffff:ffff:ffff	CZ

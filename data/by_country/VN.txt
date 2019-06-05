@@ -48,6 +48,7 @@
 2404:c8c0:0000:0000:0000:0000:0000:0000	2404:c8c0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2404:dac0:0000:0000:0000:0000:0000:0000	2404:dac0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2404:e1c0:0000:0000:0000:0000:0000:0000	2404:e1c0:ffff:ffff:ffff:ffff:ffff:ffff	VN
+2404:ebc0:0000:0000:0000:0000:0000:0000	2404:ebc0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2404:ee80:0000:0000:0000:0000:0000:0000	2404:ee80:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2404:ef80:0000:0000:0000:0000:0000:0000	2404:ef80:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2404:f080:0000:0000:0000:0000:0000:0000	2404:f080:ffff:ffff:ffff:ffff:ffff:ffff	VN
