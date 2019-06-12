@@ -29,7 +29,6 @@
 2803:7280:0000:0000:0000:0000:0000:0000	2803:7280:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2803:73a0:0000:0000:0000:0000:0000:0000	2803:73a0:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2803:7bc0:0000:0000:0000:0000:0000:0000	2803:7bc0:ffff:ffff:ffff:ffff:ffff:ffff	PA
-2803:7c80:0000:0000:0000:0000:0000:0000	2803:7c80:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2803:8c80:0000:0000:0000:0000:0000:0000	2803:8c80:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2803:96c0:0000:0000:0000:0000:0000:0000	2803:96c0:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2803:9e40:0000:0000:0000:0000:0000:0000	2803:9e40:ffff:ffff:ffff:ffff:ffff:ffff	PA

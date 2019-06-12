@@ -1904,7 +1904,12 @@
 2a0e:b600:0000:0000:0000:0000:0000:0000	2a0e:b607:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:b900:0000:0000:0000:0000:0000:0000	2a0e:b907:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:ba00:0000:0000:0000:0000:0000:0000	2a0e:ba07:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:bc80:0000:0000:0000:0000:0000:0000	2a0e:bc87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:c200:0000:0000:0000:0000:0000:0000	2a0e:c207:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:c380:0000:0000:0000:0000:0000:0000	2a0e:c387:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:c480:0000:0000:0000:0000:0000:0000	2a0e:c487:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:c580:0000:0000:0000:0000:0000:0000	2a0e:c587:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0e:ca80:0000:0000:0000:0000:0000:0000	2a0e:ca87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:d600:0000:0000:0000:0000:0000:0000	2a0e:d607:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:d700:0000:0000:0000:0000:0000:0000	2a0e:d707:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0e:d900:0000:0000:0000:0000:0000:0000	2a0e:d907:ffff:ffff:ffff:ffff:ffff:ffff	RU

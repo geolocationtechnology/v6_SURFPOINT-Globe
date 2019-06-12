@@ -1260,7 +1260,12 @@
 2a0e:a200:0000:0000:0000:0000:0000:0000	2a0e:a207:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:a280:0000:0000:0000:0000:0000:0000	2a0e:a287:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:a580:0000:0000:0000:0000:0000:0000	2a0e:a587:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:be80:0000:0000:0000:0000:0000:0000	2a0e:be87:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:c180:0000:0000:0000:0000:0000:0000	2a0e:c187:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:c680:0000:0000:0000:0000:0000:0000	2a0e:c680:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:c780:0000:0000:0000:0000:0000:0000	2a0e:c787:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:ca00:0000:0000:0000:0000:0000:0000	2a0e:ca07:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:cf80:0000:0000:0000:0000:0000:0000	2a0e:cf87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:e200:0000:0000:0000:0000:0000:0000	2a0e:e207:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:e800:0000:0000:0000:0000:0000:0000	2a0e:e807:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:ec00:0000:0000:0000:0000:0000:0000	2a0e:ec07:ffff:ffff:ffff:ffff:ffff:ffff	NL

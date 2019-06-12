@@ -65,3 +65,4 @@
 2803:dd80:0000:0000:0000:0000:0000:0000	2803:dd80:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:e3a0:0000:0000:0000:0000:0000:0000	2803:e3a0:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:f7a0:0000:0000:0000:0000:0000:0000	2803:f7a0:ffff:ffff:ffff:ffff:ffff:ffff	VE
+2803:fa60:0000:0000:0000:0000:0000:0000	2803:fa60:ffff:ffff:ffff:ffff:ffff:ffff	VE
