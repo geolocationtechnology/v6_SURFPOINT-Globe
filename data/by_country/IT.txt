@@ -777,5 +777,8 @@
 2a0e:c280:0000:0000:0000:0000:0000:0000	2a0e:c287:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:cc00:0000:0000:0000:0000:0000:0000	2a0e:cc07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:ce80:0000:0000:0000:0000:0000:0000	2a0e:ce80:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0e:dc80:0000:0000:0000:0000:0000:0000	2a0e:dc87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:df00:0000:0000:0000:0000:0000:0000	2a0e:df07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:ef00:0000:0000:0000:0000:0000:0000	2a0e:ef07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0e:f080:0000:0000:0000:0000:0000:0000	2a0e:f080:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0e:f480:0000:0000:0000:0000:0000:0000	2a0e:f487:ffff:ffff:ffff:ffff:ffff:ffff	IT

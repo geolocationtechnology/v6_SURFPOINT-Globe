@@ -14,7 +14,7 @@
 2a00:a8a0:0000:0000:0000:0000:0000:0000	2a00:a8a0:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a00:b000:0000:0000:0000:0000:0000:0000	2a00:b000:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a00:ba00:0000:0000:0000:0000:0000:0000	2a00:ba00:ffff:ffff:ffff:ffff:ffff:ffff	SK
-2a00:e380:0000:0000:0000:0000:0000:0000	2a00:e380:ffff:ffff:ffff:ffff:ffff:ffff	SK
+2a00:e380:0000:0000:0000:0000:0000:0000	2a00:e387:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a00:ff80:0000:0000:0000:0000:0000:0000	2a00:ff80:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a01:00e0:0000:0000:0000:0000:0000:0000	2a01:00e0:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a01:0108:0000:0000:0000:0000:0000:0000	2a01:0108:ffff:ffff:ffff:ffff:ffff:ffff	SK

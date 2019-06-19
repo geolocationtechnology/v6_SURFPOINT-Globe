@@ -163,6 +163,7 @@
 2404:e800:0000:0000:0000:0000:0000:0000	2404:e801:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2404:ea40:0000:0000:0000:0000:0000:0000	2404:ea40:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2404:efc0:0000:0000:0000:0000:0000:0000	2404:efc0:ffff:ffff:ffff:ffff:ffff:ffff	SG
+2404:f340:0000:0000:0000:0000:0000:0000	2404:f340:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2404:f801:0000:0000:0000:0000:0000:0000	2404:f801:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2404:fd80:0000:0000:0000:0000:0000:0000	2404:fd80:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2405:2300:0000:0000:0000:0000:0000:0000	2405:2300:ffff:ffff:ffff:ffff:ffff:ffff	SG

@@ -346,6 +346,7 @@
 2a02:ec00:0000:0000:0000:0000:0000:0000	2a02:ec07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:f180:0000:0000:0000:0000:0000:0000	2a02:f187:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:f280:0000:0000:0000:0000:0000:0000	2a02:f287:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a02:f2c0:0000:0000:0000:0000:0000:0000	2a02:f2c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:f840:0000:0000:0000:0000:0000:0000	2a02:f847:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a03:01a0:0000:0000:0000:0000:0000:0000	2a03:01a0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a03:0240:0000:0000:0000:0000:0000:0000	2a03:0247:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -568,6 +569,7 @@
 2a05:7980:0000:0000:0000:0000:0000:0000	2a05:7987:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:8bc0:0000:0000:0000:0000:0000:0000	2a05:8bc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:9700:0000:0000:0000:0000:0000:0000	2a05:9707:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a05:a240:0000:0000:0000:0000:0000:0000	2a05:a247:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:a480:0000:0000:0000:0000:0000:0000	2a05:a487:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:a500:0000:0000:0000:0000:0000:0000	2a05:a507:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:a9c0:0000:0000:0000:0000:0000:0000	2a05:a9c0:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -1023,7 +1025,10 @@
 2a0e:c800:0000:0000:0000:0000:0000:0000	2a0e:c807:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:d180:0000:0000:0000:0000:0000:0000	2a0e:d187:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:d500:0000:0000:0000:0000:0000:0000	2a0e:d507:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0e:d680:0000:0000:0000:0000:0000:0000	2a0e:d687:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:db00:0000:0000:0000:0000:0000:0000	2a0e:db07:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0e:dd80:0000:0000:0000:0000:0000:0000	2a0e:dd87:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0e:e080:0000:0000:0000:0000:0000:0000	2a0e:e080:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:e700:0000:0000:0000:0000:0000:0000	2a0e:e707:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:e900:0000:0000:0000:0000:0000:0000	2a0e:e907:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:ee00:0000:0000:0000:0000:0000:0000	2a0e:ee07:ffff:ffff:ffff:ffff:ffff:ffff	FR

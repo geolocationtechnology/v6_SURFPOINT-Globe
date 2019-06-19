@@ -7,4 +7,3 @@
 2404:e9c0:0000:0000:0000:0000:0000:0000	2404:e9c0:ffff:ffff:ffff:ffff:ffff:ffff	NC
 2407:4a00:0000:0000:0000:0000:0000:0000	2407:4a00:ffff:ffff:ffff:ffff:ffff:ffff	NC
 2a03:f140:0000:0000:0000:0000:0000:0000	2a03:f140:ffff:ffff:ffff:ffff:ffff:ffff	NC
-2a06:1300:0000:0000:0000:0000:0000:0000	2a06:1307:ffff:ffff:ffff:ffff:ffff:ffff	NC

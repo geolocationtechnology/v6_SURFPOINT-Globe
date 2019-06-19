@@ -74,6 +74,7 @@
 2803:a0a0:0000:0000:0000:0000:0000:0000	2803:a0a0:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:a240:0000:0000:0000:0000:0000:0000	2803:a240:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:a400:0000:0000:0000:0000:0000:0000	2803:a400:ffff:ffff:ffff:ffff:ffff:ffff	EC
+2803:a660:0000:0000:0000:0000:0000:0000	2803:a660:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:a820:0000:0000:0000:0000:0000:0000	2803:a820:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:a8a0:0000:0000:0000:0000:0000:0000	2803:a8a0:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:aa20:0000:0000:0000:0000:0000:0000	2803:aa20:ffff:ffff:ffff:ffff:ffff:ffff	EC

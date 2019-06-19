@@ -125,7 +125,7 @@
 2a02:0750:0000:0000:0000:0000:0000:0000	2a02:0757:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a02:0760:0000:0000:0000:0000:0000:0000	2a02:0767:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a02:07b8:0000:0000:0000:0000:0000:0000	2a02:07b8:ffff:ffff:ffff:ffff:ffff:ffff	SE
-2a02:0920:0000:0000:0000:0000:0000:0000	2a02:0920:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a02:0920:0000:0000:0000:0000:0000:0000	2a02:0927:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a02:09a0:0000:0000:0000:0000:0000:0000	2a02:09a7:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a02:0a78:0000:0000:0000:0000:0000:0000	2a02:0a78:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a02:0aa0:0000:0000:0000:0000:0000:0000	2a02:0aa7:ffff:ffff:ffff:ffff:ffff:ffff	SE

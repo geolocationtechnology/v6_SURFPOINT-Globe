@@ -343,3 +343,5 @@
 2a0d:c380:0000:0000:0000:0000:0000:0000	2a0d:c387:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0d:cac0:0000:0000:0000:0000:0000:0000	2a0d:cac7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0e:3600:0000:0000:0000:0000:0000:0000	2a0e:3607:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a0e:d580:0000:0000:0000:0000:0000:0000	2a0e:d587:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a0e:ea80:0000:0000:0000:0000:0000:0000	2a0e:ea87:ffff:ffff:ffff:ffff:ffff:ffff	NO
