@@ -526,7 +526,6 @@
 2a07:5700:0000:0000:0000:0000:0000:0000	2a07:5707:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:59c0:0000:0000:0000:0000:0000:0000	2a07:59c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:5f00:0000:0000:0000:0000:0000:0000	2a07:5f07:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a07:6080:0000:0000:0000:0000:0000:0000	2a07:6087:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:6e40:0000:0000:0000:0000:0000:0000	2a07:6e47:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:73c0:0000:0000:0000:0000:0000:0000	2a07:73c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:7480:0000:0000:0000:0000:0000:0000	2a07:7487:ffff:ffff:ffff:ffff:ffff:ffff	IT

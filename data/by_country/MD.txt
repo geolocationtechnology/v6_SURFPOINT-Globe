@@ -18,6 +18,7 @@
 2a06:4980:0000:0000:0000:0000:0000:0000	2a06:4980:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a07:4140:0000:0000:0000:0000:0000:0000	2a07:4147:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a07:5540:0000:0000:0000:0000:0000:0000	2a07:5547:ffff:ffff:ffff:ffff:ffff:ffff	MD
+2a07:c040:0000:0000:0000:0000:0000:0000	2a07:c047:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a09:0700:0000:0000:0000:0000:0000:0000	2a09:0707:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a09:1d00:0000:0000:0000:0000:0000:0000	2a09:1d07:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a09:25c0:0000:0000:0000:0000:0000:0000	2a09:25c7:ffff:ffff:ffff:ffff:ffff:ffff	MD
