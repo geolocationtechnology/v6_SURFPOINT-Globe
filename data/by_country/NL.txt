@@ -179,7 +179,7 @@
 2a00:e5e0:0000:0000:0000:0000:0000:0000	2a00:e5e0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:eb00:0000:0000:0000:0000:0000:0000	2a00:eb00:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:edc0:0000:0000:0000:0000:0000:0000	2a00:edc0:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a00:ef20:0000:0000:0000:0000:0000:0000	2a00:ef20:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a00:ef20:0000:0000:0000:0000:0000:0000	2a00:ef27:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:f320:0000:0000:0000:0000:0000:0000	2a00:f320:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:f360:0000:0000:0000:0000:0000:0000	2a00:f360:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:f5e0:0000:0000:0000:0000:0000:0000	2a00:f5e0:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -1225,11 +1225,17 @@
 2a0d:ff80:0000:0000:0000:0000:0000:0000	2a0d:ff80:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:0300:0000:0000:0000:0000:0000:0000	2a0e:0307:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:0b80:0000:0000:0000:0000:0000:0000	2a0e:0b87:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:0c40:0000:0000:0000:0000:0000:0000	2a0e:0c47:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:0dc0:0000:0000:0000:0000:0000:0000	2a0e:0dc3:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:1280:0000:0000:0000:0000:0000:0000	2a0e:1280:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:15c0:0000:0000:0000:0000:0000:0000	2a0e:15c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:16c0:0000:0000:0000:0000:0000:0000	2a0e:16c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:1740:0000:0000:0000:0000:0000:0000	2a0e:1747:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:1980:0000:0000:0000:0000:0000:0000	2a0e:1987:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:1a00:0000:0000:0000:0000:0000:0000	2a0e:1a07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:1a80:0000:0000:0000:0000:0000:0000	2a0e:1a87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:2000:0000:0000:0000:0000:0000:0000	2a0e:2007:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:2240:0000:0000:0000:0000:0000:0000	2a0e:2247:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:2900:0000:0000:0000:0000:0000:0000	2a0e:2907:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:3680:0000:0000:0000:0000:0000:0000	2a0e:3687:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:3980:0000:0000:0000:0000:0000:0000	2a0e:3987:ffff:ffff:ffff:ffff:ffff:ffff	NL

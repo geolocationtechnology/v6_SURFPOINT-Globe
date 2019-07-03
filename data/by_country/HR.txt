@@ -20,12 +20,10 @@
 2a03:4280:0000:0000:0000:0000:0000:0000	2a03:4280:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a03:6100:0000:0000:0000:0000:0000:0000	2a03:6100:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a03:6220:0000:0000:0000:0000:0000:0000	2a03:6220:ffff:ffff:ffff:ffff:ffff:ffff	HR
-2a03:8b20:0000:0000:0000:0000:0000:0000	2a03:8b20:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a03:9360:0000:0000:0000:0000:0000:0000	2a03:9360:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a03:bb40:0000:0000:0000:0000:0000:0000	2a03:bb40:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a04:0900:0000:0000:0000:0000:0000:0000	2a04:0907:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a04:a7c0:0000:0000:0000:0000:0000:0000	2a04:a7c7:ffff:ffff:ffff:ffff:ffff:ffff	HR
-2a04:b980:0000:0000:0000:0000:0000:0000	2a04:b987:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a05:1840:0000:0000:0000:0000:0000:0000	2a05:1847:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a05:4f40:0000:0000:0000:0000:0000:0000	2a05:4f47:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a05:70c0:0000:0000:0000:0000:0000:0000	2a05:70c7:ffff:ffff:ffff:ffff:ffff:ffff	HR

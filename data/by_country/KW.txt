@@ -27,5 +27,6 @@
 2a0c:c9c0:0000:0000:0000:0000:0000:0000	2a0c:c9c7:ffff:ffff:ffff:ffff:ffff:ffff	KW
 2a0c:ca00:0000:0000:0000:0000:0000:0000	2a0c:ca07:ffff:ffff:ffff:ffff:ffff:ffff	KW
 2a0d:2980:0000:0000:0000:0000:0000:0000	2a0d:2987:ffff:ffff:ffff:ffff:ffff:ffff	KW
+2a0e:1140:0000:0000:0000:0000:0000:0000	2a0e:1147:ffff:ffff:ffff:ffff:ffff:ffff	KW
 2a0e:2480:0000:0000:0000:0000:0000:0000	2a0e:2487:ffff:ffff:ffff:ffff:ffff:ffff	KW
 2a0e:3280:0000:0000:0000:0000:0000:0000	2a0e:3287:ffff:ffff:ffff:ffff:ffff:ffff	KW
