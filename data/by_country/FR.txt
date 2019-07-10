@@ -1015,6 +1015,7 @@
 2a0e:2200:0000:0000:0000:0000:0000:0000	2a0e:2207:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:2300:0000:0000:0000:0000:0000:0000	2a0e:2300:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:2500:0000:0000:0000:0000:0000:0000	2a0e:2507:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0e:2640:0000:0000:0000:0000:0000:0000	2a0e:2647:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:2880:0000:0000:0000:0000:0000:0000	2a0e:2887:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:3000:0000:0000:0000:0000:0000:0000	2a0e:3007:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:3400:0000:0000:0000:0000:0000:0000	2a0e:3407:ffff:ffff:ffff:ffff:ffff:ffff	FR

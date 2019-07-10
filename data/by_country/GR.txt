@@ -6,7 +6,7 @@
 2a00:1f68:0000:0000:0000:0000:0000:0000	2a00:1f68:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a00:6620:0000:0000:0000:0000:0000:0000	2a00:6620:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a00:6b20:0000:0000:0000:0000:0000:0000	2a00:6b20:ffff:ffff:ffff:ffff:ffff:ffff	GR
-2a00:a880:0000:0000:0000:0000:0000:0000	2a00:a880:ffff:ffff:ffff:ffff:ffff:ffff	GR
+2a00:a880:0000:0000:0000:0000:0000:0000	2a00:a887:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a00:c960:0000:0000:0000:0000:0000:0000	2a00:c960:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a01:02b8:0000:0000:0000:0000:0000:0000	2a01:02b8:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a01:6320:0000:0000:0000:0000:0000:0000	2a01:6320:ffff:ffff:ffff:ffff:ffff:ffff	GR

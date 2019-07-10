@@ -808,6 +808,8 @@
 2a0e:1940:0000:0000:0000:0000:0000:0000	2a0e:1947:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0e:1f80:0000:0000:0000:0000:0000:0000	2a0e:1f80:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0e:1fc0:0000:0000:0000:0000:0000:0000	2a0e:1fc7:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a0e:28c0:0000:0000:0000:0000:0000:0000	2a0e:28c7:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a0e:2a40:0000:0000:0000:0000:0000:0000	2a0e:2a47:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0e:3800:0000:0000:0000:0000:0000:0000	2a0e:3807:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0e:3880:0000:0000:0000:0000:0000:0000	2a0e:3887:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0e:3c80:0000:0000:0000:0000:0000:0000	2a0e:3c87:ffff:ffff:ffff:ffff:ffff:ffff	ES

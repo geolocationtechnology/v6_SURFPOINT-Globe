@@ -6,5 +6,4 @@
 2803:1b80:0000:0000:0000:0000:0000:0000	2803:1b80:ffff:ffff:ffff:ffff:ffff:ffff	TT
 2803:4680:0000:0000:0000:0000:0000:0000	2803:4680:ffff:ffff:ffff:ffff:ffff:ffff	TT
 2803:90a0:0000:0000:0000:0000:0000:0000	2803:90a0:ffff:ffff:ffff:ffff:ffff:ffff	TT
-2803:9aa0:0000:0000:0000:0000:0000:0000	2803:9aa0:ffff:ffff:ffff:ffff:ffff:ffff	TT
 2803:cd80:0000:0000:0000:0000:0000:0000	2803:cd80:ffff:ffff:ffff:ffff:ffff:ffff	TT

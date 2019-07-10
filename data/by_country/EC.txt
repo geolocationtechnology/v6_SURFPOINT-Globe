@@ -102,6 +102,7 @@
 2803:d220:0000:0000:0000:0000:0000:0000	2803:d220:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:d8a0:0000:0000:0000:0000:0000:0000	2803:d8a0:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:dda0:0000:0000:0000:0000:0000:0000	2803:dda0:ffff:ffff:ffff:ffff:ffff:ffff	EC
+2803:de60:0000:0000:0000:0000:0000:0000	2803:de60:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:dea0:0000:0000:0000:0000:0000:0000	2803:dea0:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:e220:0000:0000:0000:0000:0000:0000	2803:e220:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:e620:0000:0000:0000:0000:0000:0000	2803:e620:ffff:ffff:ffff:ffff:ffff:ffff	EC
