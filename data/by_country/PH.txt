@@ -1,6 +1,5 @@
 2001:0d18:0000:0000:0000:0000:0000:0000	2001:0d18:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2001:0de9:c000:0000:0000:0000:0000:0000	2001:0de9:c000:ffff:ffff:ffff:ffff:ffff	PH
-2001:0df0:ff00:0000:0000:0000:0000:0000	2001:0df0:ff00:ffff:ffff:ffff:ffff:ffff	PH
 2001:0fd8:0000:0000:0000:0000:0000:0000	2001:0fd8:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2001:0fe0:0000:0000:0000:0000:0000:0000	2001:0fe0:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2001:4450:0000:0000:0000:0000:0000:0000	2001:4457:ffff:ffff:ffff:ffff:ffff:ffff	PH

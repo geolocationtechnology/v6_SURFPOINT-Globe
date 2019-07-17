@@ -469,6 +469,7 @@
 2a0e:3500:0000:0000:0000:0000:0000:0000	2a0e:3507:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0e:3c00:0000:0000:0000:0000:0000:0000	2a0e:3c07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0e:4100:0000:0000:0000:0000:0000:0000	2a0e:4100:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a0e:47c0:0000:0000:0000:0000:0000:0000	2a0e:47c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0e:5480:0000:0000:0000:0000:0000:0000	2a0e:5487:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0e:6d00:0000:0000:0000:0000:0000:0000	2a0e:6d07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0e:7680:0000:0000:0000:0000:0000:0000	2a0e:7687:ffff:ffff:ffff:ffff:ffff:ffff	CZ
