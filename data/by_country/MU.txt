@@ -3,6 +3,7 @@
 2001:4290:0000:0000:0000:0000:0000:0000	2001:4290:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2001:4328:0000:0000:0000:0000:0000:0000	2001:4328:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2001:43b8:0000:0000:0000:0000:0000:0000	2001:43b8:ffff:ffff:ffff:ffff:ffff:ffff	MU
+2001:43f8:a700:0000:0000:0000:0000:0000	2001:43f8:a700:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:ec30:0000:0000:0000:0000:0000:0000	2c0f:ec30:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:ef50:0000:0000:0000:0000:0000:0000	2c0f:ef50:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:f550:0000:0000:0000:0000:0000:0000	2c0f:f550:ffff:ffff:ffff:ffff:ffff:ffff	MU
