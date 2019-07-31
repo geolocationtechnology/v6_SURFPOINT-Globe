@@ -406,5 +406,7 @@
 2a0d:db80:0000:0000:0000:0000:0000:0000	2a0d:db87:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0d:eb80:0000:0000:0000:0000:0000:0000	2a0d:eb87:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0e:1c80:0000:0000:0000:0000:0000:0000	2a0e:1c87:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a0e:73c0:0000:0000:0000:0000:0000:0000	2a0e:73c7:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a0e:7440:0000:0000:0000:0000:0000:0000	2a0e:7447:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0e:bb80:0000:0000:0000:0000:0000:0000	2a0e:bb87:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0e:c000:0000:0000:0000:0000:0000:0000	2a0e:c007:ffff:ffff:ffff:ffff:ffff:ffff	SE

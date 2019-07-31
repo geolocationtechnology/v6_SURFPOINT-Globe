@@ -783,7 +783,11 @@
 2a0e:6340:0000:0000:0000:0000:0000:0000	2a0e:6347:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:63c0:0000:0000:0000:0000:0000:0000	2a0e:63c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:6b80:0000:0000:0000:0000:0000:0000	2a0e:6b87:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0e:70c0:0000:0000:0000:0000:0000:0000	2a0e:70c0:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0e:71c0:0000:0000:0000:0000:0000:0000	2a0e:71c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:7480:0000:0000:0000:0000:0000:0000	2a0e:7487:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0e:75c0:0000:0000:0000:0000:0000:0000	2a0e:75c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0e:85c0:0000:0000:0000:0000:0000:0000	2a0e:85c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:8c80:0000:0000:0000:0000:0000:0000	2a0e:8c87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:ae80:0000:0000:0000:0000:0000:0000	2a0e:ae87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:c280:0000:0000:0000:0000:0000:0000	2a0e:c287:ffff:ffff:ffff:ffff:ffff:ffff	IT
