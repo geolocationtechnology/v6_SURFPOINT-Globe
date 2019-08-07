@@ -79,7 +79,6 @@
 2a0d:9040:0000:0000:0000:0000:0000:0000	2a0d:9047:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0d:9840:0000:0000:0000:0000:0000:0000	2a0d:9847:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0d:ad80:0000:0000:0000:0000:0000:0000	2a0d:ad87:ffff:ffff:ffff:ffff:ffff:ffff	IQ
-2a0d:ccc0:0000:0000:0000:0000:0000:0000	2a0d:ccc7:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0d:d680:0000:0000:0000:0000:0000:0000	2a0d:d687:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0d:da40:0000:0000:0000:0000:0000:0000	2a0d:da47:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0e:a480:0000:0000:0000:0000:0000:0000	2a0e:a487:ffff:ffff:ffff:ffff:ffff:ffff	IQ

@@ -163,7 +163,6 @@
 2a05:abc0:0000:0000:0000:0000:0000:0000	2a05:abc7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a05:ac80:0000:0000:0000:0000:0000:0000	2a05:ac87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a05:af40:0000:0000:0000:0000:0000:0000	2a05:af47:ffff:ffff:ffff:ffff:ffff:ffff	TR
-2a05:b380:0000:0000:0000:0000:0000:0000	2a05:b387:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a05:b480:0000:0000:0000:0000:0000:0000	2a05:b487:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a05:b700:0000:0000:0000:0000:0000:0000	2a05:b707:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a05:b900:0000:0000:0000:0000:0000:0000	2a05:b907:ffff:ffff:ffff:ffff:ffff:ffff	TR
@@ -295,7 +294,6 @@
 2a0a:fa40:0000:0000:0000:0000:0000:0000	2a0a:fa47:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0a:fb80:0000:0000:0000:0000:0000:0000	2a0a:fb87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0b:04c0:0000:0000:0000:0000:0000:0000	2a0b:04c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
-2a0b:1500:0000:0000:0000:0000:0000:0000	2a0b:1507:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0b:1680:0000:0000:0000:0000:0000:0000	2a0b:1680:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0b:2240:0000:0000:0000:0000:0000:0000	2a0b:2247:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0b:24c0:0000:0000:0000:0000:0000:0000	2a0b:24c7:ffff:ffff:ffff:ffff:ffff:ffff	TR

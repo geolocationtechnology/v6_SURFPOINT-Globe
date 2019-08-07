@@ -90,7 +90,6 @@
 2a07:6740:0000:0000:0000:0000:0000:0000	2a07:6747:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a07:6f80:0000:0000:0000:0000:0000:0000	2a07:6f87:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a07:7340:0000:0000:0000:0000:0000:0000	2a07:7347:ffff:ffff:ffff:ffff:ffff:ffff	BG
-2a07:9340:0000:0000:0000:0000:0000:0000	2a07:9347:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a07:97c0:0000:0000:0000:0000:0000:0000	2a07:97c7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a07:bac0:0000:0000:0000:0000:0000:0000	2a07:bac7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a07:f400:0000:0000:0000:0000:0000:0000	2a07:f407:ffff:ffff:ffff:ffff:ffff:ffff	BG
