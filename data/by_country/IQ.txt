@@ -7,7 +7,6 @@
 2a00:dd00:0000:0000:0000:0000:0000:0000	2a00:dd00:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a00:f7a0:0000:0000:0000:0000:0000:0000	2a00:f7a0:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a01:43c0:0000:0000:0000:0000:0000:0000	2a01:43c0:ffff:ffff:ffff:ffff:ffff:ffff	IQ
-2a01:4860:0000:0000:0000:0000:0000:0000	2a01:4860:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a01:58a0:0000:0000:0000:0000:0000:0000	2a01:58a0:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a01:6720:0000:0000:0000:0000:0000:0000	2a01:6720:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a01:aa20:0000:0000:0000:0000:0000:0000	2a01:aa20:ffff:ffff:ffff:ffff:ffff:ffff	IQ
@@ -61,11 +60,9 @@
 2a0a:6a00:0000:0000:0000:0000:0000:0000	2a0a:6a07:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0a:d8c0:0000:0000:0000:0000:0000:0000	2a0a:d8c7:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0a:d940:0000:0000:0000:0000:0000:0000	2a0a:d947:ffff:ffff:ffff:ffff:ffff:ffff	IQ
-2a0a:ed80:0000:0000:0000:0000:0000:0000	2a0a:ed87:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0b:1880:0000:0000:0000:0000:0000:0000	2a0b:1887:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0b:5d80:0000:0000:0000:0000:0000:0000	2a0b:5d87:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0b:ad80:0000:0000:0000:0000:0000:0000	2a0b:ad87:ffff:ffff:ffff:ffff:ffff:ffff	IQ
-2a0b:b040:0000:0000:0000:0000:0000:0000	2a0b:b047:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0b:c640:0000:0000:0000:0000:0000:0000	2a0b:c647:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0b:d3c0:0000:0000:0000:0000:0000:0000	2a0b:d3c0:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0b:e940:0000:0000:0000:0000:0000:0000	2a0b:e940:ffff:ffff:ffff:ffff:ffff:ffff	IQ

@@ -91,7 +91,6 @@
 2a06:e900:0000:0000:0000:0000:0000:0000	2a06:e907:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a06:fdc0:0000:0000:0000:0000:0000:0000	2a06:fdc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a07:0540:0000:0000:0000:0000:0000:0000	2a07:0547:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a07:0580:0000:0000:0000:0000:0000:0000	2a07:0587:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a07:4ec0:0000:0000:0000:0000:0000:0000	2a07:4ec7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a07:5380:0000:0000:0000:0000:0000:0000	2a07:5387:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a07:8f80:0000:0000:0000:0000:0000:0000	2a07:8f87:ffff:ffff:ffff:ffff:ffff:ffff	RO

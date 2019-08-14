@@ -20,7 +20,6 @@
 2a02:dec0:0000:0000:0000:0000:0000:0000	2a02:dec7:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a02:f700:0000:0000:0000:0000:0000:0000	2a02:f707:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a03:2a40:0000:0000:0000:0000:0000:0000	2a03:2a40:ffff:ffff:ffff:ffff:ffff:ffff	LB
-2a03:4b60:0000:0000:0000:0000:0000:0000	2a03:4b60:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a03:5900:0000:0000:0000:0000:0000:0000	2a03:5907:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a03:64e0:0000:0000:0000:0000:0000:0000	2a03:64e0:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a03:6900:0000:0000:0000:0000:0000:0000	2a03:6900:ffff:ffff:ffff:ffff:ffff:ffff	LB
@@ -79,7 +78,6 @@
 2a0c:01c0:0000:0000:0000:0000:0000:0000	2a0c:01c7:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a0c:1c40:0000:0000:0000:0000:0000:0000	2a0c:1c47:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a0c:3300:0000:0000:0000:0000:0000:0000	2a0c:3307:ffff:ffff:ffff:ffff:ffff:ffff	LB
-2a0c:3840:0000:0000:0000:0000:0000:0000	2a0c:3847:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a0d:0e40:0000:0000:0000:0000:0000:0000	2a0d:0e47:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a0d:6340:0000:0000:0000:0000:0000:0000	2a0d:6347:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a0d:b340:0000:0000:0000:0000:0000:0000	2a0d:b347:ffff:ffff:ffff:ffff:ffff:ffff	LB

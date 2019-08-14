@@ -5,7 +5,6 @@
 2a00:b860:0000:0000:0000:0000:0000:0000	2a00:b860:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a00:caa0:0000:0000:0000:0000:0000:0000	2a00:caa0:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a01:01d0:0000:0000:0000:0000:0000:0000	2a01:01d7:ffff:ffff:ffff:ffff:ffff:ffff	JO
-2a01:8e40:0000:0000:0000:0000:0000:0000	2a01:8e40:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a01:9700:0000:0000:0000:0000:0000:0000	2a01:9700:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a02:09c0:0000:0000:0000:0000:0000:0000	2a02:09c7:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a02:2558:0000:0000:0000:0000:0000:0000	2a02:2558:ffff:ffff:ffff:ffff:ffff:ffff	JO

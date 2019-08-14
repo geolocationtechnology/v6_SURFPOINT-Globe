@@ -1890,11 +1890,14 @@
 2a0e:ab00:0000:0000:0000:0000:0000:0000	2a0e:ab07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:ad80:0000:0000:0000:0000:0000:0000	2a0e:ad87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:af80:0000:0000:0000:0000:0000:0000	2a0e:af87:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0e:afc0:0000:0000:0000:0000:0000:0000	2a0e:afc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:b080:0000:0000:0000:0000:0000:0000	2a0e:b087:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:b100:0000:0000:0000:0000:0000:0000	2a0e:b107:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:b180:0000:0000:0000:0000:0000:0000	2a0e:b187:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:b500:0000:0000:0000:0000:0000:0000	2a0e:b507:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0e:b540:0000:0000:0000:0000:0000:0000	2a0e:b547:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:b680:0000:0000:0000:0000:0000:0000	2a0e:b680:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0e:b940:0000:0000:0000:0000:0000:0000	2a0e:b947:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:b980:0000:0000:0000:0000:0000:0000	2a0e:b987:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:bb00:0000:0000:0000:0000:0000:0000	2a0e:bb07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:bd00:0000:0000:0000:0000:0000:0000	2a0e:bd07:ffff:ffff:ffff:ffff:ffff:ffff	DE
