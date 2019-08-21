@@ -76,4 +76,5 @@
 2a0d:dc00:0000:0000:0000:0000:0000:0000	2a0d:dc07:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0e:7880:0000:0000:0000:0000:0000:0000	2a0e:7887:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0e:b400:0000:0000:0000:0000:0000:0000	2a0e:b407:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a0e:c340:0000:0000:0000:0000:0000:0000	2a0e:c347:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0e:d480:0000:0000:0000:0000:0000:0000	2a0e:d480:ffff:ffff:ffff:ffff:ffff:ffff	LU

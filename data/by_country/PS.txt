@@ -28,3 +28,4 @@
 2a0b:4d40:0000:0000:0000:0000:0000:0000	2a0b:4d47:ffff:ffff:ffff:ffff:ffff:ffff	PS
 2a0c:b6c0:0000:0000:0000:0000:0000:0000	2a0c:b6c7:ffff:ffff:ffff:ffff:ffff:ffff	PS
 2a0d:0a40:0000:0000:0000:0000:0000:0000	2a0d:0a47:ffff:ffff:ffff:ffff:ffff:ffff	PS
+2a0e:dcc0:0000:0000:0000:0000:0000:0000	2a0e:dcc7:ffff:ffff:ffff:ffff:ffff:ffff	PS

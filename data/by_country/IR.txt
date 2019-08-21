@@ -319,4 +319,5 @@
 2a0e:a140:0000:0000:0000:0000:0000:0000	2a0e:a147:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0e:b040:0000:0000:0000:0000:0000:0000	2a0e:b047:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0e:c600:0000:0000:0000:0000:0000:0000	2a0e:c600:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a0e:d540:0000:0000:0000:0000:0000:0000	2a0e:d547:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0e:ea00:0000:0000:0000:0000:0000:0000	2a0e:ea07:ffff:ffff:ffff:ffff:ffff:ffff	IR

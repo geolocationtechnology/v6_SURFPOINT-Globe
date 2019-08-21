@@ -408,3 +408,4 @@
 2a0e:7440:0000:0000:0000:0000:0000:0000	2a0e:7447:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0e:bb80:0000:0000:0000:0000:0000:0000	2a0e:bb87:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0e:c000:0000:0000:0000:0000:0000:0000	2a0e:c007:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a0e:d9c0:0000:0000:0000:0000:0000:0000	2a0e:d9c7:ffff:ffff:ffff:ffff:ffff:ffff	SE

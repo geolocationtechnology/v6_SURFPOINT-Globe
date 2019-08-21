@@ -370,4 +370,5 @@
 2a0e:ab40:0000:0000:0000:0000:0000:0000	2a0e:ab47:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0e:b280:0000:0000:0000:0000:0000:0000	2a0e:b287:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0e:c700:0000:0000:0000:0000:0000:0000	2a0e:c707:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a0e:dc40:0000:0000:0000:0000:0000:0000	2a0e:dc47:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0e:e280:0000:0000:0000:0000:0000:0000	2a0e:e287:ffff:ffff:ffff:ffff:ffff:ffff	AT

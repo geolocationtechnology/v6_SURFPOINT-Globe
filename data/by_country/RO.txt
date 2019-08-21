@@ -166,4 +166,5 @@
 2a0e:8180:0000:0000:0000:0000:0000:0000	2a0e:8187:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0e:9140:0000:0000:0000:0000:0000:0000	2a0e:9147:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0e:a100:0000:0000:0000:0000:0000:0000	2a0e:a107:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a0e:d2c0:0000:0000:0000:0000:0000:0000	2a0e:d2c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0e:eb00:0000:0000:0000:0000:0000:0000	2a0e:eb07:ffff:ffff:ffff:ffff:ffff:ffff	RO
