@@ -222,4 +222,5 @@
 2a0e:ad40:0000:0000:0000:0000:0000:0000	2a0e:ad47:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0e:b300:0000:0000:0000:0000:0000:0000	2a0e:b307:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0e:e500:0000:0000:0000:0000:0000:0000	2a0e:e507:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a0e:e540:0000:0000:0000:0000:0000:0000	2a0e:e547:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0e:f780:0000:0000:0000:0000:0000:0000	2a0e:f787:ffff:ffff:ffff:ffff:ffff:ffff	BE

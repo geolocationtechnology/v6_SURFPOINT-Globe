@@ -101,3 +101,4 @@
 2a0e:9a40:0000:0000:0000:0000:0000:0000	2a0e:9a47:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:a840:0000:0000:0000:0000:0000:0000	2a0e:a840:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:d040:0000:0000:0000:0000:0000:0000	2a0e:d047:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a0e:e740:0000:0000:0000:0000:0000:0000	2a0e:e747:ffff:ffff:ffff:ffff:ffff:ffff	EE

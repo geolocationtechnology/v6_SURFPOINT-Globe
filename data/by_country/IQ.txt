@@ -81,3 +81,4 @@
 2a0e:a480:0000:0000:0000:0000:0000:0000	2a0e:a487:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0e:a980:0000:0000:0000:0000:0000:0000	2a0e:a987:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a0e:d840:0000:0000:0000:0000:0000:0000	2a0e:d847:ffff:ffff:ffff:ffff:ffff:ffff	IQ
+2a0e:e0c0:0000:0000:0000:0000:0000:0000	2a0e:e0c7:ffff:ffff:ffff:ffff:ffff:ffff	IQ

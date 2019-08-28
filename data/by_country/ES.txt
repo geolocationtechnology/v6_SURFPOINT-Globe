@@ -818,4 +818,6 @@
 2a0e:ad00:0000:0000:0000:0000:0000:0000	2a0e:ad07:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0e:cd00:0000:0000:0000:0000:0000:0000	2a0e:cd07:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0e:d400:0000:0000:0000:0000:0000:0000	2a0e:d407:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a0e:e240:0000:0000:0000:0000:0000:0000	2a0e:e247:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a0e:e640:0000:0000:0000:0000:0000:0000	2a0e:e647:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0e:fd00:0000:0000:0000:0000:0000:0000	2a0e:fd07:ffff:ffff:ffff:ffff:ffff:ffff	ES

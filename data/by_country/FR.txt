@@ -1051,5 +1051,8 @@
 2a0e:dd80:0000:0000:0000:0000:0000:0000	2a0e:dd87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:e080:0000:0000:0000:0000:0000:0000	2a0e:e080:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:e700:0000:0000:0000:0000:0000:0000	2a0e:e707:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0e:e8c0:0000:0000:0000:0000:0000:0000	2a0e:e8c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:e900:0000:0000:0000:0000:0000:0000	2a0e:e907:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0e:e940:0000:0000:0000:0000:0000:0000	2a0e:e947:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0e:ebc0:0000:0000:0000:0000:0000:0000	2a0e:ebc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:ee00:0000:0000:0000:0000:0000:0000	2a0e:ee07:ffff:ffff:ffff:ffff:ffff:ffff	FR
