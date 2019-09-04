@@ -1302,3 +1302,7 @@
 2a0e:f800:0000:0000:0000:0000:0000:0000	2a0e:f807:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:f980:0000:0000:0000:0000:0000:0000	2a0e:f987:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:fa00:0000:0000:0000:0000:0000:0000	2a0e:fa07:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:fd40:0000:0000:0000:0000:0000:0000	2a0e:fd47:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0e:fdc0:0000:0000:0000:0000:0000:0000	2a0e:fdc7:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0f:2000:0000:0000:0000:0000:0000:0000	2a0f:2007:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0f:f800:0000:0000:0000:0000:0000:0000	2a0f:f807:ffff:ffff:ffff:ffff:ffff:ffff	NL

@@ -1696,3 +1696,5 @@
 2a0e:f5c0:0000:0000:0000:0000:0000:0000	2a0e:f5c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:f940:0000:0000:0000:0000:0000:0000	2a0e:f947:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:fc80:0000:0000:0000:0000:0000:0000	2a0e:fc87:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a0f:9400:0000:0000:0000:0000:0000:0000	2a0f:9407:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a0f:d800:0000:0000:0000:0000:0000:0000	2a0f:d807:ffff:ffff:ffff:ffff:ffff:ffff	GB

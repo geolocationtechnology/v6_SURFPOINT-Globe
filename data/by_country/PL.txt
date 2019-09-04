@@ -290,7 +290,6 @@
 2a04:e740:0000:0000:0000:0000:0000:0000	2a04:e747:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a04:edc0:0000:0000:0000:0000:0000:0000	2a04:edc7:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a04:f200:0000:0000:0000:0000:0000:0000	2a04:f207:ffff:ffff:ffff:ffff:ffff:ffff	PL
-2a04:f440:0000:0000:0000:0000:0000:0000	2a04:f447:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a04:f700:0000:0000:0000:0000:0000:0000	2a04:f707:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a05:0440:0000:0000:0000:0000:0000:0000	2a05:0447:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a05:0a00:0000:0000:0000:0000:0000:0000	2a05:0a07:ffff:ffff:ffff:ffff:ffff:ffff	PL

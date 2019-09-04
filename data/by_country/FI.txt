@@ -229,3 +229,4 @@
 2a0e:dd00:0000:0000:0000:0000:0000:0000	2a0e:dd07:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0e:e780:0000:0000:0000:0000:0000:0000	2a0e:e787:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0e:fd80:0000:0000:0000:0000:0000:0000	2a0e:fd87:ffff:ffff:ffff:ffff:ffff:ffff	FI
+2a0f:5800:0000:0000:0000:0000:0000:0000	2a0f:5807:ffff:ffff:ffff:ffff:ffff:ffff	FI
