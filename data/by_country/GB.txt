@@ -1,4 +1,5 @@
 2001:0630:0000:0000:0000:0000:0000:0000	2001:0630:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2001:0678:0b04:0000:0000:0000:0000:0000	2001:0678:0b04:ffff:ffff:ffff:ffff:ffff	GB
 2001:067c:2ff8:0000:0000:0000:0000:0000	2001:067c:2ff8:ffff:ffff:ffff:ffff:ffff	GB
 2001:06f8:0000:0000:0000:0000:0000:0000	2001:06f8:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2001:0710:0000:0000:0000:0000:0000:0000	2001:0710:ffff:ffff:ffff:ffff:ffff:ffff	GB
@@ -1696,5 +1697,7 @@
 2a0e:f5c0:0000:0000:0000:0000:0000:0000	2a0e:f5c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:f940:0000:0000:0000:0000:0000:0000	2a0e:f947:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0e:fc80:0000:0000:0000:0000:0000:0000	2a0e:fc87:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a0f:0300:0000:0000:0000:0000:0000:0000	2a0f:0307:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0f:9400:0000:0000:0000:0000:0000:0000	2a0f:9407:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a0f:d800:0000:0000:0000:0000:0000:0000	2a0f:d807:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a0f:fe00:0000:0000:0000:0000:0000:0000	2a0f:fe07:ffff:ffff:ffff:ffff:ffff:ffff	GB

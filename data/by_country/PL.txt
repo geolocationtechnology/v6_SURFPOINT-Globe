@@ -571,3 +571,5 @@
 2a0e:f240:0000:0000:0000:0000:0000:0000	2a0e:f247:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0e:f640:0000:0000:0000:0000:0000:0000	2a0e:f647:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0e:ff00:0000:0000:0000:0000:0000:0000	2a0e:ff07:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a0f:6e00:0000:0000:0000:0000:0000:0000	2a0f:6e07:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a0f:ca00:0000:0000:0000:0000:0000:0000	2a0f:ca07:ffff:ffff:ffff:ffff:ffff:ffff	PL

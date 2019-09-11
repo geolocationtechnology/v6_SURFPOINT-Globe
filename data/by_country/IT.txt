@@ -803,6 +803,9 @@
 2a0e:ef00:0000:0000:0000:0000:0000:0000	2a0e:ef07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:f080:0000:0000:0000:0000:0000:0000	2a0e:f080:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0e:f480:0000:0000:0000:0000:0000:0000	2a0e:f487:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0f:1a00:0000:0000:0000:0000:0000:0000	2a0f:1a07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0f:2a00:0000:0000:0000:0000:0000:0000	2a0f:2a07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:3c00:0000:0000:0000:0000:0000:0000	2a0f:3c07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:4c00:0000:0000:0000:0000:0000:0000	2a0f:4c07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:a000:0000:0000:0000:0000:0000:0000	2a0f:a007:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0f:f600:0000:0000:0000:0000:0000:0000	2a0f:f607:ffff:ffff:ffff:ffff:ffff:ffff	IT

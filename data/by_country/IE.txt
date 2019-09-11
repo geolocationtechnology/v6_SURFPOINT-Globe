@@ -179,4 +179,5 @@
 2a0e:5bc0:0000:0000:0000:0000:0000:0000	2a0e:5bc7:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0e:8d00:0000:0000:0000:0000:0000:0000	2a0e:8d07:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0e:a800:0000:0000:0000:0000:0000:0000	2a0e:a807:ffff:ffff:ffff:ffff:ffff:ffff	IE
+2a0f:0100:0000:0000:0000:0000:0000:0000	2a0f:0107:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0f:9000:0000:0000:0000:0000:0000:0000	2a0f:9000:ffff:ffff:ffff:ffff:ffff:ffff	IE
