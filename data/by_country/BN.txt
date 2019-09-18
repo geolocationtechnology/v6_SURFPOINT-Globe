@@ -2,3 +2,4 @@
 2404:8980:0000:0000:0000:0000:0000:0000	2404:8980:ffff:ffff:ffff:ffff:ffff:ffff	BN
 2405:1700:0000:0000:0000:0000:0000:0000	2405:1700:ffff:ffff:ffff:ffff:ffff:ffff	BN
 2406:7800:0000:0000:0000:0000:0000:0000	2406:7801:ffff:ffff:ffff:ffff:ffff:ffff	BN
+2a0f:8b00:0000:0000:0000:0000:0000:0000	2a0f:8b07:ffff:ffff:ffff:ffff:ffff:ffff	BN

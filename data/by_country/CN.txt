@@ -1695,3 +1695,4 @@
 240e:0000:0000:0000:0000:0000:0000:0000	240e:3fff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240f:4000:0000:0000:0000:0000:0000:0000	240f:40ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240f:8000:0000:0000:0000:0000:0000:0000	240f:80ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
+240f:c000:0000:0000:0000:0000:0000:0000	240f:c0ff:ffff:ffff:ffff:ffff:ffff:ffff	CN

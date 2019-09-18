@@ -822,7 +822,9 @@
 2a0e:e640:0000:0000:0000:0000:0000:0000	2a0e:e647:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0e:fd00:0000:0000:0000:0000:0000:0000	2a0e:fd07:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0f:1100:0000:0000:0000:0000:0000:0000	2a0f:1107:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a0f:4f00:0000:0000:0000:0000:0000:0000	2a0f:4f07:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0f:5400:0000:0000:0000:0000:0000:0000	2a0f:5407:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a0f:5900:0000:0000:0000:0000:0000:0000	2a0f:5907:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0f:6a00:0000:0000:0000:0000:0000:0000	2a0f:6a07:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0f:7c00:0000:0000:0000:0000:0000:0000	2a0f:7c07:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0f:8a00:0000:0000:0000:0000:0000:0000	2a0f:8a07:ffff:ffff:ffff:ffff:ffff:ffff	ES

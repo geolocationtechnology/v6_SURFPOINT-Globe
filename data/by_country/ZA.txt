@@ -19,6 +19,7 @@
 2c0f:ea20:0000:0000:0000:0000:0000:0000	2c0f:ea20:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ea30:0000:0000:0000:0000:0000:0000	2c0f:ea30:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ea48:0000:0000:0000:0000:0000:0000	2c0f:ea48:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:ea58:0000:0000:0000:0000:0000:0000	2c0f:ea58:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ec08:0000:0000:0000:0000:0000:0000	2c0f:ec08:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ec18:0000:0000:0000:0000:0000:0000	2c0f:ec18:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ec20:0000:0000:0000:0000:0000:0000	2c0f:ec20:ffff:ffff:ffff:ffff:ffff:ffff	ZA
@@ -114,7 +115,6 @@
 2c0f:f1f8:0000:0000:0000:0000:0000:0000	2c0f:f1f8:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f208:0000:0000:0000:0000:0000:0000	2c0f:f208:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f238:0000:0000:0000:0000:0000:0000	2c0f:f238:ffff:ffff:ffff:ffff:ffff:ffff	ZA
-2c0f:f258:0000:0000:0000:0000:0000:0000	2c0f:f258:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f268:0000:0000:0000:0000:0000:0000	2c0f:f268:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f278:0000:0000:0000:0000:0000:0000	2c0f:f278:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f288:0000:0000:0000:0000:0000:0000	2c0f:f288:ffff:ffff:ffff:ffff:ffff:ffff	ZA
