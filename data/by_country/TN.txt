@@ -5,5 +5,4 @@
 2c0f:f5f8:0000:0000:0000:0000:0000:0000	2c0f:f5f8:ffff:ffff:ffff:ffff:ffff:ffff	TN
 2c0f:f698:0000:0000:0000:0000:0000:0000	2c0f:f698:ffff:ffff:ffff:ffff:ffff:ffff	TN
 2c0f:f7c8:0000:0000:0000:0000:0000:0000	2c0f:f7c8:ffff:ffff:ffff:ffff:ffff:ffff	TN
-2c0f:f7e0:0000:0000:0000:0000:0000:0000	2c0f:f7e0:ffff:ffff:ffff:ffff:ffff:ffff	TN
 2c0f:fab0:0000:0000:0000:0000:0000:0000	2c0f:fabf:ffff:ffff:ffff:ffff:ffff:ffff	TN

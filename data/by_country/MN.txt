@@ -9,6 +9,7 @@
 2404:2700:0000:0000:0000:0000:0000:0000	2404:2700:ffff:ffff:ffff:ffff:ffff:ffff	MN
 2404:ec80:0000:0000:0000:0000:0000:0000	2404:ec80:ffff:ffff:ffff:ffff:ffff:ffff	MN
 2405:0600:0000:0000:0000:0000:0000:0000	2405:0600:ffff:ffff:ffff:ffff:ffff:ffff	MN
+2405:4c40:0000:0000:0000:0000:0000:0000	2405:4c40:ffff:ffff:ffff:ffff:ffff:ffff	MN
 2405:5700:0000:0000:0000:0000:0000:0000	2405:5700:ffff:ffff:ffff:ffff:ffff:ffff	MN
 2405:ae00:0000:0000:0000:0000:0000:0000	2405:ae00:ffff:ffff:ffff:ffff:ffff:ffff	MN
 2407:1c80:0000:0000:0000:0000:0000:0000	2407:1c80:ffff:ffff:ffff:ffff:ffff:ffff	MN
