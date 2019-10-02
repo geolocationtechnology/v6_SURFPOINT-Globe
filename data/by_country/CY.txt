@@ -13,7 +13,6 @@
 2a02:0de8:0000:0000:0000:0000:0000:0000	2a02:0de8:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a02:76a0:0000:0000:0000:0000:0000:0000	2a02:76a0:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a02:7780:0000:0000:0000:0000:0000:0000	2a02:7780:ffff:ffff:ffff:ffff:ffff:ffff	CY
-2a02:7cc0:0000:0000:0000:0000:0000:0000	2a02:7cc0:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a02:c580:0000:0000:0000:0000:0000:0000	2a02:c587:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a03:1300:0000:0000:0000:0000:0000:0000	2a03:1300:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a03:3b20:0000:0000:0000:0000:0000:0000	2a03:3b20:ffff:ffff:ffff:ffff:ffff:ffff	CY
@@ -38,7 +37,6 @@
 2a0a:38c0:0000:0000:0000:0000:0000:0000	2a0a:38c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0a:92c0:0000:0000:0000:0000:0000:0000	2a0a:92c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0a:aa00:0000:0000:0000:0000:0000:0000	2a0a:aa03:ffff:ffff:ffff:ffff:ffff:ffff	CY
-2a0a:b5c0:0000:0000:0000:0000:0000:0000	2a0a:b5c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0c:04c0:0000:0000:0000:0000:0000:0000	2a0c:04c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0c:5cc0:0000:0000:0000:0000:0000:0000	2a0c:5cc7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0c:7300:0000:0000:0000:0000:0000:0000	2a0c:7300:ffff:ffff:ffff:ffff:ffff:ffff	CY

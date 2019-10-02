@@ -3,7 +3,6 @@
 2c0f:f3d8:0000:0000:0000:0000:0000:0000	2c0f:f3d8:ffff:ffff:ffff:ffff:ffff:ffff	CM
 2c0f:f4d8:0000:0000:0000:0000:0000:0000	2c0f:f4d8:ffff:ffff:ffff:ffff:ffff:ffff	CM
 2c0f:f660:0000:0000:0000:0000:0000:0000	2c0f:f660:ffff:ffff:ffff:ffff:ffff:ffff	CM
-2c0f:f6a0:0000:0000:0000:0000:0000:0000	2c0f:f6a0:ffff:ffff:ffff:ffff:ffff:ffff	CM
 2c0f:f6c8:0000:0000:0000:0000:0000:0000	2c0f:f6c8:ffff:ffff:ffff:ffff:ffff:ffff	CM
 2c0f:f7d0:0000:0000:0000:0000:0000:0000	2c0f:f7d0:ffff:ffff:ffff:ffff:ffff:ffff	CM
 2c0f:fad8:0000:0000:0000:0000:0000:0000	2c0f:fad8:ffff:ffff:ffff:ffff:ffff:ffff	CM

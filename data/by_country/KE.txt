@@ -14,7 +14,6 @@
 2c0f:f358:0000:0000:0000:0000:0000:0000	2c0f:f358:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:f3f8:0000:0000:0000:0000:0000:0000	2c0f:f3f8:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:f408:0000:0000:0000:0000:0000:0000	2c0f:f408:ffff:ffff:ffff:ffff:ffff:ffff	KE
-2c0f:f458:0000:0000:0000:0000:0000:0000	2c0f:f458:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:f468:0000:0000:0000:0000:0000:0000	2c0f:f468:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:f548:0000:0000:0000:0000:0000:0000	2c0f:f548:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:f580:0000:0000:0000:0000:0000:0000	2c0f:f580:ffff:ffff:ffff:ffff:ffff:ffff	KE
