@@ -1,6 +1,6 @@
 2001:07f8:00e1:0000:0000:0000:0000:0000	2001:07f8:00e1:ffff:ffff:ffff:ffff:ffff	UA
 2001:4130:0000:0000:0000:0000:0000:0000	2001:4130:ffff:ffff:ffff:ffff:ffff:ffff	UA
-2a00:0f50:0000:0000:0000:0000:0000:0000	2a00:0f50:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a00:0f50:0000:0000:0000:0000:0000:0000	2a00:0f53:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:1210:0000:0000:0000:0000:0000:0000	2a00:1210:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:1228:0000:0000:0000:0000:0000:0000	2a00:1228:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:1588:0000:0000:0000:0000:0000:0000	2a00:1588:ffff:ffff:ffff:ffff:ffff:ffff	UA

@@ -33,6 +33,7 @@
 2a03:9420:0000:0000:0000:0000:0000:0000	2a03:9420:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a03:98c0:0000:0000:0000:0000:0000:0000	2a03:98c7:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a03:9c40:0000:0000:0000:0000:0000:0000	2a03:9c40:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a03:ac40:0000:0000:0000:0000:0000:0000	2a03:ac40:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a03:c480:0000:0000:0000:0000:0000:0000	2a03:c480:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a03:f8c0:0000:0000:0000:0000:0000:0000	2a03:f8c0:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a04:81c0:0000:0000:0000:0000:0000:0000	2a04:81c7:ffff:ffff:ffff:ffff:ffff:ffff	LU
