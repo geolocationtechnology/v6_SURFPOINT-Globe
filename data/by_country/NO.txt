@@ -347,3 +347,5 @@
 2a0e:ea80:0000:0000:0000:0000:0000:0000	2a0e:ea87:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0f:7900:0000:0000:0000:0000:0000:0000	2a0f:7907:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0f:ad00:0000:0000:0000:0000:0000:0000	2a0f:ad07:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a0f:c180:0000:0000:0000:0000:0000:0000	2a0f:c187:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a0f:c380:0000:0000:0000:0000:0000:0000	2a0f:c387:ffff:ffff:ffff:ffff:ffff:ffff	NO

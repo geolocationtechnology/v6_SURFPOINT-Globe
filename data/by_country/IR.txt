@@ -328,3 +328,5 @@
 2a0f:6c00:0000:0000:0000:0000:0000:0000	2a0f:6c07:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0f:7380:0000:0000:0000:0000:0000:0000	2a0f:7387:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0f:8d80:0000:0000:0000:0000:0000:0000	2a0f:8d87:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a0f:d380:0000:0000:0000:0000:0000:0000	2a0f:d387:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a0f:d580:0000:0000:0000:0000:0000:0000	2a0f:d587:ffff:ffff:ffff:ffff:ffff:ffff	IR

@@ -46,4 +46,5 @@
 2a0d:53c0:0000:0000:0000:0000:0000:0000	2a0d:53c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0d:8700:0000:0000:0000:0000:0000:0000	2a0d:8707:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0e:7fc0:0000:0000:0000:0000:0000:0000	2a0e:7fc7:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a0f:d280:0000:0000:0000:0000:0000:0000	2a0f:d287:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0f:d500:0000:0000:0000:0000:0000:0000	2a0f:d507:ffff:ffff:ffff:ffff:ffff:ffff	CY

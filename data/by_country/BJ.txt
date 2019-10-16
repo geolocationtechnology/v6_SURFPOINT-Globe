@@ -5,3 +5,4 @@
 2c0f:f260:0000:0000:0000:0000:0000:0000	2c0f:f260:ffff:ffff:ffff:ffff:ffff:ffff	BJ
 2c0f:f770:0000:0000:0000:0000:0000:0000	2c0f:f770:ffff:ffff:ffff:ffff:ffff:ffff	BJ
 2c0f:f818:0000:0000:0000:0000:0000:0000	2c0f:f818:ffff:ffff:ffff:ffff:ffff:ffff	BJ
+2c0f:f9f8:0000:0000:0000:0000:0000:0000	2c0f:f9f8:ffff:ffff:ffff:ffff:ffff:ffff	BJ

@@ -73,3 +73,5 @@
 2a0e:da80:0000:0000:0000:0000:0000:0000	2a0e:da87:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:0e00:0000:0000:0000:0000:0000:0000	2a0f:0e07:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:4f80:0000:0000:0000:0000:0000:0000	2a0f:4f87:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:b180:0000:0000:0000:0000:0000:0000	2a0f:b187:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:b280:0000:0000:0000:0000:0000:0000	2a0f:b287:ffff:ffff:ffff:ffff:ffff:ffff	RS
