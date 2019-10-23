@@ -25,4 +25,5 @@
 2803:f160:0000:0000:0000:0000:0000:0000	2803:f160:ffff:ffff:ffff:ffff:ffff:ffff	SV
 2803:f260:0000:0000:0000:0000:0000:0000	2803:f260:ffff:ffff:ffff:ffff:ffff:ffff	SV
 2803:fa40:0000:0000:0000:0000:0000:0000	2803:fa40:ffff:ffff:ffff:ffff:ffff:ffff	SV
+2803:fb60:0000:0000:0000:0000:0000:0000	2803:fb60:ffff:ffff:ffff:ffff:ffff:ffff	SV
 2803:fd40:0000:0000:0000:0000:0000:0000	2803:fd40:ffff:ffff:ffff:ffff:ffff:ffff	SV

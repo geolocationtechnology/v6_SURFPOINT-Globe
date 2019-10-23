@@ -22,6 +22,7 @@
 2a07:66c0:0000:0000:0000:0000:0000:0000	2a07:66c7:ffff:ffff:ffff:ffff:ffff:ffff	AM
 2a09:6c80:0000:0000:0000:0000:0000:0000	2a09:6c80:ffff:ffff:ffff:ffff:ffff:ffff	AM
 2a09:f840:0000:0000:0000:0000:0000:0000	2a09:f847:ffff:ffff:ffff:ffff:ffff:ffff	AM
+2a0a:09c0:0000:0000:0000:0000:0000:0000	2a0a:09c7:ffff:ffff:ffff:ffff:ffff:ffff	AM
 2a0a:3440:0000:0000:0000:0000:0000:0000	2a0a:3447:ffff:ffff:ffff:ffff:ffff:ffff	AM
 2a0a:3880:0000:0000:0000:0000:0000:0000	2a0a:3887:ffff:ffff:ffff:ffff:ffff:ffff	AM
 2a0b:a3c0:0000:0000:0000:0000:0000:0000	2a0b:a3c7:ffff:ffff:ffff:ffff:ffff:ffff	AM

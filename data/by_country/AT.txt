@@ -378,3 +378,4 @@
 2a0f:6280:0000:0000:0000:0000:0000:0000	2a0f:6280:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0f:8000:0000:0000:0000:0000:0000:0000	2a0f:8007:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0f:dd00:0000:0000:0000:0000:0000:0000	2a0f:dd07:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a0f:f080:0000:0000:0000:0000:0000:0000	2a0f:f087:ffff:ffff:ffff:ffff:ffff:ffff	AT

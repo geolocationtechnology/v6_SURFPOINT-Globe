@@ -302,7 +302,7 @@
 2a07:4a00:0000:0000:0000:0000:0000:0000	2a07:4a07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a07:4b80:0000:0000:0000:0000:0000:0000	2a07:4b87:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a07:58c0:0000:0000:0000:0000:0000:0000	2a07:58c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
-2a07:5fc0:0000:0000:0000:0000:0000:0000	2a07:5fc0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a07:5fc0:0000:0000:0000:0000:0000:0000	2a07:5fc7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a07:6100:0000:0000:0000:0000:0000:0000	2a07:6107:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a07:6880:0000:0000:0000:0000:0000:0000	2a07:6887:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a07:6bc0:0000:0000:0000:0000:0000:0000	2a07:6bc7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
