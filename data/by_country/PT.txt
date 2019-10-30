@@ -84,6 +84,7 @@
 2a0e:1f40:0000:0000:0000:0000:0000:0000	2a0e:1f47:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0e:5f00:0000:0000:0000:0000:0000:0000	2a0e:5f07:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0e:bc00:0000:0000:0000:0000:0000:0000	2a0e:bc07:ffff:ffff:ffff:ffff:ffff:ffff	PT
+2a0f:2540:0000:0000:0000:0000:0000:0000	2a0f:2547:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0f:7700:0000:0000:0000:0000:0000:0000	2a0f:7707:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0f:8900:0000:0000:0000:0000:0000:0000	2a0f:8907:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0f:c700:0000:0000:0000:0000:0000:0000	2a0f:c707:ffff:ffff:ffff:ffff:ffff:ffff	PT

@@ -1,3 +1,4 @@
+2001:0678:0b50:0000:0000:0000:0000:0000	2001:0678:0b50:ffff:ffff:ffff:ffff:ffff	IT
 2001:06b8:0000:0000:0000:0000:0000:0000	2001:06b8:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2001:0750:0000:0000:0000:0000:0000:0000	2001:0750:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2001:0760:0000:0000:0000:0000:0000:0000	2001:0760:ffff:ffff:ffff:ffff:ffff:ffff	IT
@@ -478,7 +479,6 @@
 2a06:6d40:0000:0000:0000:0000:0000:0000	2a06:6d47:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:70c0:0000:0000:0000:0000:0000:0000	2a06:70c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:7280:0000:0000:0000:0000:0000:0000	2a06:7287:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a06:7780:0000:0000:0000:0000:0000:0000	2a06:7787:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:7ac0:0000:0000:0000:0000:0000:0000	2a06:7ac7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:8580:0000:0000:0000:0000:0000:0000	2a06:8587:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:8cc0:0000:0000:0000:0000:0000:0000	2a06:8cc7:ffff:ffff:ffff:ffff:ffff:ffff	IT
@@ -807,6 +807,7 @@
 2a0f:0d80:0000:0000:0000:0000:0000:0000	2a0f:0d80:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:1680:0000:0000:0000:0000:0000:0000	2a0f:1687:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:1a00:0000:0000:0000:0000:0000:0000	2a0f:1a07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0f:1dc0:0000:0000:0000:0000:0000:0000	2a0f:1dc7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:2a00:0000:0000:0000:0000:0000:0000	2a0f:2a07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:2b00:0000:0000:0000:0000:0000:0000	2a0f:2b00:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:3c00:0000:0000:0000:0000:0000:0000	2a0f:3c07:ffff:ffff:ffff:ffff:ffff:ffff	IT
