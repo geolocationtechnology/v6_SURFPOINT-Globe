@@ -39,3 +39,4 @@
 2a0d:4dc0:0000:0000:0000:0000:0000:0000	2a0d:4dc0:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a0e:9ec0:0000:0000:0000:0000:0000:0000	2a0e:9ec7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a0f:1300:0000:0000:0000:0000:0000:0000	2a0f:1307:ffff:ffff:ffff:ffff:ffff:ffff	AZ
+2a0f:4a40:0000:0000:0000:0000:0000:0000	2a0f:4a47:ffff:ffff:ffff:ffff:ffff:ffff	AZ

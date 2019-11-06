@@ -234,5 +234,6 @@
 2a0f:1b80:0000:0000:0000:0000:0000:0000	2a0f:1b87:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:1d80:0000:0000:0000:0000:0000:0000	2a0f:1d87:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:4080:0000:0000:0000:0000:0000:0000	2a0f:4087:ffff:ffff:ffff:ffff:ffff:ffff	FI
+2a0f:47c0:0000:0000:0000:0000:0000:0000	2a0f:47c7:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:5800:0000:0000:0000:0000:0000:0000	2a0f:5807:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:e400:0000:0000:0000:0000:0000:0000	2a0f:e407:ffff:ffff:ffff:ffff:ffff:ffff	FI
