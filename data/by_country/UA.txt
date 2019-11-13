@@ -255,7 +255,6 @@
 2a0a:ce80:0000:0000:0000:0000:0000:0000	2a0a:ce87:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0a:cec0:0000:0000:0000:0000:0000:0000	2a0a:cec7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0a:cfc0:0000:0000:0000:0000:0000:0000	2a0a:cfc7:ffff:ffff:ffff:ffff:ffff:ffff	UA
-2a0a:d0c0:0000:0000:0000:0000:0000:0000	2a0a:d0c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0a:dd80:0000:0000:0000:0000:0000:0000	2a0a:dd87:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0a:e140:0000:0000:0000:0000:0000:0000	2a0a:e147:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0a:e2c0:0000:0000:0000:0000:0000:0000	2a0a:e2c7:ffff:ffff:ffff:ffff:ffff:ffff	UA

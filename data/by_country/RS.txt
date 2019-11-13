@@ -39,7 +39,6 @@
 2a04:1dc0:0000:0000:0000:0000:0000:0000	2a04:1dc7:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a04:2e40:0000:0000:0000:0000:0000:0000	2a04:2e47:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a04:3080:0000:0000:0000:0000:0000:0000	2a04:3087:ffff:ffff:ffff:ffff:ffff:ffff	RS
-2a04:7000:0000:0000:0000:0000:0000:0000	2a04:7007:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a04:73c0:0000:0000:0000:0000:0000:0000	2a04:73c7:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a04:bf40:0000:0000:0000:0000:0000:0000	2a04:bf47:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a04:d080:0000:0000:0000:0000:0000:0000	2a04:d087:ffff:ffff:ffff:ffff:ffff:ffff	RS

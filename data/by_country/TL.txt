@@ -1,4 +1,3 @@
 2401:4b80:0000:0000:0000:0000:0000:0000	2401:4b80:ffff:ffff:ffff:ffff:ffff:ffff	TL
 2402:d080:0000:0000:0000:0000:0000:0000	2402:d080:ffff:ffff:ffff:ffff:ffff:ffff	TL
-2403:48c0:0000:0000:0000:0000:0000:0000	2403:48c0:ffff:ffff:ffff:ffff:ffff:ffff	TL
 2405:1f00:0000:0000:0000:0000:0000:0000	2405:1f00:ffff:ffff:ffff:ffff:ffff:ffff	TL

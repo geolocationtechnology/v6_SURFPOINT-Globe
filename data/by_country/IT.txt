@@ -818,6 +818,10 @@
 2a0f:4740:0000:0000:0000:0000:0000:0000	2a0f:4747:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:4c00:0000:0000:0000:0000:0000:0000	2a0f:4c07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:4d80:0000:0000:0000:0000:0000:0000	2a0f:4d87:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0f:5740:0000:0000:0000:0000:0000:0000	2a0f:5747:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0f:57c0:0000:0000:0000:0000:0000:0000	2a0f:57c0:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0f:5dc0:0000:0000:0000:0000:0000:0000	2a0f:5dc7:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0f:62c0:0000:0000:0000:0000:0000:0000	2a0f:62c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:7080:0000:0000:0000:0000:0000:0000	2a0f:7087:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:7e80:0000:0000:0000:0000:0000:0000	2a0f:7e87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:8180:0000:0000:0000:0000:0000:0000	2a0f:8187:ffff:ffff:ffff:ffff:ffff:ffff	IT

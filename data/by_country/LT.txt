@@ -117,3 +117,4 @@
 2a0e:8400:0000:0000:0000:0000:0000:0000	2a0e:8407:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:be00:0000:0000:0000:0000:0000:0000	2a0e:be07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0e:f180:0000:0000:0000:0000:0000:0000	2a0e:f187:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a0f:6740:0000:0000:0000:0000:0000:0000	2a0f:6747:ffff:ffff:ffff:ffff:ffff:ffff	LT

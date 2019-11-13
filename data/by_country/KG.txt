@@ -12,3 +12,4 @@
 2a0b:6e40:0000:0000:0000:0000:0000:0000	2a0b:6e47:ffff:ffff:ffff:ffff:ffff:ffff	KG
 2a0b:d7c0:0000:0000:0000:0000:0000:0000	2a0b:d7c7:ffff:ffff:ffff:ffff:ffff:ffff	KG
 2a0d:dd00:0000:0000:0000:0000:0000:0000	2a0d:dd07:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a0f:5240:0000:0000:0000:0000:0000:0000	2a0f:5240:ffff:ffff:ffff:ffff:ffff:ffff	KG

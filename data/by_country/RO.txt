@@ -172,6 +172,11 @@
 2a0e:fa40:0000:0000:0000:0000:0000:0000	2a0e:fa47:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0f:4440:0000:0000:0000:0000:0000:0000	2a0f:4447:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0f:4480:0000:0000:0000:0000:0000:0000	2a0f:4487:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a0f:4f40:0000:0000:0000:0000:0000:0000	2a0f:4f47:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a0f:55c0:0000:0000:0000:0000:0000:0000	2a0f:55c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a0f:56c0:0000:0000:0000:0000:0000:0000	2a0f:56c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a0f:5ac0:0000:0000:0000:0000:0000:0000	2a0f:5ac7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a0f:5ec0:0000:0000:0000:0000:0000:0000	2a0f:5ec7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0f:5f00:0000:0000:0000:0000:0000:0000	2a0f:5f07:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0f:6d80:0000:0000:0000:0000:0000:0000	2a0f:6d87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0f:7780:0000:0000:0000:0000:0000:0000	2a0f:7787:ffff:ffff:ffff:ffff:ffff:ffff	RO
