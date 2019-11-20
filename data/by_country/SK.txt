@@ -106,4 +106,5 @@
 2a0e:8dc0:0000:0000:0000:0000:0000:0000	2a0e:8dc7:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a0e:a440:0000:0000:0000:0000:0000:0000	2a0e:a447:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a0e:bb40:0000:0000:0000:0000:0000:0000	2a0e:bb47:ffff:ffff:ffff:ffff:ffff:ffff	SK
+2a0f:7340:0000:0000:0000:0000:0000:0000	2a0f:7347:ffff:ffff:ffff:ffff:ffff:ffff	SK
 2a0f:e980:0000:0000:0000:0000:0000:0000	2a0f:e987:ffff:ffff:ffff:ffff:ffff:ffff	SK

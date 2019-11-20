@@ -13,6 +13,7 @@
 2a00:1ad8:0000:0000:0000:0000:0000:0000	2a00:1ad8:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:1c98:0000:0000:0000:0000:0000:0000	2a00:1c98:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:1cf8:0000:0000:0000:0000:0000:0000	2a00:1cff:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a00:1fb8:0000:0000:0000:0000:0000:0000	2a00:1fb8:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:48e0:0000:0000:0000:0000:0000:0000	2a00:48e0:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:64a0:0000:0000:0000:0000:0000:0000	2a00:64a0:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:6ec0:0000:0000:0000:0000:0000:0000	2a00:6ec0:ffff:ffff:ffff:ffff:ffff:ffff	BE

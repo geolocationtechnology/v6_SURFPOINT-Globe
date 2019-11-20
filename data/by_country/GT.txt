@@ -28,6 +28,7 @@
 2803:b860:0000:0000:0000:0000:0000:0000	2803:b860:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:ba00:0000:0000:0000:0000:0000:0000	2803:ba00:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:bf40:0000:0000:0000:0000:0000:0000	2803:bf40:ffff:ffff:ffff:ffff:ffff:ffff	GT
+2803:bf60:0000:0000:0000:0000:0000:0000	2803:bf60:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:c300:0000:0000:0000:0000:0000:0000	2803:c300:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:c540:0000:0000:0000:0000:0000:0000	2803:c540:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:c800:0000:0000:0000:0000:0000:0000	2803:c800:ffff:ffff:ffff:ffff:ffff:ffff	GT
