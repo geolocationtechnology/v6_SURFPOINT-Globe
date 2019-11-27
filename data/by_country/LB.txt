@@ -85,3 +85,4 @@
 2a0e:d7c0:0000:0000:0000:0000:0000:0000	2a0e:d7c7:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a0e:fe00:0000:0000:0000:0000:0000:0000	2a0e:fe07:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a0f:9540:0000:0000:0000:0000:0000:0000	2a0f:9540:ffff:ffff:ffff:ffff:ffff:ffff	LB
+2a0f:b1c0:0000:0000:0000:0000:0000:0000	2a0f:b1c7:ffff:ffff:ffff:ffff:ffff:ffff	LB

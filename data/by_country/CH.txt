@@ -1,5 +1,6 @@
 2001:0618:0000:0000:0000:0000:0000:0000	2001:0618:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2001:0620:0000:0000:0000:0000:0000:0000	2001:0627:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2001:0678:0b84:0000:0000:0000:0000:0000	2001:0678:0b84:ffff:ffff:ffff:ffff:ffff	CH
 2001:0788:0000:0000:0000:0000:0000:0000	2001:078f:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2001:08a8:0000:0000:0000:0000:0000:0000	2001:08a8:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2001:08e0:0000:0000:0000:0000:0000:0000	2001:08e7:ffff:ffff:ffff:ffff:ffff:ffff	CH
@@ -356,7 +357,6 @@
 2a06:6700:0000:0000:0000:0000:0000:0000	2a06:6707:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:8280:0000:0000:0000:0000:0000:0000	2a06:8287:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:8a00:0000:0000:0000:0000:0000:0000	2a06:8a07:ffff:ffff:ffff:ffff:ffff:ffff	CH
-2a06:9ac0:0000:0000:0000:0000:0000:0000	2a06:9ac7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:b000:0000:0000:0000:0000:0000:0000	2a06:b007:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:bc00:0000:0000:0000:0000:0000:0000	2a06:bc07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:cb80:0000:0000:0000:0000:0000:0000	2a06:cb87:ffff:ffff:ffff:ffff:ffff:ffff	CH
@@ -582,5 +582,6 @@
 2a0f:9900:0000:0000:0000:0000:0000:0000	2a0f:9907:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0f:9b80:0000:0000:0000:0000:0000:0000	2a0f:9b80:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0f:a580:0000:0000:0000:0000:0000:0000	2a0f:a587:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a0f:aa40:0000:0000:0000:0000:0000:0000	2a0f:aa47:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0f:c800:0000:0000:0000:0000:0000:0000	2a0f:c807:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0f:e880:0000:0000:0000:0000:0000:0000	2a0f:e887:ffff:ffff:ffff:ffff:ffff:ffff	CH

@@ -1,5 +1,6 @@
 2405:6e40:0000:0000:0000:0000:0000:0000	2405:6e40:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2602:fdc7:0000:0000:0000:0000:0000:0000	2602:fdc7:0fff:ffff:ffff:ffff:ffff:ffff	VG
 2604:10c0:0000:0000:0000:0000:0000:0000	2604:10c0:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2605:7f40:0000:0000:0000:0000:0000:0000	2605:7f40:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2620:00e1:c000:0000:0000:0000:0000:0000	2620:00e1:c000:ffff:ffff:ffff:ffff:ffff	VG
 2a09:a700:0000:0000:0000:0000:0000:0000	2a09:a707:ffff:ffff:ffff:ffff:ffff:ffff	VG

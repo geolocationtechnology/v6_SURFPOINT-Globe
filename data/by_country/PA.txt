@@ -51,4 +51,3 @@
 2803:ed40:0000:0000:0000:0000:0000:0000	2803:ed40:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2803:f520:0000:0000:0000:0000:0000:0000	2803:f520:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2803:fb00:0000:0000:0000:0000:0000:0000	2803:fb00:ffff:ffff:ffff:ffff:ffff:ffff	PA
-2a07:6900:0000:0000:0000:0000:0000:0000	2a07:6907:ffff:ffff:ffff:ffff:ffff:ffff	PA

@@ -1,3 +1,4 @@
+2001:0678:0ba4:0000:0000:0000:0000:0000	2001:0678:0ba4:ffff:ffff:ffff:ffff:ffff	NO
 2001:0700:0000:0000:0000:0000:0000:0000	2001:0700:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2001:0820:0000:0000:0000:0000:0000:0000	2001:0820:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2001:0840:0000:0000:0000:0000:0000:0000	2001:0847:ffff:ffff:ffff:ffff:ffff:ffff	NO
@@ -352,5 +353,6 @@
 2a0f:8b40:0000:0000:0000:0000:0000:0000	2a0f:8b47:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0f:9840:0000:0000:0000:0000:0000:0000	2a0f:9847:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0f:ad00:0000:0000:0000:0000:0000:0000	2a0f:ad07:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a0f:b6c0:0000:0000:0000:0000:0000:0000	2a0f:b6c7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0f:c180:0000:0000:0000:0000:0000:0000	2a0f:c187:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0f:c380:0000:0000:0000:0000:0000:0000	2a0f:c387:ffff:ffff:ffff:ffff:ffff:ffff	NO
