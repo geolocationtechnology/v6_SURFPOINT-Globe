@@ -598,6 +598,8 @@
 2a0f:a900:0000:0000:0000:0000:0000:0000	2a0f:a907:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0f:acc0:0000:0000:0000:0000:0000:0000	2a0f:acc7:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0f:adc0:0000:0000:0000:0000:0000:0000	2a0f:adc7:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a0f:bfc0:0000:0000:0000:0000:0000:0000	2a0f:bfc7:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a0f:cb40:0000:0000:0000:0000:0000:0000	2a0f:cb40:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0f:cf00:0000:0000:0000:0000:0000:0000	2a0f:cf07:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0f:d180:0000:0000:0000:0000:0000:0000	2a0f:d187:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0f:e080:0000:0000:0000:0000:0000:0000	2a0f:e087:ffff:ffff:ffff:ffff:ffff:ffff	PL

@@ -1,3 +1,4 @@
+2c0f:eb68:0000:0000:0000:0000:0000:0000	2c0f:eb68:ffff:ffff:ffff:ffff:ffff:ffff	RW
 2c0f:f628:0000:0000:0000:0000:0000:0000	2c0f:f628:ffff:ffff:ffff:ffff:ffff:ffff	RW
 2c0f:f860:0000:0000:0000:0000:0000:0000	2c0f:f860:ffff:ffff:ffff:ffff:ffff:ffff	RW
 2c0f:fe60:0000:0000:0000:0000:0000:0000	2c0f:fe60:ffff:ffff:ffff:ffff:ffff:ffff	RW

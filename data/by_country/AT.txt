@@ -18,13 +18,6 @@
 2001:0678:08d4:0000:0000:0000:0000:0000	2001:0678:08d4:ffff:ffff:ffff:ffff:ffff	AT
 2001:0678:0aac:0000:0000:0000:0000:0000	2001:0678:0aac:ffff:ffff:ffff:ffff:ffff	AT
 2001:0678:0b58:0000:0000:0000:0000:0000	2001:0678:0b58:ffff:ffff:ffff:ffff:ffff	AT
-2001:067c:2a38:0000:0000:0000:0000:0000	2001:067c:2a38:ffff:ffff:ffff:ffff:ffff	AT
-2001:067c:2aa4:0000:0000:0000:0000:0000	2001:067c:2aa4:ffff:ffff:ffff:ffff:ffff	AT
-2001:067c:2aa8:0000:0000:0000:0000:0000	2001:067c:2aa8:ffff:ffff:ffff:ffff:ffff	AT
-2001:067c:2aec:0000:0000:0000:0000:0000	2001:067c:2aec:ffff:ffff:ffff:ffff:ffff	AT
-2001:067c:2af4:0000:0000:0000:0000:0000	2001:067c:2af4:ffff:ffff:ffff:ffff:ffff	AT
-2001:067c:2b04:0000:0000:0000:0000:0000	2001:067c:2b04:ffff:ffff:ffff:ffff:ffff	AT
-2001:067c:2b50:0000:0000:0000:0000:0000	2001:067c:2b50:ffff:ffff:ffff:ffff:ffff	AT
 2001:067c:2d58:0000:0000:0000:0000:0000	2001:067c:2d58:ffff:ffff:ffff:ffff:ffff	AT
 2001:067c:2e10:0000:0000:0000:0000:0000	2001:067c:2e10:ffff:ffff:ffff:ffff:ffff	AT
 2001:067c:2e14:0000:0000:0000:0000:0000	2001:067c:2e14:ffff:ffff:ffff:ffff:ffff	AT
@@ -384,5 +377,6 @@
 2a0f:97c0:0000:0000:0000:0000:0000:0000	2a0f:97c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0f:afc0:0000:0000:0000:0000:0000:0000	2a0f:afc7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0f:bac0:0000:0000:0000:0000:0000:0000	2a0f:bac7:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a0f:c640:0000:0000:0000:0000:0000:0000	2a0f:c647:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0f:dd00:0000:0000:0000:0000:0000:0000	2a0f:dd07:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0f:f080:0000:0000:0000:0000:0000:0000	2a0f:f087:ffff:ffff:ffff:ffff:ffff:ffff	AT

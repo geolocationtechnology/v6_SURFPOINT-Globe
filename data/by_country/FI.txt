@@ -85,6 +85,7 @@
 2a03:3220:0000:0000:0000:0000:0000:0000	2a03:3220:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a03:4d20:0000:0000:0000:0000:0000:0000	2a03:4d27:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a03:50a0:0000:0000:0000:0000:0000:0000	2a03:50a0:ffff:ffff:ffff:ffff:ffff:ffff	FI
+2a03:5340:0000:0000:0000:0000:0000:0000	2a03:5347:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a03:5fc0:0000:0000:0000:0000:0000:0000	2a03:5fc0:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a03:6f40:0000:0000:0000:0000:0000:0000	2a03:6f40:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a03:70a0:0000:0000:0000:0000:0000:0000	2a03:70a0:ffff:ffff:ffff:ffff:ffff:ffff	FI
@@ -238,4 +239,5 @@
 2a0f:5800:0000:0000:0000:0000:0000:0000	2a0f:5807:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:8d40:0000:0000:0000:0000:0000:0000	2a0f:8d47:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:ab40:0000:0000:0000:0000:0000:0000	2a0f:ab40:ffff:ffff:ffff:ffff:ffff:ffff	FI
+2a0f:c5c0:0000:0000:0000:0000:0000:0000	2a0f:c5c7:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:e400:0000:0000:0000:0000:0000:0000	2a0f:e407:ffff:ffff:ffff:ffff:ffff:ffff	FI
