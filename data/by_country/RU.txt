@@ -1,6 +1,5 @@
 2001:0640:0000:0000:0000:0000:0000:0000	2001:0640:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2001:06d0:0000:0000:0000:0000:0000:0000	2001:06d0:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2001:07f8:00e6:0000:0000:0000:0000:0000	2001:07f8:00e6:ffff:ffff:ffff:ffff:ffff	RU
 2001:0a58:0000:0000:0000:0000:0000:0000	2001:0a58:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2001:0b08:0000:0000:0000:0000:0000:0000	2001:0b08:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2001:1428:0000:0000:0000:0000:0000:0000	2001:1428:ffff:ffff:ffff:ffff:ffff:ffff	RU
@@ -1009,7 +1008,6 @@
 2a07:f600:0000:0000:0000:0000:0000:0000	2a07:f607:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:f640:0000:0000:0000:0000:0000:0000	2a07:f647:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:f8c0:0000:0000:0000:0000:0000:0000	2a07:f8c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a07:f9c0:0000:0000:0000:0000:0000:0000	2a07:f9c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:fa00:0000:0000:0000:0000:0000:0000	2a07:fa07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:fa40:0000:0000:0000:0000:0000:0000	2a07:fa47:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:0080:0000:0000:0000:0000:0000:0000	2a09:0087:ffff:ffff:ffff:ffff:ffff:ffff	RU
@@ -1336,7 +1334,6 @@
 2a0a:e8c0:0000:0000:0000:0000:0000:0000	2a0a:e8c0:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0a:ebc0:0000:0000:0000:0000:0000:0000	2a0a:ebc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0a:eec0:0000:0000:0000:0000:0000:0000	2a0a:eec0:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a0a:f080:0000:0000:0000:0000:0000:0000	2a0a:f087:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0a:f140:0000:0000:0000:0000:0000:0000	2a0a:f140:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0a:f200:0000:0000:0000:0000:0000:0000	2a0a:f207:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0a:f2c0:0000:0000:0000:0000:0000:0000	2a0a:f2c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
@@ -2064,6 +2061,7 @@
 2a0f:c780:0000:0000:0000:0000:0000:0000	2a0f:c787:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:c880:0000:0000:0000:0000:0000:0000	2a0f:c887:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:cb80:0000:0000:0000:0000:0000:0000	2a0f:cb87:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0f:cc40:0000:0000:0000:0000:0000:0000	2a0f:cc47:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:cc80:0000:0000:0000:0000:0000:0000	2a0f:cc87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:ce80:0000:0000:0000:0000:0000:0000	2a0f:ce80:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:cf80:0000:0000:0000:0000:0000:0000	2a0f:cf87:ffff:ffff:ffff:ffff:ffff:ffff	RU

@@ -2,6 +2,7 @@
 2001:0638:0000:0000:0000:0000:0000:0000	2001:063f:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0650:0000:0000:0000:0000:0000:0000	2001:065f:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0668:0000:0000:0000:0000:0000:0000	2001:066f:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2001:0678:0bac:0000:0000:0000:0000:0000	2001:0678:0bac:ffff:ffff:ffff:ffff:ffff	DE
 2001:0680:0000:0000:0000:0000:0000:0000	2001:0680:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0748:0000:0000:0000:0000:0000:0000	2001:0748:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0780:0000:0000:0000:0000:0000:0000	2001:0787:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1511,6 +1512,7 @@
 2a0b:a440:0000:0000:0000:0000:0000:0000	2a0b:a447:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0b:a5c0:0000:0000:0000:0000:0000:0000	2a0b:a5c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0b:a600:0000:0000:0000:0000:0000:0000	2a0b:a600:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0b:a640:0000:0000:0000:0000:0000:0000	2a0b:a647:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0b:a740:0000:0000:0000:0000:0000:0000	2a0b:a740:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0b:acc0:0000:0000:0000:0000:0000:0000	2a0b:acc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0b:af40:0000:0000:0000:0000:0000:0000	2a0b:af47:ffff:ffff:ffff:ffff:ffff:ffff	DE

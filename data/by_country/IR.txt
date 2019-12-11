@@ -342,5 +342,7 @@
 2a0f:b440:0000:0000:0000:0000:0000:0000	2a0f:b447:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0f:c040:0000:0000:0000:0000:0000:0000	2a0f:c047:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0f:c7c0:0000:0000:0000:0000:0000:0000	2a0f:c7c7:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a0f:cbc0:0000:0000:0000:0000:0000:0000	2a0f:cbc7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0f:d380:0000:0000:0000:0000:0000:0000	2a0f:d387:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0f:d580:0000:0000:0000:0000:0000:0000	2a0f:d587:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a0f:d640:0000:0000:0000:0000:0000:0000	2a0f:d647:ffff:ffff:ffff:ffff:ffff:ffff	IR

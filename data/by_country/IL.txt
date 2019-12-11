@@ -11,7 +11,7 @@
 2a00:dc20:0000:0000:0000:0000:0000:0000	2a00:dc20:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a01:4280:0000:0000:0000:0000:0000:0000	2a01:4280:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a01:58e0:0000:0000:0000:0000:0000:0000	2a01:58e0:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a01:6500:0000:0000:0000:0000:0000:0000	2a01:6500:ffff:ffff:ffff:ffff:ffff:ffff	IL
+2a01:6500:0000:0000:0000:0000:0000:0000	2a01:6507:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a01:73c0:0000:0000:0000:0000:0000:0000	2a01:73c0:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a01:92e0:0000:0000:0000:0000:0000:0000	2a01:92e0:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a02:0148:0000:0000:0000:0000:0000:0000	2a02:014f:ffff:ffff:ffff:ffff:ffff:ffff	IL

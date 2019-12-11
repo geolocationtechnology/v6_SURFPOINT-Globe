@@ -1,3 +1,4 @@
+2001:07f8:00e7:0000:0000:0000:0000:0000	2001:07f8:00e7:ffff:ffff:ffff:ffff:ffff	LI
 2a00:0ec0:0000:0000:0000:0000:0000:0000	2a00:0ec0:ffff:ffff:ffff:ffff:ffff:ffff	LI
 2a00:abc0:0000:0000:0000:0000:0000:0000	2a00:abc0:ffff:ffff:ffff:ffff:ffff:ffff	LI
 2a00:da60:0000:0000:0000:0000:0000:0000	2a00:da60:ffff:ffff:ffff:ffff:ffff:ffff	LI

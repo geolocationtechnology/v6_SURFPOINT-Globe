@@ -846,6 +846,7 @@
 2a0b:1800:0000:0000:0000:0000:0000:0000	2a0b:1807:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0b:1e80:0000:0000:0000:0000:0000:0000	2a0b:1e87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0b:2080:0000:0000:0000:0000:0000:0000	2a0b:2087:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0b:2340:0000:0000:0000:0000:0000:0000	2a0b:2347:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0b:2640:0000:0000:0000:0000:0000:0000	2a0b:2647:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0b:2a00:0000:0000:0000:0000:0000:0000	2a0b:2a07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0b:30c0:0000:0000:0000:0000:0000:0000	2a0b:30c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -1098,5 +1099,9 @@
 2a0f:c1c0:0000:0000:0000:0000:0000:0000	2a0f:c1c0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0f:c540:0000:0000:0000:0000:0000:0000	2a0f:c547:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0f:ce00:0000:0000:0000:0000:0000:0000	2a0f:ce07:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0f:d0c0:0000:0000:0000:0000:0000:0000	2a0f:d0c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0f:d1c0:0000:0000:0000:0000:0000:0000	2a0f:d1c0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0f:d200:0000:0000:0000:0000:0000:0000	2a0f:d207:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0f:d3c0:0000:0000:0000:0000:0000:0000	2a0f:d3c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0f:d4c0:0000:0000:0000:0000:0000:0000	2a0f:d4c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0f:ec00:0000:0000:0000:0000:0000:0000	2a0f:ec07:ffff:ffff:ffff:ffff:ffff:ffff	FR
