@@ -137,3 +137,4 @@
 2a0f:7ec0:0000:0000:0000:0000:0000:0000	2a0f:7ec0:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0f:8540:0000:0000:0000:0000:0000:0000	2a0f:8547:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0f:8940:0000:0000:0000:0000:0000:0000	2a0f:8947:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a0f:e5c0:0000:0000:0000:0000:0000:0000	2a0f:e5c7:ffff:ffff:ffff:ffff:ffff:ffff	HU

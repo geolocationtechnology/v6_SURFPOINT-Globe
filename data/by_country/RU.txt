@@ -2069,10 +2069,13 @@
 2a0f:d080:0000:0000:0000:0000:0000:0000	2a0f:d087:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:d400:0000:0000:0000:0000:0000:0000	2a0f:d407:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:da80:0000:0000:0000:0000:0000:0000	2a0f:da87:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0f:db40:0000:0000:0000:0000:0000:0000	2a0f:db47:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:db80:0000:0000:0000:0000:0000:0000	2a0f:db87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:dc00:0000:0000:0000:0000:0000:0000	2a0f:dc07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:e180:0000:0000:0000:0000:0000:0000	2a0f:e187:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0f:e240:0000:0000:0000:0000:0000:0000	2a0f:e247:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:e300:0000:0000:0000:0000:0000:0000	2a0f:e307:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0f:e340:0000:0000:0000:0000:0000:0000	2a0f:e347:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:e500:0000:0000:0000:0000:0000:0000	2a0f:e507:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:f000:0000:0000:0000:0000:0000:0000	2a0f:f007:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:f280:0000:0000:0000:0000:0000:0000	2a0f:f287:ffff:ffff:ffff:ffff:ffff:ffff	RU

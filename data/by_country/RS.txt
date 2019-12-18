@@ -75,4 +75,17 @@
 2a0f:7bc0:0000:0000:0000:0000:0000:0000	2a0f:7bc7:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:b180:0000:0000:0000:0000:0000:0000	2a0f:b187:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:b280:0000:0000:0000:0000:0000:0000	2a0f:b287:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:d940:0000:0000:0000:0000:0000:0000	2a0f:d947:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:d9c0:0000:0000:0000:0000:0000:0000	2a0f:d9c7:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:dac0:0000:0000:0000:0000:0000:0000	2a0f:dac7:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:dd40:0000:0000:0000:0000:0000:0000	2a0f:dd47:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:de40:0000:0000:0000:0000:0000:0000	2a0f:de47:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:dec0:0000:0000:0000:0000:0000:0000	2a0f:dec7:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:df40:0000:0000:0000:0000:0000:0000	2a0f:df47:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:dfc0:0000:0000:0000:0000:0000:0000	2a0f:dfc7:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:e040:0000:0000:0000:0000:0000:0000	2a0f:e047:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:e0c0:0000:0000:0000:0000:0000:0000	2a0f:e0c7:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:e140:0000:0000:0000:0000:0000:0000	2a0f:e147:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:e1c0:0000:0000:0000:0000:0000:0000	2a0f:e1c7:ffff:ffff:ffff:ffff:ffff:ffff	RS
+2a0f:e740:0000:0000:0000:0000:0000:0000	2a0f:e747:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:eb80:0000:0000:0000:0000:0000:0000	2a0f:eb87:ffff:ffff:ffff:ffff:ffff:ffff	RS

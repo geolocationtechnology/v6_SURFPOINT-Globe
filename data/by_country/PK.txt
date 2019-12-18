@@ -51,8 +51,6 @@
 2403:0440:0000:0000:0000:0000:0000:0000	2403:0440:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2403:0dc0:0000:0000:0000:0000:0000:0000	2403:0dc0:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2403:1bc0:0000:0000:0000:0000:0000:0000	2403:1bc0:ffff:ffff:ffff:ffff:ffff:ffff	PK
-2403:6340:0000:0000:0000:0000:0000:0000	2403:6340:ffff:ffff:ffff:ffff:ffff:ffff	PK
-2403:63c0:0000:0000:0000:0000:0000:0000	2403:63c0:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2403:7980:0000:0000:0000:0000:0000:0000	2403:7980:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2403:7ec0:0000:0000:0000:0000:0000:0000	2403:7ec0:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2403:a0c0:0000:0000:0000:0000:0000:0000	2403:a0c0:ffff:ffff:ffff:ffff:ffff:ffff	PK

@@ -186,3 +186,4 @@
 2a0f:8dc0:0000:0000:0000:0000:0000:0000	2a0f:8dc0:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0f:b640:0000:0000:0000:0000:0000:0000	2a0f:b647:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0f:dc80:0000:0000:0000:0000:0000:0000	2a0f:dc87:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a0f:edc0:0000:0000:0000:0000:0000:0000	2a0f:edc7:ffff:ffff:ffff:ffff:ffff:ffff	RO

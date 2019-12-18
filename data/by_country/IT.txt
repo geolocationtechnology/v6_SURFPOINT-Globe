@@ -27,6 +27,7 @@
 2001:4c00:0000:0000:0000:0000:0000:0000	2001:4c07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2001:4c90:0000:0000:0000:0000:0000:0000	2001:4c97:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2001:4d38:0000:0000:0000:0000:0000:0000	2001:4d38:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2605:2e00:0000:0000:0000:0000:0000:0000	2605:2e00:0fff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:0c18:0000:0000:0000:0000:0000:0000	2a00:0c18:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:0c50:0000:0000:0000:0000:0000:0000	2a00:0c57:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:0ca0:0000:0000:0000:0000:0000:0000	2a00:0ca0:ffff:ffff:ffff:ffff:ffff:ffff	IT
@@ -355,7 +356,6 @@
 2a04:2080:0000:0000:0000:0000:0000:0000	2a04:2087:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a04:22c0:0000:0000:0000:0000:0000:0000	2a04:22c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a04:2640:0000:0000:0000:0000:0000:0000	2a04:2647:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a04:2700:0000:0000:0000:0000:0000:0000	2a04:2707:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a04:3280:0000:0000:0000:0000:0000:0000	2a04:3287:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a04:3480:0000:0000:0000:0000:0000:0000	2a04:3487:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a04:39c0:0000:0000:0000:0000:0000:0000	2a04:39c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
@@ -755,7 +755,6 @@
 2a0d:9c00:0000:0000:0000:0000:0000:0000	2a0d:9c00:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:9f40:0000:0000:0000:0000:0000:0000	2a0d:9f47:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:a600:0000:0000:0000:0000:0000:0000	2a0d:a603:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a0d:b000:0000:0000:0000:0000:0000:0000	2a0d:b007:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:b280:0000:0000:0000:0000:0000:0000	2a0d:b287:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:b580:0000:0000:0000:0000:0000:0000	2a0d:b580:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:c280:0000:0000:0000:0000:0000:0000	2a0d:c287:ffff:ffff:ffff:ffff:ffff:ffff	IT
@@ -853,6 +852,7 @@
 2a0f:d2c0:0000:0000:0000:0000:0000:0000	2a0f:d2c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:d340:0000:0000:0000:0000:0000:0000	2a0f:d347:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:d540:0000:0000:0000:0000:0000:0000	2a0f:d547:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0f:d8c0:0000:0000:0000:0000:0000:0000	2a0f:d8c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:dd80:0000:0000:0000:0000:0000:0000	2a0f:dd87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:de80:0000:0000:0000:0000:0000:0000	2a0f:de87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0f:df80:0000:0000:0000:0000:0000:0000	2a0f:df87:ffff:ffff:ffff:ffff:ffff:ffff	IT

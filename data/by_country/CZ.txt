@@ -505,3 +505,4 @@
 2a0f:b880:0000:0000:0000:0000:0000:0000	2a0f:b887:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0f:c340:0000:0000:0000:0000:0000:0000	2a0f:c347:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0f:d240:0000:0000:0000:0000:0000:0000	2a0f:d240:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a0f:d7c0:0000:0000:0000:0000:0000:0000	2a0f:d7c0:ffff:ffff:ffff:ffff:ffff:ffff	CZ

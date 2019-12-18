@@ -186,6 +186,7 @@
 2a0a:2500:0000:0000:0000:0000:0000:0000	2a0a:2500:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0a:2a00:0000:0000:0000:0000:0000:0000	2a0a:2a00:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0a:2ec0:0000:0000:0000:0000:0000:0000	2a0a:2ec7:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a0a:44c0:0000:0000:0000:0000:0000:0000	2a0a:44c7:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0a:47c0:0000:0000:0000:0000:0000:0000	2a0a:47c7:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0a:5e40:0000:0000:0000:0000:0000:0000	2a0a:5e40:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0a:75c0:0000:0000:0000:0000:0000:0000	2a0a:75c0:ffff:ffff:ffff:ffff:ffff:ffff	BE
