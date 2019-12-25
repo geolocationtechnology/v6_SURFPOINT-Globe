@@ -1335,6 +1335,8 @@
 2405:9b80:0000:0000:0000:0000:0000:0000	2405:9b80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:9bc0:0000:0000:0000:0000:0000:0000	2405:9bc0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:9e00:0000:0000:0000:0000:0000:0000	2405:9e00:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2405:a240:0000:0000:0000:0000:0000:0000	2405:a240:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2405:a3c0:0000:0000:0000:0000:0000:0000	2405:a3c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:a500:0000:0000:0000:0000:0000:0000	2405:a500:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:a680:0000:0000:0000:0000:0000:0000	2405:a680:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:a900:0000:0000:0000:0000:0000:0000	2405:a900:ffff:ffff:ffff:ffff:ffff:ffff	CN

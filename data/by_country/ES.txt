@@ -843,3 +843,4 @@
 2a0f:f040:0000:0000:0000:0000:0000:0000	2a0f:f047:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0f:f180:0000:0000:0000:0000:0000:0000	2a0f:f180:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0f:f200:0000:0000:0000:0000:0000:0000	2a0f:f207:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a0f:f940:0000:0000:0000:0000:0000:0000	2a0f:f947:ffff:ffff:ffff:ffff:ffff:ffff	ES

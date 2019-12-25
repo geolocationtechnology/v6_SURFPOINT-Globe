@@ -1,3 +1,4 @@
+2001:0678:0bc4:0000:0000:0000:0000:0000	2001:0678:0bc4:ffff:ffff:ffff:ffff:ffff	DK
 2001:06c8:0000:0000:0000:0000:0000:0000	2001:06cf:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2001:0878:0000:0000:0000:0000:0000:0000	2001:087f:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2001:0b50:0000:0000:0000:0000:0000:0000	2001:0b50:ffff:ffff:ffff:ffff:ffff:ffff	DK
@@ -191,7 +192,6 @@
 2a07:2500:0000:0000:0000:0000:0000:0000	2a07:2507:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a07:39c0:0000:0000:0000:0000:0000:0000	2a07:39c7:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a07:42c0:0000:0000:0000:0000:0000:0000	2a07:42c7:ffff:ffff:ffff:ffff:ffff:ffff	DK
-2a07:5680:0000:0000:0000:0000:0000:0000	2a07:5687:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a07:5a00:0000:0000:0000:0000:0000:0000	2a07:5a07:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a07:77c0:0000:0000:0000:0000:0000:0000	2a07:77c7:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a07:7f40:0000:0000:0000:0000:0000:0000	2a07:7f47:ffff:ffff:ffff:ffff:ffff:ffff	DK
