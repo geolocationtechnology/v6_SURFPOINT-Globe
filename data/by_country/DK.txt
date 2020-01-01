@@ -1,4 +1,3 @@
-2001:0678:0bc4:0000:0000:0000:0000:0000	2001:0678:0bc4:ffff:ffff:ffff:ffff:ffff	DK
 2001:06c8:0000:0000:0000:0000:0000:0000	2001:06cf:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2001:0878:0000:0000:0000:0000:0000:0000	2001:087f:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2001:0b50:0000:0000:0000:0000:0000:0000	2001:0b50:ffff:ffff:ffff:ffff:ffff:ffff	DK
@@ -169,7 +168,6 @@
 2a06:2bc0:0000:0000:0000:0000:0000:0000	2a06:2bc7:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a06:4000:0000:0000:0000:0000:0000:0000	2a06:4007:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a06:4040:0000:0000:0000:0000:0000:0000	2a06:4047:ffff:ffff:ffff:ffff:ffff:ffff	DK
-2a06:5f80:0000:0000:0000:0000:0000:0000	2a06:5f87:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a06:7f00:0000:0000:0000:0000:0000:0000	2a06:7f07:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a06:89c0:0000:0000:0000:0000:0000:0000	2a06:89c0:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a06:9180:0000:0000:0000:0000:0000:0000	2a06:9187:ffff:ffff:ffff:ffff:ffff:ffff	DK
@@ -238,6 +236,7 @@
 2a0b:d2c0:0000:0000:0000:0000:0000:0000	2a0b:d2c7:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0b:ee00:0000:0000:0000:0000:0000:0000	2a0b:ee07:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0b:f700:0000:0000:0000:0000:0000:0000	2a0b:f707:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a0c:3f80:0000:0000:0000:0000:0000:0000	2a0c:3f87:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0c:4600:0000:0000:0000:0000:0000:0000	2a0c:4607:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0c:46c0:0000:0000:0000:0000:0000:0000	2a0c:46c7:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0c:4d80:0000:0000:0000:0000:0000:0000	2a0c:4d87:ffff:ffff:ffff:ffff:ffff:ffff	DK

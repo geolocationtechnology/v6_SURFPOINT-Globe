@@ -1,3 +1,4 @@
+2001:07f8:00ea:0000:0000:0000:0000:0000	2001:07f8:00ea:ffff:ffff:ffff:ffff:ffff	TR
 2001:0930:0000:0000:0000:0000:0000:0000	2001:0930:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2001:0a98:0000:0000:0000:0000:0000:0000	2001:0a98:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2001:1b68:0000:0000:0000:0000:0000:0000	2001:1b6f:ffff:ffff:ffff:ffff:ffff:ffff	TR
@@ -136,6 +137,7 @@
 2a04:e880:0000:0000:0000:0000:0000:0000	2a04:e887:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a04:fc80:0000:0000:0000:0000:0000:0000	2a04:fc87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a05:0300:0000:0000:0000:0000:0000:0000	2a05:0307:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a05:0600:0000:0000:0000:0000:0000:0000	2a05:0607:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a05:0800:0000:0000:0000:0000:0000:0000	2a05:0807:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a05:0e80:0000:0000:0000:0000:0000:0000	2a05:0e87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a05:13c0:0000:0000:0000:0000:0000:0000	2a05:13c7:ffff:ffff:ffff:ffff:ffff:ffff	TR

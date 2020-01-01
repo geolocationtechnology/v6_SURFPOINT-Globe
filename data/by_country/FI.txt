@@ -242,5 +242,4 @@
 2a0f:ab40:0000:0000:0000:0000:0000:0000	2a0f:ab40:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:c5c0:0000:0000:0000:0000:0000:0000	2a0f:c5c7:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:cfc0:0000:0000:0000:0000:0000:0000	2a0f:cfc0:ffff:ffff:ffff:ffff:ffff:ffff	FI
-2a0f:e400:0000:0000:0000:0000:0000:0000	2a0f:e407:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0f:f540:0000:0000:0000:0000:0000:0000	2a0f:f547:ffff:ffff:ffff:ffff:ffff:ffff	FI

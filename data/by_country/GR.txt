@@ -43,6 +43,7 @@
 2a06:09c0:0000:0000:0000:0000:0000:0000	2a06:09c7:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a06:3ac0:0000:0000:0000:0000:0000:0000	2a06:3ac7:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a06:3d00:0000:0000:0000:0000:0000:0000	2a06:3d07:ffff:ffff:ffff:ffff:ffff:ffff	GR
+2a06:5780:0000:0000:0000:0000:0000:0000	2a06:5787:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a06:9ec0:0000:0000:0000:0000:0000:0000	2a06:9ec7:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a07:08c0:0000:0000:0000:0000:0000:0000	2a07:08c7:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a07:9b00:0000:0000:0000:0000:0000:0000	2a07:9b07:ffff:ffff:ffff:ffff:ffff:ffff	GR
@@ -66,3 +67,4 @@
 2a0e:9c40:0000:0000:0000:0000:0000:0000	2a0e:9c47:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a0e:f840:0000:0000:0000:0000:0000:0000	2a0e:f847:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a0f:8780:0000:0000:0000:0000:0000:0000	2a0f:8787:ffff:ffff:ffff:ffff:ffff:ffff	GR
+2a0f:ffc0:0000:0000:0000:0000:0000:0000	2a0f:ffc7:ffff:ffff:ffff:ffff:ffff:ffff	GR

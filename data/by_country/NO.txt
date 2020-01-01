@@ -211,6 +211,7 @@
 2a05:9ac0:0000:0000:0000:0000:0000:0000	2a05:9ac7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a05:9cc0:0000:0000:0000:0000:0000:0000	2a05:9cc7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a05:aac0:0000:0000:0000:0000:0000:0000	2a05:aac7:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a05:b380:0000:0000:0000:0000:0000:0000	2a05:b387:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a05:be40:0000:0000:0000:0000:0000:0000	2a05:be47:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a05:c940:0000:0000:0000:0000:0000:0000	2a05:c947:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a05:e340:0000:0000:0000:0000:0000:0000	2a05:e347:ffff:ffff:ffff:ffff:ffff:ffff	NO
