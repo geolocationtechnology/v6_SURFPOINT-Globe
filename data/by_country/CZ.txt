@@ -1,3 +1,4 @@
+2001:0678:0be0:0000:0000:0000:0000:0000	2001:0678:0be0:ffff:ffff:ffff:ffff:ffff	CZ
 2001:0718:0000:0000:0000:0000:0000:0000	2001:071f:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2001:0ae8:0000:0000:0000:0000:0000:0000	2001:0ae8:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2001:0af0:0000:0000:0000:0000:0000:0000	2001:0af0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
@@ -74,6 +75,7 @@
 2a01:05e0:0000:0000:0000:0000:0000:0000	2a01:05e0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:05f0:0000:0000:0000:0000:0000:0000	2a01:05f7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:4240:0000:0000:0000:0000:0000:0000	2a01:4240:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a01:5340:0000:0000:0000:0000:0000:0000	2a01:5347:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:5bc0:0000:0000:0000:0000:0000:0000	2a01:5bc0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:6220:0000:0000:0000:0000:0000:0000	2a01:6220:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:6400:0000:0000:0000:0000:0000:0000	2a01:6400:ffff:ffff:ffff:ffff:ffff:ffff	CZ
@@ -362,6 +364,7 @@
 2a0a:6580:0000:0000:0000:0000:0000:0000	2a0a:6580:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0a:6a40:0000:0000:0000:0000:0000:0000	2a0a:6a47:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0a:7780:0000:0000:0000:0000:0000:0000	2a0a:7787:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a0a:8380:0000:0000:0000:0000:0000:0000	2a0a:8387:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0a:9680:0000:0000:0000:0000:0000:0000	2a0a:9687:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0a:99c0:0000:0000:0000:0000:0000:0000	2a0a:99c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0a:a800:0000:0000:0000:0000:0000:0000	2a0a:a807:ffff:ffff:ffff:ffff:ffff:ffff	CZ

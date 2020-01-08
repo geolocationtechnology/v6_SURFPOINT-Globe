@@ -769,6 +769,7 @@
 2a03:dfc0:0000:0000:0000:0000:0000:0000	2a03:dfc0:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a03:e1c0:0000:0000:0000:0000:0000:0000	2a03:e1c0:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a03:e300:0000:0000:0000:0000:0000:0000	2a03:e300:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a03:e440:0000:0000:0000:0000:0000:0000	2a03:e447:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a03:e880:0000:0000:0000:0000:0000:0000	2a03:e880:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a03:ed00:0000:0000:0000:0000:0000:0000	2a03:ed00:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a03:ee80:0000:0000:0000:0000:0000:0000	2a03:ee87:ffff:ffff:ffff:ffff:ffff:ffff	DE

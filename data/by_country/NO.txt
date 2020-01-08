@@ -250,6 +250,7 @@
 2a06:dcc0:0000:0000:0000:0000:0000:0000	2a06:dcc7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a06:f800:0000:0000:0000:0000:0000:0000	2a06:f807:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a06:fa80:0000:0000:0000:0000:0000:0000	2a06:fa87:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a07:0040:0000:0000:0000:0000:0000:0000	2a07:0047:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a07:0c40:0000:0000:0000:0000:0000:0000	2a07:0c47:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a07:1540:0000:0000:0000:0000:0000:0000	2a07:1547:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a07:1600:0000:0000:0000:0000:0000:0000	2a07:1607:ffff:ffff:ffff:ffff:ffff:ffff	NO
