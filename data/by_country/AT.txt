@@ -282,6 +282,7 @@
 2a0a:4740:0000:0000:0000:0000:0000:0000	2a0a:4747:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0a:4800:0000:0000:0000:0000:0000:0000	2a0a:4807:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0a:4d80:0000:0000:0000:0000:0000:0000	2a0a:4d87:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a0a:67c0:0000:0000:0000:0000:0000:0000	2a0a:67c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0a:70c0:0000:0000:0000:0000:0000:0000	2a0a:70c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0a:7c00:0000:0000:0000:0000:0000:0000	2a0a:7c07:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0a:7c80:0000:0000:0000:0000:0000:0000	2a0a:7c80:ffff:ffff:ffff:ffff:ffff:ffff	AT

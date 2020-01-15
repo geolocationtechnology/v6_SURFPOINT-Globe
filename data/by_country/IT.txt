@@ -397,6 +397,7 @@
 2a04:ee80:0000:0000:0000:0000:0000:0000	2a04:ee87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a04:ef40:0000:0000:0000:0000:0000:0000	2a04:ef47:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a04:efc0:0000:0000:0000:0000:0000:0000	2a04:efc7:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a04:f440:0000:0000:0000:0000:0000:0000	2a04:f447:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a04:f4c0:0000:0000:0000:0000:0000:0000	2a04:f4c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a04:fc00:0000:0000:0000:0000:0000:0000	2a04:fc07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a05:0040:0000:0000:0000:0000:0000:0000	2a05:0047:ffff:ffff:ffff:ffff:ffff:ffff	IT
@@ -512,6 +513,7 @@
 2a06:f340:0000:0000:0000:0000:0000:0000	2a06:f347:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:fac0:0000:0000:0000:0000:0000:0000	2a06:fac7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:02c0:0000:0000:0000:0000:0000:0000	2a07:02c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a07:0580:0000:0000:0000:0000:0000:0000	2a07:0587:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:0700:0000:0000:0000:0000:0000:0000	2a07:0707:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:0780:0000:0000:0000:0000:0000:0000	2a07:0787:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:1280:0000:0000:0000:0000:0000:0000	2a07:1287:ffff:ffff:ffff:ffff:ffff:ffff	IT
@@ -524,9 +526,12 @@
 2a07:2e80:0000:0000:0000:0000:0000:0000	2a07:2e87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:3540:0000:0000:0000:0000:0000:0000	2a07:3547:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:3d00:0000:0000:0000:0000:0000:0000	2a07:3d07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a07:4f00:0000:0000:0000:0000:0000:0000	2a07:4f07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:50c0:0000:0000:0000:0000:0000:0000	2a07:50c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a07:55c0:0000:0000:0000:0000:0000:0000	2a07:55c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:5700:0000:0000:0000:0000:0000:0000	2a07:5707:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:59c0:0000:0000:0000:0000:0000:0000	2a07:59c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a07:5ec0:0000:0000:0000:0000:0000:0000	2a07:5ec7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:5f00:0000:0000:0000:0000:0000:0000	2a07:5f07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:6e40:0000:0000:0000:0000:0000:0000	2a07:6e47:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a07:73c0:0000:0000:0000:0000:0000:0000	2a07:73c7:ffff:ffff:ffff:ffff:ffff:ffff	IT

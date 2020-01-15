@@ -283,6 +283,7 @@
 2a06:3640:0000:0000:0000:0000:0000:0000	2a06:3647:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a06:5e40:0000:0000:0000:0000:0000:0000	2a06:5e47:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a06:6180:0000:0000:0000:0000:0000:0000	2a06:6187:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a06:66c0:0000:0000:0000:0000:0000:0000	2a06:66c7:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a06:8400:0000:0000:0000:0000:0000:0000	2a06:8407:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a06:9c40:0000:0000:0000:0000:0000:0000	2a06:9c47:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a06:c240:0000:0000:0000:0000:0000:0000	2a06:c247:ffff:ffff:ffff:ffff:ffff:ffff	SE

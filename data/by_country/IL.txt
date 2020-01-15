@@ -38,6 +38,7 @@
 2a04:28a0:0000:0000:0000:0000:0000:0000	2a04:28a0:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a04:d980:0000:0000:0000:0000:0000:0000	2a04:d987:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a04:e980:0000:0000:0000:0000:0000:0000	2a04:e987:ffff:ffff:ffff:ffff:ffff:ffff	IL
+2a05:4500:0000:0000:0000:0000:0000:0000	2a05:4507:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a05:8b40:0000:0000:0000:0000:0000:0000	2a05:8b47:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a05:8d40:0000:0000:0000:0000:0000:0000	2a05:8d47:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a05:9e00:0000:0000:0000:0000:0000:0000	2a05:9e07:ffff:ffff:ffff:ffff:ffff:ffff	IL

@@ -223,6 +223,7 @@
 2a07:8d00:0000:0000:0000:0000:0000:0000	2a07:8d07:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a07:9640:0000:0000:0000:0000:0000:0000	2a07:9647:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a07:a5c0:0000:0000:0000:0000:0000:0000	2a07:a5c0:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a07:a700:0000:0000:0000:0000:0000:0000	2a07:a707:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a07:af80:0000:0000:0000:0000:0000:0000	2a07:af87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a07:cd00:0000:0000:0000:0000:0000:0000	2a07:cd07:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a07:d840:0000:0000:0000:0000:0000:0000	2a07:d847:ffff:ffff:ffff:ffff:ffff:ffff	TR
