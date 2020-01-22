@@ -26,7 +26,7 @@
 2a00:1308:0000:0000:0000:0000:0000:0000	2a00:1308:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a00:13a0:0000:0000:0000:0000:0000:0000	2a00:13a0:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a00:1488:0000:0000:0000:0000:0000:0000	2a00:1488:ffff:ffff:ffff:ffff:ffff:ffff	PL
-2a00:1578:0000:0000:0000:0000:0000:0000	2a00:1578:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a00:1578:0000:0000:0000:0000:0000:0000	2a00:157f:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a00:1980:0000:0000:0000:0000:0000:0000	2a00:1987:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a00:1998:0000:0000:0000:0000:0000:0000	2a00:1998:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a00:1a40:0000:0000:0000:0000:0000:0000	2a00:1a40:ffff:ffff:ffff:ffff:ffff:ffff	PL

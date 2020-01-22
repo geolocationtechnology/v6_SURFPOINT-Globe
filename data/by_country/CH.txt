@@ -473,6 +473,7 @@
 2a0b:5dc0:0000:0000:0000:0000:0000:0000	2a0b:5dc7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:6280:0000:0000:0000:0000:0000:0000	2a0b:6287:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:6880:0000:0000:0000:0000:0000:0000	2a0b:6880:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a0b:6fc0:0000:0000:0000:0000:0000:0000	2a0b:6fc7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:7800:0000:0000:0000:0000:0000:0000	2a0b:7807:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:83c0:0000:0000:0000:0000:0000:0000	2a0b:83c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:9640:0000:0000:0000:0000:0000:0000	2a0b:9647:ffff:ffff:ffff:ffff:ffff:ffff	CH

@@ -70,7 +70,6 @@
 2402:9a00:0000:0000:0000:0000:0000:0000	2402:9a00:ffff:ffff:ffff:ffff:ffff:ffff	MY
 2402:b400:0000:0000:0000:0000:0000:0000	2402:b400:ffff:ffff:ffff:ffff:ffff:ffff	MY
 2402:b4c0:0000:0000:0000:0000:0000:0000	2402:b4c0:ffff:ffff:ffff:ffff:ffff:ffff	MY
-2402:bf00:0000:0000:0000:0000:0000:0000	2402:bf00:ffff:ffff:ffff:ffff:ffff:ffff	MY
 2402:c780:0000:0000:0000:0000:0000:0000	2402:c780:ffff:ffff:ffff:ffff:ffff:ffff	MY
 2402:eec0:0000:0000:0000:0000:0000:0000	2402:eec0:ffff:ffff:ffff:ffff:ffff:ffff	MY
 2402:f5c0:0000:0000:0000:0000:0000:0000	2402:f5c0:ffff:ffff:ffff:ffff:ffff:ffff	MY

@@ -16,6 +16,7 @@
 2a09:b4c0:0000:0000:0000:0000:0000:0000	2a09:b4c7:ffff:ffff:ffff:ffff:ffff:ffff	SY
 2a09:ebc0:0000:0000:0000:0000:0000:0000	2a09:ebc7:ffff:ffff:ffff:ffff:ffff:ffff	SY
 2a0b:b6c0:0000:0000:0000:0000:0000:0000	2a0b:b6c7:ffff:ffff:ffff:ffff:ffff:ffff	SY
+2a0b:f2c0:0000:0000:0000:0000:0000:0000	2a0b:f2c7:ffff:ffff:ffff:ffff:ffff:ffff	SY
 2a0c:9940:0000:0000:0000:0000:0000:0000	2a0c:9947:ffff:ffff:ffff:ffff:ffff:ffff	SY
 2a0d:4100:0000:0000:0000:0000:0000:0000	2a0d:4100:ffff:ffff:ffff:ffff:ffff:ffff	SY
 2a0d:8b80:0000:0000:0000:0000:0000:0000	2a0d:8b87:ffff:ffff:ffff:ffff:ffff:ffff	SY

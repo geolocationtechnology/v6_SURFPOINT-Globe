@@ -77,6 +77,7 @@
 2405:7bc0:0000:0000:0000:0000:0000:0000	2405:7bc0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2405:8fc0:0000:0000:0000:0000:0000:0000	2405:8fc0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2405:9d80:0000:0000:0000:0000:0000:0000	2405:9d80:ffff:ffff:ffff:ffff:ffff:ffff	VN
+2405:be40:0000:0000:0000:0000:0000:0000	2405:be40:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2405:cb00:0000:0000:0000:0000:0000:0000	2405:cb00:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2405:cd00:0000:0000:0000:0000:0000:0000	2405:cd00:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2405:f980:0000:0000:0000:0000:0000:0000	2405:f980:ffff:ffff:ffff:ffff:ffff:ffff	VN

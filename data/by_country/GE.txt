@@ -36,6 +36,7 @@
 2a0a:e280:0000:0000:0000:0000:0000:0000	2a0a:e287:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a0b:6200:0000:0000:0000:0000:0000:0000	2a0b:6207:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a0b:8900:0000:0000:0000:0000:0000:0000	2a0b:8900:ffff:ffff:ffff:ffff:ffff:ffff	GE
+2a0b:c4c0:0000:0000:0000:0000:0000:0000	2a0b:c4c7:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a0b:f580:0000:0000:0000:0000:0000:0000	2a0b:f587:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a0c:6340:0000:0000:0000:0000:0000:0000	2a0c:6347:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a0c:a3c0:0000:0000:0000:0000:0000:0000	2a0c:a3c7:ffff:ffff:ffff:ffff:ffff:ffff	GE
