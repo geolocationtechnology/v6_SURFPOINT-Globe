@@ -133,7 +133,6 @@
 2a02:0078:0000:0000:0000:0000:0000:0000	2a02:0078:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a02:02a0:0000:0000:0000:0000:0000:0000	2a02:02a0:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a02:0478:0000:0000:0000:0000:0000:0000	2a02:0478:ffff:ffff:ffff:ffff:ffff:ffff	PL
-2a02:0748:0000:0000:0000:0000:0000:0000	2a02:0748:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a02:07f0:0000:0000:0000:0000:0000:0000	2a02:07f0:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a02:0848:0000:0000:0000:0000:0000:0000	2a02:0848:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a02:08f8:0000:0000:0000:0000:0000:0000	2a02:08f8:ffff:ffff:ffff:ffff:ffff:ffff	PL

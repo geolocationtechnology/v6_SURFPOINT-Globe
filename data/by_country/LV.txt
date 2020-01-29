@@ -65,3 +65,4 @@
 2a0d:1740:0000:0000:0000:0000:0000:0000	2a0d:1740:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a0e:e300:0000:0000:0000:0000:0000:0000	2a0e:e307:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a0f:cdc0:0000:0000:0000:0000:0000:0000	2a0f:cdc7:ffff:ffff:ffff:ffff:ffff:ffff	LV
+2a10:2000:0000:0000:0000:0000:0000:0000	2a10:2007:ffff:ffff:ffff:ffff:ffff:ffff	LV

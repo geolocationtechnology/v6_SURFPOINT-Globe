@@ -33,6 +33,7 @@
 2803:9c60:0000:0000:0000:0000:0000:0000	2803:9c60:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:a180:0000:0000:0000:0000:0000:0000	2803:a180:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:a280:0000:0000:0000:0000:0000:0000	2803:a280:ffff:ffff:ffff:ffff:ffff:ffff	DO
+2803:a2e0:0000:0000:0000:0000:0000:0000	2803:a2e0:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:a640:0000:0000:0000:0000:0000:0000	2803:a640:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:ab00:0000:0000:0000:0000:0000:0000	2803:ab00:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:ace0:0000:0000:0000:0000:0000:0000	2803:ace0:ffff:ffff:ffff:ffff:ffff:ffff	DO

@@ -53,5 +53,6 @@
 2a0c:e680:0000:0000:0000:0000:0000:0000	2a0c:e687:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0d:8240:0000:0000:0000:0000:0000:0000	2a0d:8247:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0d:b000:0000:0000:0000:0000:0000:0000	2a0d:b007:ffff:ffff:ffff:ffff:ffff:ffff	HR
+2a0d:f440:0000:0000:0000:0000:0000:0000	2a0d:f447:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0e:99c0:0000:0000:0000:0000:0000:0000	2a0e:99c7:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0e:bfc0:0000:0000:0000:0000:0000:0000	2a0e:bfc7:ffff:ffff:ffff:ffff:ffff:ffff	HR

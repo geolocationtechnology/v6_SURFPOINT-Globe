@@ -118,7 +118,7 @@
 2a03:3fa0:0000:0000:0000:0000:0000:0000	2a03:3fa0:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a03:46c0:0000:0000:0000:0000:0000:0000	2a03:46c0:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a03:4940:0000:0000:0000:0000:0000:0000	2a03:4940:ffff:ffff:ffff:ffff:ffff:ffff	DK
-2a03:4be0:0000:0000:0000:0000:0000:0000	2a03:4be0:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a03:4be0:0000:0000:0000:0000:0000:0000	2a03:4be7:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a03:53c0:0000:0000:0000:0000:0000:0000	2a03:53c0:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a03:5440:0000:0000:0000:0000:0000:0000	2a03:5447:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a03:66e0:0000:0000:0000:0000:0000:0000	2a03:66e0:ffff:ffff:ffff:ffff:ffff:ffff	DK
