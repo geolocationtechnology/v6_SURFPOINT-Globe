@@ -15,7 +15,6 @@
 2001:4528:0000:0000:0000:0000:0000:0000	2001:452b:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:11c0:0000:0000:0000:0000:0000:0000	2400:11c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:1600:0000:0000:0000:0000:0000:0000	2400:1600:ffff:ffff:ffff:ffff:ffff:ffff	IN
-2400:1e00:0000:0000:0000:0000:0000:0000	2400:1e00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:1f00:0000:0000:0000:0000:0000:0000	2400:1f00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3180:0000:0000:0000:0000:0000:0000	2400:3180:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3380:0000:0000:0000:0000:0000:0000	2400:3380:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -450,6 +449,8 @@
 2405:c3c0:0000:0000:0000:0000:0000:0000	2405:c3c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:c4c0:0000:0000:0000:0000:0000:0000	2405:c4c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:c6c0:0000:0000:0000:0000:0000:0000	2405:c6c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2405:ca40:0000:0000:0000:0000:0000:0000	2405:ca40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2405:cc40:0000:0000:0000:0000:0000:0000	2405:cc40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:e100:0000:0000:0000:0000:0000:0000	2405:e100:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:e200:0000:0000:0000:0000:0000:0000	2405:e200:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:e700:0000:0000:0000:0000:0000:0000	2405:e700:ffff:ffff:ffff:ffff:ffff:ffff	IN
