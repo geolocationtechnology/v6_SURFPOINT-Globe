@@ -28,3 +28,4 @@
 2a0a:2740:0000:0000:0000:0000:0000:0000	2a0a:2747:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a0c:39c0:0000:0000:0000:0000:0000:0000	2a0c:39c7:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a0e:db40:0000:0000:0000:0000:0000:0000	2a0e:db47:ffff:ffff:ffff:ffff:ffff:ffff	JO
+2a10:1100:0000:0000:0000:0000:0000:0000	2a10:1107:ffff:ffff:ffff:ffff:ffff:ffff	JO

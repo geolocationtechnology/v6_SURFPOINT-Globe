@@ -1481,3 +1481,6 @@
 2a0f:fd40:0000:0000:0000:0000:0000:0000	2a0f:fd47:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0f:fe80:0000:0000:0000:0000:0000:0000	2a0f:fe87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:0300:0000:0000:0000:0000:0000:0000	2a10:0307:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a10:0d00:0000:0000:0000:0000:0000:0000	2a10:0d07:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a10:2100:0000:0000:0000:0000:0000:0000	2a10:2100:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a10:2900:0000:0000:0000:0000:0000:0000	2a10:2907:ffff:ffff:ffff:ffff:ffff:ffff	NL
