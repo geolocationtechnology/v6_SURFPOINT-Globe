@@ -416,3 +416,4 @@
 2a0f:eb00:0000:0000:0000:0000:0000:0000	2a0f:eb07:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0f:ed00:0000:0000:0000:0000:0000:0000	2a0f:ed07:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0f:f900:0000:0000:0000:0000:0000:0000	2a0f:f907:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a10:3300:0000:0000:0000:0000:0000:0000	2a10:3307:ffff:ffff:ffff:ffff:ffff:ffff	TR

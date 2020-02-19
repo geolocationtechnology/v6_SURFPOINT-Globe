@@ -105,6 +105,8 @@
 2001:0df2:c600:0000:0000:0000:0000:0000	2001:0df2:c600:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df2:c800:0000:0000:0000:0000:0000	2001:0df2:c800:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df2:cb00:0000:0000:0000:0000:0000	2001:0df2:cb00:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df2:d480:0000:0000:0000:0000:0000	2001:0df2:d480:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df2:d880:0000:0000:0000:0000:0000	2001:0df2:d880:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df2:db00:0000:0000:0000:0000:0000	2001:0df2:db00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df2:de00:0000:0000:0000:0000:0000	2001:0df2:de00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df2:e700:0000:0000:0000:0000:0000	2001:0df2:e700:ffff:ffff:ffff:ffff:ffff	AU

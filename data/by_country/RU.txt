@@ -2088,7 +2088,10 @@
 2a0f:f6c0:0000:0000:0000:0000:0000:0000	2a0f:f6c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:fb00:0000:0000:0000:0000:0000:0000	2a0f:fb07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:ff80:0000:0000:0000:0000:0000:0000	2a0f:ff87:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a10:0080:0000:0000:0000:0000:0000:0000	2a10:0087:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:0500:0000:0000:0000:0000:0000:0000	2a10:0507:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a10:0580:0000:0000:0000:0000:0000:0000	2a10:0587:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:0900:0000:0000:0000:0000:0000:0000	2a10:0907:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:2700:0000:0000:0000:0000:0000:0000	2a10:2707:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a10:3100:0000:0000:0000:0000:0000:0000	2a10:3107:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:3c00:0000:0000:0000:0000:0000:0000	2a10:3c07:ffff:ffff:ffff:ffff:ffff:ffff	RU

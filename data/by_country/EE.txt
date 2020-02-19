@@ -65,7 +65,6 @@
 2a0a:d040:0000:0000:0000:0000:0000:0000	2a0a:d047:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0b:0040:0000:0000:0000:0000:0000:0000	2a0b:0047:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0b:2540:0000:0000:0000:0000:0000:0000	2a0b:2547:ffff:ffff:ffff:ffff:ffff:ffff	EE
-2a0b:34c0:0000:0000:0000:0000:0000:0000	2a0b:34c7:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0b:4440:0000:0000:0000:0000:0000:0000	2a0b:4447:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0b:6140:0000:0000:0000:0000:0000:0000	2a0b:6147:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0b:6c00:0000:0000:0000:0000:0000:0000	2a0b:6c07:ffff:ffff:ffff:ffff:ffff:ffff	EE

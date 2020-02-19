@@ -2049,6 +2049,8 @@
 2a0f:fa40:0000:0000:0000:0000:0000:0000	2a0f:fa47:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0f:ff00:0000:0000:0000:0000:0000:0000	2a0f:ff07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:0200:0000:0000:0000:0000:0000:0000	2a10:0200:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a10:0380:0000:0000:0000:0000:0000:0000	2a10:0387:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a10:0480:0000:0000:0000:0000:0000:0000	2a10:0487:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:2300:0000:0000:0000:0000:0000:0000	2a10:2307:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:2600:0000:0000:0000:0000:0000:0000	2a10:2607:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:3000:0000:0000:0000:0000:0000:0000	2a10:3007:ffff:ffff:ffff:ffff:ffff:ffff	DE
