@@ -871,6 +871,8 @@
 2a0f:f600:0000:0000:0000:0000:0000:0000	2a0f:f607:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:0280:0000:0000:0000:0000:0000:0000	2a10:0287:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:0c00:0000:0000:0000:0000:0000:0000	2a10:0c07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a10:0c80:0000:0000:0000:0000:0000:0000	2a10:0c87:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a10:1280:0000:0000:0000:0000:0000:0000	2a10:1287:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:1400:0000:0000:0000:0000:0000:0000	2a10:1407:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:2400:0000:0000:0000:0000:0000:0000	2a10:2407:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:2800:0000:0000:0000:0000:0000:0000	2a10:2807:ffff:ffff:ffff:ffff:ffff:ffff	IT

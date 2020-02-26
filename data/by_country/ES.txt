@@ -847,5 +847,6 @@
 2a0f:f200:0000:0000:0000:0000:0000:0000	2a0f:f207:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a0f:f940:0000:0000:0000:0000:0000:0000	2a0f:f947:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:1500:0000:0000:0000:0000:0000:0000	2a10:1507:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a10:2280:0000:0000:0000:0000:0000:0000	2a10:2287:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:3700:0000:0000:0000:0000:0000:0000	2a10:3707:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:3800:0000:0000:0000:0000:0000:0000	2a10:3807:ffff:ffff:ffff:ffff:ffff:ffff	ES

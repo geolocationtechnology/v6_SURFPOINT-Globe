@@ -92,7 +92,6 @@
 2602:fe3a:0000:0000:0000:0000:0000:0000	2602:fe3a:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fe46:0000:0000:0000:0000:0000:0000	2602:fe46:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fe4f:0000:0000:0000:0000:0000:0000	2602:fe4f:0fff:ffff:ffff:ffff:ffff:ffff	CA
-2602:fe53:0000:0000:0000:0000:0000:0000	2602:fe53:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fe57:0000:0000:0000:0000:0000:0000	2602:fe57:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fe69:0000:0000:0000:0000:0000:0000	2602:fe69:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fe6a:0000:0000:0000:0000:0000:0000	2602:fe6a:0fff:ffff:ffff:ffff:ffff:ffff	CA
