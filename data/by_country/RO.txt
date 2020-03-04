@@ -188,3 +188,4 @@
 2a0f:dc80:0000:0000:0000:0000:0000:0000	2a0f:dc87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0f:edc0:0000:0000:0000:0000:0000:0000	2a0f:edc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a10:2500:0000:0000:0000:0000:0000:0000	2a10:2507:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a10:2f80:0000:0000:0000:0000:0000:0000	2a10:2f87:ffff:ffff:ffff:ffff:ffff:ffff	RO

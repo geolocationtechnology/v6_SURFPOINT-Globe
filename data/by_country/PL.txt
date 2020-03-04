@@ -607,3 +607,5 @@
 2a10:0600:0000:0000:0000:0000:0000:0000	2a10:0607:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a10:0a00:0000:0000:0000:0000:0000:0000	2a10:0a07:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a10:0e00:0000:0000:0000:0000:0000:0000	2a10:0e07:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a10:3280:0000:0000:0000:0000:0000:0000	2a10:3287:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a10:3b80:0000:0000:0000:0000:0000:0000	2a10:3b87:ffff:ffff:ffff:ffff:ffff:ffff	PL

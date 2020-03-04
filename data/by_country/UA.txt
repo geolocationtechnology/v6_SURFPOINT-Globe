@@ -422,3 +422,4 @@
 2a0f:f4c0:0000:0000:0000:0000:0000:0000	2a0f:f4c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:0980:0000:0000:0000:0000:0000:0000	2a10:0981:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:0d80:0000:0000:0000:0000:0000:0000	2a10:0d87:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a10:3580:0000:0000:0000:0000:0000:0000	2a10:3587:ffff:ffff:ffff:ffff:ffff:ffff	UA

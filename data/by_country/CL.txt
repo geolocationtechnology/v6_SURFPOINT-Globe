@@ -119,7 +119,6 @@
 2803:6d80:0000:0000:0000:0000:0000:0000	2803:6d80:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:6f00:0000:0000:0000:0000:0000:0000	2803:6f00:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:6f20:0000:0000:0000:0000:0000:0000	2803:6f20:ffff:ffff:ffff:ffff:ffff:ffff	CL
-2803:70c0:0000:0000:0000:0000:0000:0000	2803:70c0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:7120:0000:0000:0000:0000:0000:0000	2803:7120:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:7500:0000:0000:0000:0000:0000:0000	2803:7500:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:76a0:0000:0000:0000:0000:0000:0000	2803:76a0:ffff:ffff:ffff:ffff:ffff:ffff	CL
@@ -184,7 +183,6 @@
 2803:d140:0000:0000:0000:0000:0000:0000	2803:d140:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:d1c0:0000:0000:0000:0000:0000:0000	2803:d1c0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:d2a0:0000:0000:0000:0000:0000:0000	2803:d2a0:ffff:ffff:ffff:ffff:ffff:ffff	CL
-2803:d380:0000:0000:0000:0000:0000:0000	2803:d380:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:d3c0:0000:0000:0000:0000:0000:0000	2803:d3c0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:d580:0000:0000:0000:0000:0000:0000	2803:d580:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:d5a0:0000:0000:0000:0000:0000:0000	2803:d5a0:ffff:ffff:ffff:ffff:ffff:ffff	CL
