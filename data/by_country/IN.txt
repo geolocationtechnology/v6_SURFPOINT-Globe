@@ -453,6 +453,8 @@
 2405:d8c0:0000:0000:0000:0000:0000:0000	2405:d8c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:e100:0000:0000:0000:0000:0000:0000	2405:e100:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:e200:0000:0000:0000:0000:0000:0000	2405:e200:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2405:e3c0:0000:0000:0000:0000:0000:0000	2405:e3c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2405:e5c0:0000:0000:0000:0000:0000:0000	2405:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:e700:0000:0000:0000:0000:0000:0000	2405:e700:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:f180:0000:0000:0000:0000:0000:0000	2405:f180:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:f300:0000:0000:0000:0000:0000:0000	2405:f300:ffff:ffff:ffff:ffff:ffff:ffff	IN

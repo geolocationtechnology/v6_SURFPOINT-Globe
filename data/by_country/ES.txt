@@ -69,7 +69,6 @@
 2a00:be60:0000:0000:0000:0000:0000:0000	2a00:be67:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a00:bec0:0000:0000:0000:0000:0000:0000	2a00:bec7:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a00:bf80:0000:0000:0000:0000:0000:0000	2a00:bf80:ffff:ffff:ffff:ffff:ffff:ffff	ES
-2a00:bfa0:0000:0000:0000:0000:0000:0000	2a00:bfa0:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a00:c140:0000:0000:0000:0000:0000:0000	2a00:c140:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a00:c180:0000:0000:0000:0000:0000:0000	2a00:c187:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a00:c420:0000:0000:0000:0000:0000:0000	2a00:c420:ffff:ffff:ffff:ffff:ffff:ffff	ES

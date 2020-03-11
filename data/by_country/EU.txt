@@ -59,3 +59,4 @@
 2a0d:9600:0000:0000:0000:0000:0000:0000	2a0d:9600:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0d:f400:0000:0000:0000:0000:0000:0000	2a0d:f407:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0e:6900:0000:0000:0000:0000:0000:0000	2a0e:6907:ffff:ffff:ffff:ffff:ffff:ffff	EU
+2a10:2f00:0000:0000:0000:0000:0000:0000	2a10:2f07:ffff:ffff:ffff:ffff:ffff:ffff	EU

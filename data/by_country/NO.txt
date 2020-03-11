@@ -235,7 +235,6 @@
 2a06:9f40:0000:0000:0000:0000:0000:0000	2a06:9f47:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a06:a580:0000:0000:0000:0000:0000:0000	2a06:a587:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a06:a740:0000:0000:0000:0000:0000:0000	2a06:a747:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a06:a8c0:0000:0000:0000:0000:0000:0000	2a06:a8c7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a06:ad00:0000:0000:0000:0000:0000:0000	2a06:ad07:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a06:b040:0000:0000:0000:0000:0000:0000	2a06:b047:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a06:b0c0:0000:0000:0000:0000:0000:0000	2a06:b0c7:ffff:ffff:ffff:ffff:ffff:ffff	NO
