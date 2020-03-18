@@ -1,6 +1,7 @@
 2001:42e0:0000:0000:0000:0000:0000:0000	2001:42e0:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2400:fd40:0000:0000:0000:0000:0000:0000	2400:fd40:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2407:6780:0000:0000:0000:0000:0000:0000	2407:6780:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a03:42e0:0000:0000:0000:0000:0000:0000	2a03:42e0:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a04:88c0:0000:0000:0000:0000:0000:0000	2a04:88c7:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a05:b300:0000:0000:0000:0000:0000:0000	2a05:b307:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a06:0e80:0000:0000:0000:0000:0000:0000	2a06:0e87:ffff:ffff:ffff:ffff:ffff:ffff	SC

@@ -455,7 +455,12 @@
 2405:e200:0000:0000:0000:0000:0000:0000	2405:e200:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:e3c0:0000:0000:0000:0000:0000:0000	2405:e3c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:e5c0:0000:0000:0000:0000:0000:0000	2405:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2405:e640:0000:0000:0000:0000:0000:0000	2405:e640:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:e700:0000:0000:0000:0000:0000:0000	2405:e700:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2405:e8c0:0000:0000:0000:0000:0000:0000	2405:e8c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2405:eb40:0000:0000:0000:0000:0000:0000	2405:eb40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2405:ebc0:0000:0000:0000:0000:0000:0000	2405:ebc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2405:ecc0:0000:0000:0000:0000:0000:0000	2405:ecc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:f180:0000:0000:0000:0000:0000:0000	2405:f180:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:f300:0000:0000:0000:0000:0000:0000	2405:f300:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2405:f600:0000:0000:0000:0000:0000:0000	2405:f600:ffff:ffff:ffff:ffff:ffff:ffff	IN

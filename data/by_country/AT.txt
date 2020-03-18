@@ -362,6 +362,7 @@
 2a0f:d040:0000:0000:0000:0000:0000:0000	2a0f:d040:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0f:dd00:0000:0000:0000:0000:0000:0000	2a0f:dd07:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0f:f080:0000:0000:0000:0000:0000:0000	2a0f:f087:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a10:0d40:0000:0000:0000:0000:0000:0000	2a10:0d47:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a10:1000:0000:0000:0000:0000:0000:0000	2a10:1007:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a10:1c80:0000:0000:0000:0000:0000:0000	2a10:1c87:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a10:1e00:0000:0000:0000:0000:0000:0000	2a10:1e00:ffff:ffff:ffff:ffff:ffff:ffff	AT
