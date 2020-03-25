@@ -1,6 +1,7 @@
 2001:4270:0000:0000:0000:0000:0000:0000	2001:4270:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2001:43b0:0000:0000:0000:0000:0000:0000	2001:43b0:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2001:43f8:1490:0000:0000:0000:0000:0000	2001:43f8:1490:ffff:ffff:ffff:ffff:ffff	NG
+2c0f:e830:0000:0000:0000:0000:0000:0000	2c0f:e830:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:ea38:0000:0000:0000:0000:0000:0000	2c0f:ea38:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:ea40:0000:0000:0000:0000:0000:0000	2c0f:ea40:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:ea98:0000:0000:0000:0000:0000:0000	2c0f:ea98:ffff:ffff:ffff:ffff:ffff:ffff	NG
