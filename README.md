@@ -1,5 +1,5 @@
-# SURFPOINT Globe v6
-"SURFPOINT Globe v6"は、株式会社GeolocationTechnology により調査・集計された、IPv6がどの国で利用されているかを集計したデータです。
+# v6 SURFPOINT-Globe
+"v6 SURFPOINT-Globe"は、株式会社GeolocationTechnology により調査・集計された、IPv6がどの国で利用されているかを集計したデータです。
   
 
 # ご利用用途など
@@ -12,7 +12,7 @@
   
 
 # 各国で利用されているIPアドレスについて
-SURFPOINT Globe v6から特定の国のみのIPアドレスを抜き出したデータを、"by_country"ディレクトリに同梱しております。
+v6 SURFPOINT-Globeから特定の国のみのIPアドレスを抜き出したデータを、"by_country"ディレクトリに同梱しております。
 ファイル名が国コードに対応しています。
   
 
