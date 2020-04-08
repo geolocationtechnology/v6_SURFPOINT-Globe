@@ -1388,6 +1388,8 @@
 2405:f380:0000:0000:0000:0000:0000:0000	2405:f380:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:f3c0:0000:0000:0000:0000:0000:0000	2405:f3c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:f580:0000:0000:0000:0000:0000:0000	2405:f580:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2405:f6c0:0000:0000:0000:0000:0000:0000	2405:f6c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2405:f940:0000:0000:0000:0000:0000:0000	2405:f940:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:fe80:0000:0000:0000:0000:0000:0000	2405:fe80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:ff80:0000:0000:0000:0000:0000:0000	2405:ff80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:0080:0000:0000:0000:0000:0000:0000	2406:0080:ffff:ffff:ffff:ffff:ffff:ffff	CN

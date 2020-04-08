@@ -12,6 +12,7 @@
 2a01:9240:0000:0000:0000:0000:0000:0000	2a01:9240:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a02:4380:0000:0000:0000:0000:0000:0000	2a02:4380:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a02:67a0:0000:0000:0000:0000:0000:0000	2a02:67a0:ffff:ffff:ffff:ffff:ffff:ffff	AZ
+2a02:e3c0:0000:0000:0000:0000:0000:0000	2a02:e3c7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a02:ecc0:0000:0000:0000:0000:0000:0000	2a02:ecc7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a03:08c0:0000:0000:0000:0000:0000:0000	2a03:08c0:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a03:4480:0000:0000:0000:0000:0000:0000	2a03:4480:ffff:ffff:ffff:ffff:ffff:ffff	AZ
@@ -42,3 +43,4 @@
 2a0f:4a40:0000:0000:0000:0000:0000:0000	2a0f:4a47:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a0f:7040:0000:0000:0000:0000:0000:0000	2a0f:7040:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a10:0180:0000:0000:0000:0000:0000:0000	2a10:0187:ffff:ffff:ffff:ffff:ffff:ffff	AZ
+2a10:25c0:0000:0000:0000:0000:0000:0000	2a10:25c7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
