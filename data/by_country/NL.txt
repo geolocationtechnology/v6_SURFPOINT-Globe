@@ -674,6 +674,7 @@
 2a06:25c0:0000:0000:0000:0000:0000:0000	2a06:25c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a06:2600:0000:0000:0000:0000:0000:0000	2a06:2607:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a06:29c0:0000:0000:0000:0000:0000:0000	2a06:29c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a06:2a00:0000:0000:0000:0000:0000:0000	2a06:2a07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a06:2a80:0000:0000:0000:0000:0000:0000	2a06:2a87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a06:2d40:0000:0000:0000:0000:0000:0000	2a06:2d47:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a06:2ec0:0000:0000:0000:0000:0000:0000	2a06:2ec7:ffff:ffff:ffff:ffff:ffff:ffff	NL

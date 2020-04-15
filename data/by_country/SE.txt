@@ -383,6 +383,7 @@
 2a0c:ccc0:0000:0000:0000:0000:0000:0000	2a0c:ccc7:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0c:dd40:0000:0000:0000:0000:0000:0000	2a0c:dd47:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0c:e580:0000:0000:0000:0000:0000:0000	2a0c:e587:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a0c:f740:0000:0000:0000:0000:0000:0000	2a0c:f747:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0d:0040:0000:0000:0000:0000:0000:0000	2a0d:0047:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0d:0900:0000:0000:0000:0000:0000:0000	2a0d:0900:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0d:1680:0000:0000:0000:0000:0000:0000	2a0d:1687:ffff:ffff:ffff:ffff:ffff:ffff	SE
@@ -432,5 +433,6 @@
 2a0f:d100:0000:0000:0000:0000:0000:0000	2a0f:d101:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0f:d740:0000:0000:0000:0000:0000:0000	2a0f:d740:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0f:df00:0000:0000:0000:0000:0000:0000	2a0f:df07:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a10:2740:0000:0000:0000:0000:0000:0000	2a10:2747:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a10:3080:0000:0000:0000:0000:0000:0000	2a10:3087:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a10:3f00:0000:0000:0000:0000:0000:0000	2a10:3f07:ffff:ffff:ffff:ffff:ffff:ffff	SE
