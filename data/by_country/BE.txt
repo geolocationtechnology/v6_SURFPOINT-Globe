@@ -240,3 +240,4 @@
 2a0f:f740:0000:0000:0000:0000:0000:0000	2a0f:f747:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a10:1740:0000:0000:0000:0000:0000:0000	2a10:1747:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a10:28c0:0000:0000:0000:0000:0000:0000	2a10:28c0:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a10:4c80:0000:0000:0000:0000:0000:0000	2a10:4c87:ffff:ffff:ffff:ffff:ffff:ffff	BE

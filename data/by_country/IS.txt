@@ -26,7 +26,6 @@
 2a02:1300:0000:0000:0000:0000:0000:0000	2a02:1300:ffff:ffff:ffff:ffff:ffff:ffff	IS
 2a02:4fa0:0000:0000:0000:0000:0000:0000	2a02:4fa0:ffff:ffff:ffff:ffff:ffff:ffff	IS
 2a02:6b80:0000:0000:0000:0000:0000:0000	2a02:6b80:ffff:ffff:ffff:ffff:ffff:ffff	IS
-2a02:7fe0:0000:0000:0000:0000:0000:0000	2a02:7fe7:ffff:ffff:ffff:ffff:ffff:ffff	IS
 2a03:5cc0:0000:0000:0000:0000:0000:0000	2a03:5cc0:ffff:ffff:ffff:ffff:ffff:ffff	IS
 2a03:74e0:0000:0000:0000:0000:0000:0000	2a03:74e0:ffff:ffff:ffff:ffff:ffff:ffff	IS
 2a03:eb80:0000:0000:0000:0000:0000:0000	2a03:eb80:ffff:ffff:ffff:ffff:ffff:ffff	IS

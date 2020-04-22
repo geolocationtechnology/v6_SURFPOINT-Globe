@@ -592,3 +592,4 @@
 2a10:1ac0:0000:0000:0000:0000:0000:0000	2a10:1ac7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a10:2440:0000:0000:0000:0000:0000:0000	2a10:2447:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a10:3500:0000:0000:0000:0000:0000:0000	2a10:3500:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a10:5300:0000:0000:0000:0000:0000:0000	2a10:5307:ffff:ffff:ffff:ffff:ffff:ffff	CH

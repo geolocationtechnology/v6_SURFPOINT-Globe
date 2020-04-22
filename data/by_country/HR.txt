@@ -57,3 +57,4 @@
 2a0e:99c0:0000:0000:0000:0000:0000:0000	2a0e:99c7:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0e:bfc0:0000:0000:0000:0000:0000:0000	2a0e:bfc7:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a10:0940:0000:0000:0000:0000:0000:0000	2a10:0947:ffff:ffff:ffff:ffff:ffff:ffff	HR
+2a10:5700:0000:0000:0000:0000:0000:0000	2a10:5707:ffff:ffff:ffff:ffff:ffff:ffff	HR

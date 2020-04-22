@@ -67,6 +67,7 @@
 2803:9d60:0000:0000:0000:0000:0000:0000	2803:9d60:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:ab20:0000:0000:0000:0000:0000:0000	2803:ab20:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:ad60:0000:0000:0000:0000:0000:0000	2803:ad60:ffff:ffff:ffff:ffff:ffff:ffff	VE
+2803:aee0:0000:0000:0000:0000:0000:0000	2803:aee0:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:b160:0000:0000:0000:0000:0000:0000	2803:b160:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:b400:0000:0000:0000:0000:0000:0000	2803:b400:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:b460:0000:0000:0000:0000:0000:0000	2803:b460:ffff:ffff:ffff:ffff:ffff:ffff	VE

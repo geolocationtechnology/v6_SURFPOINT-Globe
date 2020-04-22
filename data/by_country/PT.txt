@@ -90,3 +90,4 @@
 2a0f:c440:0000:0000:0000:0000:0000:0000	2a0f:c447:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0f:c700:0000:0000:0000:0000:0000:0000	2a0f:c707:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0f:d300:0000:0000:0000:0000:0000:0000	2a0f:d307:ffff:ffff:ffff:ffff:ffff:ffff	PT
+2a10:5000:0000:0000:0000:0000:0000:0000	2a10:5007:ffff:ffff:ffff:ffff:ffff:ffff	PT

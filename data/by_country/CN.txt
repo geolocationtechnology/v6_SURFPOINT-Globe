@@ -1394,8 +1394,13 @@
 2405:fe80:0000:0000:0000:0000:0000:0000	2405:fe80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:fec0:0000:0000:0000:0000:0000:0000	2405:fec0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2405:ff80:0000:0000:0000:0000:0000:0000	2405:ff80:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2406:0040:0000:0000:0000:0000:0000:0000	2406:0040:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:0080:0000:0000:0000:0000:0000:0000	2406:0080:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2406:00c0:0000:0000:0000:0000:0000:0000	2406:00c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2406:0140:0000:0000:0000:0000:0000:0000	2406:0140:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:0280:0000:0000:0000:0000:0000:0000	2406:0280:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2406:0440:0000:0000:0000:0000:0000:0000	2406:0440:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2406:04c0:0000:0000:0000:0000:0000:0000	2406:04c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:0880:0000:0000:0000:0000:0000:0000	2406:0880:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:0d80:0000:0000:0000:0000:0000:0000	2406:0d80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:0e80:0000:0000:0000:0000:0000:0000	2406:0e80:ffff:ffff:ffff:ffff:ffff:ffff	CN
@@ -1742,3 +1747,4 @@
 240f:4000:0000:0000:0000:0000:0000:0000	240f:40ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240f:8000:0000:0000:0000:0000:0000:0000	240f:80ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240f:c000:0000:0000:0000:0000:0000:0000	240f:c0ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2a10:4d00:0000:0000:0000:0000:0000:0000	2a10:4d07:ffff:ffff:ffff:ffff:ffff:ffff	CN
