@@ -368,3 +368,4 @@
 2a10:1e00:0000:0000:0000:0000:0000:0000	2a10:1e00:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a10:2680:0000:0000:0000:0000:0000:0000	2a10:2687:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a10:5e00:0000:0000:0000:0000:0000:0000	2a10:5e00:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a10:6c80:0000:0000:0000:0000:0000:0000	2a10:6c87:ffff:ffff:ffff:ffff:ffff:ffff	AT

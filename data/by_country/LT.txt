@@ -44,7 +44,6 @@
 2a05:6300:0000:0000:0000:0000:0000:0000	2a05:6307:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a05:7cc0:0000:0000:0000:0000:0000:0000	2a05:7cc7:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a05:9900:0000:0000:0000:0000:0000:0000	2a05:9907:ffff:ffff:ffff:ffff:ffff:ffff	LT
-2a05:9a40:0000:0000:0000:0000:0000:0000	2a05:9a47:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a06:a640:0000:0000:0000:0000:0000:0000	2a06:a647:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a06:da80:0000:0000:0000:0000:0000:0000	2a06:da87:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a06:fe00:0000:0000:0000:0000:0000:0000	2a06:fe07:ffff:ffff:ffff:ffff:ffff:ffff	LT
@@ -137,4 +136,3 @@
 2a10:14c0:0000:0000:0000:0000:0000:0000	2a10:14c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:17c0:0000:0000:0000:0000:0000:0000	2a10:17c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:3980:0000:0000:0000:0000:0000:0000	2a10:3987:ffff:ffff:ffff:ffff:ffff:ffff	LT
-2a10:3f80:0000:0000:0000:0000:0000:0000	2a10:3f87:ffff:ffff:ffff:ffff:ffff:ffff	LT
