@@ -4,6 +4,8 @@
 2001:0668:0000:0000:0000:0000:0000:0000	2001:066f:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0678:0d1c:0000:0000:0000:0000:0000	2001:0678:0d1c:ffff:ffff:ffff:ffff:ffff	DE
 2001:0678:0d20:0000:0000:0000:0000:0000	2001:0678:0d20:ffff:ffff:ffff:ffff:ffff	DE
+2001:0678:0d30:0000:0000:0000:0000:0000	2001:0678:0d30:ffff:ffff:ffff:ffff:ffff	DE
+2001:0678:0d34:0000:0000:0000:0000:0000	2001:0678:0d34:ffff:ffff:ffff:ffff:ffff	DE
 2001:0680:0000:0000:0000:0000:0000:0000	2001:0680:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0748:0000:0000:0000:0000:0000:0000	2001:0748:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0780:0000:0000:0000:0000:0000:0000	2001:0787:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1182,6 +1184,7 @@
 2a07:afc0:0000:0000:0000:0000:0000:0000	2a07:afc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:b200:0000:0000:0000:0000:0000:0000	2a07:b207:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:b800:0000:0000:0000:0000:0000:0000	2a07:b807:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a07:b980:0000:0000:0000:0000:0000:0000	2a07:b987:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:b9c0:0000:0000:0000:0000:0000:0000	2a07:b9c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:bb80:0000:0000:0000:0000:0000:0000	2a07:bb87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:bc00:0000:0000:0000:0000:0000:0000	2a07:bc07:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -2079,6 +2082,9 @@
 2a10:3880:0000:0000:0000:0000:0000:0000	2a10:3887:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:3d80:0000:0000:0000:0000:0000:0000	2a10:3d87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:4000:0000:0000:0000:0000:0000:0000	2a10:4007:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a10:4040:0000:0000:0000:0000:0000:0000	2a10:4047:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a10:40c0:0000:0000:0000:0000:0000:0000	2a10:40c0:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a10:41c0:0000:0000:0000:0000:0000:0000	2a10:41c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:4780:0000:0000:0000:0000:0000:0000	2a10:4780:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:5380:0000:0000:0000:0000:0000:0000	2a10:5380:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:7080:0000:0000:0000:0000:0000:0000	2a10:7087:ffff:ffff:ffff:ffff:ffff:ffff	DE
