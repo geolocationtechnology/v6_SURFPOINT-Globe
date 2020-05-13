@@ -206,7 +206,6 @@
 2a01:6de0:0000:0000:0000:0000:0000:0000	2a01:6de0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a01:6e00:0000:0000:0000:0000:0000:0000	2a01:6e00:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a01:7060:0000:0000:0000:0000:0000:0000	2a01:7060:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a01:71e0:0000:0000:0000:0000:0000:0000	2a01:71e0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a01:73a0:0000:0000:0000:0000:0000:0000	2a01:73a0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a01:7620:0000:0000:0000:0000:0000:0000	2a01:7620:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a01:7b20:0000:0000:0000:0000:0000:0000	2a01:7b20:ffff:ffff:ffff:ffff:ffff:ffff	FR

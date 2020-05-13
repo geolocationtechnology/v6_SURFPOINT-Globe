@@ -237,6 +237,7 @@
 2a04:e7c0:0000:0000:0000:0000:0000:0000	2a04:e7c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a04:f310:0000:0000:0000:0000:0000:0000	2a04:f311:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a04:f940:0000:0000:0000:0000:0000:0000	2a04:f947:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a04:fac0:0000:0000:0000:0000:0000:0000	2a04:fac7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a04:ff00:0000:0000:0000:0000:0000:0000	2a04:ff07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a05:02c0:0000:0000:0000:0000:0000:0000	2a05:02c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a05:1200:0000:0000:0000:0000:0000:0000	2a05:1203:ffff:ffff:ffff:ffff:ffff:ffff	CZ
@@ -260,6 +261,7 @@
 2a05:ec00:0000:0000:0000:0000:0000:0000	2a05:ec07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a05:fbe0:0000:0000:0000:0000:0000:0000	2a05:fbe3:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a06:0400:0000:0000:0000:0000:0000:0000	2a06:0407:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a06:1140:0000:0000:0000:0000:0000:0000	2a06:1147:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a06:1240:0000:0000:0000:0000:0000:0000	2a06:1247:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a06:1900:0000:0000:0000:0000:0000:0000	2a06:1907:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a06:2140:0000:0000:0000:0000:0000:0000	2a06:2147:ffff:ffff:ffff:ffff:ffff:ffff	CZ

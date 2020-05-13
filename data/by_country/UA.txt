@@ -61,7 +61,6 @@
 2a01:7120:0000:0000:0000:0000:0000:0000	2a01:7120:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a01:7160:0000:0000:0000:0000:0000:0000	2a01:7160:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a01:8140:0000:0000:0000:0000:0000:0000	2a01:8140:ffff:ffff:ffff:ffff:ffff:ffff	UA
-2a01:83a0:0000:0000:0000:0000:0000:0000	2a01:83a0:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a01:89a0:0000:0000:0000:0000:0000:0000	2a01:89a0:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a01:a240:0000:0000:0000:0000:0000:0000	2a01:a240:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a01:a300:0000:0000:0000:0000:0000:0000	2a01:a300:ffff:ffff:ffff:ffff:ffff:ffff	UA

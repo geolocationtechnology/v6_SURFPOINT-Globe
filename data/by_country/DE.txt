@@ -852,6 +852,7 @@
 2a04:9680:0000:0000:0000:0000:0000:0000	2a04:9687:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a04:9740:0000:0000:0000:0000:0000:0000	2a04:9747:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a04:9880:0000:0000:0000:0000:0000:0000	2a04:9887:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a04:9d00:0000:0000:0000:0000:0000:0000	2a04:9d07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a04:a080:0000:0000:0000:0000:0000:0000	2a04:a087:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a04:a400:0000:0000:0000:0000:0000:0000	2a04:a407:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a04:a540:0000:0000:0000:0000:0000:0000	2a04:a547:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -914,6 +915,7 @@
 2a05:32c0:0000:0000:0000:0000:0000:0000	2a05:32c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:3a40:0000:0000:0000:0000:0000:0000	2a05:3a40:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:3bc0:0000:0000:0000:0000:0000:0000	2a05:3bc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a05:3cc0:0000:0000:0000:0000:0000:0000	2a05:3cc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:3e00:0000:0000:0000:0000:0000:0000	2a05:3e07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:3fc0:0000:0000:0000:0000:0000:0000	2a05:3fc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:4300:0000:0000:0000:0000:0000:0000	2a05:4307:ffff:ffff:ffff:ffff:ffff:ffff	DE

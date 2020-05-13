@@ -9,4 +9,5 @@
 2404:adc0:0000:0000:0000:0000:0000:0000	2404:adc0:ffff:ffff:ffff:ffff:ffff:ffff	LA
 2404:c200:0000:0000:0000:0000:0000:0000	2404:c200:ffff:ffff:ffff:ffff:ffff:ffff	LA
 2405:1c40:0000:0000:0000:0000:0000:0000	2405:1c40:ffff:ffff:ffff:ffff:ffff:ffff	LA
+2406:1640:0000:0000:0000:0000:0000:0000	2406:1640:ffff:ffff:ffff:ffff:ffff:ffff	LA
 2407:4280:0000:0000:0000:0000:0000:0000	2407:4280:ffff:ffff:ffff:ffff:ffff:ffff	LA

@@ -35,6 +35,7 @@
 2a04:ad00:0000:0000:0000:0000:0000:0000	2a04:ad07:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a04:d100:0000:0000:0000:0000:0000:0000	2a04:d107:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a05:04c0:0000:0000:0000:0000:0000:0000	2a05:04c7:ffff:ffff:ffff:ffff:ffff:ffff	IQ
+2a05:27c0:0000:0000:0000:0000:0000:0000	2a05:27c0:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a05:50c0:0000:0000:0000:0000:0000:0000	2a05:50c7:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a05:55c0:0000:0000:0000:0000:0000:0000	2a05:55c7:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a05:7a00:0000:0000:0000:0000:0000:0000	2a05:7a07:ffff:ffff:ffff:ffff:ffff:ffff	IQ
