@@ -458,6 +458,7 @@
 2a06:0dc0:0000:0000:0000:0000:0000:0000	2a06:0dc7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:1f00:0000:0000:0000:0000:0000:0000	2a06:1f07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:2080:0000:0000:0000:0000:0000:0000	2a06:2087:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a06:2200:0000:0000:0000:0000:0000:0000	2a06:2207:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:3280:0000:0000:0000:0000:0000:0000	2a06:3287:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:3680:0000:0000:0000:0000:0000:0000	2a06:3687:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a06:38c0:0000:0000:0000:0000:0000:0000	2a06:38c7:ffff:ffff:ffff:ffff:ffff:ffff	IT

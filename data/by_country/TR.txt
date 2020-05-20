@@ -184,6 +184,7 @@
 2a06:1580:0000:0000:0000:0000:0000:0000	2a06:1587:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:2d00:0000:0000:0000:0000:0000:0000	2a06:2d07:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:2e40:0000:0000:0000:0000:0000:0000	2a06:2e47:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a06:39c0:0000:0000:0000:0000:0000:0000	2a06:39c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:41c0:0000:0000:0000:0000:0000:0000	2a06:41c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:4380:0000:0000:0000:0000:0000:0000	2a06:4387:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:4b40:0000:0000:0000:0000:0000:0000	2a06:4b47:ffff:ffff:ffff:ffff:ffff:ffff	TR

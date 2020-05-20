@@ -621,6 +621,7 @@
 2a06:8b80:0000:0000:0000:0000:0000:0000	2a06:8b87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:8bc0:0000:0000:0000:0000:0000:0000	2a06:8bc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:8c00:0000:0000:0000:0000:0000:0000	2a06:8c07:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a06:92c0:0000:0000:0000:0000:0000:0000	2a06:92c0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:9840:0000:0000:0000:0000:0000:0000	2a06:9847:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:a400:0000:0000:0000:0000:0000:0000	2a06:a407:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:a500:0000:0000:0000:0000:0000:0000	2a06:a507:ffff:ffff:ffff:ffff:ffff:ffff	FR

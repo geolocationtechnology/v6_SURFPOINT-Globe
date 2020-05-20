@@ -160,6 +160,7 @@
 2001:0df3:a880:0000:0000:0000:0000:0000	2001:0df3:a880:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df3:b280:0000:0000:0000:0000:0000	2001:0df3:b280:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df3:b400:0000:0000:0000:0000:0000	2001:0df3:b400:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df3:b680:0000:0000:0000:0000:0000	2001:0df3:b680:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df3:ba00:0000:0000:0000:0000:0000	2001:0df3:ba00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df3:c100:0000:0000:0000:0000:0000	2001:0df3:c100:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df3:c400:0000:0000:0000:0000:0000	2001:0df3:c400:ffff:ffff:ffff:ffff:ffff	AU
