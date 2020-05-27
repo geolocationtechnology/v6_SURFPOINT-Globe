@@ -927,10 +927,13 @@
 2a06:fa00:0000:0000:0000:0000:0000:0000	2a06:fa07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:fc00:0000:0000:0000:0000:0000:0000	2a06:fc07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:0280:0000:0000:0000:0000:0000:0000	2a07:0287:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a07:0400:0000:0000:0000:0000:0000:0000	2a07:0407:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:0500:0000:0000:0000:0000:0000:0000	2a07:0507:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a07:0640:0000:0000:0000:0000:0000:0000	2a07:0647:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:0880:0000:0000:0000:0000:0000:0000	2a07:0887:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:0b40:0000:0000:0000:0000:0000:0000	2a07:0b47:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:0c00:0000:0000:0000:0000:0000:0000	2a07:0c07:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a07:0c80:0000:0000:0000:0000:0000:0000	2a07:0c87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:0dc0:0000:0000:0000:0000:0000:0000	2a07:0dc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:1000:0000:0000:0000:0000:0000:0000	2a07:1007:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a07:1140:0000:0000:0000:0000:0000:0000	2a07:1147:ffff:ffff:ffff:ffff:ffff:ffff	RU

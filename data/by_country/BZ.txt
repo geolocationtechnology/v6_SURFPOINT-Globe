@@ -27,3 +27,4 @@
 2803:d520:0000:0000:0000:0000:0000:0000	2803:d520:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2803:d5c0:0000:0000:0000:0000:0000:0000	2803:d5c0:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2803:f900:0000:0000:0000:0000:0000:0000	2803:f900:ffff:ffff:ffff:ffff:ffff:ffff	BZ
+2a07:0180:0000:0000:0000:0000:0000:0000	2a07:0180:ffff:ffff:ffff:ffff:ffff:ffff	BZ
