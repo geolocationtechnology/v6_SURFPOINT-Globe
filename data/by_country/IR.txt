@@ -215,6 +215,7 @@
 2a07:b580:0000:0000:0000:0000:0000:0000	2a07:b587:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a07:bc80:0000:0000:0000:0000:0000:0000	2a07:bc87:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a07:c200:0000:0000:0000:0000:0000:0000	2a07:c207:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a07:e440:0000:0000:0000:0000:0000:0000	2a07:e447:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a07:e680:0000:0000:0000:0000:0000:0000	2a07:e687:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a07:e9c0:0000:0000:0000:0000:0000:0000	2a07:e9c7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a09:2a00:0000:0000:0000:0000:0000:0000	2a09:2a07:ffff:ffff:ffff:ffff:ffff:ffff	IR

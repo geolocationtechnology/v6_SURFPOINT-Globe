@@ -10,10 +10,12 @@
 2001:4d40:0000:0000:0000:0000:0000:0000	2001:4d47:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a00:1310:0000:0000:0000:0000:0000:0000	2a00:1310:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a00:1608:0000:0000:0000:0000:0000:0000	2a00:1608:ffff:ffff:ffff:ffff:ffff:ffff	EU
+2a00:6340:0000:0000:0000:0000:0000:0000	2a00:6347:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a00:8860:0000:0000:0000:0000:0000:0000	2a00:8867:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a00:9940:0000:0000:0000:0000:0000:0000	2a00:9940:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a00:e8a0:0000:0000:0000:0000:0000:0000	2a00:e8a0:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a01:0110:0000:0000:0000:0000:0000:0000	2a01:0111:ffff:ffff:ffff:ffff:ffff:ffff	EU
+2a01:0208:0000:0000:0000:0000:0000:0000	2a01:020f:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a01:0300:0000:0000:0000:0000:0000:0000	2a01:0307:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a01:03e0:0000:0000:0000:0000:0000:0000	2a01:03e0:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a01:62e0:0000:0000:0000:0000:0000:0000	2a01:62e0:ffff:ffff:ffff:ffff:ffff:ffff	EU
@@ -47,6 +49,7 @@
 2a06:8ec0:0000:0000:0000:0000:0000:0000	2a06:8ec7:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a06:d800:0000:0000:0000:0000:0000:0000	2a06:d807:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a07:9940:0000:0000:0000:0000:0000:0000	2a07:9947:ffff:ffff:ffff:ffff:ffff:ffff	EU
+2a07:e900:0000:0000:0000:0000:0000:0000	2a07:e907:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a09:0000:0000:0000:0000:0000:0000:0000	2a09:0007:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0a:1080:0000:0000:0000:0000:0000:0000	2a0a:1087:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0a:a240:0000:0000:0000:0000:0000:0000	2a0a:a240:ffff:ffff:ffff:ffff:ffff:ffff	EU
@@ -60,4 +63,5 @@
 2a0d:de80:0000:0000:0000:0000:0000:0000	2a0d:de87:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0d:f400:0000:0000:0000:0000:0000:0000	2a0d:f407:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0e:6900:0000:0000:0000:0000:0000:0000	2a0e:6907:ffff:ffff:ffff:ffff:ffff:ffff	EU
+2a0e:8f00:0000:0000:0000:0000:0000:0000	2a0e:8f07:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a10:2f00:0000:0000:0000:0000:0000:0000	2a10:2f07:ffff:ffff:ffff:ffff:ffff:ffff	EU
