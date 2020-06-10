@@ -3,5 +3,4 @@
 2a02:7f60:0000:0000:0000:0000:0000:0000	2a02:7f60:ffff:ffff:ffff:ffff:ffff:ffff	SM
 2a03:8b00:0000:0000:0000:0000:0000:0000	2a03:8b00:ffff:ffff:ffff:ffff:ffff:ffff	SM
 2a04:a340:0000:0000:0000:0000:0000:0000	2a04:a347:ffff:ffff:ffff:ffff:ffff:ffff	SM
-2a05:b600:0000:0000:0000:0000:0000:0000	2a05:b607:ffff:ffff:ffff:ffff:ffff:ffff	SM
 2a09:2100:0000:0000:0000:0000:0000:0000	2a09:2107:ffff:ffff:ffff:ffff:ffff:ffff	SM

@@ -50,6 +50,7 @@
 2a06:d800:0000:0000:0000:0000:0000:0000	2a06:d807:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a07:9940:0000:0000:0000:0000:0000:0000	2a07:9947:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a07:e900:0000:0000:0000:0000:0000:0000	2a07:e907:ffff:ffff:ffff:ffff:ffff:ffff	EU
+2a07:fa00:0000:0000:0000:0000:0000:0000	2a07:fa07:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a09:0000:0000:0000:0000:0000:0000:0000	2a09:0007:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0a:1080:0000:0000:0000:0000:0000:0000	2a0a:1087:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0a:a240:0000:0000:0000:0000:0000:0000	2a0a:a240:ffff:ffff:ffff:ffff:ffff:ffff	EU

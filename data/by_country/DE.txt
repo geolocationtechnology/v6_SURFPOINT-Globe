@@ -1218,12 +1218,14 @@
 2a07:ec40:0000:0000:0000:0000:0000:0000	2a07:ec47:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:ed00:0000:0000:0000:0000:0000:0000	2a07:ed07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:efc0:0000:0000:0000:0000:0000:0000	2a07:efc0:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a07:f000:0000:0000:0000:0000:0000:0000	2a07:f000:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:f0c0:0000:0000:0000:0000:0000:0000	2a07:f0c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:f340:0000:0000:0000:0000:0000:0000	2a07:f340:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:f400:0000:0000:0000:0000:0000:0000	2a07:f407:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:f500:0000:0000:0000:0000:0000:0000	2a07:f507:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:f580:0000:0000:0000:0000:0000:0000	2a07:f587:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:fac0:0000:0000:0000:0000:0000:0000	2a07:fac7:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a07:fbc0:0000:0000:0000:0000:0000:0000	2a07:fbc0:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:fc00:0000:0000:0000:0000:0000:0000	2a07:fc07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:fe00:0000:0000:0000:0000:0000:0000	2a07:fe07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:fe80:0000:0000:0000:0000:0000:0000	2a07:fe87:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1290,6 +1292,7 @@
 2a09:a540:0000:0000:0000:0000:0000:0000	2a09:a547:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:a640:0000:0000:0000:0000:0000:0000	2a09:a640:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:a6c0:0000:0000:0000:0000:0000:0000	2a09:a6c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a09:af00:0000:0000:0000:0000:0000:0000	2a09:af07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:afc0:0000:0000:0000:0000:0000:0000	2a09:afc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:b040:0000:0000:0000:0000:0000:0000	2a09:b047:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:b0c0:0000:0000:0000:0000:0000:0000	2a09:b0c0:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1353,6 +1356,7 @@
 2a0a:4e80:0000:0000:0000:0000:0000:0000	2a0a:4e87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:51c0:0000:0000:0000:0000:0000:0000	2a0a:51c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:5280:0000:0000:0000:0000:0000:0000	2a0a:5287:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0a:5340:0000:0000:0000:0000:0000:0000	2a0a:5347:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:59c0:0000:0000:0000:0000:0000:0000	2a0a:59c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:6100:0000:0000:0000:0000:0000:0000	2a0a:6107:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:6200:0000:0000:0000:0000:0000:0000	2a0a:6200:ffff:ffff:ffff:ffff:ffff:ffff	DE

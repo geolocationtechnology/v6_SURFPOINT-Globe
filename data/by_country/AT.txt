@@ -149,7 +149,6 @@
 2a03:90c0:0000:0000:0000:0000:0000:0000	2a03:90c0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a03:91e0:0000:0000:0000:0000:0000:0000	2a03:91e0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a03:97c0:0000:0000:0000:0000:0000:0000	2a03:97c1:ffff:ffff:ffff:ffff:ffff:ffff	AT
-2a03:9940:0000:0000:0000:0000:0000:0000	2a03:9940:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a03:9b20:0000:0000:0000:0000:0000:0000	2a03:9b20:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a03:a160:0000:0000:0000:0000:0000:0000	2a03:a160:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a03:ab40:0000:0000:0000:0000:0000:0000	2a03:ab40:ffff:ffff:ffff:ffff:ffff:ffff	AT
@@ -272,6 +271,7 @@
 2a0a:9940:0000:0000:0000:0000:0000:0000	2a0a:9947:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0a:9dc0:0000:0000:0000:0000:0000:0000	2a0a:9dc7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0a:cdc0:0000:0000:0000:0000:0000:0000	2a0a:cdc0:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a0a:cf80:0000:0000:0000:0000:0000:0000	2a0a:cf87:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0a:d7c0:0000:0000:0000:0000:0000:0000	2a0a:d7c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0a:f500:0000:0000:0000:0000:0000:0000	2a0a:f500:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0b:37c0:0000:0000:0000:0000:0000:0000	2a0b:37c7:ffff:ffff:ffff:ffff:ffff:ffff	AT

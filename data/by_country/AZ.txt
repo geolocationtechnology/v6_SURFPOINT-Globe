@@ -33,6 +33,7 @@
 2a05:f200:0000:0000:0000:0000:0000:0000	2a05:f207:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a06:91c0:0000:0000:0000:0000:0000:0000	2a06:91c7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a07:9500:0000:0000:0000:0000:0000:0000	2a07:9507:ffff:ffff:ffff:ffff:ffff:ffff	AZ
+2a07:f140:0000:0000:0000:0000:0000:0000	2a07:f147:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a09:ce80:0000:0000:0000:0000:0000:0000	2a09:ce87:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a0b:3e80:0000:0000:0000:0000:0000:0000	2a0b:3e87:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a0b:f9c0:0000:0000:0000:0000:0000:0000	2a0b:f9c7:ffff:ffff:ffff:ffff:ffff:ffff	AZ

@@ -6,7 +6,6 @@
 2001:0768:0000:0000:0000:0000:0000:0000	2001:0768:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2001:0798:0000:0000:0000:0000:0000:0000	2001:079f:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2001:07e0:0000:0000:0000:0000:0000:0000	2001:07e0:ffff:ffff:ffff:ffff:ffff:ffff	GB
-2001:07f8:00f3:0000:0000:0000:0000:0000	2001:07f8:00f3:ffff:ffff:ffff:ffff:ffff	GB
 2001:08b0:0000:0000:0000:0000:0000:0000	2001:08b0:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2001:0920:0000:0000:0000:0000:0000:0000	2001:0927:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2001:0958:0000:0000:0000:0000:0000:0000	2001:0958:ffff:ffff:ffff:ffff:ffff:ffff	GB
@@ -1210,6 +1209,8 @@
 2a07:e200:0000:0000:0000:0000:0000:0000	2a07:e207:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:e400:0000:0000:0000:0000:0000:0000	2a07:e407:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:e500:0000:0000:0000:0000:0000:0000	2a07:e507:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a07:e940:0000:0000:0000:0000:0000:0000	2a07:e947:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a07:f1c0:0000:0000:0000:0000:0000:0000	2a07:f1c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:f300:0000:0000:0000:0000:0000:0000	2a07:f307:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:f3c0:0000:0000:0000:0000:0000:0000	2a07:f3c0:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:f480:0000:0000:0000:0000:0000:0000	2a07:f487:ffff:ffff:ffff:ffff:ffff:ffff	GB
