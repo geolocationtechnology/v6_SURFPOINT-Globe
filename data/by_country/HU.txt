@@ -6,7 +6,7 @@
 2a00:10d0:0000:0000:0000:0000:0000:0000	2a00:10d0:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a00:1110:0000:0000:0000:0000:0000:0000	2a00:1117:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a00:15f0:0000:0000:0000:0000:0000:0000	2a00:15f0:ffff:ffff:ffff:ffff:ffff:ffff	HU
-2a00:1878:0000:0000:0000:0000:0000:0000	2a00:1878:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a00:1878:0000:0000:0000:0000:0000:0000	2a00:187f:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a00:1b90:0000:0000:0000:0000:0000:0000	2a00:1b90:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a00:1f40:0000:0000:0000:0000:0000:0000	2a00:1f47:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a00:5940:0000:0000:0000:0000:0000:0000	2a00:5940:ffff:ffff:ffff:ffff:ffff:ffff	HU
@@ -101,6 +101,7 @@
 2a0a:4000:0000:0000:0000:0000:0000:0000	2a0a:4007:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0a:66c0:0000:0000:0000:0000:0000:0000	2a0a:66c0:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0a:6f00:0000:0000:0000:0000:0000:0000	2a0a:6f07:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a0a:f640:0000:0000:0000:0000:0000:0000	2a0a:f640:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0b:1e00:0000:0000:0000:0000:0000:0000	2a0b:1e07:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0b:3dc0:0000:0000:0000:0000:0000:0000	2a0b:3dc0:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0b:9a80:0000:0000:0000:0000:0000:0000	2a0b:9a80:ffff:ffff:ffff:ffff:ffff:ffff	HU

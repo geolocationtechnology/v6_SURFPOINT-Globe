@@ -286,6 +286,7 @@
 2a0b:7640:0000:0000:0000:0000:0000:0000	2a0b:7647:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0b:7c00:0000:0000:0000:0000:0000:0000	2a0b:7c00:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0b:9e00:0000:0000:0000:0000:0000:0000	2a0b:9e07:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a0b:a1c0:0000:0000:0000:0000:0000:0000	2a0b:a1c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0b:a2c0:0000:0000:0000:0000:0000:0000	2a0b:a2c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0b:adc0:0000:0000:0000:0000:0000:0000	2a0b:adc7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0b:c200:0000:0000:0000:0000:0000:0000	2a0b:c207:ffff:ffff:ffff:ffff:ffff:ffff	AT

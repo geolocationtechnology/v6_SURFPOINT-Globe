@@ -1,7 +1,4 @@
 2001:0610:0000:0000:0000:0000:0000:0000	2001:0617:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2001:0678:0d68:0000:0000:0000:0000:0000	2001:0678:0d68:ffff:ffff:ffff:ffff:ffff	NL
-2001:0678:0d6c:0000:0000:0000:0000:0000	2001:0678:0d6c:ffff:ffff:ffff:ffff:ffff	NL
-2001:0678:0d70:0000:0000:0000:0000:0000	2001:0678:0d70:ffff:ffff:ffff:ffff:ffff	NL
 2001:06e0:0000:0000:0000:0000:0000:0000	2001:06e7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2001:07b8:0000:0000:0000:0000:0000:0000	2001:07bf:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2001:0828:0000:0000:0000:0000:0000:0000	2001:0828:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -459,7 +456,6 @@
 2a03:88c0:0000:0000:0000:0000:0000:0000	2a03:88c0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:8940:0000:0000:0000:0000:0000:0000	2a03:8940:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:8a60:0000:0000:0000:0000:0000:0000	2a03:8a60:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a03:8b80:0000:0000:0000:0000:0000:0000	2a03:8b80:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:8de0:0000:0000:0000:0000:0000:0000	2a03:8de0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:8e20:0000:0000:0000:0000:0000:0000	2a03:8e20:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:8f00:0000:0000:0000:0000:0000:0000	2a03:8f07:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -638,7 +634,6 @@
 2a05:ba00:0000:0000:0000:0000:0000:0000	2a05:ba00:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:c080:0000:0000:0000:0000:0000:0000	2a05:c087:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:c4c0:0000:0000:0000:0000:0000:0000	2a05:c4c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a05:c580:0000:0000:0000:0000:0000:0000	2a05:c587:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:c600:0000:0000:0000:0000:0000:0000	2a05:c607:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:cb00:0000:0000:0000:0000:0000:0000	2a05:cb07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:cb80:0000:0000:0000:0000:0000:0000	2a05:cb87:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -1085,6 +1080,7 @@
 2a0b:f380:0000:0000:0000:0000:0000:0000	2a0b:f387:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0b:f540:0000:0000:0000:0000:0000:0000	2a0b:f547:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0b:f600:0000:0000:0000:0000:0000:0000	2a0b:f607:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0c:0480:0000:0000:0000:0000:0000:0000	2a0c:0480:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0c:07c0:0000:0000:0000:0000:0000:0000	2a0c:07c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0c:1000:0000:0000:0000:0000:0000:0000	2a0c:1007:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0c:1840:0000:0000:0000:0000:0000:0000	2a0c:1847:ffff:ffff:ffff:ffff:ffff:ffff	NL
