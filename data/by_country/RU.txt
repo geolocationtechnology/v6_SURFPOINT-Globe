@@ -1,4 +1,5 @@
 2001:0640:0000:0000:0000:0000:0000:0000	2001:0640:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2001:0678:0dbc:0000:0000:0000:0000:0000	2001:0678:0dbc:ffff:ffff:ffff:ffff:ffff	RU
 2001:06d0:0000:0000:0000:0000:0000:0000	2001:06d0:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2001:0a58:0000:0000:0000:0000:0000:0000	2001:0a58:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2001:0b08:0000:0000:0000:0000:0000:0000	2001:0b08:ffff:ffff:ffff:ffff:ffff:ffff	RU
@@ -85,7 +86,6 @@
 2a00:4f80:0000:0000:0000:0000:0000:0000	2a00:4f80:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:50c0:0000:0000:0000:0000:0000:0000	2a00:50c0:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:5120:0000:0000:0000:0000:0000:0000	2a00:5120:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a00:5160:0000:0000:0000:0000:0000:0000	2a00:5160:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:5180:0000:0000:0000:0000:0000:0000	2a00:5180:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:5200:0000:0000:0000:0000:0000:0000	2a00:5200:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:5620:0000:0000:0000:0000:0000:0000	2a00:5620:ffff:ffff:ffff:ffff:ffff:ffff	RU
@@ -720,6 +720,7 @@
 2a04:7780:0000:0000:0000:0000:0000:0000	2a04:7787:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:7900:0000:0000:0000:0000:0000:0000	2a04:7907:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:7c80:0000:0000:0000:0000:0000:0000	2a04:7c87:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a04:7e00:0000:0000:0000:0000:0000:0000	2a04:7e07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:8240:0000:0000:0000:0000:0000:0000	2a04:8247:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:8580:0000:0000:0000:0000:0000:0000	2a04:8587:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:8780:0000:0000:0000:0000:0000:0000	2a04:8787:ffff:ffff:ffff:ffff:ffff:ffff	RU
@@ -1445,8 +1446,10 @@
 2a0c:0980:0000:0000:0000:0000:0000:0000	2a0c:0980:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:0ac0:0000:0000:0000:0000:0000:0000	2a0c:0ac7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:0b80:0000:0000:0000:0000:0000:0000	2a0c:0b87:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0c:1440:0000:0000:0000:0000:0000:0000	2a0c:1447:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:1800:0000:0000:0000:0000:0000:0000	2a0c:1807:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:1ac0:0000:0000:0000:0000:0000:0000	2a0c:1ac7:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0c:1bc0:0000:0000:0000:0000:0000:0000	2a0c:1bc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:1d80:0000:0000:0000:0000:0000:0000	2a0c:1d87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:2100:0000:0000:0000:0000:0000:0000	2a0c:2107:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:23c0:0000:0000:0000:0000:0000:0000	2a0c:23c7:ffff:ffff:ffff:ffff:ffff:ffff	RU

@@ -108,7 +108,6 @@
 2401:5a00:0000:0000:0000:0000:0000:0000	2401:5a00:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2401:5dc0:0000:0000:0000:0000:0000:0000	2401:5dc0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2401:7600:0000:0000:0000:0000:0000:0000	2401:7600:ffff:ffff:ffff:ffff:ffff:ffff	HK
-2401:79c0:0000:0000:0000:0000:0000:0000	2401:79c0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2401:7ac0:0000:0000:0000:0000:0000:0000	2401:7ac0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2401:7fc0:0000:0000:0000:0000:0000:0000	2401:7fc0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2401:8500:0000:0000:0000:0000:0000:0000	2401:8500:ffff:ffff:ffff:ffff:ffff:ffff	HK

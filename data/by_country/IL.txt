@@ -57,6 +57,7 @@
 2a06:e300:0000:0000:0000:0000:0000:0000	2a06:e307:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a07:1980:0000:0000:0000:0000:0000:0000	2a07:1987:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a07:40c0:0000:0000:0000:0000:0000:0000	2a07:40c7:ffff:ffff:ffff:ffff:ffff:ffff	IL
+2a07:5680:0000:0000:0000:0000:0000:0000	2a07:5687:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a07:7b00:0000:0000:0000:0000:0000:0000	2a07:7b07:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a07:e3c0:0000:0000:0000:0000:0000:0000	2a07:e3c0:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a07:e7c0:0000:0000:0000:0000:0000:0000	2a07:e7c7:ffff:ffff:ffff:ffff:ffff:ffff	IL
