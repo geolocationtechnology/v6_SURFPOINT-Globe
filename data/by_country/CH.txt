@@ -502,6 +502,7 @@
 2a0c:2240:0000:0000:0000:0000:0000:0000	2a0c:2247:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0c:2400:0000:0000:0000:0000:0000:0000	2a0c:2407:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0c:2c40:0000:0000:0000:0000:0000:0000	2a0c:2c47:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a0c:2fc0:0000:0000:0000:0000:0000:0000	2a0c:2fc7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0c:3800:0000:0000:0000:0000:0000:0000	2a0c:3800:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0c:40c0:0000:0000:0000:0000:0000:0000	2a0c:40c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0c:4100:0000:0000:0000:0000:0000:0000	2a0c:4107:ffff:ffff:ffff:ffff:ffff:ffff	CH

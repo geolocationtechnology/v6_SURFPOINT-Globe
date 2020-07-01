@@ -48,7 +48,7 @@
 2a00:1f30:0000:0000:0000:0000:0000:0000	2a00:1f37:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a00:1f58:0000:0000:0000:0000:0000:0000	2a00:1f5f:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a00:1f88:0000:0000:0000:0000:0000:0000	2a00:1f88:ffff:ffff:ffff:ffff:ffff:ffff	AT
-2a00:40c0:0000:0000:0000:0000:0000:0000	2a00:40c0:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a00:40c0:0000:0000:0000:0000:0000:0000	2a00:40c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a00:4400:0000:0000:0000:0000:0000:0000	2a00:4400:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a00:4680:0000:0000:0000:0000:0000:0000	2a00:4680:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a00:5320:0000:0000:0000:0000:0000:0000	2a00:5320:ffff:ffff:ffff:ffff:ffff:ffff	AT

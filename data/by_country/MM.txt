@@ -39,7 +39,6 @@
 2406:0780:0000:0000:0000:0000:0000:0000	2406:0780:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2406:1bc0:0000:0000:0000:0000:0000:0000	2406:1bc0:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2406:1c40:0000:0000:0000:0000:0000:0000	2406:1c40:ffff:ffff:ffff:ffff:ffff:ffff	MM
-2406:2bc0:0000:0000:0000:0000:0000:0000	2406:2bc0:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2406:b380:0000:0000:0000:0000:0000:0000	2406:b380:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2406:e480:0000:0000:0000:0000:0000:0000	2406:e480:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2406:ea00:0000:0000:0000:0000:0000:0000	2406:ea00:ffff:ffff:ffff:ffff:ffff:ffff	MM

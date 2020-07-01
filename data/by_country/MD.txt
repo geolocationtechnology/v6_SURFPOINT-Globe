@@ -15,6 +15,7 @@
 2a04:7580:0000:0000:0000:0000:0000:0000	2a04:7587:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a05:7140:0000:0000:0000:0000:0000:0000	2a05:7147:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a05:bf80:0000:0000:0000:0000:0000:0000	2a05:bf87:ffff:ffff:ffff:ffff:ffff:ffff	MD
+2a05:e600:0000:0000:0000:0000:0000:0000	2a05:e607:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a06:4980:0000:0000:0000:0000:0000:0000	2a06:4980:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a07:4140:0000:0000:0000:0000:0000:0000	2a07:4147:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a07:5540:0000:0000:0000:0000:0000:0000	2a07:5547:ffff:ffff:ffff:ffff:ffff:ffff	MD

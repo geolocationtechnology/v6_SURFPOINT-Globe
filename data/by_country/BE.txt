@@ -207,6 +207,7 @@
 2a0b:cb80:0000:0000:0000:0000:0000:0000	2a0b:cb87:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0c:10c0:0000:0000:0000:0000:0000:0000	2a0c:10c0:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0c:5380:0000:0000:0000:0000:0000:0000	2a0c:5387:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a0c:5780:0000:0000:0000:0000:0000:0000	2a0c:5787:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0c:7400:0000:0000:0000:0000:0000:0000	2a0c:7407:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0c:9c40:0000:0000:0000:0000:0000:0000	2a0c:9c40:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0c:b640:0000:0000:0000:0000:0000:0000	2a0c:b647:ffff:ffff:ffff:ffff:ffff:ffff	BE
