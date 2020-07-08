@@ -38,6 +38,7 @@
 2a09:6140:0000:0000:0000:0000:0000:0000	2a09:6147:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0a:7380:0000:0000:0000:0000:0000:0000	2a0a:7387:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0b:abc0:0000:0000:0000:0000:0000:0000	2a0b:abc7:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a0c:8600:0000:0000:0000:0000:0000:0000	2a0c:8607:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0c:f080:0000:0000:0000:0000:0000:0000	2a0c:f083:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0d:b200:0000:0000:0000:0000:0000:0000	2a0d:b207:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0d:bcc0:0000:0000:0000:0000:0000:0000	2a0d:bcc7:ffff:ffff:ffff:ffff:ffff:ffff	KZ

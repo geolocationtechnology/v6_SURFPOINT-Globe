@@ -99,7 +99,6 @@
 2a0d:7b00:0000:0000:0000:0000:0000:0000	2a0d:7b07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:85c0:0000:0000:0000:0000:0000:0000	2a0d:85c0:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:c940:0000:0000:0000:0000:0000:0000	2a0d:c947:ffff:ffff:ffff:ffff:ffff:ffff	LT
-2a0d:cf40:0000:0000:0000:0000:0000:0000	2a0d:cf47:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:db00:0000:0000:0000:0000:0000:0000	2a0d:db07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:df40:0000:0000:0000:0000:0000:0000	2a0d:df47:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:e0c0:0000:0000:0000:0000:0000:0000	2a0d:e0c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
