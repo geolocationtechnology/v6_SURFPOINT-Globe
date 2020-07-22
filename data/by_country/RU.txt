@@ -1537,6 +1537,7 @@
 2a0c:c140:0000:0000:0000:0000:0000:0000	2a0c:c147:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:c180:0000:0000:0000:0000:0000:0000	2a0c:c187:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:c1c0:0000:0000:0000:0000:0000:0000	2a0c:c1c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a0c:c240:0000:0000:0000:0000:0000:0000	2a0c:c247:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:c580:0000:0000:0000:0000:0000:0000	2a0c:c587:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:c700:0000:0000:0000:0000:0000:0000	2a0c:c707:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0c:cec0:0000:0000:0000:0000:0000:0000	2a0c:cec7:ffff:ffff:ffff:ffff:ffff:ffff	RU

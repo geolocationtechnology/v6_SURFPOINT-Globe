@@ -4,6 +4,7 @@
 2c0f:e878:0000:0000:0000:0000:0000:0000	2c0f:e878:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:e888:0000:0000:0000:0000:0000:0000	2c0f:e888:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:e8b8:0000:0000:0000:0000:0000:0000	2c0f:e8b8:ffff:ffff:ffff:ffff:ffff:ffff	NG
+2c0f:e8f0:0000:0000:0000:0000:0000:0000	2c0f:e8f0:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:ea38:0000:0000:0000:0000:0000:0000	2c0f:ea38:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:ea40:0000:0000:0000:0000:0000:0000	2c0f:ea40:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:ea98:0000:0000:0000:0000:0000:0000	2c0f:ea98:ffff:ffff:ffff:ffff:ffff:ffff	NG
