@@ -137,6 +137,7 @@
 2a0c:ca80:0000:0000:0000:0000:0000:0000	2a0c:ca87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0c:cb40:0000:0000:0000:0000:0000:0000	2a0c:cb47:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0c:eec0:0000:0000:0000:0000:0000:0000	2a0c:eec7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a0c:fa80:0000:0000:0000:0000:0000:0000	2a0c:fa87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0c:fc40:0000:0000:0000:0000:0000:0000	2a0c:fc47:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0d:2b80:0000:0000:0000:0000:0000:0000	2a0d:2b87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a0d:2f80:0000:0000:0000:0000:0000:0000	2a0d:2f87:ffff:ffff:ffff:ffff:ffff:ffff	RO

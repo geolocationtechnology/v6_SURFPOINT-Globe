@@ -114,6 +114,7 @@
 2a04:0b80:0000:0000:0000:0000:0000:0000	2a04:0b87:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a04:3700:0000:0000:0000:0000:0000:0000	2a04:3707:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a04:4400:0000:0000:0000:0000:0000:0000	2a04:4407:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a04:4480:0000:0000:0000:0000:0000:0000	2a04:4480:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a04:4720:0000:0000:0000:0000:0000:0000	2a04:4723:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a04:6180:0000:0000:0000:0000:0000:0000	2a04:6187:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a04:6480:0000:0000:0000:0000:0000:0000	2a04:6487:ffff:ffff:ffff:ffff:ffff:ffff	BE

@@ -447,7 +447,7 @@
 2a03:79e0:0000:0000:0000:0000:0000:0000	2a03:79e0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:7b40:0000:0000:0000:0000:0000:0000	2a03:7b40:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:7e20:0000:0000:0000:0000:0000:0000	2a03:7e20:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a03:80a0:0000:0000:0000:0000:0000:0000	2a03:80a0:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a03:80a0:0000:0000:0000:0000:0000:0000	2a03:80a7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:8100:0000:0000:0000:0000:0000:0000	2a03:8100:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:8180:0000:0000:0000:0000:0000:0000	2a03:8180:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:82e0:0000:0000:0000:0000:0000:0000	2a03:82e0:ffff:ffff:ffff:ffff:ffff:ffff	NL
