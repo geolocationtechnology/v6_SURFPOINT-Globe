@@ -1224,12 +1224,14 @@
 2a0d:d240:0000:0000:0000:0000:0000:0000	2a0d:d247:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:d640:0000:0000:0000:0000:0000:0000	2a0d:d647:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:d8c0:0000:0000:0000:0000:0000:0000	2a0d:d8c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0d:df00:0000:0000:0000:0000:0000:0000	2a0d:df07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:e5c0:0000:0000:0000:0000:0000:0000	2a0d:e5c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:ea80:0000:0000:0000:0000:0000:0000	2a0d:ea87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:ed40:0000:0000:0000:0000:0000:0000	2a0d:ed40:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:f0c0:0000:0000:0000:0000:0000:0000	2a0d:f0c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:f200:0000:0000:0000:0000:0000:0000	2a0d:f207:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:f240:0000:0000:0000:0000:0000:0000	2a0d:f240:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0d:f300:0000:0000:0000:0000:0000:0000	2a0d:f307:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:fa40:0000:0000:0000:0000:0000:0000	2a0d:fa47:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:ff80:0000:0000:0000:0000:0000:0000	2a0d:ff80:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0e:0300:0000:0000:0000:0000:0000:0000	2a0e:0307:ffff:ffff:ffff:ffff:ffff:ffff	NL

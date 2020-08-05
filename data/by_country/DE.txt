@@ -7,6 +7,8 @@
 2001:0678:0da8:0000:0000:0000:0000:0000	2001:0678:0da8:ffff:ffff:ffff:ffff:ffff	DE
 2001:0678:0dac:0000:0000:0000:0000:0000	2001:0678:0dac:ffff:ffff:ffff:ffff:ffff	DE
 2001:0678:0ddc:0000:0000:0000:0000:0000	2001:0678:0ddc:ffff:ffff:ffff:ffff:ffff	DE
+2001:0678:0de0:0000:0000:0000:0000:0000	2001:0678:0de0:ffff:ffff:ffff:ffff:ffff	DE
+2001:0678:0de4:0000:0000:0000:0000:0000	2001:0678:0de4:ffff:ffff:ffff:ffff:ffff	DE
 2001:0680:0000:0000:0000:0000:0000:0000	2001:0680:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0748:0000:0000:0000:0000:0000:0000	2001:0748:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0780:0000:0000:0000:0000:0000:0000	2001:0787:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1723,6 +1725,7 @@
 2a0d:0880:0000:0000:0000:0000:0000:0000	2a0d:0887:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:0c80:0000:0000:0000:0000:0000:0000	2a0d:0c87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:0f40:0000:0000:0000:0000:0000:0000	2a0d:0f47:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0d:1080:0000:0000:0000:0000:0000:0000	2a0d:1087:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:1140:0000:0000:0000:0000:0000:0000	2a0d:1147:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:1440:0000:0000:0000:0000:0000:0000	2a0d:1447:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:1480:0000:0000:0000:0000:0000:0000	2a0d:1487:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1737,7 +1740,6 @@
 2a0d:2140:0000:0000:0000:0000:0000:0000	2a0d:2147:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:2240:0000:0000:0000:0000:0000:0000	2a0d:2247:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:22c0:0000:0000:0000:0000:0000:0000	2a0d:22c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
-2a0d:2480:0000:0000:0000:0000:0000:0000	2a0d:2487:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:2940:0000:0000:0000:0000:0000:0000	2a0d:2947:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:2d40:0000:0000:0000:0000:0000:0000	2a0d:2d47:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0d:2d80:0000:0000:0000:0000:0000:0000	2a0d:2d87:ffff:ffff:ffff:ffff:ffff:ffff	DE

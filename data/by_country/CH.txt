@@ -320,7 +320,6 @@
 2a05:7e00:0000:0000:0000:0000:0000:0000	2a05:7e07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a05:8000:0000:0000:0000:0000:0000:0000	2a05:8007:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a05:8140:0000:0000:0000:0000:0000:0000	2a05:8147:ffff:ffff:ffff:ffff:ffff:ffff	CH
-2a05:88a0:0000:0000:0000:0000:0000:0000	2a05:88a3:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a05:8f00:0000:0000:0000:0000:0000:0000	2a05:8f07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a05:9040:0000:0000:0000:0000:0000:0000	2a05:9047:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a05:9a80:0000:0000:0000:0000:0000:0000	2a05:9a87:ffff:ffff:ffff:ffff:ffff:ffff	CH
@@ -549,6 +548,7 @@
 2a0d:d740:0000:0000:0000:0000:0000:0000	2a0d:d747:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0d:d9c0:0000:0000:0000:0000:0000:0000	2a0d:d9c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0d:e940:0000:0000:0000:0000:0000:0000	2a0d:e940:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a0d:ec00:0000:0000:0000:0000:0000:0000	2a0d:ec07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0d:ed80:0000:0000:0000:0000:0000:0000	2a0d:ed80:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0e:1080:0000:0000:0000:0000:0000:0000	2a0e:1087:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0e:1540:0000:0000:0000:0000:0000:0000	2a0e:1547:ffff:ffff:ffff:ffff:ffff:ffff	CH

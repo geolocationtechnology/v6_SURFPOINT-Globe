@@ -316,7 +316,6 @@
 2a0c:e5c0:0000:0000:0000:0000:0000:0000	2a0c:e5c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0c:ec80:0000:0000:0000:0000:0000:0000	2a0c:ec80:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0c:fb00:0000:0000:0000:0000:0000:0000	2a0c:fb07:ffff:ffff:ffff:ffff:ffff:ffff	AT
-2a0d:0740:0000:0000:0000:0000:0000:0000	2a0d:0747:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0d:1280:0000:0000:0000:0000:0000:0000	2a0d:1287:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0d:15c0:0000:0000:0000:0000:0000:0000	2a0d:15c0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0d:1a80:0000:0000:0000:0000:0000:0000	2a0d:1a87:ffff:ffff:ffff:ffff:ffff:ffff	AT

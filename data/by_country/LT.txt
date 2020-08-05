@@ -1,3 +1,4 @@
+2001:067c:2ffc:0000:0000:0000:0000:0000	2001:067c:2ffc:ffff:ffff:ffff:ffff:ffff	LT
 2001:0778:0000:0000:0000:0000:0000:0000	2001:077f:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2001:1ab8:0000:0000:0000:0000:0000:0000	2001:1abb:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2001:4048:0000:0000:0000:0000:0000:0000	2001:4048:ffff:ffff:ffff:ffff:ffff:ffff	LT
@@ -94,6 +95,7 @@
 2a0b:5600:0000:0000:0000:0000:0000:0000	2a0b:5600:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0c:8340:0000:0000:0000:0000:0000:0000	2a0c:8347:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:1580:0000:0000:0000:0000:0000:0000	2a0d:1580:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a0d:2200:0000:0000:0000:0000:0000:0000	2a0d:2207:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:4180:0000:0000:0000:0000:0000:0000	2a0d:4187:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:5000:0000:0000:0000:0000:0000:0000	2a0d:5007:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:7b00:0000:0000:0000:0000:0000:0000	2a0d:7b07:ffff:ffff:ffff:ffff:ffff:ffff	LT

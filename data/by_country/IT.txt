@@ -85,13 +85,11 @@
 2a00:9e60:0000:0000:0000:0000:0000:0000	2a00:9e60:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:a2a0:0000:0000:0000:0000:0000:0000	2a00:a2a0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:a3e0:0000:0000:0000:0000:0000:0000	2a00:a3e0:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a00:a420:0000:0000:0000:0000:0000:0000	2a00:a420:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:a720:0000:0000:0000:0000:0000:0000	2a00:a720:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:a9a0:0000:0000:0000:0000:0000:0000	2a00:a9a0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:aa00:0000:0000:0000:0000:0000:0000	2a00:aa00:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:aa20:0000:0000:0000:0000:0000:0000	2a00:aa20:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:ab20:0000:0000:0000:0000:0000:0000	2a00:ab20:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a00:acc0:0000:0000:0000:0000:0000:0000	2a00:acc0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:ad20:0000:0000:0000:0000:0000:0000	2a00:ad27:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:ae20:0000:0000:0000:0000:0000:0000	2a00:ae20:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:b200:0000:0000:0000:0000:0000:0000	2a00:b200:ffff:ffff:ffff:ffff:ffff:ffff	IT
