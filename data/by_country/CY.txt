@@ -1,3 +1,4 @@
+2001:0678:0e08:0000:0000:0000:0000:0000	2001:0678:0e08:ffff:ffff:ffff:ffff:ffff	CY
 2001:1a18:0000:0000:0000:0000:0000:0000	2001:1a1f:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a00:1ec0:0000:0000:0000:0000:0000:0000	2a00:1ec0:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a00:4b60:0000:0000:0000:0000:0000:0000	2a00:4b60:ffff:ffff:ffff:ffff:ffff:ffff	CY
@@ -47,4 +48,3 @@
 2a0f:46c0:0000:0000:0000:0000:0000:0000	2a0f:46c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0f:9640:0000:0000:0000:0000:0000:0000	2a0f:9647:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0f:d280:0000:0000:0000:0000:0000:0000	2a0f:d287:ffff:ffff:ffff:ffff:ffff:ffff	CY
-2a0f:d500:0000:0000:0000:0000:0000:0000	2a0f:d507:ffff:ffff:ffff:ffff:ffff:ffff	CY

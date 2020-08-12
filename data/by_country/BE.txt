@@ -1,3 +1,4 @@
+2001:0678:0e04:0000:0000:0000:0000:0000	2001:0678:0e04:ffff:ffff:ffff:ffff:ffff	BE
 2001:06a8:0000:0000:0000:0000:0000:0000	2001:06af:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2001:1598:0000:0000:0000:0000:0000:0000	2001:1598:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2001:4b50:0000:0000:0000:0000:0000:0000	2001:4b57:ffff:ffff:ffff:ffff:ffff:ffff	BE
@@ -243,4 +244,5 @@
 2a0f:f740:0000:0000:0000:0000:0000:0000	2a0f:f747:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a10:1740:0000:0000:0000:0000:0000:0000	2a10:1747:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a10:28c0:0000:0000:0000:0000:0000:0000	2a10:28c0:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a10:43c0:0000:0000:0000:0000:0000:0000	2a10:43c7:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a10:4c80:0000:0000:0000:0000:0000:0000	2a10:4c87:ffff:ffff:ffff:ffff:ffff:ffff	BE

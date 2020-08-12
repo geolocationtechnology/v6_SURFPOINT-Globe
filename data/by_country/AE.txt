@@ -52,3 +52,4 @@
 2a0e:8980:0000:0000:0000:0000:0000:0000	2a0e:8987:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0f:0c80:0000:0000:0000:0000:0000:0000	2a0f:0c87:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0f:a600:0000:0000:0000:0000:0000:0000	2a0f:a607:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a10:4240:0000:0000:0000:0000:0000:0000	2a10:4247:ffff:ffff:ffff:ffff:ffff:ffff	AE
