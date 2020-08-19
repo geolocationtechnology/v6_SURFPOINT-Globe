@@ -440,3 +440,5 @@
 2a10:3300:0000:0000:0000:0000:0000:0000	2a10:3307:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a10:3ec0:0000:0000:0000:0000:0000:0000	2a10:3ec7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a10:47c0:0000:0000:0000:0000:0000:0000	2a10:47c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a10:4b40:0000:0000:0000:0000:0000:0000	2a10:4b47:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a10:4e40:0000:0000:0000:0000:0000:0000	2a10:4e47:ffff:ffff:ffff:ffff:ffff:ffff	TR

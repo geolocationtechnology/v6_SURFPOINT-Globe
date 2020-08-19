@@ -6,7 +6,6 @@
 2a00:81e0:0000:0000:0000:0000:0000:0000	2a00:81e0:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a00:8480:0000:0000:0000:0000:0000:0000	2a00:8480:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a00:9000:0000:0000:0000:0000:0000:0000	2a00:9000:ffff:ffff:ffff:ffff:ffff:ffff	LV
-2a00:d6e0:0000:0000:0000:0000:0000:0000	2a00:d6e0:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a00:f4a0:0000:0000:0000:0000:0000:0000	2a00:f4a0:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a01:04e0:0000:0000:0000:0000:0000:0000	2a01:04e7:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a01:8ca0:0000:0000:0000:0000:0000:0000	2a01:8ca0:ffff:ffff:ffff:ffff:ffff:ffff	LV
