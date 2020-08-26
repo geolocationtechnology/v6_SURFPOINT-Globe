@@ -68,6 +68,7 @@
 2a00:1280:0000:0000:0000:0000:0000:0000	2a00:1280:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:1290:0000:0000:0000:0000:0000:0000	2a00:1290:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:12f0:0000:0000:0000:0000:0000:0000	2a00:12f0:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a00:1310:0000:0000:0000:0000:0000:0000	2a00:1310:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:1388:0000:0000:0000:0000:0000:0000	2a00:1388:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:1478:0000:0000:0000:0000:0000:0000	2a00:147f:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:1490:0000:0000:0000:0000:0000:0000	2a00:1490:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -1568,6 +1569,7 @@
 2a10:4ac0:0000:0000:0000:0000:0000:0000	2a10:4ac0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:4c00:0000:0000:0000:0000:0000:0000	2a10:4c07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:4e00:0000:0000:0000:0000:0000:0000	2a10:4e07:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a10:4fc0:0000:0000:0000:0000:0000:0000	2a10:4fc7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:5200:0000:0000:0000:0000:0000:0000	2a10:5207:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:5400:0000:0000:0000:0000:0000:0000	2a10:5407:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:5600:0000:0000:0000:0000:0000:0000	2a10:5607:ffff:ffff:ffff:ffff:ffff:ffff	NL

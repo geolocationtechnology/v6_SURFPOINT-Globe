@@ -9,6 +9,7 @@
 2001:43f8:0a80:0000:0000:0000:0000:0000	2001:43f8:0a80:ffff:ffff:ffff:ffff:ffff	AO
 2001:43f8:0dc0:0000:0000:0000:0000:0000	2001:43f8:0dc0:ffff:ffff:ffff:ffff:ffff	AO
 2001:43f8:1100:0000:0000:0000:0000:0000	2001:43f8:1100:ffff:ffff:ffff:ffff:ffff	AO
+2c0f:e968:0000:0000:0000:0000:0000:0000	2c0f:e968:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:ea28:0000:0000:0000:0000:0000:0000	2c0f:ea28:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:eab0:0000:0000:0000:0000:0000:0000	2c0f:eab0:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:efa8:0000:0000:0000:0000:0000:0000	2c0f:efa8:ffff:ffff:ffff:ffff:ffff:ffff	AO

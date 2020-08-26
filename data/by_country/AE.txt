@@ -47,6 +47,7 @@
 2a0b:4180:0000:0000:0000:0000:0000:0000	2a0b:4187:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0c:2ac0:0000:0000:0000:0000:0000:0000	2a0c:2ac7:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0d:0a80:0000:0000:0000:0000:0000:0000	2a0d:0a87:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a0d:b980:0000:0000:0000:0000:0000:0000	2a0d:b987:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0e:6e80:0000:0000:0000:0000:0000:0000	2a0e:6e87:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0e:7700:0000:0000:0000:0000:0000:0000	2a0e:7707:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0e:8980:0000:0000:0000:0000:0000:0000	2a0e:8987:ffff:ffff:ffff:ffff:ffff:ffff	AE

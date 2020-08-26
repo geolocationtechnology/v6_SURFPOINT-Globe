@@ -1584,7 +1584,6 @@
 2a0d:29c0:0000:0000:0000:0000:0000:0000	2a0d:29c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0d:2a40:0000:0000:0000:0000:0000:0000	2a0d:2a47:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0d:2a80:0000:0000:0000:0000:0000:0000	2a0d:2a87:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a0d:2b40:0000:0000:0000:0000:0000:0000	2a0d:2b47:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0d:2cc0:0000:0000:0000:0000:0000:0000	2a0d:2cc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0d:2dc0:0000:0000:0000:0000:0000:0000	2a0d:2dc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0d:2ec0:0000:0000:0000:0000:0000:0000	2a0d:2ec7:ffff:ffff:ffff:ffff:ffff:ffff	RU
