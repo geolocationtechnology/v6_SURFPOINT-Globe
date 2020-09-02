@@ -6,6 +6,7 @@
 2001:1580:0000:0000:0000:0000:0000:0000	2001:1580:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2001:15f8:0000:0000:0000:0000:0000:0000	2001:15f8:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2001:4db0:0000:0000:0000:0000:0000:0000	2001:4db0:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2406:66c0:0000:0000:0000:0000:0000:0000	2406:66c0:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a00:0c80:0000:0000:0000:0000:0000:0000	2a00:0c80:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a00:0df0:0000:0000:0000:0000:0000:0000	2a00:0df0:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a00:0ef0:0000:0000:0000:0000:0000:0000	2a00:0ef0:ffff:ffff:ffff:ffff:ffff:ffff	DK

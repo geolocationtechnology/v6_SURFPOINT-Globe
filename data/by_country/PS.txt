@@ -33,3 +33,4 @@
 2a0f:d780:0000:0000:0000:0000:0000:0000	2a0f:d780:ffff:ffff:ffff:ffff:ffff:ffff	PS
 2a0f:d880:0000:0000:0000:0000:0000:0000	2a0f:d887:ffff:ffff:ffff:ffff:ffff:ffff	PS
 2a0f:e800:0000:0000:0000:0000:0000:0000	2a0f:e807:ffff:ffff:ffff:ffff:ffff:ffff	PS
+2a10:5540:0000:0000:0000:0000:0000:0000	2a10:5547:ffff:ffff:ffff:ffff:ffff:ffff	PS

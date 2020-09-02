@@ -1,5 +1,4 @@
 2001:0660:0000:0000:0000:0000:0000:0000	2001:0667:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2001:0678:0e0c:0000:0000:0000:0000:0000	2001:0678:0e0c:ffff:ffff:ffff:ffff:ffff	FR
 2001:0688:0000:0000:0000:0000:0000:0000	2001:0688:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2001:0758:0000:0000:0000:0000:0000:0000	2001:0758:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2001:07a8:0000:0000:0000:0000:0000:0000	2001:07a8:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -965,7 +964,6 @@
 2a0d:1300:0000:0000:0000:0000:0000:0000	2a0d:1307:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:1980:0000:0000:0000:0000:0000:0000	2a0d:1987:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:2000:0000:0000:0000:0000:0000:0000	2a0d:2007:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a0d:2440:0000:0000:0000:0000:0000:0000	2a0d:2447:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:25c0:0000:0000:0000:0000:0000:0000	2a0d:25c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:3080:0000:0000:0000:0000:0000:0000	2a0d:3087:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:30c0:0000:0000:0000:0000:0000:0000	2a0d:30c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -1139,4 +1137,5 @@
 2a10:4640:0000:0000:0000:0000:0000:0000	2a10:4647:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:4880:0000:0000:0000:0000:0000:0000	2a10:4887:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:5140:0000:0000:0000:0000:0000:0000	2a10:5147:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a10:56c0:0000:0000:0000:0000:0000:0000	2a10:56c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:7a80:0000:0000:0000:0000:0000:0000	2a10:7a87:ffff:ffff:ffff:ffff:ffff:ffff	FR
