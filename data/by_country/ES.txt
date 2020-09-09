@@ -859,3 +859,4 @@
 2a10:5100:0000:0000:0000:0000:0000:0000	2a10:5107:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:5280:0000:0000:0000:0000:0000:0000	2a10:5287:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:5d80:0000:0000:0000:0000:0000:0000	2a10:5d87:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a10:5f40:0000:0000:0000:0000:0000:0000	2a10:5f40:ffff:ffff:ffff:ffff:ffff:ffff	ES

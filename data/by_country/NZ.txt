@@ -60,7 +60,6 @@
 2401:ec80:0000:0000:0000:0000:0000:0000	2401:ec80:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2401:ef40:0000:0000:0000:0000:0000:0000	2401:ef40:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2401:f000:0000:0000:0000:0000:0000:0000	2401:f000:ffff:ffff:ffff:ffff:ffff:ffff	NZ
-2401:f500:0000:0000:0000:0000:0000:0000	2401:f500:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2401:ff00:0000:0000:0000:0000:0000:0000	2401:ff00:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2402:07c0:0000:0000:0000:0000:0000:0000	2402:07c0:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2402:1c00:0000:0000:0000:0000:0000:0000	2402:1c00:ffff:ffff:ffff:ffff:ffff:ffff	NZ

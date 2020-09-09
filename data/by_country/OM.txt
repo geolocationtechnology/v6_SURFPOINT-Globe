@@ -4,6 +4,7 @@
 2a02:2908:0000:0000:0000:0000:0000:0000	2a02:290f:ffff:ffff:ffff:ffff:ffff:ffff	OM
 2a03:11a0:0000:0000:0000:0000:0000:0000	2a03:11a0:ffff:ffff:ffff:ffff:ffff:ffff	OM
 2a04:c400:0000:0000:0000:0000:0000:0000	2a04:c407:ffff:ffff:ffff:ffff:ffff:ffff	OM
+2a06:dac0:0000:0000:0000:0000:0000:0000	2a06:dac7:ffff:ffff:ffff:ffff:ffff:ffff	OM
 2a09:1540:0000:0000:0000:0000:0000:0000	2a09:1540:ffff:ffff:ffff:ffff:ffff:ffff	OM
 2a09:5580:0000:0000:0000:0000:0000:0000	2a09:5580:ffff:ffff:ffff:ffff:ffff:ffff	OM
 2a0a:c740:0000:0000:0000:0000:0000:0000	2a0a:c747:ffff:ffff:ffff:ffff:ffff:ffff	OM

@@ -21,7 +21,6 @@
 2803:a8c0:0000:0000:0000:0000:0000:0000	2803:a8c0:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2803:b080:0000:0000:0000:0000:0000:0000	2803:b080:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2803:b720:0000:0000:0000:0000:0000:0000	2803:b720:ffff:ffff:ffff:ffff:ffff:ffff	BZ
-2803:c240:0000:0000:0000:0000:0000:0000	2803:c240:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2803:d000:0000:0000:0000:0000:0000:0000	2803:d000:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2803:d500:0000:0000:0000:0000:0000:0000	2803:d500:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2803:d520:0000:0000:0000:0000:0000:0000	2803:d520:ffff:ffff:ffff:ffff:ffff:ffff	BZ
