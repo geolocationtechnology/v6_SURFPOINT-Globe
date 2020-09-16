@@ -42,7 +42,6 @@
 2402:c980:0000:0000:0000:0000:0000:0000	2402:c980:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2402:cec0:0000:0000:0000:0000:0000:0000	2402:cec0:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2402:fc80:0000:0000:0000:0000:0000:0000	2402:fc80:ffff:ffff:ffff:ffff:ffff:ffff	TH
-2403:13c0:0000:0000:0000:0000:0000:0000	2403:13c0:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2403:1640:0000:0000:0000:0000:0000:0000	2403:1640:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2403:2300:0000:0000:0000:0000:0000:0000	2403:2300:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2403:2800:0000:0000:0000:0000:0000:0000	2403:2801:ffff:ffff:ffff:ffff:ffff:ffff	TH

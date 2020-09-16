@@ -1,5 +1,4 @@
 2001:4278:0000:0000:0000:0000:0000:0000	2001:4278:ffff:ffff:ffff:ffff:ffff:ffff	SN
-2001:43f8:1610:0000:0000:0000:0000:0000	2001:43f8:1610:ffff:ffff:ffff:ffff:ffff	SN
 2c0f:e960:0000:0000:0000:0000:0000:0000	2c0f:e960:ffff:ffff:ffff:ffff:ffff:ffff	SN
 2c0f:ee50:0000:0000:0000:0000:0000:0000	2c0f:ee50:ffff:ffff:ffff:ffff:ffff:ffff	SN
 2c0f:ee80:0000:0000:0000:0000:0000:0000	2c0f:ee80:ffff:ffff:ffff:ffff:ffff:ffff	SN

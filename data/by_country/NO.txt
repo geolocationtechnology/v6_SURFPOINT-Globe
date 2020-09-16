@@ -154,6 +154,7 @@
 2a03:6240:0000:0000:0000:0000:0000:0000	2a03:6240:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:6780:0000:0000:0000:0000:0000:0000	2a03:6780:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:6aa0:0000:0000:0000:0000:0000:0000	2a03:6aa0:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a03:7360:0000:0000:0000:0000:0000:0000	2a03:7367:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:8000:0000:0000:0000:0000:0000:0000	2a03:8000:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:8120:0000:0000:0000:0000:0000:0000	2a03:8120:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:8220:0000:0000:0000:0000:0000:0000	2a03:8220:ffff:ffff:ffff:ffff:ffff:ffff	NO
@@ -329,12 +330,10 @@
 2a0c:2ec0:0000:0000:0000:0000:0000:0000	2a0c:2ec7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0c:5a00:0000:0000:0000:0000:0000:0000	2a0c:5a07:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0c:7600:0000:0000:0000:0000:0000:0000	2a0c:7607:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a0c:7a40:0000:0000:0000:0000:0000:0000	2a0c:7a47:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0c:8200:0000:0000:0000:0000:0000:0000	2a0c:8207:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0c:8980:0000:0000:0000:0000:0000:0000	2a0c:8987:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0c:a680:0000:0000:0000:0000:0000:0000	2a0c:a687:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0c:b680:0000:0000:0000:0000:0000:0000	2a0c:b687:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a0d:07c0:0000:0000:0000:0000:0000:0000	2a0d:07c7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0d:0f00:0000:0000:0000:0000:0000:0000	2a0d:0f07:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0d:2040:0000:0000:0000:0000:0000:0000	2a0d:2047:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0d:9800:0000:0000:0000:0000:0000:0000	2a0d:9807:ffff:ffff:ffff:ffff:ffff:ffff	NO

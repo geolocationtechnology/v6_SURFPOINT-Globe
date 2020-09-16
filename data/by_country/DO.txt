@@ -41,6 +41,7 @@
 2803:a640:0000:0000:0000:0000:0000:0000	2803:a640:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:ab00:0000:0000:0000:0000:0000:0000	2803:ab00:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:ace0:0000:0000:0000:0000:0000:0000	2803:ace0:ffff:ffff:ffff:ffff:ffff:ffff	DO
+2803:c010:0000:0000:0000:0000:0000:0000	2803:c010:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:c260:0000:0000:0000:0000:0000:0000	2803:c260:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:c7e0:0000:0000:0000:0000:0000:0000	2803:c7e0:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:cc60:0000:0000:0000:0000:0000:0000	2803:cc60:ffff:ffff:ffff:ffff:ffff:ffff	DO

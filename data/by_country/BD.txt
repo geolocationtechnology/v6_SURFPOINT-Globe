@@ -510,6 +510,8 @@
 2406:5cc0:0000:0000:0000:0000:0000:0000	2406:5cc0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2406:64c0:0000:0000:0000:0000:0000:0000	2406:64c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2406:6dc0:0000:0000:0000:0000:0000:0000	2406:6dc0:ffff:ffff:ffff:ffff:ffff:ffff	BD
+2406:6fc0:0000:0000:0000:0000:0000:0000	2406:6fc0:ffff:ffff:ffff:ffff:ffff:ffff	BD
+2406:73c0:0000:0000:0000:0000:0000:0000	2406:73c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2406:9b00:0000:0000:0000:0000:0000:0000	2406:9b00:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2406:b680:0000:0000:0000:0000:0000:0000	2406:b680:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2406:ea80:0000:0000:0000:0000:0000:0000	2406:ea80:ffff:ffff:ffff:ffff:ffff:ffff	BD

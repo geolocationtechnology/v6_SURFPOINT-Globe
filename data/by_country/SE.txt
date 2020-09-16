@@ -1,3 +1,4 @@
+2001:0678:0e34:0000:0000:0000:0000:0000	2001:0678:0e34:ffff:ffff:ffff:ffff:ffff	SE
 2001:06b0:0000:0000:0000:0000:0000:0000	2001:06b0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2001:06f0:0000:0000:0000:0000:0000:0000	2001:06f7:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2001:07a0:0000:0000:0000:0000:0000:0000	2001:07a0:ffff:ffff:ffff:ffff:ffff:ffff	SE
@@ -197,7 +198,6 @@
 2a03:6b80:0000:0000:0000:0000:0000:0000	2a03:6b80:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:6f20:0000:0000:0000:0000:0000:0000	2a03:6f27:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:7080:0000:0000:0000:0000:0000:0000	2a03:7080:ffff:ffff:ffff:ffff:ffff:ffff	SE
-2a03:7360:0000:0000:0000:0000:0000:0000	2a03:7367:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:7c80:0000:0000:0000:0000:0000:0000	2a03:7c80:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:7ec0:0000:0000:0000:0000:0000:0000	2a03:7ec0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:7f20:0000:0000:0000:0000:0000:0000	2a03:7f20:ffff:ffff:ffff:ffff:ffff:ffff	SE

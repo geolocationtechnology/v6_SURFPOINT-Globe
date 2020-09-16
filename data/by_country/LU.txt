@@ -36,6 +36,7 @@
 2a03:ac40:0000:0000:0000:0000:0000:0000	2a03:ac40:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a03:c480:0000:0000:0000:0000:0000:0000	2a03:c480:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a03:f8c0:0000:0000:0000:0000:0000:0000	2a03:f8c0:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a04:8190:0000:0000:0000:0000:0000:0000	2a04:8191:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a04:81c0:0000:0000:0000:0000:0000:0000	2a04:81c7:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a04:8dc0:0000:0000:0000:0000:0000:0000	2a04:8dc7:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a04:fc40:0000:0000:0000:0000:0000:0000	2a04:fc47:ffff:ffff:ffff:ffff:ffff:ffff	LU

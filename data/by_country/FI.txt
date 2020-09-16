@@ -137,7 +137,6 @@
 2a06:8f80:0000:0000:0000:0000:0000:0000	2a06:8f87:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a06:9340:0000:0000:0000:0000:0000:0000	2a06:9347:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a06:a0c0:0000:0000:0000:0000:0000:0000	2a06:a0c7:ffff:ffff:ffff:ffff:ffff:ffff	FI
-2a06:a700:0000:0000:0000:0000:0000:0000	2a06:a707:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a06:ae00:0000:0000:0000:0000:0000:0000	2a06:ae07:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a06:ae40:0000:0000:0000:0000:0000:0000	2a06:ae47:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a06:b100:0000:0000:0000:0000:0000:0000	2a06:b107:ffff:ffff:ffff:ffff:ffff:ffff	FI
