@@ -111,6 +111,7 @@
 2a0a:2280:0000:0000:0000:0000:0000:0000	2a0a:2287:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0a:29c0:0000:0000:0000:0000:0000:0000	2a0a:29c0:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0a:3180:0000:0000:0000:0000:0000:0000	2a0a:3187:ffff:ffff:ffff:ffff:ffff:ffff	BG
+2a0a:33c0:0000:0000:0000:0000:0000:0000	2a0a:33c7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0a:35c0:0000:0000:0000:0000:0000:0000	2a0a:35c7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0a:4200:0000:0000:0000:0000:0000:0000	2a0a:4207:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0a:6740:0000:0000:0000:0000:0000:0000	2a0a:6747:ffff:ffff:ffff:ffff:ffff:ffff	BG
@@ -184,4 +185,5 @@
 2a0f:c300:0000:0000:0000:0000:0000:0000	2a0f:c307:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0f:c6c0:0000:0000:0000:0000:0000:0000	2a0f:c6c7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a10:2b00:0000:0000:0000:0000:0000:0000	2a10:2b07:ffff:ffff:ffff:ffff:ffff:ffff	BG
+2a10:69c0:0000:0000:0000:0000:0000:0000	2a10:69c7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a10:7b80:0000:0000:0000:0000:0000:0000	2a10:7b87:ffff:ffff:ffff:ffff:ffff:ffff	BG

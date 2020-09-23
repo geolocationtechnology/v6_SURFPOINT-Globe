@@ -231,6 +231,7 @@
 2001:0df4:de00:0000:0000:0000:0000:0000	2001:0df4:de00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df4:e100:0000:0000:0000:0000:0000	2001:0df4:e100:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df4:e400:0000:0000:0000:0000:0000	2001:0df4:e400:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df4:e580:0000:0000:0000:0000:0000	2001:0df4:e580:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df4:e600:0000:0000:0000:0000:0000	2001:0df4:e600:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df4:ea00:0000:0000:0000:0000:0000	2001:0df4:ea00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df4:ec00:0000:0000:0000:0000:0000	2001:0df4:ec00:ffff:ffff:ffff:ffff:ffff	AU

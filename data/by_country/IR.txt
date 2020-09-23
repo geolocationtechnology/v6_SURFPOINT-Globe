@@ -257,7 +257,6 @@
 2a0b:0900:0000:0000:0000:0000:0000:0000	2a0b:0900:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:0ac0:0000:0000:0000:0000:0000:0000	2a0b:0ac7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:0f80:0000:0000:0000:0000:0000:0000	2a0b:0f87:ffff:ffff:ffff:ffff:ffff:ffff	IR
-2a0b:1000:0000:0000:0000:0000:0000:0000	2a0b:1007:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:1b40:0000:0000:0000:0000:0000:0000	2a0b:1b47:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:1e40:0000:0000:0000:0000:0000:0000	2a0b:1e47:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:1fc0:0000:0000:0000:0000:0000:0000	2a0b:1fc7:ffff:ffff:ffff:ffff:ffff:ffff	IR
@@ -298,6 +297,7 @@
 2a0c:d080:0000:0000:0000:0000:0000:0000	2a0c:d080:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0c:e4c0:0000:0000:0000:0000:0000:0000	2a0c:e4c0:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0d:1540:0000:0000:0000:0000:0000:0000	2a0d:1547:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a0d:2380:0000:0000:0000:0000:0000:0000	2a0d:2387:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0d:2880:0000:0000:0000:0000:0000:0000	2a0d:2887:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0d:4680:0000:0000:0000:0000:0000:0000	2a0d:4687:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0d:6300:0000:0000:0000:0000:0000:0000	2a0d:6307:ffff:ffff:ffff:ffff:ffff:ffff	IR

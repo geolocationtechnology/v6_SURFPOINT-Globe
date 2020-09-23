@@ -36,3 +36,4 @@
 2a0f:2180:0000:0000:0000:0000:0000:0000	2a0f:2187:ffff:ffff:ffff:ffff:ffff:ffff	MK
 2a0f:6440:0000:0000:0000:0000:0000:0000	2a0f:6447:ffff:ffff:ffff:ffff:ffff:ffff	MK
 2a10:2580:0000:0000:0000:0000:0000:0000	2a10:2587:ffff:ffff:ffff:ffff:ffff:ffff	MK
+2a10:66c0:0000:0000:0000:0000:0000:0000	2a10:66c7:ffff:ffff:ffff:ffff:ffff:ffff	MK
