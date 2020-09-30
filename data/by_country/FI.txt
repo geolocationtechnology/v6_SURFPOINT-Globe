@@ -213,7 +213,6 @@
 2a0c:f040:0000:0000:0000:0000:0000:0000	2a0c:f047:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0c:f400:0000:0000:0000:0000:0000:0000	2a0c:f407:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0c:fc00:0000:0000:0000:0000:0000:0000	2a0c:fc07:ffff:ffff:ffff:ffff:ffff:ffff	FI
-2a0d:4bc0:0000:0000:0000:0000:0000:0000	2a0d:4bc7:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0d:5bc0:0000:0000:0000:0000:0000:0000	2a0d:5bc0:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0d:9240:0000:0000:0000:0000:0000:0000	2a0d:9247:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a0d:a680:0000:0000:0000:0000:0000:0000	2a0d:a680:ffff:ffff:ffff:ffff:ffff:ffff	FI

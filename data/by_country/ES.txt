@@ -356,6 +356,7 @@
 2a05:7080:0000:0000:0000:0000:0000:0000	2a05:7087:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:7440:0000:0000:0000:0000:0000:0000	2a05:7447:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:7900:0000:0000:0000:0000:0000:0000	2a05:7907:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a05:8280:0000:0000:0000:0000:0000:0000	2a05:8287:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:8600:0000:0000:0000:0000:0000:0000	2a05:8607:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:8740:0000:0000:0000:0000:0000:0000	2a05:8747:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:8e00:0000:0000:0000:0000:0000:0000	2a05:8e07:ffff:ffff:ffff:ffff:ffff:ffff	ES
@@ -863,3 +864,4 @@
 2a10:5280:0000:0000:0000:0000:0000:0000	2a10:5287:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:5d80:0000:0000:0000:0000:0000:0000	2a10:5d87:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:5f40:0000:0000:0000:0000:0000:0000	2a10:5f40:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a10:6fc0:0000:0000:0000:0000:0000:0000	2a10:6fc7:ffff:ffff:ffff:ffff:ffff:ffff	ES
