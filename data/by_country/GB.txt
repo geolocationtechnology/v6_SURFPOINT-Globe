@@ -1224,7 +1224,6 @@
 2a09:1300:0000:0000:0000:0000:0000:0000	2a09:1307:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a09:1580:0000:0000:0000:0000:0000:0000	2a09:1587:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a09:1740:0000:0000:0000:0000:0000:0000	2a09:1747:ffff:ffff:ffff:ffff:ffff:ffff	GB
-2a09:1840:0000:0000:0000:0000:0000:0000	2a09:1840:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a09:1880:0000:0000:0000:0000:0000:0000	2a09:1887:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a09:19c0:0000:0000:0000:0000:0000:0000	2a09:19c0:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a09:1dc0:0000:0000:0000:0000:0000:0000	2a09:1dc7:ffff:ffff:ffff:ffff:ffff:ffff	GB

@@ -64,7 +64,7 @@
 2a00:aac0:0000:0000:0000:0000:0000:0000	2a00:aac7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:adc0:0000:0000:0000:0000:0000:0000	2a00:adc0:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:af40:0000:0000:0000:0000:0000:0000	2a00:af40:ffff:ffff:ffff:ffff:ffff:ffff	CH
-2a00:b0a0:0000:0000:0000:0000:0000:0000	2a00:b0a0:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a00:b0a0:0000:0000:0000:0000:0000:0000	2a00:b0a7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:b420:0000:0000:0000:0000:0000:0000	2a00:b420:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:bb00:0000:0000:0000:0000:0000:0000	2a00:bb00:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:bd00:0000:0000:0000:0000:0000:0000	2a00:bd00:ffff:ffff:ffff:ffff:ffff:ffff	CH

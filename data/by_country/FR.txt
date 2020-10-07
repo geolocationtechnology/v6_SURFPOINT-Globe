@@ -1142,4 +1142,7 @@
 2a10:5d40:0000:0000:0000:0000:0000:0000	2a10:5d47:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:6540:0000:0000:0000:0000:0000:0000	2a10:6547:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:6d40:0000:0000:0000:0000:0000:0000	2a10:6d47:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a10:7340:0000:0000:0000:0000:0000:0000	2a10:7347:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a10:74c0:0000:0000:0000:0000:0000:0000	2a10:74c0:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a10:76c0:0000:0000:0000:0000:0000:0000	2a10:76c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:7a80:0000:0000:0000:0000:0000:0000	2a10:7a87:ffff:ffff:ffff:ffff:ffff:ffff	FR

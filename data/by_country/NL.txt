@@ -1595,8 +1595,10 @@
 2a10:7300:0000:0000:0000:0000:0000:0000	2a10:7307:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:7400:0000:0000:0000:0000:0000:0000	2a10:7407:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:7500:0000:0000:0000:0000:0000:0000	2a10:7507:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a10:75c0:0000:0000:0000:0000:0000:0000	2a10:75c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:7600:0000:0000:0000:0000:0000:0000	2a10:7607:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:7700:0000:0000:0000:0000:0000:0000	2a10:7707:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a10:7740:0000:0000:0000:0000:0000:0000	2a10:7747:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:7800:0000:0000:0000:0000:0000:0000	2a10:7807:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:7900:0000:0000:0000:0000:0000:0000	2a10:7907:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:7b00:0000:0000:0000:0000:0000:0000	2a10:7b07:ffff:ffff:ffff:ffff:ffff:ffff	NL

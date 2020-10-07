@@ -438,3 +438,4 @@
 2a10:2740:0000:0000:0000:0000:0000:0000	2a10:2747:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a10:3080:0000:0000:0000:0000:0000:0000	2a10:3087:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a10:3f00:0000:0000:0000:0000:0000:0000	2a10:3f07:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a10:7440:0000:0000:0000:0000:0000:0000	2a10:7447:ffff:ffff:ffff:ffff:ffff:ffff	SE
