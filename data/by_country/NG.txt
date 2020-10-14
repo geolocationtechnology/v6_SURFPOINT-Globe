@@ -20,7 +20,6 @@
 2c0f:ec38:0000:0000:0000:0000:0000:0000	2c0f:ec38:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:ed20:0000:0000:0000:0000:0000:0000	2c0f:ed20:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:edf1:0000:0000:0000:0000:0000:0000	2c0f:edf1:00ff:ffff:ffff:ffff:ffff:ffff	NG
-2c0f:eec0:0000:0000:0000:0000:0000:0000	2c0f:eec0:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:eee8:0000:0000:0000:0000:0000:0000	2c0f:eee8:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:ef68:0000:0000:0000:0000:0000:0000	2c0f:ef68:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:ef90:0000:0000:0000:0000:0000:0000	2c0f:ef90:ffff:ffff:ffff:ffff:ffff:ffff	NG

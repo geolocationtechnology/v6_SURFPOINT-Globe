@@ -135,7 +135,6 @@
 2a02:e340:0000:0000:0000:0000:0000:0000	2a02:e347:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:e580:0000:0000:0000:0000:0000:0000	2a02:e587:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:ed00:0000:0000:0000:0000:0000:0000	2a02:ed07:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a02:f240:0000:0000:0000:0000:0000:0000	2a02:f247:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:f300:0000:0000:0000:0000:0000:0000	2a02:f307:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:f480:0000:0000:0000:0000:0000:0000	2a02:f487:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:fc80:0000:0000:0000:0000:0000:0000	2a02:fc87:ffff:ffff:ffff:ffff:ffff:ffff	NO

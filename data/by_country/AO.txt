@@ -21,7 +21,6 @@
 2c0f:f888:0000:0000:0000:0000:0000:0000	2c0f:f888:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:fa38:0000:0000:0000:0000:0000:0000	2c0f:fa38:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:fa60:0000:0000:0000:0000:0000:0000	2c0f:fa60:ffff:ffff:ffff:ffff:ffff:ffff	AO
-2c0f:fa70:0000:0000:0000:0000:0000:0000	2c0f:fa70:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:fa80:0000:0000:0000:0000:0000:0000	2c0f:fa80:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:faf0:0000:0000:0000:0000:0000:0000	2c0f:faf0:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:fb58:0000:0000:0000:0000:0000:0000	2c0f:fb58:ffff:ffff:ffff:ffff:ffff:ffff	AO

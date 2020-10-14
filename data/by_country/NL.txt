@@ -1192,6 +1192,7 @@
 2a0d:6e00:0000:0000:0000:0000:0000:0000	2a0d:6e07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:72c0:0000:0000:0000:0000:0000:0000	2a0d:72c0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:7380:0000:0000:0000:0000:0000:0000	2a0d:7387:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a0d:77c0:0000:0000:0000:0000:0000:0000	2a0d:77c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:7980:0000:0000:0000:0000:0000:0000	2a0d:7980:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:7c40:0000:0000:0000:0000:0000:0000	2a0d:7c47:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0d:7fc0:0000:0000:0000:0000:0000:0000	2a0d:7fc7:ffff:ffff:ffff:ffff:ffff:ffff	NL
