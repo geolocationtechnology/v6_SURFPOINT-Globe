@@ -190,3 +190,4 @@
 2a10:3200:0000:0000:0000:0000:0000:0000	2a10:3207:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a10:3680:0000:0000:0000:0000:0000:0000	2a10:3687:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a10:4980:0000:0000:0000:0000:0000:0000	2a10:4987:ffff:ffff:ffff:ffff:ffff:ffff	IE
+2a10:a400:0000:0000:0000:0000:0000:0000	2a10:a407:ffff:ffff:ffff:ffff:ffff:ffff	IE

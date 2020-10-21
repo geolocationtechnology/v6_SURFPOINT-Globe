@@ -13,6 +13,7 @@
 2a01:9d20:0000:0000:0000:0000:0000:0000	2a01:9d27:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a01:a960:0000:0000:0000:0000:0000:0000	2a01:a960:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a02:dd00:0000:0000:0000:0000:0000:0000	2a02:dd07:ffff:ffff:ffff:ffff:ffff:ffff	AL
+2a02:e540:0000:0000:0000:0000:0000:0000	2a02:e547:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a03:2de0:0000:0000:0000:0000:0000:0000	2a03:2de0:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a03:33e0:0000:0000:0000:0000:0000:0000	2a03:33e7:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a03:3aa0:0000:0000:0000:0000:0000:0000	2a03:3aa0:ffff:ffff:ffff:ffff:ffff:ffff	AL

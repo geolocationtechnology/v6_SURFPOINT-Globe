@@ -47,3 +47,4 @@
 2a0f:9640:0000:0000:0000:0000:0000:0000	2a0f:9647:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0f:d280:0000:0000:0000:0000:0000:0000	2a0f:d287:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a10:50c0:0000:0000:0000:0000:0000:0000	2a10:50c0:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a10:8400:0000:0000:0000:0000:0000:0000	2a10:8407:ffff:ffff:ffff:ffff:ffff:ffff	CY

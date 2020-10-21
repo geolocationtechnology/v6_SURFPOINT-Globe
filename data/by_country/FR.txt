@@ -408,7 +408,6 @@
 2a03:6c00:0000:0000:0000:0000:0000:0000	2a03:6c00:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a03:6c80:0000:0000:0000:0000:0000:0000	2a03:6c80:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a03:6d20:0000:0000:0000:0000:0000:0000	2a03:6d20:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a03:6d40:0000:0000:0000:0000:0000:0000	2a03:6d40:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a03:6e40:0000:0000:0000:0000:0000:0000	2a03:6e40:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a03:6f80:0000:0000:0000:0000:0000:0000	2a03:6f87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a03:7220:0000:0000:0000:0000:0000:0000	2a03:7227:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -701,7 +700,6 @@
 2a07:acc0:0000:0000:0000:0000:0000:0000	2a07:acc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:b100:0000:0000:0000:0000:0000:0000	2a07:b107:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:b380:0000:0000:0000:0000:0000:0000	2a07:b387:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a07:b3c0:0000:0000:0000:0000:0000:0000	2a07:b3c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:b540:0000:0000:0000:0000:0000:0000	2a07:b547:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:b7c0:0000:0000:0000:0000:0000:0000	2a07:b7c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:b880:0000:0000:0000:0000:0000:0000	2a07:b887:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -821,7 +819,6 @@
 2a0a:9a40:0000:0000:0000:0000:0000:0000	2a0a:9a47:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0a:a2c0:0000:0000:0000:0000:0000:0000	2a0a:a2c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0a:a400:0000:0000:0000:0000:0000:0000	2a0a:a407:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a0a:a580:0000:0000:0000:0000:0000:0000	2a0a:a587:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0a:a900:0000:0000:0000:0000:0000:0000	2a0a:a900:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0a:ab00:0000:0000:0000:0000:0000:0000	2a0a:ab07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0a:b040:0000:0000:0000:0000:0000:0000	2a0a:b047:ffff:ffff:ffff:ffff:ffff:ffff	FR

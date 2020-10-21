@@ -250,7 +250,6 @@
 2a05:2c00:0000:0000:0000:0000:0000:0000	2a05:2c03:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a05:2c20:0000:0000:0000:0000:0000:0000	2a05:2c23:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a05:37c0:0000:0000:0000:0000:0000:0000	2a05:37c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
-2a05:3c80:0000:0000:0000:0000:0000:0000	2a05:3c87:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a05:43c0:0000:0000:0000:0000:0000:0000	2a05:43c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a05:4a40:0000:0000:0000:0000:0000:0000	2a05:4a47:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a05:4d00:0000:0000:0000:0000:0000:0000	2a05:4d07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
