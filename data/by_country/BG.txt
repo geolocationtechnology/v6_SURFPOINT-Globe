@@ -154,7 +154,6 @@
 2a0d:3cc0:0000:0000:0000:0000:0000:0000	2a0d:3cc7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0d:9340:0000:0000:0000:0000:0000:0000	2a0d:9347:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0d:9a00:0000:0000:0000:0000:0000:0000	2a0d:9a07:ffff:ffff:ffff:ffff:ffff:ffff	BG
-2a0d:b700:0000:0000:0000:0000:0000:0000	2a0d:b707:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0d:bec0:0000:0000:0000:0000:0000:0000	2a0d:bec7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0d:c300:0000:0000:0000:0000:0000:0000	2a0d:c307:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a0d:ddc0:0000:0000:0000:0000:0000:0000	2a0d:ddc7:ffff:ffff:ffff:ffff:ffff:ffff	BG

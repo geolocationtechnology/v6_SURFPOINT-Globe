@@ -155,7 +155,6 @@
 2a03:6aa0:0000:0000:0000:0000:0000:0000	2a03:6aa0:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:7360:0000:0000:0000:0000:0000:0000	2a03:7367:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:8000:0000:0000:0000:0000:0000:0000	2a03:8000:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a03:8120:0000:0000:0000:0000:0000:0000	2a03:8120:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:8220:0000:0000:0000:0000:0000:0000	2a03:8220:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:94e0:0000:0000:0000:0000:0000:0000	2a03:94e7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a03:9620:0000:0000:0000:0000:0000:0000	2a03:9620:ffff:ffff:ffff:ffff:ffff:ffff	NO

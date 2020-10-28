@@ -527,6 +527,10 @@
 2406:9980:0000:0000:0000:0000:0000:0000	2406:9980:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:99c0:0000:0000:0000:0000:0000:0000	2406:99c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:9e00:0000:0000:0000:0000:0000:0000	2406:9e00:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:a2c0:0000:0000:0000:0000:0000:0000	2406:a2c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:a340:0000:0000:0000:0000:0000:0000	2406:a340:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:a440:0000:0000:0000:0000:0000:0000	2406:a440:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:a740:0000:0000:0000:0000:0000:0000	2406:a740:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:ab00:0000:0000:0000:0000:0000:0000	2406:ab00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:b400:0000:0000:0000:0000:0000:0000	2406:b400:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:b500:0000:0000:0000:0000:0000:0000	2406:b500:ffff:ffff:ffff:ffff:ffff:ffff	IN

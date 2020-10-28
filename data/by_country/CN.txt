@@ -1767,6 +1767,7 @@
 2408:6000:0000:0000:0000:0000:0000:0000	2408:60ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2408:8000:0000:0000:0000:0000:0000:0000	2408:8fff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2409:2000:0000:0000:0000:0000:0000:0000	2409:27ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2409:6000:0000:0000:0000:0000:0000:0000	2409:6fff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2409:8000:0000:0000:0000:0000:0000:0000	2409:8fff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240a:4000:0000:0000:0000:0000:0000:0000	240a:47ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240a:8000:0000:0000:0000:0000:0000:0000	240a:87ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
