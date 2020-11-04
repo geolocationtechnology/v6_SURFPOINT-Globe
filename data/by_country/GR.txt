@@ -17,7 +17,6 @@
 2a02:1388:0000:0000:0000:0000:0000:0000	2a02:138f:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a02:2148:0000:0000:0000:0000:0000:0000	2a02:214f:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a02:2298:0000:0000:0000:0000:0000:0000	2a02:2298:ffff:ffff:ffff:ffff:ffff:ffff	GR
-2a02:28a0:0000:0000:0000:0000:0000:0000	2a02:28a0:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a02:2a70:0000:0000:0000:0000:0000:0000	2a02:2a70:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a02:4900:0000:0000:0000:0000:0000:0000	2a02:4907:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a02:4fc0:0000:0000:0000:0000:0000:0000	2a02:4fc0:ffff:ffff:ffff:ffff:ffff:ffff	GR

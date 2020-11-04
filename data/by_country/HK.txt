@@ -412,6 +412,7 @@
 2406:9640:0000:0000:0000:0000:0000:0000	2406:9640:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2406:9b80:0000:0000:0000:0000:0000:0000	2406:9b80:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2406:9c00:0000:0000:0000:0000:0000:0000	2406:9c00:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2406:af40:0000:0000:0000:0000:0000:0000	2406:af40:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2406:e300:0000:0000:0000:0000:0000:0000	2406:e300:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2406:f380:0000:0000:0000:0000:0000:0000	2406:f380:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2406:f700:0000:0000:0000:0000:0000:0000	2406:f700:ffff:ffff:ffff:ffff:ffff:ffff	HK

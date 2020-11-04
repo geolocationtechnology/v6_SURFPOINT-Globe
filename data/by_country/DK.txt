@@ -297,4 +297,6 @@
 2a10:4c40:0000:0000:0000:0000:0000:0000	2a10:4c47:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a10:5940:0000:0000:0000:0000:0000:0000	2a10:5947:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a10:8600:0000:0000:0000:0000:0000:0000	2a10:8600:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a10:a200:0000:0000:0000:0000:0000:0000	2a10:a207:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a10:aa00:0000:0000:0000:0000:0000:0000	2a10:aa07:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a10:bc00:0000:0000:0000:0000:0000:0000	2a10:bc07:ffff:ffff:ffff:ffff:ffff:ffff	DK

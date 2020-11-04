@@ -94,3 +94,4 @@
 2a10:1b00:0000:0000:0000:0000:0000:0000	2a10:1b07:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a10:1e80:0000:0000:0000:0000:0000:0000	2a10:1e87:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a10:6dc0:0000:0000:0000:0000:0000:0000	2a10:6dc0:ffff:ffff:ffff:ffff:ffff:ffff	LB
+2a10:c200:0000:0000:0000:0000:0000:0000	2a10:c207:ffff:ffff:ffff:ffff:ffff:ffff	LB

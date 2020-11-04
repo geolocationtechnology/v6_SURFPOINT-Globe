@@ -393,6 +393,7 @@
 2605:fd00:0000:0000:0000:0000:0000:0000	2605:fd00:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2605:ffc0:0000:0000:0000:0000:0000:0000	2605:ffc0:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:0240:0000:0000:0000:0000:0000:0000	2606:0240:ffff:ffff:ffff:ffff:ffff:ffff	CA
+2606:03c0:0000:0000:0000:0000:0000:0000	2606:03c0:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:0880:0000:0000:0000:0000:0000:0000	2606:0880:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:0a80:0000:0000:0000:0000:0000:0000	2606:0a80:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:1b80:0000:0000:0000:0000:0000:0000	2606:1b80:ffff:ffff:ffff:ffff:ffff:ffff	CA
