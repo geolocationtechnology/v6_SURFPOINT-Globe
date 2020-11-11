@@ -198,3 +198,4 @@
 2a10:7880:0000:0000:0000:0000:0000:0000	2a10:7887:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a10:7bc0:0000:0000:0000:0000:0000:0000	2a10:7bc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a10:9400:0000:0000:0000:0000:0000:0000	2a10:9400:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a10:f600:0000:0000:0000:0000:0000:0000	2a10:f607:ffff:ffff:ffff:ffff:ffff:ffff	RO

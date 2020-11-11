@@ -67,6 +67,7 @@
 2a0d:5640:0000:0000:0000:0000:0000:0000	2a0d:5647:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0d:7540:0000:0000:0000:0000:0000:0000	2a0d:7547:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0d:9600:0000:0000:0000:0000:0000:0000	2a0d:9600:ffff:ffff:ffff:ffff:ffff:ffff	EU
+2a0d:c7c0:0000:0000:0000:0000:0000:0000	2a0d:c7c7:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0d:de80:0000:0000:0000:0000:0000:0000	2a0d:de87:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0e:6900:0000:0000:0000:0000:0000:0000	2a0e:6907:ffff:ffff:ffff:ffff:ffff:ffff	EU
 2a0e:8f00:0000:0000:0000:0000:0000:0000	2a0e:8f07:ffff:ffff:ffff:ffff:ffff:ffff	EU

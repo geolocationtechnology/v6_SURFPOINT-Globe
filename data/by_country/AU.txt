@@ -1041,7 +1041,10 @@
 2406:adc0:0000:0000:0000:0000:0000:0000	2406:adc0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2406:ae00:0000:0000:0000:0000:0000:0000	2406:ae00:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2406:b300:0000:0000:0000:0000:0000:0000	2406:b300:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2406:b340:0000:0000:0000:0000:0000:0000	2406:b340:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2406:b9c0:0000:0000:0000:0000:0000:0000	2406:b9c0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2406:ba00:0000:0000:0000:0000:0000:0000	2406:ba00:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2406:ba40:0000:0000:0000:0000:0000:0000	2406:ba40:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2406:bc00:0000:0000:0000:0000:0000:0000	2406:bc00:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2406:bd00:0000:0000:0000:0000:0000:0000	2406:bd00:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2406:be00:0000:0000:0000:0000:0000:0000	2406:be00:ffff:ffff:ffff:ffff:ffff:ffff	AU

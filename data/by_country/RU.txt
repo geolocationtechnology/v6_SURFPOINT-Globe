@@ -20,7 +20,6 @@
 2a00:1120:0000:0000:0000:0000:0000:0000	2a00:1120:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:1138:0000:0000:0000:0000:0000:0000	2a00:1138:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:1148:0000:0000:0000:0000:0000:0000	2a00:114f:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a00:11d8:0000:0000:0000:0000:0000:0000	2a00:11d8:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:1248:0000:0000:0000:0000:0000:0000	2a00:1248:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:12a0:0000:0000:0000:0000:0000:0000	2a00:12a0:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a00:12c8:0000:0000:0000:0000:0000:0000	2a00:12c8:ffff:ffff:ffff:ffff:ffff:ffff	RU
@@ -2122,4 +2121,6 @@
 2a10:7580:0000:0000:0000:0000:0000:0000	2a10:7587:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:7980:0000:0000:0000:0000:0000:0000	2a10:7987:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:7e80:0000:0000:0000:0000:0000:0000	2a10:7e87:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a10:8300:0000:0000:0000:0000:0000:0000	2a10:8307:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:9200:0000:0000:0000:0000:0000:0000	2a10:9207:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a10:fa00:0000:0000:0000:0000:0000:0000	2a10:fa07:ffff:ffff:ffff:ffff:ffff:ffff	RU
