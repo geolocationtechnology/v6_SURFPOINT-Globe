@@ -1,5 +1,4 @@
 2001:0610:0000:0000:0000:0000:0000:0000	2001:0617:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2001:0678:0e9c:0000:0000:0000:0000:0000	2001:0678:0e9c:ffff:ffff:ffff:ffff:ffff	NL
 2001:06e0:0000:0000:0000:0000:0000:0000	2001:06e7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2001:07b8:0000:0000:0000:0000:0000:0000	2001:07bf:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2001:07f8:0104:0000:0000:0000:0000:0000	2001:07f8:0104:ffff:ffff:ffff:ffff:ffff	NL
@@ -599,7 +598,6 @@
 2a05:3980:0000:0000:0000:0000:0000:0000	2a05:3987:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:3b80:0000:0000:0000:0000:0000:0000	2a05:3b87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:3f40:0000:0000:0000:0000:0000:0000	2a05:3f47:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a05:4140:0000:0000:0000:0000:0000:0000	2a05:4147:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:44c0:0000:0000:0000:0000:0000:0000	2a05:44c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:5140:0000:0000:0000:0000:0000:0000	2a05:5147:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a05:5180:0000:0000:0000:0000:0000:0000	2a05:5187:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -1604,6 +1602,7 @@
 2a10:7d00:0000:0000:0000:0000:0000:0000	2a10:7d07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:7e00:0000:0000:0000:0000:0000:0000	2a10:7e07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:7f00:0000:0000:0000:0000:0000:0000	2a10:7f07:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a10:8900:0000:0000:0000:0000:0000:0000	2a10:8900:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:9800:0000:0000:0000:0000:0000:0000	2a10:9807:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:de00:0000:0000:0000:0000:0000:0000	2a10:de07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:f800:0000:0000:0000:0000:0000:0000	2a10:f807:ffff:ffff:ffff:ffff:ffff:ffff	NL

@@ -10,7 +10,6 @@
 2a00:c960:0000:0000:0000:0000:0000:0000	2a00:c960:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a01:02b8:0000:0000:0000:0000:0000:0000	2a01:02b8:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a01:6320:0000:0000:0000:0000:0000:0000	2a01:6320:ffff:ffff:ffff:ffff:ffff:ffff	GR
-2a01:b500:0000:0000:0000:0000:0000:0000	2a01:b500:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a02:0580:0000:0000:0000:0000:0000:0000	2a02:0587:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a02:0858:0000:0000:0000:0000:0000:0000	2a02:085f:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a02:0be0:0000:0000:0000:0000:0000:0000	2a02:0be0:ffff:ffff:ffff:ffff:ffff:ffff	GR
@@ -69,4 +68,5 @@
 2a10:1200:0000:0000:0000:0000:0000:0000	2a10:1207:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a10:2d80:0000:0000:0000:0000:0000:0000	2a10:2d87:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a10:5040:0000:0000:0000:0000:0000:0000	2a10:5047:ffff:ffff:ffff:ffff:ffff:ffff	GR
+2a10:9300:0000:0000:0000:0000:0000:0000	2a10:9307:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a10:d000:0000:0000:0000:0000:0000:0000	2a10:d007:ffff:ffff:ffff:ffff:ffff:ffff	GR

@@ -15,7 +15,6 @@
 2a00:0e48:0000:0000:0000:0000:0000:0000	2a00:0e48:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a00:0ea0:0000:0000:0000:0000:0000:0000	2a00:0ea7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a00:0ef8:0000:0000:0000:0000:0000:0000	2a00:0ef8:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a00:1008:0000:0000:0000:0000:0000:0000	2a00:1008:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a00:10b0:0000:0000:0000:0000:0000:0000	2a00:10b7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a00:13e0:0000:0000:0000:0000:0000:0000	2a00:13e0:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a00:1400:0000:0000:0000:0000:0000:0000	2a00:1400:ffff:ffff:ffff:ffff:ffff:ffff	NO
@@ -357,3 +356,4 @@
 2a10:4d40:0000:0000:0000:0000:0000:0000	2a10:4d47:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a10:5a40:0000:0000:0000:0000:0000:0000	2a10:5a47:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a10:7640:0000:0000:0000:0000:0000:0000	2a10:7647:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a10:a300:0000:0000:0000:0000:0000:0000	2a10:a307:ffff:ffff:ffff:ffff:ffff:ffff	NO

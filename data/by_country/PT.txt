@@ -50,7 +50,6 @@
 2a07:6040:0000:0000:0000:0000:0000:0000	2a07:6047:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a07:c8c0:0000:0000:0000:0000:0000:0000	2a07:c8c7:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a07:f2c0:0000:0000:0000:0000:0000:0000	2a07:f2c7:ffff:ffff:ffff:ffff:ffff:ffff	PT
-2a07:fe40:0000:0000:0000:0000:0000:0000	2a07:fe47:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a09:2840:0000:0000:0000:0000:0000:0000	2a09:2847:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a09:3980:0000:0000:0000:0000:0000:0000	2a09:3987:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a09:5640:0000:0000:0000:0000:0000:0000	2a09:5640:ffff:ffff:ffff:ffff:ffff:ffff	PT
@@ -71,7 +70,6 @@
 2a0c:1c80:0000:0000:0000:0000:0000:0000	2a0c:1c87:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0c:2b00:0000:0000:0000:0000:0000:0000	2a0c:2b07:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0c:3840:0000:0000:0000:0000:0000:0000	2a0c:3847:ffff:ffff:ffff:ffff:ffff:ffff	PT
-2a0c:67c0:0000:0000:0000:0000:0000:0000	2a0c:67c7:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0c:c2c0:0000:0000:0000:0000:0000:0000	2a0c:c2c7:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0d:2340:0000:0000:0000:0000:0000:0000	2a0d:2347:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a0d:3b80:0000:0000:0000:0000:0000:0000	2a0d:3b87:ffff:ffff:ffff:ffff:ffff:ffff	PT

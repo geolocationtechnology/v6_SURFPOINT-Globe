@@ -76,7 +76,6 @@
 2401:2d00:0000:0000:0000:0000:0000:0000	2401:2d00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2401:2d80:0000:0000:0000:0000:0000:0000	2401:2d80:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2401:4040:0000:0000:0000:0000:0000:0000	2401:4040:ffff:ffff:ffff:ffff:ffff:ffff	IN
-2401:4140:0000:0000:0000:0000:0000:0000	2401:4140:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2401:4240:0000:0000:0000:0000:0000:0000	2401:4240:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2401:42c0:0000:0000:0000:0000:0000:0000	2401:42c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2401:4300:0000:0000:0000:0000:0000:0000	2401:4300:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -539,6 +538,10 @@
 2406:b500:0000:0000:0000:0000:0000:0000	2406:b500:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:b580:0000:0000:0000:0000:0000:0000	2406:b580:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:b600:0000:0000:0000:0000:0000:0000	2406:b600:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:bc40:0000:0000:0000:0000:0000:0000	2406:bc40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:bec0:0000:0000:0000:0000:0000:0000	2406:bec0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:c040:0000:0000:0000:0000:0000:0000	2406:c040:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:c0c0:0000:0000:0000:0000:0000:0000	2406:c0c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:d600:0000:0000:0000:0000:0000:0000	2406:d600:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:d800:0000:0000:0000:0000:0000:0000	2406:d800:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:db00:0000:0000:0000:0000:0000:0000	2406:db00:ffff:ffff:ffff:ffff:ffff:ffff	IN
