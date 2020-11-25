@@ -101,3 +101,4 @@
 2a10:42c0:0000:0000:0000:0000:0000:0000	2a10:42c7:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a10:6c40:0000:0000:0000:0000:0000:0000	2a10:6c47:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a10:79c0:0000:0000:0000:0000:0000:0000	2a10:79c7:ffff:ffff:ffff:ffff:ffff:ffff	IQ
+2a10:bd00:0000:0000:0000:0000:0000:0000	2a10:bd07:ffff:ffff:ffff:ffff:ffff:ffff	IQ

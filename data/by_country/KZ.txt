@@ -49,3 +49,4 @@
 2a0e:d280:0000:0000:0000:0000:0000:0000	2a0e:d287:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0e:db80:0000:0000:0000:0000:0000:0000	2a0e:db87:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0f:fd80:0000:0000:0000:0000:0000:0000	2a0f:fd87:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a10:bb00:0000:0000:0000:0000:0000:0000	2a10:bb07:ffff:ffff:ffff:ffff:ffff:ffff	KZ

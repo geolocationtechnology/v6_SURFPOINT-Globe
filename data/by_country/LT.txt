@@ -48,7 +48,6 @@
 2a06:a640:0000:0000:0000:0000:0000:0000	2a06:a647:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a06:da80:0000:0000:0000:0000:0000:0000	2a06:da87:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a06:fe00:0000:0000:0000:0000:0000:0000	2a06:fe07:ffff:ffff:ffff:ffff:ffff:ffff	LT
-2a06:fe40:0000:0000:0000:0000:0000:0000	2a06:fe47:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a07:2c00:0000:0000:0000:0000:0000:0000	2a07:2c07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a07:5800:0000:0000:0000:0000:0000:0000	2a07:5807:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a07:6080:0000:0000:0000:0000:0000:0000	2a07:6087:ffff:ffff:ffff:ffff:ffff:ffff	LT
@@ -79,7 +78,6 @@
 2a09:9080:0000:0000:0000:0000:0000:0000	2a09:9087:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a09:9f80:0000:0000:0000:0000:0000:0000	2a09:9f87:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a09:a780:0000:0000:0000:0000:0000:0000	2a09:a787:ffff:ffff:ffff:ffff:ffff:ffff	LT
-2a09:ce00:0000:0000:0000:0000:0000:0000	2a09:ce07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a09:d640:0000:0000:0000:0000:0000:0000	2a09:d647:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a09:e980:0000:0000:0000:0000:0000:0000	2a09:e987:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a09:fc80:0000:0000:0000:0000:0000:0000	2a09:fc87:ffff:ffff:ffff:ffff:ffff:ffff	LT

@@ -22,7 +22,6 @@
 2a03:ba40:0000:0000:0000:0000:0000:0000	2a03:ba40:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a04:48c0:0000:0000:0000:0000:0000:0000	2a04:48c7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a04:4b80:0000:0000:0000:0000:0000:0000	2a04:4b87:ffff:ffff:ffff:ffff:ffff:ffff	AZ
-2a04:5e40:0000:0000:0000:0000:0000:0000	2a04:5e47:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a04:8380:0000:0000:0000:0000:0000:0000	2a04:8387:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a04:c840:0000:0000:0000:0000:0000:0000	2a04:c847:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a04:d380:0000:0000:0000:0000:0000:0000	2a04:d387:ffff:ffff:ffff:ffff:ffff:ffff	AZ

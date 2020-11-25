@@ -47,7 +47,6 @@
 2a01:6d40:0000:0000:0000:0000:0000:0000	2a01:6d40:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:7040:0000:0000:0000:0000:0000:0000	2a01:7040:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:7080:0000:0000:0000:0000:0000:0000	2a01:7080:ffff:ffff:ffff:ffff:ffff:ffff	BE
-2a01:7500:0000:0000:0000:0000:0000:0000	2a01:7500:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:86a0:0000:0000:0000:0000:0000:0000	2a01:86a0:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:89c0:0000:0000:0000:0000:0000:0000	2a01:89c0:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:8b60:0000:0000:0000:0000:0000:0000	2a01:8b60:ffff:ffff:ffff:ffff:ffff:ffff	BE
@@ -142,7 +141,6 @@
 2a05:8a40:0000:0000:0000:0000:0000:0000	2a05:8a47:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:9840:0000:0000:0000:0000:0000:0000	2a05:9847:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:9b80:0000:0000:0000:0000:0000:0000	2a05:9b87:ffff:ffff:ffff:ffff:ffff:ffff	BE
-2a05:b000:0000:0000:0000:0000:0000:0000	2a05:b007:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:be00:0000:0000:0000:0000:0000:0000	2a05:be07:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:c200:0000:0000:0000:0000:0000:0000	2a05:c207:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:eb20:0000:0000:0000:0000:0000:0000	2a05:eb27:ffff:ffff:ffff:ffff:ffff:ffff	BE

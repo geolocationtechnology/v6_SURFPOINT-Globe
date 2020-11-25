@@ -7,7 +7,6 @@
 2001:4cc0:0000:0000:0000:0000:0000:0000	2001:4cc0:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a00:1650:0000:0000:0000:0000:0000:0000	2a00:1657:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a00:1c60:0000:0000:0000:0000:0000:0000	2a00:1c60:ffff:ffff:ffff:ffff:ffff:ffff	PT
-2a00:4c80:0000:0000:0000:0000:0000:0000	2a00:4c87:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a00:bc20:0000:0000:0000:0000:0000:0000	2a00:bc20:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a00:c560:0000:0000:0000:0000:0000:0000	2a00:c567:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a00:d180:0000:0000:0000:0000:0000:0000	2a00:d180:ffff:ffff:ffff:ffff:ffff:ffff	PT

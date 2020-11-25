@@ -2,3 +2,4 @@
 2605:9e40:0000:0000:0000:0000:0000:0000	2605:9e40:ffff:ffff:ffff:ffff:ffff:ffff	AG
 2620:006f:2000:0000:0000:0000:0000:0000	2620:006f:2000:ffff:ffff:ffff:ffff:ffff	AG
 2a00:11d8:0000:0000:0000:0000:0000:0000	2a00:11d8:ffff:ffff:ffff:ffff:ffff:ffff	AG
+2a02:01e0:0000:0000:0000:0000:0000:0000	2a02:01e7:ffff:ffff:ffff:ffff:ffff:ffff	AG

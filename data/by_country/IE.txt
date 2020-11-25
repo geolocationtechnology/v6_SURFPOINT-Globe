@@ -144,7 +144,6 @@
 2a0a:5780:0000:0000:0000:0000:0000:0000	2a0a:5780:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0a:5880:0000:0000:0000:0000:0000:0000	2a0a:5887:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0a:5f00:0000:0000:0000:0000:0000:0000	2a0a:5f07:ffff:ffff:ffff:ffff:ffff:ffff	IE
-2a0a:e3c0:0000:0000:0000:0000:0000:0000	2a0a:e3c7:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0a:e780:0000:0000:0000:0000:0000:0000	2a0a:e787:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0a:f840:0000:0000:0000:0000:0000:0000	2a0a:f847:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0b:0bc0:0000:0000:0000:0000:0000:0000	2a0b:0bc7:ffff:ffff:ffff:ffff:ffff:ffff	IE
