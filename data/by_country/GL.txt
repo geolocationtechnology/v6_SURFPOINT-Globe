@@ -1,4 +1,3 @@
 2a00:1fa8:0000:0000:0000:0000:0000:0000	2a00:1fa8:ffff:ffff:ffff:ffff:ffff:ffff	GL
 2a03:fdc0:0000:0000:0000:0000:0000:0000	2a03:fdc0:ffff:ffff:ffff:ffff:ffff:ffff	GL
-2a0a:6040:0000:0000:0000:0000:0000:0000	2a0a:6047:ffff:ffff:ffff:ffff:ffff:ffff	GL
 2a0e:3b80:0000:0000:0000:0000:0000:0000	2a0e:3b87:ffff:ffff:ffff:ffff:ffff:ffff	GL

@@ -17,6 +17,8 @@
 2c0e:2000:0000:0000:0000:0000:0000:0000	2c0e:2fff:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0e:4000:0000:0000:0000:0000:0000:0000	2c0e:40ff:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:0000:0000:0000:0000:0000:0000:0000	2c0f:0000:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:4000:0000:0000:0000:0000:0000:0000	2c0f:4000:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:6000:0000:0000:0000:0000:0000:0000	2c0f:6000:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:e810:0000:0000:0000:0000:0000:0000	2c0f:e810:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:e820:0000:0000:0000:0000:0000:0000	2c0f:e820:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:e840:0000:0000:0000:0000:0000:0000	2c0f:e840:ffff:ffff:ffff:ffff:ffff:ffff	ZA

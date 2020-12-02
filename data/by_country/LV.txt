@@ -24,7 +24,6 @@
 2a03:3440:0000:0000:0000:0000:0000:0000	2a03:3440:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a03:6740:0000:0000:0000:0000:0000:0000	2a03:6740:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a03:6820:0000:0000:0000:0000:0000:0000	2a03:6820:ffff:ffff:ffff:ffff:ffff:ffff	LV
-2a03:7820:0000:0000:0000:0000:0000:0000	2a03:7820:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a03:7a80:0000:0000:0000:0000:0000:0000	2a03:7a80:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a03:ec00:0000:0000:0000:0000:0000:0000	2a03:ec00:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a04:4e00:0000:0000:0000:0000:0000:0000	2a04:4e07:ffff:ffff:ffff:ffff:ffff:ffff	LV

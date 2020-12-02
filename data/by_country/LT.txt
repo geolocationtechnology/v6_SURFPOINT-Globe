@@ -137,3 +137,4 @@
 2a10:63c0:0000:0000:0000:0000:0000:0000	2a10:63c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:c400:0000:0000:0000:0000:0000:0000	2a10:c407:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:cc00:0000:0000:0000:0000:0000:0000	2a10:cc07:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a10:f100:0000:0000:0000:0000:0000:0000	2a10:f107:ffff:ffff:ffff:ffff:ffff:ffff	LT

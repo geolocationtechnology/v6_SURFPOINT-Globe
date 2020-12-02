@@ -8,4 +8,6 @@
 2a07:3b80:0000:0000:0000:0000:0000:0000	2a07:3b87:ffff:ffff:ffff:ffff:ffff:ffff	GI
 2a09:82c0:0000:0000:0000:0000:0000:0000	2a09:82c7:ffff:ffff:ffff:ffff:ffff:ffff	GI
 2a09:fe40:0000:0000:0000:0000:0000:0000	2a09:fe47:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a0a:b880:0000:0000:0000:0000:0000:0000	2a0a:b887:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a0c:c040:0000:0000:0000:0000:0000:0000	2a0c:c047:ffff:ffff:ffff:ffff:ffff:ffff	GI
 2a0f:4380:0000:0000:0000:0000:0000:0000	2a0f:4387:ffff:ffff:ffff:ffff:ffff:ffff	GI

@@ -30,6 +30,7 @@
 2a0a:38c0:0000:0000:0000:0000:0000:0000	2a0a:38c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0a:92c0:0000:0000:0000:0000:0000:0000	2a0a:92c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0a:aa00:0000:0000:0000:0000:0000:0000	2a0a:aa03:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a0b:12c0:0000:0000:0000:0000:0000:0000	2a0b:12c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0c:04c0:0000:0000:0000:0000:0000:0000	2a0c:04c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0c:5cc0:0000:0000:0000:0000:0000:0000	2a0c:5cc7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0c:7300:0000:0000:0000:0000:0000:0000	2a0c:7300:ffff:ffff:ffff:ffff:ffff:ffff	CY

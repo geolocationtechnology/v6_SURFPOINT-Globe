@@ -127,6 +127,7 @@
 2a01:ae60:0000:0000:0000:0000:0000:0000	2a01:ae60:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a01:af40:0000:0000:0000:0000:0000:0000	2a01:af40:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a01:af60:0000:0000:0000:0000:0000:0000	2a01:af60:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a01:b840:0000:0000:0000:0000:0000:0000	2a01:b840:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a01:b8e0:0000:0000:0000:0000:0000:0000	2a01:b8e0:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a01:bb80:0000:0000:0000:0000:0000:0000	2a01:bb80:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a02:0078:0000:0000:0000:0000:0000:0000	2a02:0078:ffff:ffff:ffff:ffff:ffff:ffff	PL

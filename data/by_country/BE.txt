@@ -4,6 +4,7 @@
 2001:4c40:0000:0000:0000:0000:0000:0000	2001:4c40:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:0c78:0000:0000:0000:0000:0000:0000	2a00:0c78:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:0e38:0000:0000:0000:0000:0000:0000	2a00:0e38:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a00:1058:0000:0000:0000:0000:0000:0000	2a00:1058:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:1140:0000:0000:0000:0000:0000:0000	2a00:1140:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:1258:0000:0000:0000:0000:0000:0000	2a00:1258:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a00:1458:0000:0000:0000:0000:0000:0000	2a00:1458:ffff:ffff:ffff:ffff:ffff:ffff	BE

@@ -106,4 +106,6 @@
 2406:9c80:0000:0000:0000:0000:0000:0000	2406:9c80:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2406:a640:0000:0000:0000:0000:0000:0000	2406:a640:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2406:a6c0:0000:0000:0000:0000:0000:0000	2406:a6c0:ffff:ffff:ffff:ffff:ffff:ffff	VN
+2406:ca40:0000:0000:0000:0000:0000:0000	2406:ca40:ffff:ffff:ffff:ffff:ffff:ffff	VN
+2406:cbc0:0000:0000:0000:0000:0000:0000	2406:cbc0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2407:0100:0000:0000:0000:0000:0000:0000	2407:0100:ffff:ffff:ffff:ffff:ffff:ffff	VN
