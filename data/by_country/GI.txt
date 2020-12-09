@@ -10,4 +10,5 @@
 2a09:fe40:0000:0000:0000:0000:0000:0000	2a09:fe47:ffff:ffff:ffff:ffff:ffff:ffff	GI
 2a0a:b880:0000:0000:0000:0000:0000:0000	2a0a:b887:ffff:ffff:ffff:ffff:ffff:ffff	GI
 2a0c:c040:0000:0000:0000:0000:0000:0000	2a0c:c047:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a0d:be80:0000:0000:0000:0000:0000:0000	2a0d:be87:ffff:ffff:ffff:ffff:ffff:ffff	GI
 2a0f:4380:0000:0000:0000:0000:0000:0000	2a0f:4387:ffff:ffff:ffff:ffff:ffff:ffff	GI

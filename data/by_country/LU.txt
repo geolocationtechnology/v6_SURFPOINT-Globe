@@ -82,3 +82,4 @@
 2a0f:4d40:0000:0000:0000:0000:0000:0000	2a0f:4d47:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0f:5340:0000:0000:0000:0000:0000:0000	2a0f:5347:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0f:6980:0000:0000:0000:0000:0000:0000	2a0f:6987:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a10:8a80:0000:0000:0000:0000:0000:0000	2a10:8a87:ffff:ffff:ffff:ffff:ffff:ffff	LU

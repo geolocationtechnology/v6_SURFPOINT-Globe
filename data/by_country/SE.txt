@@ -1,3 +1,4 @@
+2001:0678:0edc:0000:0000:0000:0000:0000	2001:0678:0edc:ffff:ffff:ffff:ffff:ffff	SE
 2001:06b0:0000:0000:0000:0000:0000:0000	2001:06b0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2001:06f0:0000:0000:0000:0000:0000:0000	2001:06f7:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2001:07a0:0000:0000:0000:0000:0000:0000	2001:07a0:ffff:ffff:ffff:ffff:ffff:ffff	SE

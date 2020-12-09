@@ -4,7 +4,6 @@
 2803:0100:0000:0000:0000:0000:0000:0000	2803:0100:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:0360:0000:0000:0000:0000:0000:0000	2803:0360:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:0740:0000:0000:0000:0000:0000:0000	2803:0740:ffff:ffff:ffff:ffff:ffff:ffff	HN
-2803:1380:0000:0000:0000:0000:0000:0000	2803:1380:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:1ac0:0000:0000:0000:0000:0000:0000	2803:1ac0:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:1ec0:0000:0000:0000:0000:0000:0000	2803:1ec0:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:2080:0000:0000:0000:0000:0000:0000	2803:2080:ffff:ffff:ffff:ffff:ffff:ffff	HN
@@ -73,7 +72,6 @@
 2803:b6e0:0000:0000:0000:0000:0000:0000	2803:b6e0:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:b700:0000:0000:0000:0000:0000:0000	2803:b700:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:bc60:0000:0000:0000:0000:0000:0000	2803:bc60:ffff:ffff:ffff:ffff:ffff:ffff	HN
-2803:c380:0000:0000:0000:0000:0000:0000	2803:c380:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:c3c0:0000:0000:0000:0000:0000:0000	2803:c3c0:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:c5a0:0000:0000:0000:0000:0000:0000	2803:c5a0:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:c7c0:0000:0000:0000:0000:0000:0000	2803:c7c0:ffff:ffff:ffff:ffff:ffff:ffff	HN

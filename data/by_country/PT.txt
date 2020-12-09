@@ -50,7 +50,6 @@
 2a07:c8c0:0000:0000:0000:0000:0000:0000	2a07:c8c7:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a07:f2c0:0000:0000:0000:0000:0000:0000	2a07:f2c7:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a09:2840:0000:0000:0000:0000:0000:0000	2a09:2847:ffff:ffff:ffff:ffff:ffff:ffff	PT
-2a09:3980:0000:0000:0000:0000:0000:0000	2a09:3987:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a09:5640:0000:0000:0000:0000:0000:0000	2a09:5640:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a09:58c0:0000:0000:0000:0000:0000:0000	2a09:58c0:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a09:5b00:0000:0000:0000:0000:0000:0000	2a09:5b07:ffff:ffff:ffff:ffff:ffff:ffff	PT
