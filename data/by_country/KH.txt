@@ -12,7 +12,6 @@
 2402:25c0:0000:0000:0000:0000:0000:0000	2402:25c0:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2402:4740:0000:0000:0000:0000:0000:0000	2402:4740:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2402:5100:0000:0000:0000:0000:0000:0000	2402:5100:ffff:ffff:ffff:ffff:ffff:ffff	KH
-2402:74c0:0000:0000:0000:0000:0000:0000	2402:74c0:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2402:7a40:0000:0000:0000:0000:0000:0000	2402:7a40:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2402:b340:0000:0000:0000:0000:0000:0000	2402:b340:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2402:c100:0000:0000:0000:0000:0000:0000	2402:c100:ffff:ffff:ffff:ffff:ffff:ffff	KH
@@ -46,7 +45,6 @@
 2405:3900:0000:0000:0000:0000:0000:0000	2405:3900:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2405:8380:0000:0000:0000:0000:0000:0000	2405:8380:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2405:aa00:0000:0000:0000:0000:0000:0000	2405:aa00:ffff:ffff:ffff:ffff:ffff:ffff	KH
-2405:abc0:0000:0000:0000:0000:0000:0000	2405:abc0:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2405:da00:0000:0000:0000:0000:0000:0000	2405:da00:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2405:e280:0000:0000:0000:0000:0000:0000	2405:e280:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2405:f500:0000:0000:0000:0000:0000:0000	2405:f500:ffff:ffff:ffff:ffff:ffff:ffff	KH

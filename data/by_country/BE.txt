@@ -85,7 +85,6 @@
 2a02:7860:0000:0000:0000:0000:0000:0000	2a02:7867:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a02:a000:0000:0000:0000:0000:0000:0000	2a02:a03f:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a02:af00:0000:0000:0000:0000:0000:0000	2a02:af07:ffff:ffff:ffff:ffff:ffff:ffff	BE
-2a02:d940:0000:0000:0000:0000:0000:0000	2a02:d947:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a03:1580:0000:0000:0000:0000:0000:0000	2a03:1580:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a03:15e0:0000:0000:0000:0000:0000:0000	2a03:15e0:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a03:1980:0000:0000:0000:0000:0000:0000	2a03:1987:ffff:ffff:ffff:ffff:ffff:ffff	BE

@@ -333,6 +333,7 @@
 2a02:d580:0000:0000:0000:0000:0000:0000	2a02:d587:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:d640:0000:0000:0000:0000:0000:0000	2a02:d647:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:d7c0:0000:0000:0000:0000:0000:0000	2a02:d7c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a02:d940:0000:0000:0000:0000:0000:0000	2a02:d947:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:e000:0000:0000:0000:0000:0000:0000	2a02:e007:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:e500:0000:0000:0000:0000:0000:0000	2a02:e507:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:e640:0000:0000:0000:0000:0000:0000	2a02:e647:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -1131,7 +1132,9 @@
 2a10:74c0:0000:0000:0000:0000:0000:0000	2a10:74c0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:76c0:0000:0000:0000:0000:0000:0000	2a10:76c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:7a80:0000:0000:0000:0000:0000:0000	2a10:7a87:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a10:9180:0000:0000:0000:0000:0000:0000	2a10:9187:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:9b00:0000:0000:0000:0000:0000:0000	2a10:9b07:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a10:a080:0000:0000:0000:0000:0000:0000	2a10:a087:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:c500:0000:0000:0000:0000:0000:0000	2a10:c507:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:c700:0000:0000:0000:0000:0000:0000	2a10:c707:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:cd00:0000:0000:0000:0000:0000:0000	2a10:cd07:ffff:ffff:ffff:ffff:ffff:ffff	FR

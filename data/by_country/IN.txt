@@ -563,6 +563,9 @@
 2406:dcc0:0000:0000:0000:0000:0000:0000	2406:dcc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:dd40:0000:0000:0000:0000:0000:0000	2406:dd40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:de00:0000:0000:0000:0000:0000:0000	2406:de00:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:de40:0000:0000:0000:0000:0000:0000	2406:de40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:dec0:0000:0000:0000:0000:0000:0000	2406:dec0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2406:e440:0000:0000:0000:0000:0000:0000	2406:e440:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:e880:0000:0000:0000:0000:0000:0000	2406:e880:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:ee00:0000:0000:0000:0000:0000:0000	2406:ee00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:2900:0000:0000:0000:0000:0000:0000	2407:2900:ffff:ffff:ffff:ffff:ffff:ffff	IN
