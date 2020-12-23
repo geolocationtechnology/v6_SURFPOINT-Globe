@@ -10,3 +10,7 @@
 2803:9600:0000:0000:0000:0000:0000:0000	2803:9600:ffff:ffff:ffff:ffff:ffff:ffff	CW
 2803:9f20:0000:0000:0000:0000:0000:0000	2803:9f20:ffff:ffff:ffff:ffff:ffff:ffff	CW
 2803:f500:0000:0000:0000:0000:0000:0000	2803:f500:ffff:ffff:ffff:ffff:ffff:ffff	CW
+2a07:6640:0000:0000:0000:0000:0000:0000	2a07:6647:ffff:ffff:ffff:ffff:ffff:ffff	CW
+2a0b:5f80:0000:0000:0000:0000:0000:0000	2a0b:5f87:ffff:ffff:ffff:ffff:ffff:ffff	CW
+2a0d:3bc0:0000:0000:0000:0000:0000:0000	2a0d:3bc7:ffff:ffff:ffff:ffff:ffff:ffff	CW
+2a0f:5680:0000:0000:0000:0000:0000:0000	2a0f:5687:ffff:ffff:ffff:ffff:ffff:ffff	CW

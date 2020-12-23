@@ -4,5 +4,17 @@
 2604:10c0:0000:0000:0000:0000:0000:0000	2604:10c0:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2605:7f40:0000:0000:0000:0000:0000:0000	2605:7f40:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2620:00e1:c000:0000:0000:0000:0000:0000	2620:00e1:c000:ffff:ffff:ffff:ffff:ffff	VG
+2a00:6e20:0000:0000:0000:0000:0000:0000	2a00:6e20:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a00:eb60:0000:0000:0000:0000:0000:0000	2a00:eb60:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a02:0810:0000:0000:0000:0000:0000:0000	2a02:0810:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a03:0b20:0000:0000:0000:0000:0000:0000	2a03:0b20:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a04:2d00:0000:0000:0000:0000:0000:0000	2a04:2d07:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a04:5ec0:0000:0000:0000:0000:0000:0000	2a04:5ec7:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a05:b7c0:0000:0000:0000:0000:0000:0000	2a05:b7c7:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2a06:9ac0:0000:0000:0000:0000:0000:0000	2a06:9ac0:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a07:4340:0000:0000:0000:0000:0000:0000	2a07:4347:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a07:ca00:0000:0000:0000:0000:0000:0000	2a07:ca07:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2a09:a700:0000:0000:0000:0000:0000:0000	2a09:a707:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a0b:f600:0000:0000:0000:0000:0000:0000	2a0b:f607:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a0c:a240:0000:0000:0000:0000:0000:0000	2a0c:a247:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a0e:2900:0000:0000:0000:0000:0000:0000	2a0e:2907:ffff:ffff:ffff:ffff:ffff:ffff	VG

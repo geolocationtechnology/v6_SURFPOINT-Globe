@@ -40,7 +40,6 @@
 2a04:cf80:0000:0000:0000:0000:0000:0000	2a04:cf87:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a04:d580:0000:0000:0000:0000:0000:0000	2a04:d587:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a04:f1c0:0000:0000:0000:0000:0000:0000	2a04:f1c7:ffff:ffff:ffff:ffff:ffff:ffff	SA
-2a04:fe40:0000:0000:0000:0000:0000:0000	2a04:fe47:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a05:3280:0000:0000:0000:0000:0000:0000	2a05:3287:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a05:5100:0000:0000:0000:0000:0000:0000	2a05:5100:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a05:78c0:0000:0000:0000:0000:0000:0000	2a05:78c7:ffff:ffff:ffff:ffff:ffff:ffff	SA
@@ -70,7 +69,6 @@
 2a0c:9100:0000:0000:0000:0000:0000:0000	2a0c:9107:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a0c:cfc0:0000:0000:0000:0000:0000:0000	2a0c:cfc7:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a0d:e880:0000:0000:0000:0000:0000:0000	2a0d:e887:ffff:ffff:ffff:ffff:ffff:ffff	SA
-2a0f:ae00:0000:0000:0000:0000:0000:0000	2a0f:ae07:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a10:0800:0000:0000:0000:0000:0000:0000	2a10:0807:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a10:1600:0000:0000:0000:0000:0000:0000	2a10:1607:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a10:1700:0000:0000:0000:0000:0000:0000	2a10:1707:ffff:ffff:ffff:ffff:ffff:ffff	SA

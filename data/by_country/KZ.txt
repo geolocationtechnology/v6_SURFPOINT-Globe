@@ -3,7 +3,6 @@
 2a00:5da0:0000:0000:0000:0000:0000:0000	2a00:5da0:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a00:8d20:0000:0000:0000:0000:0000:0000	2a00:8d20:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a00:ab40:0000:0000:0000:0000:0000:0000	2a00:ab40:ffff:ffff:ffff:ffff:ffff:ffff	KZ
-2a00:cfe0:0000:0000:0000:0000:0000:0000	2a00:cfe0:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a01:42e0:0000:0000:0000:0000:0000:0000	2a01:42e0:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a01:4b40:0000:0000:0000:0000:0000:0000	2a01:4b40:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a01:4d40:0000:0000:0000:0000:0000:0000	2a01:4d40:ffff:ffff:ffff:ffff:ffff:ffff	KZ
@@ -24,7 +23,6 @@
 2a04:3a80:0000:0000:0000:0000:0000:0000	2a04:3a87:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a04:4f40:0000:0000:0000:0000:0000:0000	2a04:4f47:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a04:5140:0000:0000:0000:0000:0000:0000	2a04:5147:ffff:ffff:ffff:ffff:ffff:ffff	KZ
-2a05:a400:0000:0000:0000:0000:0000:0000	2a05:a407:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a05:e040:0000:0000:0000:0000:0000:0000	2a05:e047:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a05:f040:0000:0000:0000:0000:0000:0000	2a05:f047:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a06:0580:0000:0000:0000:0000:0000:0000	2a06:0587:ffff:ffff:ffff:ffff:ffff:ffff	KZ
@@ -32,8 +30,8 @@
 2a06:1a00:0000:0000:0000:0000:0000:0000	2a06:1a07:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a06:6780:0000:0000:0000:0000:0000:0000	2a06:6787:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a06:8900:0000:0000:0000:0000:0000:0000	2a06:8907:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a06:a9c0:0000:0000:0000:0000:0000:0000	2a06:a9c7:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a07:1e00:0000:0000:0000:0000:0000:0000	2a07:1e07:ffff:ffff:ffff:ffff:ffff:ffff	KZ
-2a07:dd80:0000:0000:0000:0000:0000:0000	2a07:dd87:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a09:3200:0000:0000:0000:0000:0000:0000	2a09:3207:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a09:6140:0000:0000:0000:0000:0000:0000	2a09:6147:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0a:7380:0000:0000:0000:0000:0000:0000	2a0a:7387:ffff:ffff:ffff:ffff:ffff:ffff	KZ
@@ -49,4 +47,3 @@
 2a0e:d280:0000:0000:0000:0000:0000:0000	2a0e:d287:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0e:db80:0000:0000:0000:0000:0000:0000	2a0e:db87:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a0f:fd80:0000:0000:0000:0000:0000:0000	2a0f:fd87:ffff:ffff:ffff:ffff:ffff:ffff	KZ
-2a10:bb00:0000:0000:0000:0000:0000:0000	2a10:bb07:ffff:ffff:ffff:ffff:ffff:ffff	KZ

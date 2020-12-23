@@ -1,2 +1,1 @@
 2001:4298:0000:0000:0000:0000:0000:0000	2001:4298:ffff:ffff:ffff:ffff:ffff:ffff	DJ
-2a07:93c0:0000:0000:0000:0000:0000:0000	2a07:93c7:ffff:ffff:ffff:ffff:ffff:ffff	DJ

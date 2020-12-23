@@ -1,1 +1,3 @@
 2a02:7460:0000:0000:0000:0000:0000:0000	2a02:7460:ffff:ffff:ffff:ffff:ffff:ffff	MQ
+2a02:ccc0:0000:0000:0000:0000:0000:0000	2a02:ccc7:ffff:ffff:ffff:ffff:ffff:ffff	MQ
+2a04:11c0:0000:0000:0000:0000:0000:0000	2a04:11c7:ffff:ffff:ffff:ffff:ffff:ffff	MQ

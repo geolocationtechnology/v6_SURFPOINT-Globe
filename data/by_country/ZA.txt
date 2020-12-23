@@ -13,7 +13,11 @@
 2001:43f8:1700:0000:0000:0000:0000:0000	2001:43f8:1703:ffff:ffff:ffff:ffff:ffff	ZA
 2001:43f8:1800:0000:0000:0000:0000:0000	2001:43f8:18ff:ffff:ffff:ffff:ffff:ffff	ZA
 2001:43f8:1ac0:0000:0000:0000:0000:0000	2001:43f8:1acf:ffff:ffff:ffff:ffff:ffff	ZA
-2a0d:2480:0000:0000:0000:0000:0000:0000	2a0d:2487:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2a01:5380:0000:0000:0000:0000:0000:0000	2a01:5380:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2a02:47c0:0000:0000:0000:0000:0000:0000	2a02:47c0:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2a05:1680:0000:0000:0000:0000:0000:0000	2a05:1687:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2a0a:9f00:0000:0000:0000:0000:0000:0000	2a0a:9f07:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2a0e:3900:0000:0000:0000:0000:0000:0000	2a0e:3900:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0e:2000:0000:0000:0000:0000:0000:0000	2c0e:2fff:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0e:4000:0000:0000:0000:0000:0000:0000	2c0e:40ff:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:0000:0000:0000:0000:0000:0000:0000	2c0f:0000:ffff:ffff:ffff:ffff:ffff:ffff	ZA
@@ -53,7 +57,6 @@
 2c0f:ea18:0000:0000:0000:0000:0000:0000	2c0f:ea18:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ea20:0000:0000:0000:0000:0000:0000	2c0f:ea20:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ea30:0000:0000:0000:0000:0000:0000	2c0f:ea30:ffff:ffff:ffff:ffff:ffff:ffff	ZA
-2c0f:ea48:0000:0000:0000:0000:0000:0000	2c0f:ea48:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ea58:0000:0000:0000:0000:0000:0000	2c0f:ea58:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ea78:0000:0000:0000:0000:0000:0000	2c0f:ea78:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ea90:0000:0000:0000:0000:0000:0000	2c0f:ea90:ffff:ffff:ffff:ffff:ffff:ffff	ZA
