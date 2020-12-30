@@ -37,6 +37,7 @@
 2a09:6a80:0000:0000:0000:0000:0000:0000	2a09:6a87:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a09:7d40:0000:0000:0000:0000:0000:0000	2a09:7d40:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a09:8540:0000:0000:0000:0000:0000:0000	2a09:8547:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a09:a080:0000:0000:0000:0000:0000:0000	2a09:a087:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a09:cd40:0000:0000:0000:0000:0000:0000	2a09:cd47:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0a:38c0:0000:0000:0000:0000:0000:0000	2a0a:38c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0a:3900:0000:0000:0000:0000:0000:0000	2a0a:3907:ffff:ffff:ffff:ffff:ffff:ffff	CY

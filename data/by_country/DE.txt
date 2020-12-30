@@ -1334,7 +1334,7 @@
 2a0a:9d00:0000:0000:0000:0000:0000:0000	2a0a:9d00:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:a100:0000:0000:0000:0000:0000:0000	2a0a:a100:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:a3c0:0000:0000:0000:0000:0000:0000	2a0a:a3c0:ffff:ffff:ffff:ffff:ffff:ffff	DE
-2a0a:a540:0000:0000:0000:0000:0000:0000	2a0a:a547:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a0a:a540:0000:0000:0000:0000:0000:0000	2a0a:a54f:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:a640:0000:0000:0000:0000:0000:0000	2a0a:a640:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:a8c0:0000:0000:0000:0000:0000:0000	2a0a:a8c0:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0a:abc0:0000:0000:0000:0000:0000:0000	2a0a:abc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1985,6 +1985,8 @@
 2a10:a100:0000:0000:0000:0000:0000:0000	2a10:a100:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:a580:0000:0000:0000:0000:0000:0000	2a10:a587:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:ae00:0000:0000:0000:0000:0000:0000	2a10:ae03:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a10:b580:0000:0000:0000:0000:0000:0000	2a10:b587:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a10:b680:0000:0000:0000:0000:0000:0000	2a10:b680:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:d300:0000:0000:0000:0000:0000:0000	2a10:d307:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:d900:0000:0000:0000:0000:0000:0000	2a10:d900:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:e000:0000:0000:0000:0000:0000:0000	2a10:e007:ffff:ffff:ffff:ffff:ffff:ffff	DE
