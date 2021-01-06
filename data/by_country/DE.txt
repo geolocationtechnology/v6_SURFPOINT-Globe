@@ -1116,7 +1116,6 @@
 2a07:5400:0000:0000:0000:0000:0000:0000	2a07:5407:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:56c0:0000:0000:0000:0000:0000:0000	2a07:56c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:5d40:0000:0000:0000:0000:0000:0000	2a07:5d47:ffff:ffff:ffff:ffff:ffff:ffff	DE
-2a07:5dc0:0000:0000:0000:0000:0000:0000	2a07:5dc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:5e80:0000:0000:0000:0000:0000:0000	2a07:5e87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:60c0:0000:0000:0000:0000:0000:0000	2a07:60c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:61c0:0000:0000:0000:0000:0000:0000	2a07:61c7:ffff:ffff:ffff:ffff:ffff:ffff	DE

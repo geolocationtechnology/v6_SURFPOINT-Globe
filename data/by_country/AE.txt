@@ -16,7 +16,6 @@
 2a00:0f28:0000:0000:0000:0000:0000:0000	2a00:0f2f:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a00:1b00:0000:0000:0000:0000:0000:0000	2a00:1b00:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a00:68a0:0000:0000:0000:0000:0000:0000	2a00:68a0:ffff:ffff:ffff:ffff:ffff:ffff	AE
-2a00:7f60:0000:0000:0000:0000:0000:0000	2a00:7f60:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a00:bea0:0000:0000:0000:0000:0000:0000	2a00:bea0:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a00:fd80:0000:0000:0000:0000:0000:0000	2a00:fd80:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a01:75a0:0000:0000:0000:0000:0000:0000	2a01:75a0:ffff:ffff:ffff:ffff:ffff:ffff	AE

@@ -5,6 +5,7 @@
 2c0f:f1b0:0000:0000:0000:0000:0000:0000	2c0f:f1b0:ffff:ffff:ffff:ffff:ffff:ffff	ZW
 2c0f:f4a0:0000:0000:0000:0000:0000:0000	2c0f:f4a0:ffff:ffff:ffff:ffff:ffff:ffff	ZW
 2c0f:f758:0000:0000:0000:0000:0000:0000	2c0f:f758:ffff:ffff:ffff:ffff:ffff:ffff	ZW
+2c0f:f7a0:0000:0000:0000:0000:0000:0000	2c0f:f7a0:ffff:ffff:ffff:ffff:ffff:ffff	ZW
 2c0f:f8f0:0000:0000:0000:0000:0000:0000	2c0f:f8f0:ffff:ffff:ffff:ffff:ffff:ffff	ZW
 2c0f:fa98:0000:0000:0000:0000:0000:0000	2c0f:fa98:ffff:ffff:ffff:ffff:ffff:ffff	ZW
 2c0f:fd48:0000:0000:0000:0000:0000:0000	2c0f:fd48:ffff:ffff:ffff:ffff:ffff:ffff	ZW

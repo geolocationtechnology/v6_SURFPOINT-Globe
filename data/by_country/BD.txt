@@ -534,6 +534,7 @@
 2406:ed80:0000:0000:0000:0000:0000:0000	2406:ed80:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2406:f100:0000:0000:0000:0000:0000:0000	2406:f100:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2406:f680:0000:0000:0000:0000:0000:0000	2406:f680:ffff:ffff:ffff:ffff:ffff:ffff	BD
+2406:fb40:0000:0000:0000:0000:0000:0000	2406:fb40:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2406:ff80:0000:0000:0000:0000:0000:0000	2406:ff80:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2407:0980:0000:0000:0000:0000:0000:0000	2407:0980:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2407:0e80:0000:0000:0000:0000:0000:0000	2407:0e80:ffff:ffff:ffff:ffff:ffff:ffff	BD

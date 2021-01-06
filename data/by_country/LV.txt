@@ -65,7 +65,6 @@
 2a09:9e40:0000:0000:0000:0000:0000:0000	2a09:9e47:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a09:c540:0000:0000:0000:0000:0000:0000	2a09:c540:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a09:e0c0:0000:0000:0000:0000:0000:0000	2a09:e0c7:ffff:ffff:ffff:ffff:ffff:ffff	LV
-2a09:f180:0000:0000:0000:0000:0000:0000	2a09:f187:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a0a:2380:0000:0000:0000:0000:0000:0000	2a0a:2380:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a0a:a300:0000:0000:0000:0000:0000:0000	2a0a:a307:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a0a:f100:0000:0000:0000:0000:0000:0000	2a0a:f100:ffff:ffff:ffff:ffff:ffff:ffff	LV
