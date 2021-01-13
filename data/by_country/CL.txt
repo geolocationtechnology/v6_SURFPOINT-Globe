@@ -34,7 +34,6 @@
 2803:0420:0000:0000:0000:0000:0000:0000	2803:0420:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:04e0:0000:0000:0000:0000:0000:0000	2803:04e0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:0620:0000:0000:0000:0000:0000:0000	2803:0620:ffff:ffff:ffff:ffff:ffff:ffff	CL
-2803:0820:0000:0000:0000:0000:0000:0000	2803:0820:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:0940:0000:0000:0000:0000:0000:0000	2803:0940:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:0a20:0000:0000:0000:0000:0000:0000	2803:0a20:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:0aa0:0000:0000:0000:0000:0000:0000	2803:0aa0:ffff:ffff:ffff:ffff:ffff:ffff	CL
@@ -232,7 +231,6 @@
 2803:edc0:0000:0000:0000:0000:0000:0000	2803:edc0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:ee20:0000:0000:0000:0000:0000:0000	2803:ee20:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:ef80:0000:0000:0000:0000:0000:0000	2803:ef80:ffff:ffff:ffff:ffff:ffff:ffff	CL
-2803:f020:0000:0000:0000:0000:0000:0000	2803:f020:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:f3a0:0000:0000:0000:0000:0000:0000	2803:f3a0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:f4a0:0000:0000:0000:0000:0000:0000	2803:f4a0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:f5a0:0000:0000:0000:0000:0000:0000	2803:f5a0:ffff:ffff:ffff:ffff:ffff:ffff	CL

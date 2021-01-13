@@ -1,5 +1,4 @@
 2c0f:3000:0000:0000:0000:0000:0000:0000	2c0f:3000:ffff:ffff:ffff:ffff:ffff:ffff	SL
-2c0f:ea10:0000:0000:0000:0000:0000:0000	2c0f:ea10:ffff:ffff:ffff:ffff:ffff:ffff	SL
 2c0f:eaf8:0000:0000:0000:0000:0000:0000	2c0f:eaf8:ffff:ffff:ffff:ffff:ffff:ffff	SL
 2c0f:eb60:0000:0000:0000:0000:0000:0000	2c0f:eb60:ffff:ffff:ffff:ffff:ffff:ffff	SL
 2c0f:eeb0:0000:0000:0000:0000:0000:0000	2c0f:eeb0:ffff:ffff:ffff:ffff:ffff:ffff	SL

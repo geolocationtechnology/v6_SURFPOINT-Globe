@@ -2107,5 +2107,6 @@
 2a10:b300:0000:0000:0000:0000:0000:0000	2a10:b307:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:b500:0000:0000:0000:0000:0000:0000	2a10:b507:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:bb80:0000:0000:0000:0000:0000:0000	2a10:bb87:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a10:c980:0000:0000:0000:0000:0000:0000	2a10:c987:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:df00:0000:0000:0000:0000:0000:0000	2a10:df07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:fa00:0000:0000:0000:0000:0000:0000	2a10:fa07:ffff:ffff:ffff:ffff:ffff:ffff	RU

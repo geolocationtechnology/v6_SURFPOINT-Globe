@@ -396,6 +396,7 @@
 2406:ec00:0000:0000:0000:0000:0000:0000	2406:ec00:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2406:f200:0000:0000:0000:0000:0000:0000	2406:f200:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2406:f240:0000:0000:0000:0000:0000:0000	2406:f240:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2406:fd40:0000:0000:0000:0000:0000:0000	2406:fd40:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2406:fe00:0000:0000:0000:0000:0000:0000	2406:fe00:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:1200:0000:0000:0000:0000:0000:0000	2407:1200:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:3000:0000:0000:0000:0000:0000:0000	2407:3000:ffff:ffff:ffff:ffff:ffff:ffff	JP
