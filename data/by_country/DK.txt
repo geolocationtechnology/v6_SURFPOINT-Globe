@@ -292,4 +292,5 @@
 2a10:b080:0000:0000:0000:0000:0000:0000	2a10:b087:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a10:c180:0000:0000:0000:0000:0000:0000	2a10:c187:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a10:cb00:0000:0000:0000:0000:0000:0000	2a10:cb07:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a10:cf80:0000:0000:0000:0000:0000:0000	2a10:cf87:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a10:e200:0000:0000:0000:0000:0000:0000	2a10:e200:ffff:ffff:ffff:ffff:ffff:ffff	DK

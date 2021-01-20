@@ -1989,8 +1989,10 @@
 2a10:b680:0000:0000:0000:0000:0000:0000	2a10:b680:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:c780:0000:0000:0000:0000:0000:0000	2a10:c787:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:ca80:0000:0000:0000:0000:0000:0000	2a10:ca87:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a10:cd80:0000:0000:0000:0000:0000:0000	2a10:cd87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:d300:0000:0000:0000:0000:0000:0000	2a10:d307:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:d900:0000:0000:0000:0000:0000:0000	2a10:d900:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a10:dd80:0000:0000:0000:0000:0000:0000	2a10:dd87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:e000:0000:0000:0000:0000:0000:0000	2a10:e007:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:e100:0000:0000:0000:0000:0000:0000	2a10:e107:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a10:ed00:0000:0000:0000:0000:0000:0000	2a10:ed07:ffff:ffff:ffff:ffff:ffff:ffff	DE

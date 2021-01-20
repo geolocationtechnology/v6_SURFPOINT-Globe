@@ -45,3 +45,4 @@
 2a0f:7040:0000:0000:0000:0000:0000:0000	2a0f:7040:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a10:0180:0000:0000:0000:0000:0000:0000	2a10:0187:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a10:25c0:0000:0000:0000:0000:0000:0000	2a10:25c7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
+2a10:d880:0000:0000:0000:0000:0000:0000	2a10:d887:ffff:ffff:ffff:ffff:ffff:ffff	AZ

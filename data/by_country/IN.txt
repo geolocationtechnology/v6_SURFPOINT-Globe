@@ -576,6 +576,8 @@
 2406:fbc0:0000:0000:0000:0000:0000:0000	2406:fbc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:fc40:0000:0000:0000:0000:0000:0000	2406:fc40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2406:ffc0:0000:0000:0000:0000:0000:0000	2406:ffc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:0740:0000:0000:0000:0000:0000:0000	2407:0740:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:08c0:0000:0000:0000:0000:0000:0000	2407:08c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:2900:0000:0000:0000:0000:0000:0000	2407:2900:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:2a00:0000:0000:0000:0000:0000:0000	2407:2a00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:3180:0000:0000:0000:0000:0000:0000	2407:3180:ffff:ffff:ffff:ffff:ffff:ffff	IN

@@ -146,7 +146,6 @@
 2404:ab00:0000:0000:0000:0000:0000:0000	2404:ab00:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2404:b140:0000:0000:0000:0000:0000:0000	2404:b140:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2404:b700:0000:0000:0000:0000:0000:0000	2404:b700:ffff:ffff:ffff:ffff:ffff:ffff	NZ
-2404:bcc0:0000:0000:0000:0000:0000:0000	2404:bcc0:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2404:bf00:0000:0000:0000:0000:0000:0000	2404:bf00:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2404:c480:0000:0000:0000:0000:0000:0000	2404:c480:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2404:d000:0000:0000:0000:0000:0000:0000	2404:d000:ffff:ffff:ffff:ffff:ffff:ffff	NZ

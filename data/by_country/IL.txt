@@ -19,7 +19,6 @@
 2a02:0ba0:0000:0000:0000:0000:0000:0000	2a02:0ba0:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a02:0ed0:0000:0000:0000:0000:0000:0000	2a02:0ed7:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a02:23b8:0000:0000:0000:0000:0000:0000	2a02:23b8:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a02:2868:0000:0000:0000:0000:0000:0000	2a02:2868:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a02:40a0:0000:0000:0000:0000:0000:0000	2a02:40a0:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a02:41e0:0000:0000:0000:0000:0000:0000	2a02:41e0:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a02:5080:0000:0000:0000:0000:0000:0000	2a02:5080:ffff:ffff:ffff:ffff:ffff:ffff	IL

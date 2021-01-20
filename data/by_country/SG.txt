@@ -205,6 +205,7 @@
 2406:f900:0000:0000:0000:0000:0000:0000	2406:f900:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2406:fc00:0000:0000:0000:0000:0000:0000	2406:fc00:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2407:0080:0000:0000:0000:0000:0000:0000	2407:0080:ffff:ffff:ffff:ffff:ffff:ffff	SG
+2407:06c0:0000:0000:0000:0000:0000:0000	2407:06c0:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2407:1a80:0000:0000:0000:0000:0000:0000	2407:1a80:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2407:1c00:0000:0000:0000:0000:0000:0000	2407:1c00:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2407:1d80:0000:0000:0000:0000:0000:0000	2407:1d80:ffff:ffff:ffff:ffff:ffff:ffff	SG
