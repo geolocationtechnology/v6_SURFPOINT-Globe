@@ -1390,5 +1390,7 @@
 2a10:c080:0000:0000:0000:0000:0000:0000	2a10:c087:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:c380:0000:0000:0000:0000:0000:0000	2a10:c387:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:c900:0000:0000:0000:0000:0000:0000	2a10:c907:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a10:de80:0000:0000:0000:0000:0000:0000	2a10:de80:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:e300:0000:0000:0000:0000:0000:0000	2a10:e300:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a10:f800:0000:0000:0000:0000:0000:0000	2a10:f807:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a10:f980:0000:0000:0000:0000:0000:0000	2a10:f987:ffff:ffff:ffff:ffff:ffff:ffff	NL

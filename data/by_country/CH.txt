@@ -607,4 +607,5 @@
 2a10:cf00:0000:0000:0000:0000:0000:0000	2a10:cf07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a10:d200:0000:0000:0000:0000:0000:0000	2a10:d207:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a10:d380:0000:0000:0000:0000:0000:0000	2a10:d387:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a10:e480:0000:0000:0000:0000:0000:0000	2a10:e487:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a10:e900:0000:0000:0000:0000:0000:0000	2a10:e907:ffff:ffff:ffff:ffff:ffff:ffff	CH

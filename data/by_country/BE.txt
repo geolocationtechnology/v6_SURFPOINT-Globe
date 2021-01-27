@@ -138,6 +138,7 @@
 2a05:8a40:0000:0000:0000:0000:0000:0000	2a05:8a47:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:9840:0000:0000:0000:0000:0000:0000	2a05:9847:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:9b80:0000:0000:0000:0000:0000:0000	2a05:9b87:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a05:bd80:0000:0000:0000:0000:0000:0000	2a05:bd87:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:be00:0000:0000:0000:0000:0000:0000	2a05:be07:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:c200:0000:0000:0000:0000:0000:0000	2a05:c207:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a05:eb20:0000:0000:0000:0000:0000:0000	2a05:eb27:ffff:ffff:ffff:ffff:ffff:ffff	BE

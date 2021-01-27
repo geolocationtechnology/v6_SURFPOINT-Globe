@@ -166,6 +166,7 @@
 2a01:a620:0000:0000:0000:0000:0000:0000	2a01:a620:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:a7c0:0000:0000:0000:0000:0000:0000	2a01:a7c0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:ab00:0000:0000:0000:0000:0000:0000	2a01:ab07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a01:ab40:0000:0000:0000:0000:0000:0000	2a01:ab47:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:ac40:0000:0000:0000:0000:0000:0000	2a01:ac40:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:b080:0000:0000:0000:0000:0000:0000	2a01:b080:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:b120:0000:0000:0000:0000:0000:0000	2a01:b120:ffff:ffff:ffff:ffff:ffff:ffff	IT
@@ -882,6 +883,7 @@
 2a10:bd80:0000:0000:0000:0000:0000:0000	2a10:bd87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:be00:0000:0000:0000:0000:0000:0000	2a10:be07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:cc80:0000:0000:0000:0000:0000:0000	2a10:cc87:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a10:e680:0000:0000:0000:0000:0000:0000	2a10:e687:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:e700:0000:0000:0000:0000:0000:0000	2a10:e707:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:eb00:0000:0000:0000:0000:0000:0000	2a10:eb07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:f700:0000:0000:0000:0000:0000:0000	2a10:f707:ffff:ffff:ffff:ffff:ffff:ffff	IT

@@ -51,7 +51,6 @@
 2a0a:ab40:0000:0000:0000:0000:0000:0000	2a0a:ab47:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0b:4180:0000:0000:0000:0000:0000:0000	2a0b:4187:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0c:2ac0:0000:0000:0000:0000:0000:0000	2a0c:2ac7:ffff:ffff:ffff:ffff:ffff:ffff	AE
-2a0c:a300:0000:0000:0000:0000:0000:0000	2a0c:a307:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0d:0a80:0000:0000:0000:0000:0000:0000	2a0d:0a87:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0d:ab80:0000:0000:0000:0000:0000:0000	2a0d:ab80:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0e:6e80:0000:0000:0000:0000:0000:0000	2a0e:6e87:ffff:ffff:ffff:ffff:ffff:ffff	AE
