@@ -309,13 +309,13 @@
 2a02:2268:0000:0000:0000:0000:0000:0000	2a02:2268:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:22a0:0000:0000:0000:0000:0000:0000	2a02:22a0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2308:0000:0000:0000:0000:0000:0000	2a02:2308:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a02:2370:0000:0000:0000:0000:0000:0000	2a02:2370:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a02:2370:0000:0000:0000:0000:0000:0000	2a02:2377:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2388:0000:0000:0000:0000:0000:0000	2a02:2388:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:23e8:0000:0000:0000:0000:0000:0000	2a02:23ef:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2400:0000:0000:0000:0000:0000:0000	2a02:2400:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2500:0000:0000:0000:0000:0000:0000	2a02:2500:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2670:0000:0000:0000:0000:0000:0000	2a02:2670:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a02:26f0:0000:0000:0000:0000:0000:0000	2a02:26f0:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a02:26f0:0000:0000:0000:0000:0000:0000	2a02:26f7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2738:0000:0000:0000:0000:0000:0000	2a02:2738:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2770:0000:0000:0000:0000:0000:0000	2a02:2770:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:27c8:0000:0000:0000:0000:0000:0000	2a02:27c8:ffff:ffff:ffff:ffff:ffff:ffff	NL

@@ -5,4 +5,5 @@
 2404:2a00:0000:0000:0000:0000:0000:0000	2404:2a00:ffff:ffff:ffff:ffff:ffff:ffff	NC
 2404:e400:0000:0000:0000:0000:0000:0000	2404:e400:ffff:ffff:ffff:ffff:ffff:ffff	NC
 2404:e9c0:0000:0000:0000:0000:0000:0000	2404:e9c0:ffff:ffff:ffff:ffff:ffff:ffff	NC
+2407:1240:0000:0000:0000:0000:0000:0000	2407:1240:ffff:ffff:ffff:ffff:ffff:ffff	NC
 2407:4a00:0000:0000:0000:0000:0000:0000	2407:4a00:ffff:ffff:ffff:ffff:ffff:ffff	NC

@@ -699,6 +699,7 @@
 2a0c:5c00:0000:0000:0000:0000:0000:0000	2a0c:5c07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0c:7d40:0000:0000:0000:0000:0000:0000	2a0c:7d40:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0c:8000:0000:0000:0000:0000:0000:0000	2a0c:8007:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0c:80c0:0000:0000:0000:0000:0000:0000	2a0c:80c0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0c:8100:0000:0000:0000:0000:0000:0000	2a0c:8107:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0c:8500:0000:0000:0000:0000:0000:0000	2a0c:8507:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0c:8640:0000:0000:0000:0000:0000:0000	2a0c:8647:ffff:ffff:ffff:ffff:ffff:ffff	IT
@@ -748,6 +749,7 @@
 2a0d:5b40:0000:0000:0000:0000:0000:0000	2a0d:5b47:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:6240:0000:0000:0000:0000:0000:0000	2a0d:6247:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:6380:0000:0000:0000:0000:0000:0000	2a0d:6387:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0d:6480:0000:0000:0000:0000:0000:0000	2a0d:6487:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:7280:0000:0000:0000:0000:0000:0000	2a0d:7287:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:7580:0000:0000:0000:0000:0000:0000	2a0d:7587:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0d:7640:0000:0000:0000:0000:0000:0000	2a0d:7640:ffff:ffff:ffff:ffff:ffff:ffff	IT
