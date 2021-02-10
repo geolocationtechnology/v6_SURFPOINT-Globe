@@ -1,5 +1,4 @@
 2001:0678:0efc:0000:0000:0000:0000:0000	2001:0678:0efc:ffff:ffff:ffff:ffff:ffff	UA
-2001:07f8:0107:0000:0000:0000:0000:0000	2001:07f8:0107:ffff:ffff:ffff:ffff:ffff	UA
 2001:4130:0000:0000:0000:0000:0000:0000	2001:4130:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:0f50:0000:0000:0000:0000:0000:0000	2a00:0f53:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:1210:0000:0000:0000:0000:0000:0000	2a00:1210:ffff:ffff:ffff:ffff:ffff:ffff	UA
@@ -378,6 +377,7 @@
 2a10:3580:0000:0000:0000:0000:0000:0000	2a10:3587:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:4d80:0000:0000:0000:0000:0000:0000	2a10:4d87:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:59c0:0000:0000:0000:0000:0000:0000	2a10:59c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a10:8340:0000:0000:0000:0000:0000:0000	2a10:8347:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:a380:0000:0000:0000:0000:0000:0000	2a10:a387:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:a480:0000:0000:0000:0000:0000:0000	2a10:a487:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:a880:0000:0000:0000:0000:0000:0000	2a10:a887:ffff:ffff:ffff:ffff:ffff:ffff	UA

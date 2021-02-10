@@ -311,7 +311,6 @@
 2a01:9860:0000:0000:0000:0000:0000:0000	2a01:9860:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a01:98c0:0000:0000:0000:0000:0000:0000	2a01:98c0:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a01:9a40:0000:0000:0000:0000:0000:0000	2a01:9a40:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a01:9ae0:0000:0000:0000:0000:0000:0000	2a01:9ae0:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a01:9f00:0000:0000:0000:0000:0000:0000	2a01:9f00:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a01:9f60:0000:0000:0000:0000:0000:0000	2a01:9f60:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a01:a1e0:0000:0000:0000:0000:0000:0000	2a01:a1e0:ffff:ffff:ffff:ffff:ffff:ffff	RU

@@ -62,7 +62,6 @@
 2a0e:7fc0:0000:0000:0000:0000:0000:0000	2a0e:7fc7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0e:ae40:0000:0000:0000:0000:0000:0000	2a0e:ae40:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0f:2800:0000:0000:0000:0000:0000:0000	2a0f:2807:ffff:ffff:ffff:ffff:ffff:ffff	CY
-2a0f:46c0:0000:0000:0000:0000:0000:0000	2a0f:46c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0f:9640:0000:0000:0000:0000:0000:0000	2a0f:9647:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0f:d280:0000:0000:0000:0000:0000:0000	2a0f:d287:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a0f:d500:0000:0000:0000:0000:0000:0000	2a0f:d507:ffff:ffff:ffff:ffff:ffff:ffff	CY

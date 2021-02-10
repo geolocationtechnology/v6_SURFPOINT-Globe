@@ -5,6 +5,7 @@
 2a00:8de0:0000:0000:0000:0000:0000:0000	2a00:8de7:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a01:00a0:0000:0000:0000:0000:0000:0000	2a01:00a0:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a01:0180:0000:0000:0000:0000:0000:0000	2a01:0187:ffff:ffff:ffff:ffff:ffff:ffff	MT
+2a01:9ae0:0000:0000:0000:0000:0000:0000	2a01:9ae0:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a01:abc0:0000:0000:0000:0000:0000:0000	2a01:abc0:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a02:0dd0:0000:0000:0000:0000:0000:0000	2a02:0dd0:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a02:5320:0000:0000:0000:0000:0000:0000	2a02:5320:ffff:ffff:ffff:ffff:ffff:ffff	MT

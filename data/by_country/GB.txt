@@ -1727,6 +1727,8 @@
 2a10:7780:0000:0000:0000:0000:0000:0000	2a10:7787:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:7ec0:0000:0000:0000:0000:0000:0000	2a10:7ec7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:7f80:0000:0000:0000:0000:0000:0000	2a10:7f87:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a10:8540:0000:0000:0000:0000:0000:0000	2a10:8547:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a10:85c0:0000:0000:0000:0000:0000:0000	2a10:85c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:8700:0000:0000:0000:0000:0000:0000	2a10:8707:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:8800:0000:0000:0000:0000:0000:0000	2a10:8807:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:8c00:0000:0000:0000:0000:0000:0000	2a10:8c07:ffff:ffff:ffff:ffff:ffff:ffff	GB

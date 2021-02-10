@@ -43,6 +43,7 @@
 2600:1600:0000:0000:0000:0000:0000:0000	2600:16ff:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2600:ac00:0000:0000:0000:0000:0000:0000	2600:ac0f:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2600:b800:0000:0000:0000:0000:0000:0000	2600:b80f:ffff:ffff:ffff:ffff:ffff:ffff	CA
+2600:d400:0000:0000:0000:0000:0000:0000	2600:d40f:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2600:e000:0000:0000:0000:0000:0000:0000	2600:e00f:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2602:0200:0000:0000:0000:0000:0000:0000	2602:0200:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2602:0210:0000:0000:0000:0000:0000:0000	2602:0210:ffff:ffff:ffff:ffff:ffff:ffff	CA
