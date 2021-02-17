@@ -9,6 +9,7 @@
 2001:4c28:0000:0000:0000:0000:0000:0000	2001:4c2f:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2001:4da8:0000:0000:0000:0000:0000:0000	2001:4da8:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2001:4dd8:0000:0000:0000:0000:0000:0000	2001:4dd8:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2402:0d00:0000:0000:0000:0000:0000:0000	2402:0d00:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2406:4a80:0000:0000:0000:0000:0000:0000	2406:4a80:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a00:0e08:0000:0000:0000:0000:0000:0000	2a00:0e0f:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a00:0e48:0000:0000:0000:0000:0000:0000	2a00:0e48:ffff:ffff:ffff:ffff:ffff:ffff	NO

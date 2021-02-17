@@ -4,7 +4,7 @@
 2001:1b28:0000:0000:0000:0000:0000:0000	2001:1b28:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2001:1bf0:0000:0000:0000:0000:0000:0000	2001:1bf7:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a00:16e0:0000:0000:0000:0000:0000:0000	2a00:16e0:ffff:ffff:ffff:ffff:ffff:ffff	EE
-2a00:6a00:0000:0000:0000:0000:0000:0000	2a00:6a00:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a00:6a00:0000:0000:0000:0000:0000:0000	2a00:6a07:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a00:6cc0:0000:0000:0000:0000:0000:0000	2a00:6cc0:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a00:9b40:0000:0000:0000:0000:0000:0000	2a00:9b40:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a00:9ec0:0000:0000:0000:0000:0000:0000	2a00:9ec0:ffff:ffff:ffff:ffff:ffff:ffff	EE
