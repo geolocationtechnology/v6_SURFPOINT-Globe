@@ -2100,6 +2100,7 @@
 2a10:9480:0000:0000:0000:0000:0000:0000	2a10:9487:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:9580:0000:0000:0000:0000:0000:0000	2a10:9587:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:9680:0000:0000:0000:0000:0000:0000	2a10:9687:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a10:96c0:0000:0000:0000:0000:0000:0000	2a10:96c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:aa80:0000:0000:0000:0000:0000:0000	2a10:aa87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:ad00:0000:0000:0000:0000:0000:0000	2a10:ad07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a10:ad80:0000:0000:0000:0000:0000:0000	2a10:ad87:ffff:ffff:ffff:ffff:ffff:ffff	RU
