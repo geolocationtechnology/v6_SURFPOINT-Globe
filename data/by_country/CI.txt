@@ -5,7 +5,6 @@
 2c0f:e800:0000:0000:0000:0000:0000:0000	2c0f:e800:ffff:ffff:ffff:ffff:ffff:ffff	CI
 2c0f:ec60:0000:0000:0000:0000:0000:0000	2c0f:ec60:ffff:ffff:ffff:ffff:ffff:ffff	CI
 2c0f:ecf0:0000:0000:0000:0000:0000:0000	2c0f:ecf0:ffff:ffff:ffff:ffff:ffff:ffff	CI
-2c0f:ef80:0000:0000:0000:0000:0000:0000	2c0f:ef80:ffff:ffff:ffff:ffff:ffff:ffff	CI
 2c0f:f230:0000:0000:0000:0000:0000:0000	2c0f:f230:ffff:ffff:ffff:ffff:ffff:ffff	CI
 2c0f:f3b0:0000:0000:0000:0000:0000:0000	2c0f:f3b0:ffff:ffff:ffff:ffff:ffff:ffff	CI
 2c0f:f4d0:0000:0000:0000:0000:0000:0000	2c0f:f4d0:ffff:ffff:ffff:ffff:ffff:ffff	CI

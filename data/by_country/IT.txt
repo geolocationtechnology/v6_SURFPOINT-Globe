@@ -882,6 +882,9 @@
 2a10:8f40:0000:0000:0000:0000:0000:0000	2a10:8f47:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:98c0:0000:0000:0000:0000:0000:0000	2a10:98c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:9a00:0000:0000:0000:0000:0000:0000	2a10:9a07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a10:9ec0:0000:0000:0000:0000:0000:0000	2a10:9ec7:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a10:a0c0:0000:0000:0000:0000:0000:0000	2a10:a0c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a10:a140:0000:0000:0000:0000:0000:0000	2a10:a140:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:a800:0000:0000:0000:0000:0000:0000	2a10:a803:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:bd80:0000:0000:0000:0000:0000:0000	2a10:bd87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a10:be00:0000:0000:0000:0000:0000:0000	2a10:be07:ffff:ffff:ffff:ffff:ffff:ffff	IT
