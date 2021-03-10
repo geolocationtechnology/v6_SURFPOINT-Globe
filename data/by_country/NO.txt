@@ -348,4 +348,5 @@
 2a10:5a40:0000:0000:0000:0000:0000:0000	2a10:5a47:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a10:7640:0000:0000:0000:0000:0000:0000	2a10:7647:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a10:a300:0000:0000:0000:0000:0000:0000	2a10:a307:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a10:ff00:0000:0000:0000:0000:0000:0000	2a10:ff01:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a10:a640:0000:0000:0000:0000:0000:0000	2a10:a647:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a10:ff00:0000:0000:0000:0000:0000:0000	2a10:ff07:ffff:ffff:ffff:ffff:ffff:ffff	NO

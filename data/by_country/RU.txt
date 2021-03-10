@@ -1075,6 +1075,7 @@
 2a09:6580:0000:0000:0000:0000:0000:0000	2a09:6587:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:6780:0000:0000:0000:0000:0000:0000	2a09:6787:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:6800:0000:0000:0000:0000:0000:0000	2a09:6807:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a09:6880:0000:0000:0000:0000:0000:0000	2a09:6887:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:6900:0000:0000:0000:0000:0000:0000	2a09:6907:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:6b00:0000:0000:0000:0000:0000:0000	2a09:6b07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:6c00:0000:0000:0000:0000:0000:0000	2a09:6c07:ffff:ffff:ffff:ffff:ffff:ffff	RU

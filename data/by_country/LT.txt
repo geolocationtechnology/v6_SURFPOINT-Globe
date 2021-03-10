@@ -175,6 +175,8 @@
 2a10:77c0:0000:0000:0000:0000:0000:0000	2a10:77c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:8740:0000:0000:0000:0000:0000:0000	2a10:8747:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:8840:0000:0000:0000:0000:0000:0000	2a10:8847:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a10:a9c0:0000:0000:0000:0000:0000:0000	2a10:a9c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a10:aa40:0000:0000:0000:0000:0000:0000	2a10:aa47:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:c400:0000:0000:0000:0000:0000:0000	2a10:c407:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:cc00:0000:0000:0000:0000:0000:0000	2a10:cc07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:e180:0000:0000:0000:0000:0000:0000	2a10:e187:ffff:ffff:ffff:ffff:ffff:ffff	LT
