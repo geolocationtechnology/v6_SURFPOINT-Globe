@@ -47,3 +47,4 @@
 2a10:1580:0000:0000:0000:0000:0000:0000	2a10:1587:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a10:6040:0000:0000:0000:0000:0000:0000	2a10:6040:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a10:9f40:0000:0000:0000:0000:0000:0000	2a10:9f47:ffff:ffff:ffff:ffff:ffff:ffff	GE
+2a10:b140:0000:0000:0000:0000:0000:0000	2a10:b140:ffff:ffff:ffff:ffff:ffff:ffff	GE

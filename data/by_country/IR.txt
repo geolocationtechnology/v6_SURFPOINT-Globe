@@ -367,6 +367,7 @@
 2a10:a440:0000:0000:0000:0000:0000:0000	2a10:a447:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a10:a780:0000:0000:0000:0000:0000:0000	2a10:a787:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a10:ab00:0000:0000:0000:0000:0000:0000	2a10:ab07:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a10:b240:0000:0000:0000:0000:0000:0000	2a10:b247:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a10:b800:0000:0000:0000:0000:0000:0000	2a10:b807:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a10:ef00:0000:0000:0000:0000:0000:0000	2a10:ef07:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a10:fe00:0000:0000:0000:0000:0000:0000	2a10:fe00:ffff:ffff:ffff:ffff:ffff:ffff	IR

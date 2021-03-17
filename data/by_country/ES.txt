@@ -831,6 +831,7 @@
 2a10:7dc0:0000:0000:0000:0000:0000:0000	2a10:7dc7:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:a7c0:0000:0000:0000:0000:0000:0000	2a10:a7c7:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:a900:0000:0000:0000:0000:0000:0000	2a10:a907:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a10:aec0:0000:0000:0000:0000:0000:0000	2a10:aec7:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:b180:0000:0000:0000:0000:0000:0000	2a10:b180:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:c280:0000:0000:0000:0000:0000:0000	2a10:c280:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:ce00:0000:0000:0000:0000:0000:0000	2a10:ce07:ffff:ffff:ffff:ffff:ffff:ffff	ES
