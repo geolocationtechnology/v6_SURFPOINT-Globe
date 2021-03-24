@@ -24,3 +24,4 @@
 2a0f:b940:0000:0000:0000:0000:0000:0000	2a0f:b940:ffff:ffff:ffff:ffff:ffff:ffff	SY
 2a10:7540:0000:0000:0000:0000:0000:0000	2a10:7547:ffff:ffff:ffff:ffff:ffff:ffff	SY
 2a10:a5c0:0000:0000:0000:0000:0000:0000	2a10:a5c7:ffff:ffff:ffff:ffff:ffff:ffff	SY
+2a10:b6c0:0000:0000:0000:0000:0000:0000	2a10:b6c7:ffff:ffff:ffff:ffff:ffff:ffff	SY

@@ -66,4 +66,5 @@
 2a10:2100:0000:0000:0000:0000:0000:0000	2a10:2100:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a10:4240:0000:0000:0000:0000:0000:0000	2a10:4247:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a10:79c0:0000:0000:0000:0000:0000:0000	2a10:79c7:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a10:ba40:0000:0000:0000:0000:0000:0000	2a10:ba47:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a10:d280:0000:0000:0000:0000:0000:0000	2a10:d287:ffff:ffff:ffff:ffff:ffff:ffff	AE

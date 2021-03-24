@@ -50,7 +50,6 @@
 2a00:79e0:0000:0000:0000:0000:0000:0000	2a00:79e1:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:81a0:0000:0000:0000:0000:0000:0000	2a00:81a7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:82c0:0000:0000:0000:0000:0000:0000	2a00:82c0:ffff:ffff:ffff:ffff:ffff:ffff	CH
-2a00:8d00:0000:0000:0000:0000:0000:0000	2a00:8d00:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:9220:0000:0000:0000:0000:0000:0000	2a00:9220:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:9480:0000:0000:0000:0000:0000:0000	2a00:9480:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:9740:0000:0000:0000:0000:0000:0000	2a00:9740:ffff:ffff:ffff:ffff:ffff:ffff	CH

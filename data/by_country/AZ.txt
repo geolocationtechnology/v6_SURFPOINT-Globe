@@ -34,6 +34,7 @@
 2a07:9500:0000:0000:0000:0000:0000:0000	2a07:9507:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a07:f140:0000:0000:0000:0000:0000:0000	2a07:f147:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a09:ce80:0000:0000:0000:0000:0000:0000	2a09:ce87:ffff:ffff:ffff:ffff:ffff:ffff	AZ
+2a0a:8080:0000:0000:0000:0000:0000:0000	2a0a:8087:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a0b:3e80:0000:0000:0000:0000:0000:0000	2a0b:3e87:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a0b:f9c0:0000:0000:0000:0000:0000:0000	2a0b:f9c7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a0b:fa40:0000:0000:0000:0000:0000:0000	2a0b:fa47:ffff:ffff:ffff:ffff:ffff:ffff	AZ
