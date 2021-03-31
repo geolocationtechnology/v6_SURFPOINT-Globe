@@ -555,4 +555,5 @@
 2a10:8140:0000:0000:0000:0000:0000:0000	2a10:8147:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a10:9880:0000:0000:0000:0000:0000:0000	2a10:9887:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a10:bbc0:0000:0000:0000:0000:0000:0000	2a10:bbc0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a10:c540:0000:0000:0000:0000:0000:0000	2a10:c547:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a10:d180:0000:0000:0000:0000:0000:0000	2a10:d187:ffff:ffff:ffff:ffff:ffff:ffff	CZ
