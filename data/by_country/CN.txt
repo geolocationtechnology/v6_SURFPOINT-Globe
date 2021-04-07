@@ -1687,6 +1687,7 @@
 2407:4440:0000:0000:0000:0000:0000:0000	2407:4440:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:4580:0000:0000:0000:0000:0000:0000	2407:4580:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:4680:0000:0000:0000:0000:0000:0000	2407:4680:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2407:4740:0000:0000:0000:0000:0000:0000	2407:4740:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:4880:0000:0000:0000:0000:0000:0000	2407:4880:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:4980:0000:0000:0000:0000:0000:0000	2407:4980:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:4a80:0000:0000:0000:0000:0000:0000	2407:4a80:ffff:ffff:ffff:ffff:ffff:ffff	CN
@@ -1804,6 +1805,7 @@
 240a:4000:0000:0000:0000:0000:0000:0000	240a:47ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240a:6000:0000:0000:0000:0000:0000:0000	240a:60ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240a:8000:0000:0000:0000:0000:0000:0000	240a:87ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
+240a:a000:0000:0000:0000:0000:0000:0000	240a:afff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240a:c000:0000:0000:0000:0000:0000:0000	240a:cfff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240b:8000:0000:0000:0000:0000:0000:0000	240b:87ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240c:0000:0000:0000:0000:0000:0000:0000	240c:000f:ffff:ffff:ffff:ffff:ffff:ffff	CN
