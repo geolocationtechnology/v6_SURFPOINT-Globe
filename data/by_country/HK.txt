@@ -441,6 +441,7 @@
 2407:4340:0000:0000:0000:0000:0000:0000	2407:4340:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:4380:0000:0000:0000:0000:0000:0000	2407:4380:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:47c0:0000:0000:0000:0000:0000:0000	2407:47c0:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2407:4e40:0000:0000:0000:0000:0000:0000	2407:4e40:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:6080:0000:0000:0000:0000:0000:0000	2407:6080:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:6480:0000:0000:0000:0000:0000:0000	2407:6480:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:6880:0000:0000:0000:0000:0000:0000	2407:6880:ffff:ffff:ffff:ffff:ffff:ffff	HK
@@ -497,3 +498,4 @@
 2a10:6840:0000:0000:0000:0000:0000:0000	2a10:6847:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a10:68c0:0000:0000:0000:0000:0000:0000	2a10:68c7:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a10:bc40:0000:0000:0000:0000:0000:0000	2a10:bc47:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a10:ce40:0000:0000:0000:0000:0000:0000	2a10:ce40:ffff:ffff:ffff:ffff:ffff:ffff	HK

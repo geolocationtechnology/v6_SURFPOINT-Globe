@@ -247,7 +247,6 @@
 2a00:d1a0:0000:0000:0000:0000:0000:0000	2a00:d1a0:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a00:d200:0000:0000:0000:0000:0000:0000	2a00:d207:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a00:d300:0000:0000:0000:0000:0000:0000	2a00:d300:ffff:ffff:ffff:ffff:ffff:ffff	GB
-2a00:d340:0000:0000:0000:0000:0000:0000	2a00:d340:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a00:d5e0:0000:0000:0000:0000:0000:0000	2a00:d5e0:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a00:d600:0000:0000:0000:0000:0000:0000	2a00:d600:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a00:d680:0000:0000:0000:0000:0000:0000	2a00:d680:ffff:ffff:ffff:ffff:ffff:ffff	GB

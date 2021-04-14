@@ -618,6 +618,7 @@
 2a0a:9ac0:0000:0000:0000:0000:0000:0000	2a0a:9ac7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0a:9b00:0000:0000:0000:0000:0000:0000	2a0a:9b07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0a:a380:0000:0000:0000:0000:0000:0000	2a0a:a387:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a0a:a740:0000:0000:0000:0000:0000:0000	2a0a:a747:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0a:ac80:0000:0000:0000:0000:0000:0000	2a0a:ac87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0a:ae00:0000:0000:0000:0000:0000:0000	2a0a:ae07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a0a:b0c0:0000:0000:0000:0000:0000:0000	2a0a:b0c7:ffff:ffff:ffff:ffff:ffff:ffff	IT

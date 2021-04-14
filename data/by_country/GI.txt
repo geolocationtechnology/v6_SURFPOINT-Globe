@@ -13,3 +13,4 @@
 2a0c:a600:0000:0000:0000:0000:0000:0000	2a0c:a607:ffff:ffff:ffff:ffff:ffff:ffff	GI
 2a0c:c040:0000:0000:0000:0000:0000:0000	2a0c:c047:ffff:ffff:ffff:ffff:ffff:ffff	GI
 2a0d:be80:0000:0000:0000:0000:0000:0000	2a0d:be87:ffff:ffff:ffff:ffff:ffff:ffff	GI
+2a10:cec0:0000:0000:0000:0000:0000:0000	2a10:cec0:ffff:ffff:ffff:ffff:ffff:ffff	GI
