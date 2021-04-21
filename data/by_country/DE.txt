@@ -410,7 +410,6 @@
 2a01:9ec0:0000:0000:0000:0000:0000:0000	2a01:9ec7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:9fa0:0000:0000:0000:0000:0000:0000	2a01:9fa0:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:a080:0000:0000:0000:0000:0000:0000	2a01:a080:ffff:ffff:ffff:ffff:ffff:ffff	DE
-2a01:a0a0:0000:0000:0000:0000:0000:0000	2a01:a0a0:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:a380:0000:0000:0000:0000:0000:0000	2a01:a380:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:a460:0000:0000:0000:0000:0000:0000	2a01:a460:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:a700:0000:0000:0000:0000:0000:0000	2a01:a707:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1224,7 +1223,6 @@
 2a09:7100:0000:0000:0000:0000:0000:0000	2a09:7107:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:7180:0000:0000:0000:0000:0000:0000	2a09:7187:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:71c0:0000:0000:0000:0000:0000:0000	2a09:71c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
-2a09:7480:0000:0000:0000:0000:0000:0000	2a09:7487:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:7900:0000:0000:0000:0000:0000:0000	2a09:7907:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:80c0:0000:0000:0000:0000:0000:0000	2a09:80c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a09:8180:0000:0000:0000:0000:0000:0000	2a09:8187:ffff:ffff:ffff:ffff:ffff:ffff	DE

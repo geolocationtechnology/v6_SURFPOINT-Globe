@@ -1,4 +1,5 @@
 2a02:e700:0000:0000:0000:0000:0000:0000	2a02:e707:ffff:ffff:ffff:ffff:ffff:ffff	LY
+2c0f:3200:0000:0000:0000:0000:0000:0000	2c0f:3200:ffff:ffff:ffff:ffff:ffff:ffff	LY
 2c0f:ed18:0000:0000:0000:0000:0000:0000	2c0f:ed18:ffff:ffff:ffff:ffff:ffff:ffff	LY
 2c0f:f518:0000:0000:0000:0000:0000:0000	2c0f:f518:ffff:ffff:ffff:ffff:ffff:ffff	LY
 2c0f:fb10:0000:0000:0000:0000:0000:0000	2c0f:fb10:ffff:ffff:ffff:ffff:ffff:ffff	LY

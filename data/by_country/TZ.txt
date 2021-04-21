@@ -1,5 +1,6 @@
 2001:4258:0000:0000:0000:0000:0000:0000	2001:4258:ffff:ffff:ffff:ffff:ffff:ffff	TZ
 2001:43a0:0000:0000:0000:0000:0000:0000	2001:43a0:ffff:ffff:ffff:ffff:ffff:ffff	TZ
+2c0f:0600:0000:0000:0000:0000:0000:0000	2c0f:0600:ffff:ffff:ffff:ffff:ffff:ffff	TZ
 2c0f:5c00:0000:0000:0000:0000:0000:0000	2c0f:5c00:ffff:ffff:ffff:ffff:ffff:ffff	TZ
 2c0f:e958:0000:0000:0000:0000:0000:0000	2c0f:e958:ffff:ffff:ffff:ffff:ffff:ffff	TZ
 2c0f:ebf8:0000:0000:0000:0000:0000:0000	2c0f:ebf8:ffff:ffff:ffff:ffff:ffff:ffff	TZ

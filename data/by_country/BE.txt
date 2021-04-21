@@ -238,3 +238,4 @@
 2a10:4c80:0000:0000:0000:0000:0000:0000	2a10:4c87:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a10:8280:0000:0000:0000:0000:0000:0000	2a10:8287:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a10:b600:0000:0000:0000:0000:0000:0000	2a10:b607:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a10:d740:0000:0000:0000:0000:0000:0000	2a10:d747:ffff:ffff:ffff:ffff:ffff:ffff	BE

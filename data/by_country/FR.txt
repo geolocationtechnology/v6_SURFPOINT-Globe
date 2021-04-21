@@ -1108,6 +1108,7 @@
 2a10:cd00:0000:0000:0000:0000:0000:0000	2a10:cd07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:d780:0000:0000:0000:0000:0000:0000	2a10:d787:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:db00:0000:0000:0000:0000:0000:0000	2a10:db07:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a10:db40:0000:0000:0000:0000:0000:0000	2a10:db47:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:dc00:0000:0000:0000:0000:0000:0000	2a10:dc07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:ea00:0000:0000:0000:0000:0000:0000	2a10:ea07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:f480:0000:0000:0000:0000:0000:0000	2a10:f487:ffff:ffff:ffff:ffff:ffff:ffff	FR
