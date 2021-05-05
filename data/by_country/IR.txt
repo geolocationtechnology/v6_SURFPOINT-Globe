@@ -33,7 +33,6 @@
 2a00:d500:0000:0000:0000:0000:0000:0000	2a00:d500:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a01:03c8:0000:0000:0000:0000:0000:0000	2a01:03c8:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a01:0458:0000:0000:0000:0000:0000:0000	2a01:0458:ffff:ffff:ffff:ffff:ffff:ffff	IR
-2a01:0778:0000:0000:0000:0000:0000:0000	2a01:0778:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a01:4ac0:0000:0000:0000:0000:0000:0000	2a01:4ac0:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a01:5500:0000:0000:0000:0000:0000:0000	2a01:5507:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a01:5840:0000:0000:0000:0000:0000:0000	2a01:5840:ffff:ffff:ffff:ffff:ffff:ffff	IR

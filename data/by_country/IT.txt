@@ -326,7 +326,6 @@
 2a03:d200:0000:0000:0000:0000:0000:0000	2a03:d200:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a03:d740:0000:0000:0000:0000:0000:0000	2a03:d740:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a03:de00:0000:0000:0000:0000:0000:0000	2a03:de00:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a03:de80:0000:0000:0000:0000:0000:0000	2a03:de80:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a03:e5c0:0000:0000:0000:0000:0000:0000	2a03:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a03:e640:0000:0000:0000:0000:0000:0000	2a03:e640:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a03:e700:0000:0000:0000:0000:0000:0000	2a03:e700:ffff:ffff:ffff:ffff:ffff:ffff	IT

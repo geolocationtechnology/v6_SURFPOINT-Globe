@@ -183,6 +183,7 @@
 2a10:cc00:0000:0000:0000:0000:0000:0000	2a10:cc07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:e180:0000:0000:0000:0000:0000:0000	2a10:e187:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:e280:0000:0000:0000:0000:0000:0000	2a10:e287:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a10:eac0:0000:0000:0000:0000:0000:0000	2a10:eac7:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:ec80:0000:0000:0000:0000:0000:0000	2a10:ec87:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:ed80:0000:0000:0000:0000:0000:0000	2a10:ed87:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:ee80:0000:0000:0000:0000:0000:0000	2a10:ee87:ffff:ffff:ffff:ffff:ffff:ffff	LT
