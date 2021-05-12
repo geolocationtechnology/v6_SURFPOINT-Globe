@@ -248,3 +248,5 @@
 2a10:9380:0000:0000:0000:0000:0000:0000	2a10:9387:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a10:a540:0000:0000:0000:0000:0000:0000	2a10:a547:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a10:d680:0000:0000:0000:0000:0000:0000	2a10:d687:ffff:ffff:ffff:ffff:ffff:ffff	FI
+2a10:f2c0:0000:0000:0000:0000:0000:0000	2a10:f2c7:ffff:ffff:ffff:ffff:ffff:ffff	FI
+2a10:f4c0:0000:0000:0000:0000:0000:0000	2a10:f4c7:ffff:ffff:ffff:ffff:ffff:ffff	FI

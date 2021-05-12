@@ -6,6 +6,7 @@
 2a0d:8040:0000:0000:0000:0000:0000:0000	2a0d:8047:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2a0f:a1c0:0000:0000:0000:0000:0000:0000	2a0f:a1c7:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:1800:0000:0000:0000:0000:0000:0000	2c0f:1800:ffff:ffff:ffff:ffff:ffff:ffff	KE
+2c0f:1e00:0000:0000:0000:0000:0000:0000	2c0f:1e00:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:2400:0000:0000:0000:0000:0000:0000	2c0f:2400:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:3a00:0000:0000:0000:0000:0000:0000	2c0f:3a00:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:3c00:0000:0000:0000:0000:0000:0000	2c0f:3c00:ffff:ffff:ffff:ffff:ffff:ffff	KE

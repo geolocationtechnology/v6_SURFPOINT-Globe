@@ -61,3 +61,4 @@
 2a0f:ce40:0000:0000:0000:0000:0000:0000	2a0f:ce40:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a10:b480:0000:0000:0000:0000:0000:0000	2a10:b487:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a10:df40:0000:0000:0000:0000:0000:0000	2a10:df47:ffff:ffff:ffff:ffff:ffff:ffff	AL
+2a10:f240:0000:0000:0000:0000:0000:0000	2a10:f247:ffff:ffff:ffff:ffff:ffff:ffff	AL

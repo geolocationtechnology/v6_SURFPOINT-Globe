@@ -1126,3 +1126,4 @@
 2a10:ea00:0000:0000:0000:0000:0000:0000	2a10:ea07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:edc0:0000:0000:0000:0000:0000:0000	2a10:edc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:f480:0000:0000:0000:0000:0000:0000	2a10:f487:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a10:f7c0:0000:0000:0000:0000:0000:0000	2a10:f7c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
