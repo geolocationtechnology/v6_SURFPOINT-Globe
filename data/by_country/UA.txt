@@ -406,3 +406,4 @@
 2a10:ee00:0000:0000:0000:0000:0000:0000	2a10:ee00:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:f500:0000:0000:0000:0000:0000:0000	2a10:f507:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:f900:0000:0000:0000:0000:0000:0000	2a10:f907:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:0580:0000:0000:0000:0000:0000:0000	2a11:0587:ffff:ffff:ffff:ffff:ffff:ffff	UA

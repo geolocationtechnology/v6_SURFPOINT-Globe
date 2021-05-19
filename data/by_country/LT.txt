@@ -195,4 +195,5 @@
 2a10:fd80:0000:0000:0000:0000:0000:0000	2a10:fd87:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:fe80:0000:0000:0000:0000:0000:0000	2a10:fe87:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a10:ff80:0000:0000:0000:0000:0000:0000	2a10:ff87:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a11:0080:0000:0000:0000:0000:0000:0000	2a11:0087:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:0400:0000:0000:0000:0000:0000:0000	2a11:0407:ffff:ffff:ffff:ffff:ffff:ffff	LT

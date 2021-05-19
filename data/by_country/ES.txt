@@ -842,3 +842,5 @@
 2a10:f680:0000:0000:0000:0000:0000:0000	2a10:f687:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:fb80:0000:0000:0000:0000:0000:0000	2a10:fb87:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a10:fc00:0000:0000:0000:0000:0000:0000	2a10:fc07:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a11:0180:0000:0000:0000:0000:0000:0000	2a11:0187:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a11:0880:0000:0000:0000:0000:0000:0000	2a11:0887:ffff:ffff:ffff:ffff:ffff:ffff	ES

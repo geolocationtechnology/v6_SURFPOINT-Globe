@@ -615,3 +615,4 @@
 2a10:f740:0000:0000:0000:0000:0000:0000	2a10:f747:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a10:f780:0000:0000:0000:0000:0000:0000	2a10:f780:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a10:f880:0000:0000:0000:0000:0000:0000	2a10:f887:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a11:0480:0000:0000:0000:0000:0000:0000	2a11:0487:ffff:ffff:ffff:ffff:ffff:ffff	PL

@@ -234,3 +234,4 @@
 2a0b:da40:0000:0000:0000:0000:0000:0000	2a0b:da47:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2a0d:9fc0:0000:0000:0000:0000:0000:0000	2a0d:9fc7:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2a0e:50c0:0000:0000:0000:0000:0000:0000	2a0e:50c7:ffff:ffff:ffff:ffff:ffff:ffff	SG
+2a11:0b00:0000:0000:0000:0000:0000:0000	2a11:0b07:ffff:ffff:ffff:ffff:ffff:ffff	SG
