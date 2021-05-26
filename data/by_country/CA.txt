@@ -272,7 +272,7 @@
 2604:c440:0000:0000:0000:0000:0000:0000	2604:c440:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2604:c4c0:0000:0000:0000:0000:0000:0000	2604:c4c0:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2604:c840:0000:0000:0000:0000:0000:0000	2604:c840:ffff:ffff:ffff:ffff:ffff:ffff	CA
-2604:c8c0:0000:0000:0000:0000:0000:0000	2604:c8c0:ffff:ffff:ffff:ffff:ffff:ffff	CA
+2604:c8c0:0000:0000:0000:0000:0000:0000	2604:c8c0:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2604:cec0:0000:0000:0000:0000:0000:0000	2604:cec0:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2604:cfc0:0000:0000:0000:0000:0000:0000	2604:cfc0:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2604:d040:0000:0000:0000:0000:0000:0000	2604:d040:ffff:ffff:ffff:ffff:ffff:ffff	CA

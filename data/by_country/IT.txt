@@ -26,6 +26,7 @@
 2001:4bb0:0000:0000:0000:0000:0000:0000	2001:4bb0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2001:4c90:0000:0000:0000:0000:0000:0000	2001:4c97:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2001:4d38:0000:0000:0000:0000:0000:0000	2001:4d38:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2407:6640:0000:0000:0000:0000:0000:0000	2407:6640:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2605:2e00:0000:0000:0000:0000:0000:0000	2605:2e00:0fff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:0c18:0000:0000:0000:0000:0000:0000	2a00:0c18:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a00:0c50:0000:0000:0000:0000:0000:0000	2a00:0c57:ffff:ffff:ffff:ffff:ffff:ffff	IT
