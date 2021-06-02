@@ -98,4 +98,5 @@
 2407:3cc0:0000:0000:0000:0000:0000:0000	2407:3cc0:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2407:5a00:0000:0000:0000:0000:0000:0000	2407:5a00:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2407:5dc0:0000:0000:0000:0000:0000:0000	2407:5dc0:ffff:ffff:ffff:ffff:ffff:ffff	PH
+2407:6cc0:0000:0000:0000:0000:0000:0000	2407:6cc0:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2407:9800:0000:0000:0000:0000:0000:0000	2407:9807:ffff:ffff:ffff:ffff:ffff:ffff	PH

@@ -1,4 +1,3 @@
-2001:0678:0f54:0000:0000:0000:0000:0000	2001:0678:0f54:ffff:ffff:ffff:ffff:ffff	PL
 2001:06a0:0000:0000:0000:0000:0000:0000	2001:06a0:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2001:06d8:0000:0000:0000:0000:0000:0000	2001:06df:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2001:07f9:000c:0000:0000:0000:0000:0000	2001:07f9:000c:ffff:ffff:ffff:ffff:ffff	PL
@@ -478,7 +477,6 @@
 2a0c:6480:0000:0000:0000:0000:0000:0000	2a0c:6487:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0c:6bc0:0000:0000:0000:0000:0000:0000	2a0c:6bc7:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0c:7240:0000:0000:0000:0000:0000:0000	2a0c:7247:ffff:ffff:ffff:ffff:ffff:ffff	PL
-2a0c:79c0:0000:0000:0000:0000:0000:0000	2a0c:79c7:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0c:7a80:0000:0000:0000:0000:0000:0000	2a0c:7a87:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0c:7e00:0000:0000:0000:0000:0000:0000	2a0c:7e07:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a0c:8440:0000:0000:0000:0000:0000:0000	2a0c:8447:ffff:ffff:ffff:ffff:ffff:ffff	PL

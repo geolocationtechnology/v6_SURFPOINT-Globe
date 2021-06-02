@@ -2,5 +2,6 @@
 2a01:a400:0000:0000:0000:0000:0000:0000	2a01:a400:ffff:ffff:ffff:ffff:ffff:ffff	JE
 2a03:d4c0:0000:0000:0000:0000:0000:0000	2a03:d4c0:ffff:ffff:ffff:ffff:ffff:ffff	JE
 2a07:ee40:0000:0000:0000:0000:0000:0000	2a07:ee47:ffff:ffff:ffff:ffff:ffff:ffff	JE
+2a0d:6700:0000:0000:0000:0000:0000:0000	2a0d:6707:ffff:ffff:ffff:ffff:ffff:ffff	JE
 2a0e:dec0:0000:0000:0000:0000:0000:0000	2a0e:dec7:ffff:ffff:ffff:ffff:ffff:ffff	JE
 2a10:81c0:0000:0000:0000:0000:0000:0000	2a10:81c0:ffff:ffff:ffff:ffff:ffff:ffff	JE
