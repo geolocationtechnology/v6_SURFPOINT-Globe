@@ -18,7 +18,6 @@
 2001:43f8:1800:0000:0000:0000:0000:0000	2001:43f8:18ff:ffff:ffff:ffff:ffff:ffff	ZA
 2001:43f8:1ac0:0000:0000:0000:0000:0000	2001:43f8:1acf:ffff:ffff:ffff:ffff:ffff	ZA
 2001:43fc:8000:0000:0000:0000:0000:0000	2001:43fc:80ff:ffff:ffff:ffff:ffff:ffff	ZA
-2001:43fd:0000:0000:0000:0000:0000:0000	2001:43fd:0000:ffff:ffff:ffff:ffff:ffff	ZA
 2a01:5380:0000:0000:0000:0000:0000:0000	2a01:5380:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2a02:47c0:0000:0000:0000:0000:0000:0000	2a02:47c0:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2a05:1680:0000:0000:0000:0000:0000:0000	2a05:1687:ffff:ffff:ffff:ffff:ffff:ffff	ZA
@@ -34,7 +33,6 @@
 2c0f:0c00:0000:0000:0000:0000:0000:0000	2c0f:0c00:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:1000:0000:0000:0000:0000:0000:0000	2c0f:1000:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:1200:0000:0000:0000:0000:0000:0000	2c0f:1200:ffff:ffff:ffff:ffff:ffff:ffff	ZA
-2c0f:1400:0000:0000:0000:0000:0000:0000	2c0f:1400:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:1600:0000:0000:0000:0000:0000:0000	2c0f:1600:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:1c00:0000:0000:0000:0000:0000:0000	2c0f:1c00:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:2600:0000:0000:0000:0000:0000:0000	2c0f:2600:ffff:ffff:ffff:ffff:ffff:ffff	ZA

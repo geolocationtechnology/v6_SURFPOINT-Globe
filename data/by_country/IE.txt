@@ -153,6 +153,7 @@
 2a0b:7dc0:0000:0000:0000:0000:0000:0000	2a0b:7dc7:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0b:ae00:0000:0000:0000:0000:0000:0000	2a0b:ae07:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0b:db40:0000:0000:0000:0000:0000:0000	2a0b:db47:ffff:ffff:ffff:ffff:ffff:ffff	IE
+2a0b:e340:0000:0000:0000:0000:0000:0000	2a0b:e347:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0c:4240:0000:0000:0000:0000:0000:0000	2a0c:4247:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0c:4f80:0000:0000:0000:0000:0000:0000	2a0c:4f87:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0c:5780:0000:0000:0000:0000:0000:0000	2a0c:5787:ffff:ffff:ffff:ffff:ffff:ffff	IE

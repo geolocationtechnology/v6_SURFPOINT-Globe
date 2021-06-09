@@ -79,6 +79,7 @@
 2a02:c5c0:0000:0000:0000:0000:0000:0000	2a02:c5c7:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a02:d200:0000:0000:0000:0000:0000:0000	2a02:d207:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a02:d4c0:0000:0000:0000:0000:0000:0000	2a02:d4c3:ffff:ffff:ffff:ffff:ffff:ffff	FI
+2a02:e900:0000:0000:0000:0000:0000:0000	2a02:e900:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a03:0880:0000:0000:0000:0000:0000:0000	2a03:0880:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a03:0b80:0000:0000:0000:0000:0000:0000	2a03:0b80:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a03:0c80:0000:0000:0000:0000:0000:0000	2a03:0c80:ffff:ffff:ffff:ffff:ffff:ffff	FI

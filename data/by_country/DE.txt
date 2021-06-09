@@ -5,6 +5,7 @@
 2001:0678:0f44:0000:0000:0000:0000:0000	2001:0678:0f44:ffff:ffff:ffff:ffff:ffff	DE
 2001:0678:0f48:0000:0000:0000:0000:0000	2001:0678:0f48:ffff:ffff:ffff:ffff:ffff	DE
 2001:0678:0f60:0000:0000:0000:0000:0000	2001:0678:0f60:ffff:ffff:ffff:ffff:ffff	DE
+2001:0678:0f64:0000:0000:0000:0000:0000	2001:0678:0f64:ffff:ffff:ffff:ffff:ffff	DE
 2001:0748:0000:0000:0000:0000:0000:0000	2001:0748:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:0780:0000:0000:0000:0000:0000:0000	2001:0787:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:07b0:0000:0000:0000:0000:0000:0000	2001:07b0:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -885,6 +886,7 @@
 2a05:1240:0000:0000:0000:0000:0000:0000	2a05:1247:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:1380:0000:0000:0000:0000:0000:0000	2a05:1380:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:15c0:0000:0000:0000:0000:0000:0000	2a05:15c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a05:1740:0000:0000:0000:0000:0000:0000	2a05:1747:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:20c0:0000:0000:0000:0000:0000:0000	2a05:20c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:2340:0000:0000:0000:0000:0000:0000	2a05:2347:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a05:2980:0000:0000:0000:0000:0000:0000	2a05:2987:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1174,6 +1176,7 @@
 2a07:ec40:0000:0000:0000:0000:0000:0000	2a07:ec47:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:ec80:0000:0000:0000:0000:0000:0000	2a07:ec87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:ed00:0000:0000:0000:0000:0000:0000	2a07:ed07:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a07:ef80:0000:0000:0000:0000:0000:0000	2a07:ef87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:f000:0000:0000:0000:0000:0000:0000	2a07:f000:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:f0c0:0000:0000:0000:0000:0000:0000	2a07:f0c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a07:f340:0000:0000:0000:0000:0000:0000	2a07:f340:ffff:ffff:ffff:ffff:ffff:ffff	DE

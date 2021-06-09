@@ -51,7 +51,6 @@
 2803:9b20:0000:0000:0000:0000:0000:0000	2803:9b20:ffff:ffff:ffff:ffff:ffff:ffff	CR
 2803:9ec0:0000:0000:0000:0000:0000:0000	2803:9ec0:ffff:ffff:ffff:ffff:ffff:ffff	CR
 2803:a6c0:0000:0000:0000:0000:0000:0000	2803:a6c0:ffff:ffff:ffff:ffff:ffff:ffff	CR
-2803:a800:0000:0000:0000:0000:0000:0000	2803:a800:ffff:ffff:ffff:ffff:ffff:ffff	CR
 2803:aa80:0000:0000:0000:0000:0000:0000	2803:aa80:ffff:ffff:ffff:ffff:ffff:ffff	CR
 2803:ad40:0000:0000:0000:0000:0000:0000	2803:ad40:ffff:ffff:ffff:ffff:ffff:ffff	CR
 2803:ae20:0000:0000:0000:0000:0000:0000	2803:ae20:ffff:ffff:ffff:ffff:ffff:ffff	CR

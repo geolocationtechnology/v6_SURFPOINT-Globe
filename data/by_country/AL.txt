@@ -1,6 +1,7 @@
 2001:07f8:00a4:0000:0000:0000:0000:0000	2001:07f8:00a4:ffff:ffff:ffff:ffff:ffff	AL
 2001:07f8:00bb:0000:0000:0000:0000:0000	2001:07f8:00bb:ffff:ffff:ffff:ffff:ffff	AL
 2001:07f9:0004:0000:0000:0000:0000:0000	2001:07f9:0004:ffff:ffff:ffff:ffff:ffff	AL
+2407:79c0:0000:0000:0000:0000:0000:0000	2407:79c0:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a00:4940:0000:0000:0000:0000:0000:0000	2a00:4940:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a00:6b80:0000:0000:0000:0000:0000:0000	2a00:6b87:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a00:8ba0:0000:0000:0000:0000:0000:0000	2a00:8ba0:ffff:ffff:ffff:ffff:ffff:ffff	AL
@@ -41,6 +42,7 @@
 2a0a:a0c0:0000:0000:0000:0000:0000:0000	2a0a:a0c7:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0a:bac0:0000:0000:0000:0000:0000:0000	2a0a:bac7:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0b:6300:0000:0000:0000:0000:0000:0000	2a0b:6307:ffff:ffff:ffff:ffff:ffff:ffff	AL
+2a0b:96c0:0000:0000:0000:0000:0000:0000	2a0b:96c7:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0c:b340:0000:0000:0000:0000:0000:0000	2a0c:b347:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0d:1dc0:0000:0000:0000:0000:0000:0000	2a0d:1dc7:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0d:27c0:0000:0000:0000:0000:0000:0000	2a0d:27c7:ffff:ffff:ffff:ffff:ffff:ffff	AL
