@@ -649,7 +649,11 @@
 2407:7440:0000:0000:0000:0000:0000:0000	2407:7440:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:7a80:0000:0000:0000:0000:0000:0000	2407:7a80:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:8080:0000:0000:0000:0000:0000:0000	2407:8080:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:8340:0000:0000:0000:0000:0000:0000	2407:8340:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:8700:0000:0000:0000:0000:0000:0000	2407:8700:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:8a40:0000:0000:0000:0000:0000:0000	2407:8a40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:8ac0:0000:0000:0000:0000:0000:0000	2407:8ac0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:8b40:0000:0000:0000:0000:0000:0000	2407:8b40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:8c00:0000:0000:0000:0000:0000:0000	2407:8c00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:8e80:0000:0000:0000:0000:0000:0000	2407:8e80:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:9300:0000:0000:0000:0000:0000:0000	2407:9300:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -687,6 +691,7 @@
 2a06:d240:0000:0000:0000:0000:0000:0000	2a06:d247:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:d800:0000:0000:0000:0000:0000:0000	2a06:d807:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:df80:0000:0000:0000:0000:0000:0000	2a06:df87:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2a06:e000:0000:0000:0000:0000:0000:0000	2a06:e007:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:e480:0000:0000:0000:0000:0000:0000	2a06:e487:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:f500:0000:0000:0000:0000:0000:0000	2a06:f507:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:f680:0000:0000:0000:0000:0000:0000	2a06:f687:ffff:ffff:ffff:ffff:ffff:ffff	IN

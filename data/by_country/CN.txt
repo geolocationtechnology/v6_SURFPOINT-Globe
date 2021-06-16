@@ -180,7 +180,6 @@
 2400:b600:0000:0000:0000:0000:0000:0000	2400:b600:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:b6c0:0000:0000:0000:0000:0000:0000	2400:b6c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:b700:0000:0000:0000:0000:0000:0000	2400:b700:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2400:b7c0:0000:0000:0000:0000:0000:0000	2400:b7c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:b8c0:0000:0000:0000:0000:0000:0000	2400:b8c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:b9c0:0000:0000:0000:0000:0000:0000	2400:b9c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:ba00:0000:0000:0000:0000:0000:0000	2400:ba00:ffff:ffff:ffff:ffff:ffff:ffff	CN
@@ -225,7 +224,6 @@
 2400:de00:0000:0000:0000:0000:0000:0000	2400:de00:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:de80:0000:0000:0000:0000:0000:0000	2400:de80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:e0c0:0000:0000:0000:0000:0000:0000	2400:e0c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2400:e140:0000:0000:0000:0000:0000:0000	2400:e140:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:e5c0:0000:0000:0000:0000:0000:0000	2400:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:e680:0000:0000:0000:0000:0000:0000	2400:e680:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:e880:0000:0000:0000:0000:0000:0000	2400:e880:ffff:ffff:ffff:ffff:ffff:ffff	CN

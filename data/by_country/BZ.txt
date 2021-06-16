@@ -35,9 +35,6 @@
 2a07:0180:0000:0000:0000:0000:0000:0000	2a07:0180:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a07:0e00:0000:0000:0000:0000:0000:0000	2a07:0e07:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a07:a0c0:0000:0000:0000:0000:0000:0000	2a07:a0c7:ffff:ffff:ffff:ffff:ffff:ffff	BZ
-2a09:6f00:0000:0000:0000:0000:0000:0000	2a09:6f07:ffff:ffff:ffff:ffff:ffff:ffff	BZ
-2a09:ce00:0000:0000:0000:0000:0000:0000	2a09:ce07:ffff:ffff:ffff:ffff:ffff:ffff	BZ
-2a0a:0b40:0000:0000:0000:0000:0000:0000	2a0a:0b47:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a0a:11c0:0000:0000:0000:0000:0000:0000	2a0a:11c7:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a0a:2880:0000:0000:0000:0000:0000:0000	2a0a:2887:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a0a:3540:0000:0000:0000:0000:0000:0000	2a0a:3547:ffff:ffff:ffff:ffff:ffff:ffff	BZ
