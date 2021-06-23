@@ -971,6 +971,7 @@
 2a0d:dd40:0000:0000:0000:0000:0000:0000	2a0d:dd47:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:e380:0000:0000:0000:0000:0000:0000	2a0d:e387:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:e480:0000:0000:0000:0000:0000:0000	2a0d:e487:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a0d:e680:0000:0000:0000:0000:0000:0000	2a0d:e680:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:e6c0:0000:0000:0000:0000:0000:0000	2a0d:e6c0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:edc0:0000:0000:0000:0000:0000:0000	2a0d:edc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0d:ee00:0000:0000:0000:0000:0000:0000	2a0d:ee00:ffff:ffff:ffff:ffff:ffff:ffff	FR

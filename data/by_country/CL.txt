@@ -118,6 +118,7 @@
 2803:65e0:0000:0000:0000:0000:0000:0000	2803:65e0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:66a0:0000:0000:0000:0000:0000:0000	2803:66a0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:67a0:0000:0000:0000:0000:0000:0000	2803:67a0:ffff:ffff:ffff:ffff:ffff:ffff	CL
+2803:6a10:0000:0000:0000:0000:0000:0000	2803:6a10:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:6a20:0000:0000:0000:0000:0000:0000	2803:6a20:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:6c20:0000:0000:0000:0000:0000:0000	2803:6c20:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:6d80:0000:0000:0000:0000:0000:0000	2803:6d80:ffff:ffff:ffff:ffff:ffff:ffff	CL

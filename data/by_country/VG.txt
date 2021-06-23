@@ -13,6 +13,7 @@
 2a07:4340:0000:0000:0000:0000:0000:0000	2a07:4347:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2a07:ca00:0000:0000:0000:0000:0000:0000	2a07:ca07:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2a09:a700:0000:0000:0000:0000:0000:0000	2a09:a707:ffff:ffff:ffff:ffff:ffff:ffff	VG
+2a0a:f280:0000:0000:0000:0000:0000:0000	2a0a:f287:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2a0b:f600:0000:0000:0000:0000:0000:0000	2a0b:f607:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2a0c:a240:0000:0000:0000:0000:0000:0000	2a0c:a247:ffff:ffff:ffff:ffff:ffff:ffff	VG
 2a0e:2900:0000:0000:0000:0000:0000:0000	2a0e:2907:ffff:ffff:ffff:ffff:ffff:ffff	VG

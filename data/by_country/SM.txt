@@ -4,3 +4,4 @@
 2a04:a340:0000:0000:0000:0000:0000:0000	2a04:a347:ffff:ffff:ffff:ffff:ffff:ffff	SM
 2a07:50c0:0000:0000:0000:0000:0000:0000	2a07:50c7:ffff:ffff:ffff:ffff:ffff:ffff	SM
 2a09:2100:0000:0000:0000:0000:0000:0000	2a09:2107:ffff:ffff:ffff:ffff:ffff:ffff	SM
+2a0e:d340:0000:0000:0000:0000:0000:0000	2a0e:d340:ffff:ffff:ffff:ffff:ffff:ffff	SM
