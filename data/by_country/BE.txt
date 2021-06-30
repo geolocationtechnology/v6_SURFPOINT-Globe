@@ -201,7 +201,7 @@
 2a0b:b300:0000:0000:0000:0000:0000:0000	2a0b:b307:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0b:cb80:0000:0000:0000:0000:0000:0000	2a0b:cb87:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0c:1000:0000:0000:0000:0000:0000:0000	2a0c:1007:ffff:ffff:ffff:ffff:ffff:ffff	BE
-2a0c:10c0:0000:0000:0000:0000:0000:0000	2a0c:10c0:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a0c:10c0:0000:0000:0000:0000:0000:0000	2a0c:10c7:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0c:5380:0000:0000:0000:0000:0000:0000	2a0c:5387:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0c:7400:0000:0000:0000:0000:0000:0000	2a0c:7407:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a0c:9c40:0000:0000:0000:0000:0000:0000	2a0c:9c40:ffff:ffff:ffff:ffff:ffff:ffff	BE

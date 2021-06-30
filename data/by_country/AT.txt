@@ -157,6 +157,7 @@
 2a03:fa40:0000:0000:0000:0000:0000:0000	2a03:fa40:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a04:0040:0000:0000:0000:0000:0000:0000	2a04:0047:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a04:0140:0000:0000:0000:0000:0000:0000	2a04:0147:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a04:0380:0000:0000:0000:0000:0000:0000	2a04:0387:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a04:0f80:0000:0000:0000:0000:0000:0000	2a04:0f87:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a04:3000:0000:0000:0000:0000:0000:0000	2a04:3007:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a04:3180:0000:0000:0000:0000:0000:0000	2a04:3187:ffff:ffff:ffff:ffff:ffff:ffff	AT
