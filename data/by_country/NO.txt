@@ -352,3 +352,4 @@
 2a10:a640:0000:0000:0000:0000:0000:0000	2a10:a647:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a10:d640:0000:0000:0000:0000:0000:0000	2a10:d647:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a10:ff00:0000:0000:0000:0000:0000:0000	2a10:ff07:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a11:00c0:0000:0000:0000:0000:0000:0000	2a11:00c7:ffff:ffff:ffff:ffff:ffff:ffff	NO

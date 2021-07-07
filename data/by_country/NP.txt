@@ -52,7 +52,6 @@
 2406:9cc0:0000:0000:0000:0000:0000:0000	2406:9cc0:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2406:b700:0000:0000:0000:0000:0000:0000	2406:b700:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2406:e1c0:0000:0000:0000:0000:0000:0000	2406:e1c0:ffff:ffff:ffff:ffff:ffff:ffff	NP
-2406:ed40:0000:0000:0000:0000:0000:0000	2406:ed40:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2406:f8c0:0000:0000:0000:0000:0000:0000	2406:f8c0:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2407:0b40:0000:0000:0000:0000:0000:0000	2407:0b40:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2407:1400:0000:0000:0000:0000:0000:0000	2407:1400:ffff:ffff:ffff:ffff:ffff:ffff	NP

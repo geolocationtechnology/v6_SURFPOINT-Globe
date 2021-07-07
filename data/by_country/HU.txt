@@ -147,3 +147,5 @@
 2a10:5bc0:0000:0000:0000:0000:0000:0000	2a10:5bc7:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a10:c800:0000:0000:0000:0000:0000:0000	2a10:c807:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a10:ecc0:0000:0000:0000:0000:0000:0000	2a10:ecc7:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a11:0440:0000:0000:0000:0000:0000:0000	2a11:0440:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a11:0540:0000:0000:0000:0000:0000:0000	2a11:0543:ffff:ffff:ffff:ffff:ffff:ffff	HU

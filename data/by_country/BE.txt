@@ -241,3 +241,4 @@
 2a10:d740:0000:0000:0000:0000:0000:0000	2a10:d747:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a10:ec40:0000:0000:0000:0000:0000:0000	2a10:ec47:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a11:0300:0000:0000:0000:0000:0000:0000	2a11:0307:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a11:8000:0000:0000:0000:0000:0000:0000	2a11:8000:ffff:ffff:ffff:ffff:ffff:ffff	BE

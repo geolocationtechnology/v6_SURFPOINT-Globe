@@ -67,7 +67,6 @@
 2a00:4ca0:0000:0000:0000:0000:0000:0000	2a00:4ca0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a00:4f40:0000:0000:0000:0000:0000:0000	2a00:4f40:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a00:4fc0:0000:0000:0000:0000:0000:0000	2a00:4fc0:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a00:5520:0000:0000:0000:0000:0000:0000	2a00:5520:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a00:5720:0000:0000:0000:0000:0000:0000	2a00:5720:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a00:5880:0000:0000:0000:0000:0000:0000	2a00:5887:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a00:5a40:0000:0000:0000:0000:0000:0000	2a00:5a47:ffff:ffff:ffff:ffff:ffff:ffff	FR
