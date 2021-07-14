@@ -80,7 +80,6 @@
 2405:d400:0000:0000:0000:0000:0000:0000	2405:d400:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2405:df80:0000:0000:0000:0000:0000:0000	2405:df80:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2405:e140:0000:0000:0000:0000:0000:0000	2405:e140:ffff:ffff:ffff:ffff:ffff:ffff	PH
-2405:e380:0000:0000:0000:0000:0000:0000	2405:e380:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2405:f400:0000:0000:0000:0000:0000:0000	2405:f400:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2405:fe00:0000:0000:0000:0000:0000:0000	2405:fe00:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2406:2a00:0000:0000:0000:0000:0000:0000	2406:2a00:ffff:ffff:ffff:ffff:ffff:ffff	PH

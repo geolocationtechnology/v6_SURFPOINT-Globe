@@ -160,4 +160,6 @@
 2407:8440:0000:0000:0000:0000:0000:0000	2407:8440:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2407:9940:0000:0000:0000:0000:0000:0000	2407:9940:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2407:a340:0000:0000:0000:0000:0000:0000	2407:a340:ffff:ffff:ffff:ffff:ffff:ffff	VN
+2407:a440:0000:0000:0000:0000:0000:0000	2407:a440:ffff:ffff:ffff:ffff:ffff:ffff	VN
+2407:a4c0:0000:0000:0000:0000:0000:0000	2407:a4c0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2a0c:b840:0000:0000:0000:0000:0000:0000	2a0c:b847:ffff:ffff:ffff:ffff:ffff:ffff	VN

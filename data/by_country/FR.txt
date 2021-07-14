@@ -1139,3 +1139,4 @@
 2a10:f7c0:0000:0000:0000:0000:0000:0000	2a10:f7c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a10:fe40:0000:0000:0000:0000:0000:0000	2a10:fe47:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:0900:0000:0000:0000:0000:0000:0000	2a11:0907:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a11:3400:0000:0000:0000:0000:0000:0000	2a11:3407:ffff:ffff:ffff:ffff:ffff:ffff	FR

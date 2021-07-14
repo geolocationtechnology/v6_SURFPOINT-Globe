@@ -1717,6 +1717,7 @@
 2407:9f80:0000:0000:0000:0000:0000:0000	2407:9f80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:a040:0000:0000:0000:0000:0000:0000	2407:a040:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:a480:0000:0000:0000:0000:0000:0000	2407:a480:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2407:a640:0000:0000:0000:0000:0000:0000	2407:a640:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:a880:0000:0000:0000:0000:0000:0000	2407:a880:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:ad80:0000:0000:0000:0000:0000:0000	2407:ad80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2407:ae80:0000:0000:0000:0000:0000:0000	2407:ae80:ffff:ffff:ffff:ffff:ffff:ffff	CN

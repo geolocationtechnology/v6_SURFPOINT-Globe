@@ -66,3 +66,4 @@
 2a10:5040:0000:0000:0000:0000:0000:0000	2a10:5047:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a10:b980:0000:0000:0000:0000:0000:0000	2a10:b987:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a10:d000:0000:0000:0000:0000:0000:0000	2a10:d007:ffff:ffff:ffff:ffff:ffff:ffff	GR
+2a11:7000:0000:0000:0000:0000:0000:0000	2a11:7007:ffff:ffff:ffff:ffff:ffff:ffff	GR

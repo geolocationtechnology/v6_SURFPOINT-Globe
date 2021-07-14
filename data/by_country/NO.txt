@@ -324,7 +324,6 @@
 2a0c:8980:0000:0000:0000:0000:0000:0000	2a0c:8987:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0c:a680:0000:0000:0000:0000:0000:0000	2a0c:a687:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0c:b680:0000:0000:0000:0000:0000:0000	2a0c:b687:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a0c:f200:0000:0000:0000:0000:0000:0000	2a0c:f207:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0d:0f00:0000:0000:0000:0000:0000:0000	2a0d:0f07:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0d:2040:0000:0000:0000:0000:0000:0000	2a0d:2047:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0d:9800:0000:0000:0000:0000:0000:0000	2a0d:9807:ffff:ffff:ffff:ffff:ffff:ffff	NO

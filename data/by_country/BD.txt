@@ -179,7 +179,6 @@
 2402:a1c0:0000:0000:0000:0000:0000:0000	2402:a1c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2402:a4c0:0000:0000:0000:0000:0000:0000	2402:a4c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2402:a540:0000:0000:0000:0000:0000:0000	2402:a540:ffff:ffff:ffff:ffff:ffff:ffff	BD
-2402:a5c0:0000:0000:0000:0000:0000:0000	2402:a5c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2402:a940:0000:0000:0000:0000:0000:0000	2402:a940:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2402:ab40:0000:0000:0000:0000:0000:0000	2402:ab40:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2402:abc0:0000:0000:0000:0000:0000:0000	2402:abc0:ffff:ffff:ffff:ffff:ffff:ffff	BD

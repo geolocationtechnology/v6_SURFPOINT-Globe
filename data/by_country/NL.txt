@@ -1,5 +1,6 @@
 2001:0600:0000:0000:0000:0000:0000:0000	2001:0600:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2001:0610:0000:0000:0000:0000:0000:0000	2001:0617:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2001:0678:0fb0:0000:0000:0000:0000:0000	2001:0678:0fb0:ffff:ffff:ffff:ffff:ffff	NL
 2001:0680:0000:0000:0000:0000:0000:0000	2001:0680:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2001:0698:0000:0000:0000:0000:0000:0000	2001:0698:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2001:06e0:0000:0000:0000:0000:0000:0000	2001:06e7:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -1441,7 +1442,20 @@
 2a11:0140:0000:0000:0000:0000:0000:0000	2a11:0147:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a11:0240:0000:0000:0000:0000:0000:0000	2a11:0247:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a11:0740:0000:0000:0000:0000:0000:0000	2a11:0747:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:1000:0000:0000:0000:0000:0000:0000	2a11:1007:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:1400:0000:0000:0000:0000:0000:0000	2a11:1407:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a11:2000:0000:0000:0000:0000:0000:0000	2a11:2007:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:2800:0000:0000:0000:0000:0000:0000	2a11:2803:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:3000:0000:0000:0000:0000:0000:0000	2a11:3007:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a11:4000:0000:0000:0000:0000:0000:0000	2a11:4007:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:4800:0000:0000:0000:0000:0000:0000	2a11:4807:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:5800:0000:0000:0000:0000:0000:0000	2a11:5807:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:5c00:0000:0000:0000:0000:0000:0000	2a11:5c07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a11:6000:0000:0000:0000:0000:0000:0000	2a11:6007:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:8400:0000:0000:0000:0000:0000:0000	2a11:8407:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:8c00:0000:0000:0000:0000:0000:0000	2a11:8c07:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:a400:0000:0000:0000:0000:0000:0000	2a11:a407:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:ac00:0000:0000:0000:0000:0000:0000	2a11:ac07:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:b800:0000:0000:0000:0000:0000:0000	2a11:b807:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a11:c000:0000:0000:0000:0000:0000:0000	2a11:c007:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a11:d000:0000:0000:0000:0000:0000:0000	2a11:d007:ffff:ffff:ffff:ffff:ffff:ffff	NL
