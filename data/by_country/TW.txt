@@ -285,3 +285,5 @@
 2407:9a40:0000:0000:0000:0000:0000:0000	2407:9a40:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2407:9fc0:0000:0000:0000:0000:0000:0000	2407:9fc0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2407:a0c0:0000:0000:0000:0000:0000:0000	2407:a0c0:ffff:ffff:ffff:ffff:ffff:ffff	TW
+2407:a740:0000:0000:0000:0000:0000:0000	2407:a740:ffff:ffff:ffff:ffff:ffff:ffff	TW
+2407:ab40:0000:0000:0000:0000:0000:0000	2407:ab40:ffff:ffff:ffff:ffff:ffff:ffff	TW

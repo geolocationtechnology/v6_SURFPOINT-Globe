@@ -41,7 +41,6 @@
 2a04:c280:0000:0000:0000:0000:0000:0000	2a04:c287:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a04:d400:0000:0000:0000:0000:0000:0000	2a04:d407:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a05:1cc0:0000:0000:0000:0000:0000:0000	2a05:1cc7:ffff:ffff:ffff:ffff:ffff:ffff	EE
-2a05:3d40:0000:0000:0000:0000:0000:0000	2a05:3d47:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a05:4080:0000:0000:0000:0000:0000:0000	2a05:4087:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a05:4280:0000:0000:0000:0000:0000:0000	2a05:4287:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a05:c680:0000:0000:0000:0000:0000:0000	2a05:c687:ffff:ffff:ffff:ffff:ffff:ffff	EE
@@ -121,3 +120,5 @@
 2a10:b000:0000:0000:0000:0000:0000:0000	2a10:b007:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a10:f040:0000:0000:0000:0000:0000:0000	2a10:f040:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a10:f340:0000:0000:0000:0000:0000:0000	2a10:f347:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a11:2600:0000:0000:0000:0000:0000:0000	2a11:2607:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a11:6a00:0000:0000:0000:0000:0000:0000	2a11:6a07:ffff:ffff:ffff:ffff:ffff:ffff	EE

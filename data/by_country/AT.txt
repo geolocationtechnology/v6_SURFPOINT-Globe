@@ -244,7 +244,6 @@
 2a07:c0c0:0000:0000:0000:0000:0000:0000	2a07:c0c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a07:cfc0:0000:0000:0000:0000:0000:0000	2a07:cfc7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a07:df80:0000:0000:0000:0000:0000:0000	2a07:df87:ffff:ffff:ffff:ffff:ffff:ffff	AT
-2a07:e580:0000:0000:0000:0000:0000:0000	2a07:e587:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a07:eb80:0000:0000:0000:0000:0000:0000	2a07:eb80:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a07:eec0:0000:0000:0000:0000:0000:0000	2a07:eec7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a07:f780:0000:0000:0000:0000:0000:0000	2a07:f787:ffff:ffff:ffff:ffff:ffff:ffff	AT

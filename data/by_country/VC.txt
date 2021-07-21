@@ -1,4 +1,3 @@
 2600:1e00:0000:0000:0000:0000:0000:0000	2600:1e0f:ffff:ffff:ffff:ffff:ffff:ffff	VC
 2602:fce4:0000:0000:0000:0000:0000:0000	2602:fce4:0fff:ffff:ffff:ffff:ffff:ffff	VC
 2a01:a440:0000:0000:0000:0000:0000:0000	2a01:a440:ffff:ffff:ffff:ffff:ffff:ffff	VC
-2a07:3a40:0000:0000:0000:0000:0000:0000	2a07:3a40:ffff:ffff:ffff:ffff:ffff:ffff	VC

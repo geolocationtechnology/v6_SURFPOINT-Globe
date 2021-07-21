@@ -189,7 +189,6 @@
 2a06:3440:0000:0000:0000:0000:0000:0000	2a06:3447:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:39c0:0000:0000:0000:0000:0000:0000	2a06:39c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:41c0:0000:0000:0000:0000:0000:0000	2a06:41c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
-2a06:4380:0000:0000:0000:0000:0000:0000	2a06:4387:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:4b40:0000:0000:0000:0000:0000:0000	2a06:4b47:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:5180:0000:0000:0000:0000:0000:0000	2a06:5187:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:6680:0000:0000:0000:0000:0000:0000	2a06:6687:ffff:ffff:ffff:ffff:ffff:ffff	TR
@@ -483,3 +482,4 @@
 2a11:08c0:0000:0000:0000:0000:0000:0000	2a11:08c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a11:0940:0000:0000:0000:0000:0000:0000	2a11:0947:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a11:1800:0000:0000:0000:0000:0000:0000	2a11:1807:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a11:5600:0000:0000:0000:0000:0000:0000	2a11:5607:ffff:ffff:ffff:ffff:ffff:ffff	TR
