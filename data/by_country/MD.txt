@@ -126,3 +126,4 @@
 2a11:3800:0000:0000:0000:0000:0000:0000	2a11:3807:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a11:3c00:0000:0000:0000:0000:0000:0000	2a11:3c07:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a11:4c00:0000:0000:0000:0000:0000:0000	2a11:4c07:ffff:ffff:ffff:ffff:ffff:ffff	MD
+2a11:7e00:0000:0000:0000:0000:0000:0000	2a11:7e07:ffff:ffff:ffff:ffff:ffff:ffff	MD

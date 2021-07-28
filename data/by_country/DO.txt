@@ -44,6 +44,7 @@
 2803:a180:0000:0000:0000:0000:0000:0000	2803:a180:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:a280:0000:0000:0000:0000:0000:0000	2803:a280:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:a2e0:0000:0000:0000:0000:0000:0000	2803:a2e0:ffff:ffff:ffff:ffff:ffff:ffff	DO
+2803:a610:0000:0000:0000:0000:0000:0000	2803:a610:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:a640:0000:0000:0000:0000:0000:0000	2803:a640:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:ab00:0000:0000:0000:0000:0000:0000	2803:ab00:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:ace0:0000:0000:0000:0000:0000:0000	2803:ace0:ffff:ffff:ffff:ffff:ffff:ffff	DO
@@ -58,6 +59,7 @@
 2803:d1a0:0000:0000:0000:0000:0000:0000	2803:d1a0:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:d320:0000:0000:0000:0000:0000:0000	2803:d320:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:da10:0000:0000:0000:0000:0000:0000	2803:da10:ffff:ffff:ffff:ffff:ffff:ffff	DO
+2803:e610:0000:0000:0000:0000:0000:0000	2803:e610:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:e820:0000:0000:0000:0000:0000:0000	2803:e820:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:f1a0:0000:0000:0000:0000:0000:0000	2803:f1a0:ffff:ffff:ffff:ffff:ffff:ffff	DO
 2803:f280:0000:0000:0000:0000:0000:0000	2803:f280:ffff:ffff:ffff:ffff:ffff:ffff	DO

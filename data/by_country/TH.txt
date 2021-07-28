@@ -102,4 +102,5 @@
 2407:7a00:0000:0000:0000:0000:0000:0000	2407:7a00:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2407:9540:0000:0000:0000:0000:0000:0000	2407:9540:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2407:a500:0000:0000:0000:0000:0000:0000	2407:a500:ffff:ffff:ffff:ffff:ffff:ffff	TH
+2407:b1c0:0000:0000:0000:0000:0000:0000	2407:b1c0:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2407:ed00:0000:0000:0000:0000:0000:0000	2407:ed00:ffff:ffff:ffff:ffff:ffff:ffff	TH

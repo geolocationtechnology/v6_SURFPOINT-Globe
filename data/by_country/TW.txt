@@ -160,7 +160,6 @@
 2404:9e40:0000:0000:0000:0000:0000:0000	2404:9e40:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:a3c0:0000:0000:0000:0000:0000:0000	2404:a3c0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:aac0:0000:0000:0000:0000:0000:0000	2404:aac0:ffff:ffff:ffff:ffff:ffff:ffff	TW
-2404:b540:0000:0000:0000:0000:0000:0000	2404:b540:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:bac0:0000:0000:0000:0000:0000:0000	2404:bac0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:c740:0000:0000:0000:0000:0000:0000	2404:c740:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2404:c7c0:0000:0000:0000:0000:0000:0000	2404:c7c0:ffff:ffff:ffff:ffff:ffff:ffff	TW

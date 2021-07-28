@@ -912,3 +912,4 @@
 2a11:0280:0000:0000:0000:0000:0000:0000	2a11:0287:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:07c0:0000:0000:0000:0000:0000:0000	2a11:07c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:0f00:0000:0000:0000:0000:0000:0000	2a11:0f07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a11:b600:0000:0000:0000:0000:0000:0000	2a11:b600:ffff:ffff:ffff:ffff:ffff:ffff	IT

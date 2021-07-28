@@ -102,3 +102,5 @@
 2407:8fc0:0000:0000:0000:0000:0000:0000	2407:8fc0:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2407:9800:0000:0000:0000:0000:0000:0000	2407:9807:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2407:abc0:0000:0000:0000:0000:0000:0000	2407:abc0:ffff:ffff:ffff:ffff:ffff:ffff	PH
+2407:ae40:0000:0000:0000:0000:0000:0000	2407:ae40:ffff:ffff:ffff:ffff:ffff:ffff	PH
+2407:b140:0000:0000:0000:0000:0000:0000	2407:b140:ffff:ffff:ffff:ffff:ffff:ffff	PH
