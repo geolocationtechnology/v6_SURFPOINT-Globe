@@ -91,7 +91,6 @@
 2a0d:2800:0000:0000:0000:0000:0000:0000	2a0d:2807:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0d:6fc0:0000:0000:0000:0000:0000:0000	2a0d:6fc7:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0d:7000:0000:0000:0000:0000:0000:0000	2a0d:7000:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a0d:b140:0000:0000:0000:0000:0000:0000	2a0d:b147:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0d:ea80:0000:0000:0000:0000:0000:0000	2a0d:ea87:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0e:15c0:0000:0000:0000:0000:0000:0000	2a0e:15c7:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0e:2440:0000:0000:0000:0000:0000:0000	2a0e:2447:ffff:ffff:ffff:ffff:ffff:ffff	IL

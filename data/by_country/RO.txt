@@ -68,7 +68,6 @@
 2a05:f900:0000:0000:0000:0000:0000:0000	2a05:f907:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a05:fec0:0000:0000:0000:0000:0000:0000	2a05:fec7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a06:1fc0:0000:0000:0000:0000:0000:0000	2a06:1fc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a06:2c80:0000:0000:0000:0000:0000:0000	2a06:2c87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a06:4a40:0000:0000:0000:0000:0000:0000	2a06:4a47:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a06:7400:0000:0000:0000:0000:0000:0000	2a06:7407:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a06:7900:0000:0000:0000:0000:0000:0000	2a06:7907:ffff:ffff:ffff:ffff:ffff:ffff	RO

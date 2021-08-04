@@ -1,6 +1,5 @@
 2001:0618:0000:0000:0000:0000:0000:0000	2001:0618:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2001:0620:0000:0000:0000:0000:0000:0000	2001:0627:ffff:ffff:ffff:ffff:ffff:ffff	CH
-2001:0678:0fbc:0000:0000:0000:0000:0000	2001:0678:0fbc:ffff:ffff:ffff:ffff:ffff	CH
 2001:0788:0000:0000:0000:0000:0000:0000	2001:078f:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2001:07f8:0111:0000:0000:0000:0000:0000	2001:07f8:0111:ffff:ffff:ffff:ffff:ffff	CH
 2001:08a8:0000:0000:0000:0000:0000:0000	2001:08a8:ffff:ffff:ffff:ffff:ffff:ffff	CH
@@ -334,7 +333,6 @@
 2a05:db80:0000:0000:0000:0000:0000:0000	2a05:db87:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a05:dcc0:0000:0000:0000:0000:0000:0000	2a05:dcc7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a05:e100:0000:0000:0000:0000:0000:0000	2a05:e107:ffff:ffff:ffff:ffff:ffff:ffff	CH
-2a05:f400:0000:0000:0000:0000:0000:0000	2a05:f407:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a05:fc80:0000:0000:0000:0000:0000:0000	2a05:fc87:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a05:ff80:0000:0000:0000:0000:0000:0000	2a05:ff87:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:0980:0000:0000:0000:0000:0000:0000	2a06:0987:ffff:ffff:ffff:ffff:ffff:ffff	CH
@@ -462,7 +460,6 @@
 2a0b:4540:0000:0000:0000:0000:0000:0000	2a0b:4547:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:4780:0000:0000:0000:0000:0000:0000	2a0b:4787:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:4940:0000:0000:0000:0000:0000:0000	2a0b:4947:ffff:ffff:ffff:ffff:ffff:ffff	CH
-2a0b:4bc0:0000:0000:0000:0000:0000:0000	2a0b:4bc0:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:4d00:0000:0000:0000:0000:0000:0000	2a0b:4d07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:4d80:0000:0000:0000:0000:0000:0000	2a0b:4d87:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a0b:5200:0000:0000:0000:0000:0000:0000	2a0b:5207:ffff:ffff:ffff:ffff:ffff:ffff	CH
@@ -623,3 +620,4 @@
 2a10:e900:0000:0000:0000:0000:0000:0000	2a10:e907:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a10:f540:0000:0000:0000:0000:0000:0000	2a10:f547:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a10:fc40:0000:0000:0000:0000:0000:0000	2a10:fc47:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a11:1d00:0000:0000:0000:0000:0000:0000	2a11:1d07:ffff:ffff:ffff:ffff:ffff:ffff	CH

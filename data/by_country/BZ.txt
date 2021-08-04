@@ -1,4 +1,3 @@
-2405:e080:0000:0000:0000:0000:0000:0000	2405:e080:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2800:0410:0000:0000:0000:0000:0000:0000	2800:0410:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2803:00b4:0000:0000:0000:0000:0000:0000	2803:00b4:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2803:0160:0000:0000:0000:0000:0000:0000	2803:0160:ffff:ffff:ffff:ffff:ffff:ffff	BZ
@@ -30,7 +29,6 @@
 2a03:7aa0:0000:0000:0000:0000:0000:0000	2a03:7aa0:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a04:2280:0000:0000:0000:0000:0000:0000	2a04:2287:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a05:0840:0000:0000:0000:0000:0000:0000	2a05:0843:ffff:ffff:ffff:ffff:ffff:ffff	BZ
-2a05:4b00:0000:0000:0000:0000:0000:0000	2a05:4b07:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a05:6200:0000:0000:0000:0000:0000:0000	2a05:6207:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a07:0180:0000:0000:0000:0000:0000:0000	2a07:0180:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a07:0e00:0000:0000:0000:0000:0000:0000	2a07:0e07:ffff:ffff:ffff:ffff:ffff:ffff	BZ
