@@ -263,7 +263,6 @@
 2a09:7500:0000:0000:0000:0000:0000:0000	2a09:7507:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a09:7b00:0000:0000:0000:0000:0000:0000	2a09:7b07:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a09:7c00:0000:0000:0000:0000:0000:0000	2a09:7c07:ffff:ffff:ffff:ffff:ffff:ffff	TR
-2a09:7cc0:0000:0000:0000:0000:0000:0000	2a09:7cc7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a09:8200:0000:0000:0000:0000:0000:0000	2a09:8207:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a09:8780:0000:0000:0000:0000:0000:0000	2a09:8787:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a09:8a00:0000:0000:0000:0000:0000:0000	2a09:8a07:ffff:ffff:ffff:ffff:ffff:ffff	TR

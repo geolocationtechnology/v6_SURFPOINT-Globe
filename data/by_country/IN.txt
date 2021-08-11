@@ -1,5 +1,6 @@
 2001:0ca8:0000:0000:0000:0000:0000:0000	2001:0ca8:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2001:0dd8:0020:0000:0000:0000:0000:0000	2001:0dd8:0021:ffff:ffff:ffff:ffff:ffff	IN
+2001:0de2:0000:0000:0000:0000:0000:0000	2001:0de2:0000:ffff:ffff:ffff:ffff:ffff	IN
 2001:0de8:4000:0000:0000:0000:0000:0000	2001:0de8:4000:ffff:ffff:ffff:ffff:ffff	IN
 2001:0de8:c000:0000:0000:0000:0000:0000	2001:0de8:c000:ffff:ffff:ffff:ffff:ffff	IN
 2001:0ded:8000:0000:0000:0000:0000:0000	2001:0ded:8000:ffff:ffff:ffff:ffff:ffff	IN
@@ -682,6 +683,13 @@
 2407:b900:0000:0000:0000:0000:0000:0000	2407:b900:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:b940:0000:0000:0000:0000:0000:0000	2407:b940:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:bb00:0000:0000:0000:0000:0000:0000	2407:bb00:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:be40:0000:0000:0000:0000:0000:0000	2407:be40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:bec0:0000:0000:0000:0000:0000:0000	2407:bec0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:bf40:0000:0000:0000:0000:0000:0000	2407:bf40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:bfc0:0000:0000:0000:0000:0000:0000	2407:bfc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:c040:0000:0000:0000:0000:0000:0000	2407:c040:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:c0c0:0000:0000:0000:0000:0000:0000	2407:c0c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:c140:0000:0000:0000:0000:0000:0000	2407:c140:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:cb00:0000:0000:0000:0000:0000:0000	2407:cb00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:da00:0000:0000:0000:0000:0000:0000	2407:da00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:e500:0000:0000:0000:0000:0000:0000	2407:e501:ffff:ffff:ffff:ffff:ffff:ffff	IN

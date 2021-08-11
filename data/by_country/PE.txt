@@ -84,7 +84,6 @@
 2803:b3e0:0000:0000:0000:0000:0000:0000	2803:b3e0:ffff:ffff:ffff:ffff:ffff:ffff	PE
 2803:b940:0000:0000:0000:0000:0000:0000	2803:b940:ffff:ffff:ffff:ffff:ffff:ffff	PE
 2803:bda0:0000:0000:0000:0000:0000:0000	2803:bda0:ffff:ffff:ffff:ffff:ffff:ffff	PE
-2803:c160:0000:0000:0000:0000:0000:0000	2803:c160:ffff:ffff:ffff:ffff:ffff:ffff	PE
 2803:c200:0000:0000:0000:0000:0000:0000	2803:c200:ffff:ffff:ffff:ffff:ffff:ffff	PE
 2803:c240:0000:0000:0000:0000:0000:0000	2803:c240:ffff:ffff:ffff:ffff:ffff:ffff	PE
 2803:c320:0000:0000:0000:0000:0000:0000	2803:c320:ffff:ffff:ffff:ffff:ffff:ffff	PE

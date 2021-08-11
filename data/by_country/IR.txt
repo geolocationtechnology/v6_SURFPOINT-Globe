@@ -274,7 +274,6 @@
 2a0b:a9c0:0000:0000:0000:0000:0000:0000	2a0b:a9c7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:ab40:0000:0000:0000:0000:0000:0000	2a0b:ab40:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:b400:0000:0000:0000:0000:0000:0000	2a0b:b407:ffff:ffff:ffff:ffff:ffff:ffff	IR
-2a0b:bc40:0000:0000:0000:0000:0000:0000	2a0b:bc47:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:be80:0000:0000:0000:0000:0000:0000	2a0b:be87:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:c100:0000:0000:0000:0000:0000:0000	2a0b:c107:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a0b:d300:0000:0000:0000:0000:0000:0000	2a0b:d307:ffff:ffff:ffff:ffff:ffff:ffff	IR
@@ -374,3 +373,4 @@
 2a10:c4c0:0000:0000:0000:0000:0000:0000	2a10:c4c7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a10:ef00:0000:0000:0000:0000:0000:0000	2a10:ef07:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a10:fe00:0000:0000:0000:0000:0000:0000	2a10:fe00:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a11:7700:0000:0000:0000:0000:0000:0000	2a11:7707:ffff:ffff:ffff:ffff:ffff:ffff	IR

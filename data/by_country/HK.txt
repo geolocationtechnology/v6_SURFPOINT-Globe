@@ -502,6 +502,8 @@
 2a11:2100:0000:0000:0000:0000:0000:0000	2a11:2107:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:3e00:0000:0000:0000:0000:0000:0000	2a11:3e07:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:4900:0000:0000:0000:0000:0000:0000	2a11:4907:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a11:7500:0000:0000:0000:0000:0000:0000	2a11:7507:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a11:c500:0000:0000:0000:0000:0000:0000	2a11:c507:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:c800:0000:0000:0000:0000:0000:0000	2a11:c807:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:dc00:0000:0000:0000:0000:0000:0000	2a11:dc07:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:e000:0000:0000:0000:0000:0000:0000	2a11:e007:ffff:ffff:ffff:ffff:ffff:ffff	HK
