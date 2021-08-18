@@ -1140,4 +1140,5 @@
 2a11:3100:0000:0000:0000:0000:0000:0000	2a11:3107:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:3400:0000:0000:0000:0000:0000:0000	2a11:3407:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:be00:0000:0000:0000:0000:0000:0000	2a11:be07:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a11:e300:0000:0000:0000:0000:0000:0000	2a11:e307:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:e600:0000:0000:0000:0000:0000:0000	2a11:e607:ffff:ffff:ffff:ffff:ffff:ffff	FR

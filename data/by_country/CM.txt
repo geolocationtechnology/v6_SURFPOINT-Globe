@@ -1,4 +1,6 @@
 2001:4268:0000:0000:0000:0000:0000:0000	2001:4268:ffff:ffff:ffff:ffff:ffff:ffff	CM
+2001:43fd:c000:0000:0000:0000:0000:0000	2001:43fd:c000:ffff:ffff:ffff:ffff:ffff	CM
+2001:43fe:c000:0000:0000:0000:0000:0000	2001:43fe:c000:ffff:ffff:ffff:ffff:ffff	CM
 2001:43ff:8000:0000:0000:0000:0000:0000	2001:43ff:800f:ffff:ffff:ffff:ffff:ffff	CM
 2c0f:4e00:0000:0000:0000:0000:0000:0000	2c0f:4e00:ffff:ffff:ffff:ffff:ffff:ffff	CM
 2c0f:5900:0000:0000:0000:0000:0000:0000	2c0f:5900:ffff:ffff:ffff:ffff:ffff:ffff	CM

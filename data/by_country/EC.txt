@@ -20,6 +20,7 @@
 2803:0810:0000:0000:0000:0000:0000:0000	2803:0810:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:0b00:0000:0000:0000:0000:0000:0000	2803:0b00:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:0ba0:0000:0000:0000:0000:0000:0000	2803:0ba0:ffff:ffff:ffff:ffff:ffff:ffff	EC
+2803:0e10:0000:0000:0000:0000:0000:0000	2803:0e10:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:0fc0:0000:0000:0000:0000:0000:0000	2803:0fc0:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:10e0:0000:0000:0000:0000:0000:0000	2803:10e0:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:1160:0000:0000:0000:0000:0000:0000	2803:1160:ffff:ffff:ffff:ffff:ffff:ffff	EC

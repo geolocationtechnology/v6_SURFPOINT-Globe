@@ -199,3 +199,11 @@
 2a11:3600:0000:0000:0000:0000:0000:0000	2a11:3600:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a11:7100:0000:0000:0000:0000:0000:0000	2a11:7107:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a11:8b00:0000:0000:0000:0000:0000:0000	2a11:8b07:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a11:ed00:0000:0000:0000:0000:0000:0000	2a11:ed07:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a11:ef00:0000:0000:0000:0000:0000:0000	2a11:ef07:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a11:f100:0000:0000:0000:0000:0000:0000	2a11:f107:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a11:f300:0000:0000:0000:0000:0000:0000	2a11:f307:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a11:f500:0000:0000:0000:0000:0000:0000	2a11:f507:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a11:f700:0000:0000:0000:0000:0000:0000	2a11:f707:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a11:f900:0000:0000:0000:0000:0000:0000	2a11:f907:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a11:fb00:0000:0000:0000:0000:0000:0000	2a11:fb07:ffff:ffff:ffff:ffff:ffff:ffff	RO
