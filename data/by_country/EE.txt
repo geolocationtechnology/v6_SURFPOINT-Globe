@@ -119,4 +119,5 @@
 2a10:f040:0000:0000:0000:0000:0000:0000	2a10:f040:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a10:f340:0000:0000:0000:0000:0000:0000	2a10:f347:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a11:2600:0000:0000:0000:0000:0000:0000	2a11:2607:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a11:3b80:0000:0000:0000:0000:0000:0000	2a11:3b87:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a11:6a00:0000:0000:0000:0000:0000:0000	2a11:6a07:ffff:ffff:ffff:ffff:ffff:ffff	EE

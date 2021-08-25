@@ -199,4 +199,5 @@
 2a11:0400:0000:0000:0000:0000:0000:0000	2a11:0407:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:2500:0000:0000:0000:0000:0000:0000	2a11:2507:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:4200:0000:0000:0000:0000:0000:0000	2a11:4207:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a11:5280:0000:0000:0000:0000:0000:0000	2a11:5287:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:e800:0000:0000:0000:0000:0000:0000	2a11:e807:ffff:ffff:ffff:ffff:ffff:ffff	LT

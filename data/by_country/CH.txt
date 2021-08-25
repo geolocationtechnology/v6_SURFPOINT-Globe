@@ -25,7 +25,6 @@
 2001:4d98:0000:0000:0000:0000:0000:0000	2001:4d98:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:0c10:0000:0000:0000:0000:0000:0000	2a00:0c10:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:0c38:0000:0000:0000:0000:0000:0000	2a00:0c38:ffff:ffff:ffff:ffff:ffff:ffff	CH
-2a00:0ce8:0000:0000:0000:0000:0000:0000	2a00:0ce8:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:0d08:0000:0000:0000:0000:0000:0000	2a00:0d08:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:0d28:0000:0000:0000:0000:0000:0000	2a00:0d28:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a00:0d70:0000:0000:0000:0000:0000:0000	2a00:0d70:ffff:ffff:ffff:ffff:ffff:ffff	CH

@@ -373,4 +373,5 @@
 2a10:c4c0:0000:0000:0000:0000:0000:0000	2a10:c4c7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a10:ef00:0000:0000:0000:0000:0000:0000	2a10:ef07:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a10:fe00:0000:0000:0000:0000:0000:0000	2a10:fe00:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a11:6e80:0000:0000:0000:0000:0000:0000	2a11:6e87:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a11:7700:0000:0000:0000:0000:0000:0000	2a11:7707:ffff:ffff:ffff:ffff:ffff:ffff	IR
