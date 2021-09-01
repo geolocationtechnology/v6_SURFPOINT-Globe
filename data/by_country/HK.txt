@@ -455,6 +455,8 @@
 2407:c940:0000:0000:0000:0000:0000:0000	2407:c940:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:cd00:0000:0000:0000:0000:0000:0000	2407:cd00:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:cdc0:0000:0000:0000:0000:0000:0000	2407:cdc0:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2407:d340:0000:0000:0000:0000:0000:0000	2407:d340:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2407:d5c0:0000:0000:0000:0000:0000:0000	2407:d5c0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:e100:0000:0000:0000:0000:0000:0000	2407:e100:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:e300:0000:0000:0000:0000:0000:0000	2407:e301:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2407:ea00:0000:0000:0000:0000:0000:0000	2407:ea00:ffff:ffff:ffff:ffff:ffff:ffff	HK
@@ -508,6 +510,8 @@
 2a11:4900:0000:0000:0000:0000:0000:0000	2a11:4907:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:6d80:0000:0000:0000:0000:0000:0000	2a11:6d87:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:7500:0000:0000:0000:0000:0000:0000	2a11:7507:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a11:7780:0000:0000:0000:0000:0000:0000	2a11:7787:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a11:8d80:0000:0000:0000:0000:0000:0000	2a11:8d87:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:c500:0000:0000:0000:0000:0000:0000	2a11:c507:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:c800:0000:0000:0000:0000:0000:0000	2a11:c807:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:dc00:0000:0000:0000:0000:0000:0000	2a11:dc07:ffff:ffff:ffff:ffff:ffff:ffff	HK

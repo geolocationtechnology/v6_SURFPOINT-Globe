@@ -8,7 +8,6 @@
 2001:067c:2efc:0000:0000:0000:0000:0000	2001:067c:2efc:ffff:ffff:ffff:ffff:ffff	AT
 2001:067c:2f34:0000:0000:0000:0000:0000	2001:067c:2f34:ffff:ffff:ffff:ffff:ffff	AT
 2001:067c:2ff0:0000:0000:0000:0000:0000	2001:067c:2ff0:ffff:ffff:ffff:ffff:ffff	AT
-2001:07f8:00ca:0000:0000:0000:0000:0000	2001:07f8:00ca:ffff:ffff:ffff:ffff:ffff	AT
 2001:0850:0000:0000:0000:0000:0000:0000	2001:0858:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2001:0870:0000:0000:0000:0000:0000:0000	2001:0877:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2001:0890:0000:0000:0000:0000:0000:0000	2001:0897:ffff:ffff:ffff:ffff:ffff:ffff	AT
@@ -345,7 +344,6 @@
 2a0e:37c0:0000:0000:0000:0000:0000:0000	2a0e:37c0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0e:6a00:0000:0000:0000:0000:0000:0000	2a0e:6a07:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0e:8440:0000:0000:0000:0000:0000:0000	2a0e:8447:ffff:ffff:ffff:ffff:ffff:ffff	AT
-2a0e:96c0:0000:0000:0000:0000:0000:0000	2a0e:96c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0e:a500:0000:0000:0000:0000:0000:0000	2a0e:a507:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0e:a600:0000:0000:0000:0000:0000:0000	2a0e:a607:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a0e:ab40:0000:0000:0000:0000:0000:0000	2a0e:ab47:ffff:ffff:ffff:ffff:ffff:ffff	AT

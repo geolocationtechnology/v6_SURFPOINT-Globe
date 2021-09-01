@@ -697,6 +697,8 @@
 2407:ca40:0000:0000:0000:0000:0000:0000	2407:ca40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:cb00:0000:0000:0000:0000:0000:0000	2407:cb00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:cb40:0000:0000:0000:0000:0000:0000	2407:cb40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:cf40:0000:0000:0000:0000:0000:0000	2407:cf40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:d640:0000:0000:0000:0000:0000:0000	2407:d640:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:da00:0000:0000:0000:0000:0000:0000	2407:da00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:e500:0000:0000:0000:0000:0000:0000	2407:e501:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:e880:0000:0000:0000:0000:0000:0000	2407:e880:ffff:ffff:ffff:ffff:ffff:ffff	IN

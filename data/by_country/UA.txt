@@ -413,6 +413,7 @@
 2a11:6800:0000:0000:0000:0000:0000:0000	2a11:6807:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:7600:0000:0000:0000:0000:0000:0000	2a11:7607:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:a600:0000:0000:0000:0000:0000:0000	2a11:a607:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:ad80:0000:0000:0000:0000:0000:0000	2a11:ad87:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:b100:0000:0000:0000:0000:0000:0000	2a11:b100:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:b900:0000:0000:0000:0000:0000:0000	2a11:b907:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:e900:0000:0000:0000:0000:0000:0000	2a11:e907:ffff:ffff:ffff:ffff:ffff:ffff	UA

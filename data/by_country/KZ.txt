@@ -50,3 +50,4 @@
 2a10:b780:0000:0000:0000:0000:0000:0000	2a10:b787:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a10:d0c0:0000:0000:0000:0000:0000:0000	2a10:d0c7:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a11:2200:0000:0000:0000:0000:0000:0000	2a11:2207:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a11:aa80:0000:0000:0000:0000:0000:0000	2a11:aa80:ffff:ffff:ffff:ffff:ffff:ffff	KZ

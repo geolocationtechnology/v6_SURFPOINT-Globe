@@ -92,12 +92,10 @@
 2a0d:6fc0:0000:0000:0000:0000:0000:0000	2a0d:6fc7:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0d:7000:0000:0000:0000:0000:0000:0000	2a0d:7000:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0d:ea80:0000:0000:0000:0000:0000:0000	2a0d:ea87:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a0e:15c0:0000:0000:0000:0000:0000:0000	2a0e:15c7:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0e:2440:0000:0000:0000:0000:0000:0000	2a0e:2447:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0e:9980:0000:0000:0000:0000:0000:0000	2a0e:9987:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0e:9cc0:0000:0000:0000:0000:0000:0000	2a0e:9cc7:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0e:9dc0:0000:0000:0000:0000:0000:0000	2a0e:9dc7:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a0e:e980:0000:0000:0000:0000:0000:0000	2a0e:e987:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:0140:0000:0000:0000:0000:0000:0000	2a0f:0147:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:1380:0000:0000:0000:0000:0000:0000	2a0f:1387:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:1480:0000:0000:0000:0000:0000:0000	2a0f:1487:ffff:ffff:ffff:ffff:ffff:ffff	IL
@@ -115,9 +113,6 @@
 2a0f:4a00:0000:0000:0000:0000:0000:0000	2a0f:4a07:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:6a80:0000:0000:0000:0000:0000:0000	2a0f:6a87:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:7680:0000:0000:0000:0000:0000:0000	2a0f:7687:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a0f:7d00:0000:0000:0000:0000:0000:0000	2a0f:7d07:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a0f:7f00:0000:0000:0000:0000:0000:0000	2a0f:7f07:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a0f:8100:0000:0000:0000:0000:0000:0000	2a0f:8107:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:8300:0000:0000:0000:0000:0000:0000	2a0f:8307:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:9600:0000:0000:0000:0000:0000:0000	2a0f:9607:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:9e00:0000:0000:0000:0000:0000:0000	2a0f:9e07:ffff:ffff:ffff:ffff:ffff:ffff	IL

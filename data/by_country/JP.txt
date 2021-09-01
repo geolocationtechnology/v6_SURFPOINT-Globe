@@ -34,6 +34,7 @@
 2001:03d8:0000:0000:0000:0000:0000:0000	2001:03d8:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2001:03e0:0000:0000:0000:0000:0000:0000	2001:03e0:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2001:03e8:0000:0000:0000:0000:0000:0000	2001:03e8:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2001:07fc:0002:0000:0000:0000:0000:0000	2001:07fc:0003:ffff:ffff:ffff:ffff:ffff	JP
 2001:0c28:0000:0000:0000:0000:0000:0000	2001:0c28:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2001:0c30:0000:0000:0000:0000:0000:0000	2001:0c30:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2001:0c40:0000:0000:0000:0000:0000:0000	2001:0c40:ffff:ffff:ffff:ffff:ffff:ffff	JP
@@ -420,6 +421,7 @@
 2407:bc40:0000:0000:0000:0000:0000:0000	2407:bc40:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:c800:0000:0000:0000:0000:0000:0000	2407:c800:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:cc00:0000:0000:0000:0000:0000:0000	2407:cc00:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2407:d440:0000:0000:0000:0000:0000:0000	2407:d440:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:d600:0000:0000:0000:0000:0000:0000	2407:d600:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:d800:0000:0000:0000:0000:0000:0000	2407:d800:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:e600:0000:0000:0000:0000:0000:0000	2407:e600:ffff:ffff:ffff:ffff:ffff:ffff	JP
