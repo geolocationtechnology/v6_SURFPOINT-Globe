@@ -9,6 +9,7 @@
 2c0f:e808:0000:0000:0000:0000:0000:0000	2c0f:e808:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:e8f8:0000:0000:0000:0000:0000:0000	2c0f:e8f8:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:ec30:0000:0000:0000:0000:0000:0000	2c0f:ec30:ffff:ffff:ffff:ffff:ffff:ffff	MU
+2c0f:f310:0000:0000:0000:0000:0000:0000	2c0f:f310:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:f550:0000:0000:0000:0000:0000:0000	2c0f:f550:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:f748:0000:0000:0000:0000:0000:0000	2c0f:f748:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:f830:0000:0000:0000:0000:0000:0000	2c0f:f830:ffff:ffff:ffff:ffff:ffff:ffff	MU

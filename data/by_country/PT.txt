@@ -81,3 +81,4 @@
 2a10:e440:0000:0000:0000:0000:0000:0000	2a10:e440:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a10:ee40:0000:0000:0000:0000:0000:0000	2a10:ee47:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2a11:0c00:0000:0000:0000:0000:0000:0000	2a11:0c07:ffff:ffff:ffff:ffff:ffff:ffff	PT
+2a11:bd80:0000:0000:0000:0000:0000:0000	2a11:bd83:ffff:ffff:ffff:ffff:ffff:ffff	PT

@@ -523,7 +523,6 @@
 2a10:2880:0000:0000:0000:0000:0000:0000	2a10:2880:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a10:2d00:0000:0000:0000:0000:0000:0000	2a10:2d07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a10:2e40:0000:0000:0000:0000:0000:0000	2a10:2e47:ffff:ffff:ffff:ffff:ffff:ffff	CZ
-2a10:2ec0:0000:0000:0000:0000:0000:0000	2a10:2ec7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a10:3900:0000:0000:0000:0000:0000:0000	2a10:3907:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a10:64c0:0000:0000:0000:0000:0000:0000	2a10:64c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a10:7140:0000:0000:0000:0000:0000:0000	2a10:7147:ffff:ffff:ffff:ffff:ffff:ffff	CZ

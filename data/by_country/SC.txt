@@ -75,6 +75,7 @@
 2a0e:c780:0000:0000:0000:0000:0000:0000	2a0e:c787:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0e:d600:0000:0000:0000:0000:0000:0000	2a0e:d607:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0e:e980:0000:0000:0000:0000:0000:0000	2a0e:e987:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a0e:f500:0000:0000:0000:0000:0000:0000	2a0e:f507:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0e:f600:0000:0000:0000:0000:0000:0000	2a0e:f607:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:2380:0000:0000:0000:0000:0000:0000	2a0f:2387:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:4580:0000:0000:0000:0000:0000:0000	2a0f:4587:ffff:ffff:ffff:ffff:ffff:ffff	SC

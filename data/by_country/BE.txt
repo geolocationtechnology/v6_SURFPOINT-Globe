@@ -243,3 +243,4 @@
 2a11:0300:0000:0000:0000:0000:0000:0000	2a11:0307:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a11:5000:0000:0000:0000:0000:0000:0000	2a11:5007:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a11:8000:0000:0000:0000:0000:0000:0000	2a11:8000:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a11:b880:0000:0000:0000:0000:0000:0000	2a11:b887:ffff:ffff:ffff:ffff:ffff:ffff	BE

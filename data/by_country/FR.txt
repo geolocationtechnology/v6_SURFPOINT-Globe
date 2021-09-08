@@ -1142,5 +1142,8 @@
 2a11:4980:0000:0000:0000:0000:0000:0000	2a11:4987:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:9980:0000:0000:0000:0000:0000:0000	2a11:9987:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:be00:0000:0000:0000:0000:0000:0000	2a11:be07:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a11:c780:0000:0000:0000:0000:0000:0000	2a11:c787:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a11:da80:0000:0000:0000:0000:0000:0000	2a11:da87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:e300:0000:0000:0000:0000:0000:0000	2a11:e307:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:e600:0000:0000:0000:0000:0000:0000	2a11:e607:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a11:e880:0000:0000:0000:0000:0000:0000	2a11:e887:ffff:ffff:ffff:ffff:ffff:ffff	FR
