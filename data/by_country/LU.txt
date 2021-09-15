@@ -8,6 +8,7 @@
 2a00:4180:0000:0000:0000:0000:0000:0000	2a00:4180:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a00:5980:0000:0000:0000:0000:0000:0000	2a00:5980:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a00:7e20:0000:0000:0000:0000:0000:0000	2a00:7e20:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a00:8320:0000:0000:0000:0000:0000:0000	2a00:8320:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a00:8f80:0000:0000:0000:0000:0000:0000	2a00:8f80:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a00:b1e0:0000:0000:0000:0000:0000:0000	2a00:b1e0:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a00:c920:0000:0000:0000:0000:0000:0000	2a00:c920:ffff:ffff:ffff:ffff:ffff:ffff	LU

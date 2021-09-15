@@ -401,6 +401,9 @@
 2a10:f900:0000:0000:0000:0000:0000:0000	2a10:f907:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a10:fac0:0000:0000:0000:0000:0000:0000	2a10:fac7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:0580:0000:0000:0000:0000:0000:0000	2a11:0587:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:0dc0:0000:0000:0000:0000:0000:0000	2a11:0dc7:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:11c0:0000:0000:0000:0000:0000:0000	2a11:11c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:1240:0000:0000:0000:0000:0000:0000	2a11:1247:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:1280:0000:0000:0000:0000:0000:0000	2a11:1287:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:1600:0000:0000:0000:0000:0000:0000	2a11:1607:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:2a80:0000:0000:0000:0000:0000:0000	2a11:2a87:ffff:ffff:ffff:ffff:ffff:ffff	UA

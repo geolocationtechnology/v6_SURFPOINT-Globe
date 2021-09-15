@@ -281,6 +281,7 @@
 2a09:78c0:0000:0000:0000:0000:0000:0000	2a09:78c7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a09:a300:0000:0000:0000:0000:0000:0000	2a09:a300:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a09:d400:0000:0000:0000:0000:0000:0000	2a09:d407:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a0a:0fc0:0000:0000:0000:0000:0000:0000	2a0a:0fc7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0a:1ac0:0000:0000:0000:0000:0000:0000	2a0a:1ac7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0a:2180:0000:0000:0000:0000:0000:0000	2a0a:2187:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a0a:2200:0000:0000:0000:0000:0000:0000	2a0a:2207:ffff:ffff:ffff:ffff:ffff:ffff	NO

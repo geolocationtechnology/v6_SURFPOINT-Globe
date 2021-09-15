@@ -13,7 +13,6 @@
 2a00:6580:0000:0000:0000:0000:0000:0000	2a00:6580:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a00:6f40:0000:0000:0000:0000:0000:0000	2a00:6f40:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a00:82a0:0000:0000:0000:0000:0000:0000	2a00:82a0:ffff:ffff:ffff:ffff:ffff:ffff	BG
-2a00:8320:0000:0000:0000:0000:0000:0000	2a00:8320:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a00:87c0:0000:0000:0000:0000:0000:0000	2a00:87c0:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a00:af60:0000:0000:0000:0000:0000:0000	2a00:af60:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a00:e200:0000:0000:0000:0000:0000:0000	2a00:e200:ffff:ffff:ffff:ffff:ffff:ffff	BG

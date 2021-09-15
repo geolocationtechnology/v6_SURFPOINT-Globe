@@ -3,7 +3,6 @@
 2400:c180:0000:0000:0000:0000:0000:0000	2400:c180:ffff:ffff:ffff:ffff:ffff:ffff	LA
 2402:6840:0000:0000:0000:0000:0000:0000	2402:6840:ffff:ffff:ffff:ffff:ffff:ffff	LA
 2402:8c80:0000:0000:0000:0000:0000:0000	2402:8c80:ffff:ffff:ffff:ffff:ffff:ffff	LA
-2403:00c0:0000:0000:0000:0000:0000:0000	2403:00c0:ffff:ffff:ffff:ffff:ffff:ffff	LA
 2403:0500:0000:0000:0000:0000:0000:0000	2403:0500:ffff:ffff:ffff:ffff:ffff:ffff	LA
 2404:2e00:0000:0000:0000:0000:0000:0000	2404:2e00:ffff:ffff:ffff:ffff:ffff:ffff	LA
 2404:adc0:0000:0000:0000:0000:0000:0000	2404:adc0:ffff:ffff:ffff:ffff:ffff:ffff	LA

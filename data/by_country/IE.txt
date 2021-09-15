@@ -135,6 +135,7 @@
 2a07:ee80:0000:0000:0000:0000:0000:0000	2a07:ee87:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a07:f940:0000:0000:0000:0000:0000:0000	2a07:f947:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a09:0800:0000:0000:0000:0000:0000:0000	2a09:0807:ffff:ffff:ffff:ffff:ffff:ffff	IE
+2a09:2140:0000:0000:0000:0000:0000:0000	2a09:2140:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a09:7940:0000:0000:0000:0000:0000:0000	2a09:7947:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0a:0f40:0000:0000:0000:0000:0000:0000	2a0a:0f40:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a0a:1180:0000:0000:0000:0000:0000:0000	2a0a:1187:ffff:ffff:ffff:ffff:ffff:ffff	IE

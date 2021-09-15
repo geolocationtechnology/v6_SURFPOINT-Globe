@@ -268,7 +268,6 @@
 2a04:2a40:0000:0000:0000:0000:0000:0000	2a04:2a47:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a04:3680:0000:0000:0000:0000:0000:0000	2a04:3687:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a04:3940:0000:0000:0000:0000:0000:0000	2a04:3947:ffff:ffff:ffff:ffff:ffff:ffff	CH
-2a04:3f00:0000:0000:0000:0000:0000:0000	2a04:3f07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a04:4c00:0000:0000:0000:0000:0000:0000	2a04:4c07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a04:5640:0000:0000:0000:0000:0000:0000	2a04:5647:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a04:5a40:0000:0000:0000:0000:0000:0000	2a04:5a47:ffff:ffff:ffff:ffff:ffff:ffff	CH
