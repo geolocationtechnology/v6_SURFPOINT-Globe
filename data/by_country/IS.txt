@@ -48,3 +48,4 @@
 2a0c:df80:0000:0000:0000:0000:0000:0000	2a0c:df87:ffff:ffff:ffff:ffff:ffff:ffff	IS
 2a10:8c40:0000:0000:0000:0000:0000:0000	2a10:8c47:ffff:ffff:ffff:ffff:ffff:ffff	IS
 2a10:9840:0000:0000:0000:0000:0000:0000	2a10:9847:ffff:ffff:ffff:ffff:ffff:ffff	IS
+2a11:24c0:0000:0000:0000:0000:0000:0000	2a11:24c7:ffff:ffff:ffff:ffff:ffff:ffff	IS

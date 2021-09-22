@@ -79,7 +79,10 @@
 2a0e:f600:0000:0000:0000:0000:0000:0000	2a0e:f607:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:0a00:0000:0000:0000:0000:0000:0000	2a0f:0a07:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:2380:0000:0000:0000:0000:0000:0000	2a0f:2387:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a0f:2d80:0000:0000:0000:0000:0000:0000	2a0f:2d87:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:2e80:0000:0000:0000:0000:0000:0000	2a0f:2e87:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a0f:3d80:0000:0000:0000:0000:0000:0000	2a0f:3d87:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a0f:3e80:0000:0000:0000:0000:0000:0000	2a0f:3e87:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:4580:0000:0000:0000:0000:0000:0000	2a0f:4587:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:5580:0000:0000:0000:0000:0000:0000	2a0f:5587:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:6200:0000:0000:0000:0000:0000:0000	2a0f:6207:ffff:ffff:ffff:ffff:ffff:ffff	SC
@@ -102,6 +105,7 @@
 2a0f:ea00:0000:0000:0000:0000:0000:0000	2a0f:ea07:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:fc00:0000:0000:0000:0000:0000:0000	2a0f:fc07:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a10:5fc0:0000:0000:0000:0000:0000:0000	2a10:5fc7:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a10:67c0:0000:0000:0000:0000:0000:0000	2a10:67c7:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a10:9700:0000:0000:0000:0000:0000:0000	2a10:9707:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a11:2880:0000:0000:0000:0000:0000:0000	2a11:2887:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a11:c200:0000:0000:0000:0000:0000:0000	2a11:c207:ffff:ffff:ffff:ffff:ffff:ffff	SC

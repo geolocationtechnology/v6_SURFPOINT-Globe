@@ -911,6 +911,7 @@
 2a11:07c0:0000:0000:0000:0000:0000:0000	2a11:07c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:0f00:0000:0000:0000:0000:0000:0000	2a11:0f07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:2300:0000:0000:0000:0000:0000:0000	2a11:2307:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a11:2740:0000:0000:0000:0000:0000:0000	2a11:2747:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:2900:0000:0000:0000:0000:0000:0000	2a11:2907:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:4c80:0000:0000:0000:0000:0000:0000	2a11:4c87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:b600:0000:0000:0000:0000:0000:0000	2a11:b600:ffff:ffff:ffff:ffff:ffff:ffff	IT
