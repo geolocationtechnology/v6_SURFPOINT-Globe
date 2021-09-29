@@ -59,4 +59,5 @@
 2a10:8d80:0000:0000:0000:0000:0000:0000	2a10:8d87:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a10:c140:0000:0000:0000:0000:0000:0000	2a10:c147:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a10:d400:0000:0000:0000:0000:0000:0000	2a10:d407:ffff:ffff:ffff:ffff:ffff:ffff	HR
+2a11:42c0:0000:0000:0000:0000:0000:0000	2a11:42c7:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a11:d980:0000:0000:0000:0000:0000:0000	2a11:d987:ffff:ffff:ffff:ffff:ffff:ffff	HR

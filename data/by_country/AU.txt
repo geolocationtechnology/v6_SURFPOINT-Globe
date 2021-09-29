@@ -317,6 +317,8 @@
 2001:0df7:9500:0000:0000:0000:0000:0000	2001:0df7:9500:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:9c00:0000:0000:0000:0000:0000	2001:0df7:9c00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:a000:0000:0000:0000:0000:0000	2001:0df7:a000:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df7:a080:0000:0000:0000:0000:0000	2001:0df7:a080:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df7:a380:0000:0000:0000:0000:0000	2001:0df7:a380:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:ac00:0000:0000:0000:0000:0000	2001:0df7:ac00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:ad00:0000:0000:0000:0000:0000	2001:0df7:ad00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:be00:0000:0000:0000:0000:0000	2001:0df7:be00:ffff:ffff:ffff:ffff:ffff	AU

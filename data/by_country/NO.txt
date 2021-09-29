@@ -353,5 +353,6 @@
 2a10:ff00:0000:0000:0000:0000:0000:0000	2a10:ff07:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a11:00c0:0000:0000:0000:0000:0000:0000	2a11:00c7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a11:14c0:0000:0000:0000:0000:0000:0000	2a11:14c7:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a11:2f40:0000:0000:0000:0000:0000:0000	2a11:2f40:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a11:5100:0000:0000:0000:0000:0000:0000	2a11:5107:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a11:ea00:0000:0000:0000:0000:0000:0000	2a11:ea07:ffff:ffff:ffff:ffff:ffff:ffff	NO

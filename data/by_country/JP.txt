@@ -427,6 +427,9 @@
 2407:e0c0:0000:0000:0000:0000:0000:0000	2407:e0c0:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:e540:0000:0000:0000:0000:0000:0000	2407:e540:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:e600:0000:0000:0000:0000:0000:0000	2407:e600:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2407:eac0:0000:0000:0000:0000:0000:0000	2407:eac0:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2407:eb40:0000:0000:0000:0000:0000:0000	2407:eb40:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2407:ee40:0000:0000:0000:0000:0000:0000	2407:ee40:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2407:f600:0000:0000:0000:0000:0000:0000	2407:f600:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2408:0000:0000:0000:0000:0000:0000:0000	2408:03ff:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2409:0010:0000:0000:0000:0000:0000:0000	2409:001f:ffff:ffff:ffff:ffff:ffff:ffff	JP

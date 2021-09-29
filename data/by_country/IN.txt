@@ -14,6 +14,7 @@
 2001:0e48:0000:0000:0000:0000:0000:0000	2001:0e48:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2001:0f30:0000:0000:0000:0000:0000:0000	2001:0f30:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2001:0fd0:0000:0000:0000:0000:0000:0000	2001:0fd0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2001:0fff:0000:0000:0000:0000:0000:0000	2001:0fff:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2001:4408:0000:0000:0000:0000:0000:0000	2001:4408:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2001:4490:0000:0000:0000:0000:0000:0000	2001:4493:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2001:44c0:0000:0000:0000:0000:0000:0000	2001:44c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -711,8 +712,13 @@
 2407:e500:0000:0000:0000:0000:0000:0000	2407:e501:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:e840:0000:0000:0000:0000:0000:0000	2407:e840:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:e880:0000:0000:0000:0000:0000:0000	2407:e880:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:e9c0:0000:0000:0000:0000:0000:0000	2407:e9c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:edc0:0000:0000:0000:0000:0000:0000	2407:edc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:eec0:0000:0000:0000:0000:0000:0000	2407:eec0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:f0c0:0000:0000:0000:0000:0000:0000	2407:f0c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:f700:0000:0000:0000:0000:0000:0000	2407:f700:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:ff00:0000:0000:0000:0000:0000:0000	2407:ff00:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2409:0000:0000:0000:0000:0000:0000:0000	2409:0000:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2409:4000:0000:0000:0000:0000:0000:0000	2409:43ff:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a01:4740:0000:0000:0000:0000:0000:0000	2a01:4740:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a04:f780:0000:0000:0000:0000:0000:0000	2a04:f787:ffff:ffff:ffff:ffff:ffff:ffff	IN

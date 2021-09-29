@@ -3,8 +3,6 @@
 2001:1500:0000:0000:0000:0000:0000:0000	2001:1500:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2001:4188:0000:0000:0000:0000:0000:0000	2001:418f:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2001:4c88:0000:0000:0000:0000:0000:0000	2001:4c88:ffff:ffff:ffff:ffff:ffff:ffff	IR
-2401:eec0:0000:0000:0000:0000:0000:0000	2401:eec0:ffff:ffff:ffff:ffff:ffff:ffff	IR
-2402:8740:0000:0000:0000:0000:0000:0000	2402:8740:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a00:0d20:0000:0000:0000:0000:0000:0000	2a00:0d20:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a00:0ff8:0000:0000:0000:0000:0000:0000	2a00:0fff:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a00:1198:0000:0000:0000:0000:0000:0000	2a00:1198:ffff:ffff:ffff:ffff:ffff:ffff	IR
