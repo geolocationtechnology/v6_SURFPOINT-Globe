@@ -321,6 +321,8 @@
 2001:0df7:a380:0000:0000:0000:0000:0000	2001:0df7:a380:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:ac00:0000:0000:0000:0000:0000	2001:0df7:ac00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:ad00:0000:0000:0000:0000:0000	2001:0df7:ad00:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df7:ae80:0000:0000:0000:0000:0000	2001:0df7:ae80:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df7:af80:0000:0000:0000:0000:0000	2001:0df7:af80:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:be00:0000:0000:0000:0000:0000	2001:0df7:be00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:d300:0000:0000:0000:0000:0000	2001:0df7:d300:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df7:d400:0000:0000:0000:0000:0000	2001:0df7:d400:ffff:ffff:ffff:ffff:ffff	AU
@@ -1154,6 +1156,7 @@
 2407:ec00:0000:0000:0000:0000:0000:0000	2407:ec00:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2407:ee00:0000:0000:0000:0000:0000:0000	2407:ee00:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2407:f400:0000:0000:0000:0000:0000:0000	2407:f400:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2407:f6c0:0000:0000:0000:0000:0000:0000	2407:f6c0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2407:fd00:0000:0000:0000:0000:0000:0000	2407:fd00:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2408:2000:0000:0000:0000:0000:0000:0000	2408:20ff:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2a00:9940:0000:0000:0000:0000:0000:0000	2a00:9940:ffff:ffff:ffff:ffff:ffff:ffff	AU

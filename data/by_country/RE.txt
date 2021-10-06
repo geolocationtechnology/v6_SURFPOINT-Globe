@@ -1,6 +1,5 @@
 2a00:a080:0000:0000:0000:0000:0000:0000	2a00:a080:ffff:ffff:ffff:ffff:ffff:ffff	RE
 2a0b:dc00:0000:0000:0000:0000:0000:0000	2a0b:dc07:ffff:ffff:ffff:ffff:ffff:ffff	RE
 2c0f:6c00:0000:0000:0000:0000:0000:0000	2c0f:6c00:ffff:ffff:ffff:ffff:ffff:ffff	RE
-2c0f:eaa0:0000:0000:0000:0000:0000:0000	2c0f:eaa0:ffff:ffff:ffff:ffff:ffff:ffff	RE
 2c0f:f608:0000:0000:0000:0000:0000:0000	2c0f:f608:ffff:ffff:ffff:ffff:ffff:ffff	RE
 2c0f:f918:0000:0000:0000:0000:0000:0000	2c0f:f918:ffff:ffff:ffff:ffff:ffff:ffff	RE

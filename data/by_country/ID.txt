@@ -724,4 +724,5 @@
 2407:e5c0:0000:0000:0000:0000:0000:0000	2407:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	ID
 2407:ed40:0000:0000:0000:0000:0000:0000	2407:ed40:ffff:ffff:ffff:ffff:ffff:ffff	ID
 2407:f200:0000:0000:0000:0000:0000:0000	2407:f200:ffff:ffff:ffff:ffff:ffff:ffff	ID
+2407:f340:0000:0000:0000:0000:0000:0000	2407:f340:ffff:ffff:ffff:ffff:ffff:ffff	ID
 2407:f900:0000:0000:0000:0000:0000:0000	2407:f900:ffff:ffff:ffff:ffff:ffff:ffff	ID

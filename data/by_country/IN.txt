@@ -716,7 +716,11 @@
 2407:edc0:0000:0000:0000:0000:0000:0000	2407:edc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:eec0:0000:0000:0000:0000:0000:0000	2407:eec0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:f0c0:0000:0000:0000:0000:0000:0000	2407:f0c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:f440:0000:0000:0000:0000:0000:0000	2407:f440:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:f700:0000:0000:0000:0000:0000:0000	2407:f700:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:f8c0:0000:0000:0000:0000:0000:0000	2407:f8c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:f940:0000:0000:0000:0000:0000:0000	2407:f940:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2407:f9c0:0000:0000:0000:0000:0000:0000	2407:f9c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:ff00:0000:0000:0000:0000:0000:0000	2407:ff00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2409:0000:0000:0000:0000:0000:0000:0000	2409:0000:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2409:4000:0000:0000:0000:0000:0000:0000	2409:43ff:ffff:ffff:ffff:ffff:ffff:ffff	IN

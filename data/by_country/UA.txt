@@ -409,10 +409,12 @@
 2a11:4380:0000:0000:0000:0000:0000:0000	2a11:4387:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:43c0:0000:0000:0000:0000:0000:0000	2a11:43c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:5380:0000:0000:0000:0000:0000:0000	2a11:5387:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:54c0:0000:0000:0000:0000:0000:0000	2a11:54c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:5900:0000:0000:0000:0000:0000:0000	2a11:5907:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:6600:0000:0000:0000:0000:0000:0000	2a11:6607:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:6800:0000:0000:0000:0000:0000:0000	2a11:6807:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:6c00:0000:0000:0000:0000:0000:0000	2a11:6c07:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:6c40:0000:0000:0000:0000:0000:0000	2a11:6c47:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:7600:0000:0000:0000:0000:0000:0000	2a11:7607:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:a600:0000:0000:0000:0000:0000:0000	2a11:a607:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:ad80:0000:0000:0000:0000:0000:0000	2a11:ad87:ffff:ffff:ffff:ffff:ffff:ffff	UA

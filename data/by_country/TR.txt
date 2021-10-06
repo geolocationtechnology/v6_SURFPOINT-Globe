@@ -482,6 +482,7 @@
 2a11:39c0:0000:0000:0000:0000:0000:0000	2a11:39c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a11:4bc0:0000:0000:0000:0000:0000:0000	2a11:4bc7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a11:5600:0000:0000:0000:0000:0000:0000	2a11:5607:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a11:5fc0:0000:0000:0000:0000:0000:0000	2a11:5fc7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a11:7c80:0000:0000:0000:0000:0000:0000	2a11:7c87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a11:8200:0000:0000:0000:0000:0000:0000	2a11:8207:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a11:d100:0000:0000:0000:0000:0000:0000	2a11:d107:ffff:ffff:ffff:ffff:ffff:ffff	TR
