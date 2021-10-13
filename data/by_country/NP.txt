@@ -66,3 +66,4 @@
 2407:8e40:0000:0000:0000:0000:0000:0000	2407:8e40:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2407:d400:0000:0000:0000:0000:0000:0000	2407:d400:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2407:efc0:0000:0000:0000:0000:0000:0000	2407:efc0:ffff:ffff:ffff:ffff:ffff:ffff	NP
+2407:fe40:0000:0000:0000:0000:0000:0000	2407:fe40:ffff:ffff:ffff:ffff:ffff:ffff	NP

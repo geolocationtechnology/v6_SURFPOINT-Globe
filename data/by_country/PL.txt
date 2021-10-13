@@ -644,6 +644,8 @@
 2a11:6100:0000:0000:0000:0000:0000:0000	2a11:6107:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a11:6400:0000:0000:0000:0000:0000:0000	2a11:6407:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a11:6f00:0000:0000:0000:0000:0000:0000	2a11:6f07:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a11:7cc0:0000:0000:0000:0000:0000:0000	2a11:7cc7:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a11:9940:0000:0000:0000:0000:0000:0000	2a11:9940:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a11:aa00:0000:0000:0000:0000:0000:0000	2a11:aa07:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a11:bc00:0000:0000:0000:0000:0000:0000	2a11:bc07:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a11:ff00:0000:0000:0000:0000:0000:0000	2a11:ff07:ffff:ffff:ffff:ffff:ffff:ffff	PL

@@ -416,6 +416,10 @@
 2a11:6c00:0000:0000:0000:0000:0000:0000	2a11:6c07:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:6c40:0000:0000:0000:0000:0000:0000	2a11:6c47:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:7600:0000:0000:0000:0000:0000:0000	2a11:7607:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:80c0:0000:0000:0000:0000:0000:0000	2a11:80c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:8140:0000:0000:0000:0000:0000:0000	2a11:8147:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:8e40:0000:0000:0000:0000:0000:0000	2a11:8e47:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a11:95c0:0000:0000:0000:0000:0000:0000	2a11:95c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:a600:0000:0000:0000:0000:0000:0000	2a11:a607:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:ad80:0000:0000:0000:0000:0000:0000	2a11:ad87:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:b100:0000:0000:0000:0000:0000:0000	2a11:b100:ffff:ffff:ffff:ffff:ffff:ffff	UA

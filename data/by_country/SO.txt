@@ -1,3 +1,5 @@
+2c0f:0b00:0000:0000:0000:0000:0000:0000	2c0f:0b00:ffff:ffff:ffff:ffff:ffff:ffff	SO
+2c0f:4700:0000:0000:0000:0000:0000:0000	2c0f:4700:ffff:ffff:ffff:ffff:ffff:ffff	SO
 2c0f:ed08:0000:0000:0000:0000:0000:0000	2c0f:ed08:ffff:ffff:ffff:ffff:ffff:ffff	SO
 2c0f:eef8:0000:0000:0000:0000:0000:0000	2c0f:eef8:ffff:ffff:ffff:ffff:ffff:ffff	SO
 2c0f:f068:0000:0000:0000:0000:0000:0000	2c0f:f068:ffff:ffff:ffff:ffff:ffff:ffff	SO

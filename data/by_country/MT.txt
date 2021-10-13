@@ -29,3 +29,4 @@
 2a10:1f00:0000:0000:0000:0000:0000:0000	2a10:1f01:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a10:5500:0000:0000:0000:0000:0000:0000	2a10:5507:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a11:6480:0000:0000:0000:0000:0000:0000	2a11:6487:ffff:ffff:ffff:ffff:ffff:ffff	MT
+2a11:9540:0000:0000:0000:0000:0000:0000	2a11:9540:ffff:ffff:ffff:ffff:ffff:ffff	MT

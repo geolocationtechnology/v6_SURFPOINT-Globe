@@ -13,6 +13,7 @@
 2001:4438:0000:0000:0000:0000:0000:0000	2001:4438:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2001:4510:0000:0000:0000:0000:0000:0000	2001:4517:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:1040:0000:0000:0000:0000:0000:0000	2400:1040:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2400:1160:0000:0000:0000:0000:0000:0000	2400:1160:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:12c0:0000:0000:0000:0000:0000:0000	2400:12c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:1340:0000:0000:0000:0000:0000:0000	2400:1340:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:1380:0000:0000:0000:0000:0000:0000	2400:1380:ffff:ffff:ffff:ffff:ffff:ffff	CN
@@ -432,7 +433,6 @@
 2401:f300:0000:0000:0000:0000:0000:0000	2401:f300:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2401:f7c0:0000:0000:0000:0000:0000:0000	2401:f7c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2401:fa80:0000:0000:0000:0000:0000:0000	2401:fa80:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2401:fac0:0000:0000:0000:0000:0000:0000	2401:fac0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2401:fb80:0000:0000:0000:0000:0000:0000	2401:fb80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2401:fc80:0000:0000:0000:0000:0000:0000	2401:fc80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2401:fe80:0000:0000:0000:0000:0000:0000	2401:fe80:ffff:ffff:ffff:ffff:ffff:ffff	CN

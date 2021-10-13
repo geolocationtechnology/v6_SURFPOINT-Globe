@@ -126,7 +126,6 @@
 2a0d:7b00:0000:0000:0000:0000:0000:0000	2a0d:7b07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:8400:0000:0000:0000:0000:0000:0000	2a0d:8400:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:85c0:0000:0000:0000:0000:0000:0000	2a0d:85c0:ffff:ffff:ffff:ffff:ffff:ffff	LT
-2a0d:a840:0000:0000:0000:0000:0000:0000	2a0d:a847:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:ab00:0000:0000:0000:0000:0000:0000	2a0d:ab07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:af00:0000:0000:0000:0000:0000:0000	2a0d:af07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a0d:c940:0000:0000:0000:0000:0000:0000	2a0d:c947:ffff:ffff:ffff:ffff:ffff:ffff	LT
@@ -209,5 +208,8 @@
 2a11:58c0:0000:0000:0000:0000:0000:0000	2a11:58c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:5dc0:0000:0000:0000:0000:0000:0000	2a11:5dc7:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:67c0:0000:0000:0000:0000:0000:0000	2a11:67c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a11:7d40:0000:0000:0000:0000:0000:0000	2a11:7d47:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a11:8240:0000:0000:0000:0000:0000:0000	2a11:8247:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a11:9740:0000:0000:0000:0000:0000:0000	2a11:9747:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:e800:0000:0000:0000:0000:0000:0000	2a11:e807:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:ed80:0000:0000:0000:0000:0000:0000	2a11:ed87:ffff:ffff:ffff:ffff:ffff:ffff	LT
