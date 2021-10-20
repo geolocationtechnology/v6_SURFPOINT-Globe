@@ -70,8 +70,6 @@
 2a0e:1e80:0000:0000:0000:0000:0000:0000	2a0e:1e87:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0e:9400:0000:0000:0000:0000:0000:0000	2a0e:9407:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0e:da80:0000:0000:0000:0000:0000:0000	2a0e:da87:ffff:ffff:ffff:ffff:ffff:ffff	RS
-2a0f:0e00:0000:0000:0000:0000:0000:0000	2a0f:0e07:ffff:ffff:ffff:ffff:ffff:ffff	RS
-2a0f:4f80:0000:0000:0000:0000:0000:0000	2a0f:4f87:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:7bc0:0000:0000:0000:0000:0000:0000	2a0f:7bc7:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:b180:0000:0000:0000:0000:0000:0000	2a0f:b187:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:d940:0000:0000:0000:0000:0000:0000	2a0f:d947:ffff:ffff:ffff:ffff:ffff:ffff	RS
@@ -85,6 +83,5 @@
 2a0f:e040:0000:0000:0000:0000:0000:0000	2a0f:e047:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:e0c0:0000:0000:0000:0000:0000:0000	2a0f:e0c7:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:e1c0:0000:0000:0000:0000:0000:0000	2a0f:e1c7:ffff:ffff:ffff:ffff:ffff:ffff	RS
-2a0f:e740:0000:0000:0000:0000:0000:0000	2a0f:e747:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a0f:eb80:0000:0000:0000:0000:0000:0000	2a0f:eb87:ffff:ffff:ffff:ffff:ffff:ffff	RS
 2a10:3fc0:0000:0000:0000:0000:0000:0000	2a10:3fc7:ffff:ffff:ffff:ffff:ffff:ffff	RS

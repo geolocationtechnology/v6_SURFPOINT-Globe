@@ -169,7 +169,7 @@
 2a02:fac0:0000:0000:0000:0000:0000:0000	2a02:fac0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:02e0:0000:0000:0000:0000:0000:0000	2a03:02e7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:0840:0000:0000:0000:0000:0000:0000	2a03:0840:ffff:ffff:ffff:ffff:ffff:ffff	CZ
-2a03:0c20:0000:0000:0000:0000:0000:0000	2a03:0c20:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a03:0c20:0000:0000:0000:0000:0000:0000	2a03:0c27:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:0ca0:0000:0000:0000:0000:0000:0000	2a03:0ca0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:0e00:0000:0000:0000:0000:0000:0000	2a03:0e00:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:1160:0000:0000:0000:0000:0000:0000	2a03:1160:ffff:ffff:ffff:ffff:ffff:ffff	CZ

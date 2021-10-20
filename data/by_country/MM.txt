@@ -20,7 +20,6 @@
 2402:8ec0:0000:0000:0000:0000:0000:0000	2402:8ec0:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2402:f6c0:0000:0000:0000:0000:0000:0000	2402:f6c0:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2403:3240:0000:0000:0000:0000:0000:0000	2403:3240:ffff:ffff:ffff:ffff:ffff:ffff	MM
-2403:68c0:0000:0000:0000:0000:0000:0000	2403:68c0:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2403:6a80:0000:0000:0000:0000:0000:0000	2403:6a80:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2403:72c0:0000:0000:0000:0000:0000:0000	2403:72c0:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2403:79c0:0000:0000:0000:0000:0000:0000	2403:79c0:ffff:ffff:ffff:ffff:ffff:ffff	MM

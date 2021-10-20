@@ -6,6 +6,7 @@
 2001:0eb0:0000:0000:0000:0000:0000:0000	2001:0eb0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2001:4480:0000:0000:0000:0000:0000:0000	2001:4480:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:1100:0000:0000:0000:0000:0000:0000	2400:1100:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2400:13a0:0000:0000:0000:0000:0000:0000	2400:13a0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:1c40:0000:0000:0000:0000:0000:0000	2400:1c40:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:1c80:0000:0000:0000:0000:0000:0000	2400:1c80:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:1e00:0000:0000:0000:0000:0000:0000	2400:1e00:ffff:ffff:ffff:ffff:ffff:ffff	HK

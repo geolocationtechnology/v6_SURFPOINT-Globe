@@ -90,6 +90,7 @@
 2803:c2e0:0000:0000:0000:0000:0000:0000	2803:c2e0:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:ca10:0000:0000:0000:0000:0000:0000	2803:ca10:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:d060:0000:0000:0000:0000:0000:0000	2803:d060:ffff:ffff:ffff:ffff:ffff:ffff	VE
+2803:d110:0000:0000:0000:0000:0000:0000	2803:d110:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:d440:0000:0000:0000:0000:0000:0000	2803:d440:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:d460:0000:0000:0000:0000:0000:0000	2803:d460:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:d480:0000:0000:0000:0000:0000:0000	2803:d480:ffff:ffff:ffff:ffff:ffff:ffff	VE

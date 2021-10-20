@@ -94,7 +94,7 @@
 2a01:4040:0000:0000:0000:0000:0000:0000	2a01:4040:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a01:43a0:0000:0000:0000:0000:0000:0000	2a01:43a0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a01:4400:0000:0000:0000:0000:0000:0000	2a01:4400:ffff:ffff:ffff:ffff:ffff:ffff	SE
-2a01:5300:0000:0000:0000:0000:0000:0000	2a01:5300:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a01:5300:0000:0000:0000:0000:0000:0000	2a01:5307:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a01:53e0:0000:0000:0000:0000:0000:0000	2a01:53e0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a01:5700:0000:0000:0000:0000:0000:0000	2a01:5700:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a01:6300:0000:0000:0000:0000:0000:0000	2a01:6300:ffff:ffff:ffff:ffff:ffff:ffff	SE
@@ -449,4 +449,5 @@
 2a10:e540:0000:0000:0000:0000:0000:0000	2a10:e547:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a11:2580:0000:0000:0000:0000:0000:0000	2a11:2580:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a11:4700:0000:0000:0000:0000:0000:0000	2a11:4707:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a11:b3c0:0000:0000:0000:0000:0000:0000	2a11:b3c0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a11:f400:0000:0000:0000:0000:0000:0000	2a11:f400:ffff:ffff:ffff:ffff:ffff:ffff	SE
