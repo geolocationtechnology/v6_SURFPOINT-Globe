@@ -851,4 +851,5 @@
 2a11:61c0:0000:0000:0000:0000:0000:0000	2a11:61c0:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a11:7f40:0000:0000:0000:0000:0000:0000	2a11:7f47:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a11:a580:0000:0000:0000:0000:0000:0000	2a11:a587:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a11:c040:0000:0000:0000:0000:0000:0000	2a11:c047:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a11:ca00:0000:0000:0000:0000:0000:0000	2a11:ca07:ffff:ffff:ffff:ffff:ffff:ffff	ES

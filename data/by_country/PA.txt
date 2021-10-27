@@ -65,4 +65,5 @@
 2a10:7980:0000:0000:0000:0000:0000:0000	2a10:7987:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2a10:9100:0000:0000:0000:0000:0000:0000	2a10:9107:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2a11:04c0:0000:0000:0000:0000:0000:0000	2a11:04c7:ffff:ffff:ffff:ffff:ffff:ffff	PA
+2a11:c6c0:0000:0000:0000:0000:0000:0000	2a11:c6c7:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2a11:eb00:0000:0000:0000:0000:0000:0000	2a11:eb07:ffff:ffff:ffff:ffff:ffff:ffff	PA

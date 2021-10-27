@@ -922,5 +922,7 @@
 2a11:ad40:0000:0000:0000:0000:0000:0000	2a11:ad47:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:b2c0:0000:0000:0000:0000:0000:0000	2a11:b2c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:b600:0000:0000:0000:0000:0000:0000	2a11:b600:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a11:cf40:0000:0000:0000:0000:0000:0000	2a11:cf47:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a11:d2c0:0000:0000:0000:0000:0000:0000	2a11:d2c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:dd00:0000:0000:0000:0000:0000:0000	2a11:dd07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a11:e100:0000:0000:0000:0000:0000:0000	2a11:e107:ffff:ffff:ffff:ffff:ffff:ffff	IT

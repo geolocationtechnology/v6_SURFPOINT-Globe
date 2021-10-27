@@ -988,7 +988,6 @@
 2a0e:2880:0000:0000:0000:0000:0000:0000	2a0e:2887:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:3000:0000:0000:0000:0000:0000:0000	2a0e:3007:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:3400:0000:0000:0000:0000:0000:0000	2a0e:3407:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a0e:36c0:0000:0000:0000:0000:0000:0000	2a0e:36c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:3780:0000:0000:0000:0000:0000:0000	2a0e:3787:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:3d80:0000:0000:0000:0000:0000:0000	2a0e:3d87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a0e:4dc0:0000:0000:0000:0000:0000:0000	2a0e:4dc7:ffff:ffff:ffff:ffff:ffff:ffff	FR

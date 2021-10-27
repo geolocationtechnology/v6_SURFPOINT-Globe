@@ -621,4 +621,7 @@
 2a11:2780:0000:0000:0000:0000:0000:0000	2a11:2787:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a11:7980:0000:0000:0000:0000:0000:0000	2a11:7980:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a11:8b80:0000:0000:0000:0000:0000:0000	2a11:8b87:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a11:cac0:0000:0000:0000:0000:0000:0000	2a11:cac7:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a11:ce40:0000:0000:0000:0000:0000:0000	2a11:ce47:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a11:e0c0:0000:0000:0000:0000:0000:0000	2a11:e0c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a11:e480:0000:0000:0000:0000:0000:0000	2a11:e487:ffff:ffff:ffff:ffff:ffff:ffff	CH

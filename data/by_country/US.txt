@@ -484,6 +484,11 @@
 2602:080c:8000:0000:0000:0000:0000:0000	2602:080c:800f:ffff:ffff:ffff:ffff:ffff	US
 2602:080c:9000:0000:0000:0000:0000:0000	2602:080c:900f:ffff:ffff:ffff:ffff:ffff	US
 2602:080c:a000:0000:0000:0000:0000:0000	2602:080c:a0ff:ffff:ffff:ffff:ffff:ffff	US
+2602:080c:b000:0000:0000:0000:0000:0000	2602:080c:b0ff:ffff:ffff:ffff:ffff:ffff	US
+2602:fc0f:0000:0000:0000:0000:0000:0000	2602:fc0f:00ff:ffff:ffff:ffff:ffff:ffff	US
+2602:fc10:0000:0000:0000:0000:0000:0000	2602:fc10:0fff:ffff:ffff:ffff:ffff:ffff	US
+2602:fc11:0000:0000:0000:0000:0000:0000	2602:fc11:0fff:ffff:ffff:ffff:ffff:ffff	US
+2602:fc12:0000:0000:0000:0000:0000:0000	2602:fc12:0fff:ffff:ffff:ffff:ffff:ffff	US
 2602:fc13:0000:0000:0000:0000:0000:0000	2602:fc13:0fff:ffff:ffff:ffff:ffff:ffff	US
 2602:fc16:0000:0000:0000:0000:0000:0000	2602:fc16:0fff:ffff:ffff:ffff:ffff:ffff	US
 2602:fc17:0000:0000:0000:0000:0000:0000	2602:fc17:0fff:ffff:ffff:ffff:ffff:ffff	US
@@ -1818,6 +1823,7 @@
 2604:bb00:0000:0000:0000:0000:0000:0000	2604:bb00:ffff:ffff:ffff:ffff:ffff:ffff	US
 2604:bb40:0000:0000:0000:0000:0000:0000	2604:bb40:ffff:ffff:ffff:ffff:ffff:ffff	US
 2604:bb80:0000:0000:0000:0000:0000:0000	2604:bb80:ffff:ffff:ffff:ffff:ffff:ffff	US
+2604:bbc0:0000:0000:0000:0000:0000:0000	2604:bbc0:ffff:ffff:ffff:ffff:ffff:ffff	US
 2604:bc00:0000:0000:0000:0000:0000:0000	2604:bc00:ffff:ffff:ffff:ffff:ffff:ffff	US
 2604:bc40:0000:0000:0000:0000:0000:0000	2604:bc40:ffff:ffff:ffff:ffff:ffff:ffff	US
 2604:bc80:0000:0000:0000:0000:0000:0000	2604:bc80:ffff:ffff:ffff:ffff:ffff:ffff	US
@@ -5080,6 +5086,7 @@
 2620:009e:c000:0000:0000:0000:0000:0000	2620:009e:c00f:ffff:ffff:ffff:ffff:ffff	US
 2620:009e:e000:0000:0000:0000:0000:0000	2620:009e:e000:ffff:ffff:ffff:ffff:ffff	US
 2620:009f:8000:0000:0000:0000:0000:0000	2620:009f:8000:ffff:ffff:ffff:ffff:ffff	US
+2620:009f:a000:0000:0000:0000:0000:0000	2620:009f:a000:ffff:ffff:ffff:ffff:ffff	US
 2620:009f:c000:0000:0000:0000:0000:0000	2620:009f:c00f:ffff:ffff:ffff:ffff:ffff	US
 2620:00a0:0000:0000:0000:0000:0000:0000	2620:00a0:0000:ffff:ffff:ffff:ffff:ffff	US
 2620:00a0:4000:0000:0000:0000:0000:0000	2620:00a0:400f:ffff:ffff:ffff:ffff:ffff	US
@@ -6385,4 +6392,6 @@
 2a11:4e00:0000:0000:0000:0000:0000:0000	2a11:4e07:ffff:ffff:ffff:ffff:ffff:ffff	US
 2a11:6e00:0000:0000:0000:0000:0000:0000	2a11:6e07:ffff:ffff:ffff:ffff:ffff:ffff	US
 2a11:ad00:0000:0000:0000:0000:0000:0000	2a11:ad07:ffff:ffff:ffff:ffff:ffff:ffff	US
+2a11:bb40:0000:0000:0000:0000:0000:0000	2a11:bb47:ffff:ffff:ffff:ffff:ffff:ffff	US
+2a11:d440:0000:0000:0000:0000:0000:0000	2a11:d447:ffff:ffff:ffff:ffff:ffff:ffff	US
 2a11:e400:0000:0000:0000:0000:0000:0000	2a11:e407:ffff:ffff:ffff:ffff:ffff:ffff	US
