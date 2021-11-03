@@ -244,4 +244,3 @@
 2803:fd80:0000:0000:0000:0000:0000:0000	2803:fd80:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:fda0:0000:0000:0000:0000:0000:0000	2803:fda0:ffff:ffff:ffff:ffff:ffff:ffff	CL
 2803:ffc0:0000:0000:0000:0000:0000:0000	2803:ffc0:ffff:ffff:ffff:ffff:ffff:ffff	CL
-2a0a:7a00:0000:0000:0000:0000:0000:0000	2a0a:7a07:ffff:ffff:ffff:ffff:ffff:ffff	CL

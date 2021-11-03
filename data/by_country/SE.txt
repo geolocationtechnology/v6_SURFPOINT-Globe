@@ -452,3 +452,5 @@
 2a11:b3c0:0000:0000:0000:0000:0000:0000	2a11:b3c0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a11:cd40:0000:0000:0000:0000:0000:0000	2a11:cd47:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a11:f400:0000:0000:0000:0000:0000:0000	2a11:f400:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a12:5800:0000:0000:0000:0000:0000:0000	2a12:5807:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a12:7800:0000:0000:0000:0000:0000:0000	2a12:7807:ffff:ffff:ffff:ffff:ffff:ffff	SE

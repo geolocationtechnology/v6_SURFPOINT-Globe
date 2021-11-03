@@ -16,7 +16,6 @@
 2001:0a00:0000:0000:0000:0000:0000:0000	2001:0a00:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2001:0af8:0000:0000:0000:0000:0000:0000	2001:0af8:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2001:1408:0000:0000:0000:0000:0000:0000	2001:1408:ffff:ffff:ffff:ffff:ffff:ffff	AT
-2001:1618:0000:0000:0000:0000:0000:0000	2001:161f:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2001:1ad0:0000:0000:0000:0000:0000:0000	2001:1ad0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2001:1b98:0000:0000:0000:0000:0000:0000	2001:1b98:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2001:4100:0000:0000:0000:0000:0000:0000	2001:4100:ffff:ffff:ffff:ffff:ffff:ffff	AT

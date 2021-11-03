@@ -1,6 +1,8 @@
 2001:0dd8:001d:0000:0000:0000:0000:0000	2001:0dd8:001d:ffff:ffff:ffff:ffff:ffff	BD
 2001:0df1:fe80:0000:0000:0000:0000:0000	2001:0df1:fe80:ffff:ffff:ffff:ffff:ffff	BD
 2001:0df4:ff80:0000:0000:0000:0000:0000	2001:0df4:ff80:ffff:ffff:ffff:ffff:ffff	BD
+2001:0df7:f480:0000:0000:0000:0000:0000	2001:0df7:f480:ffff:ffff:ffff:ffff:ffff	BD
+2001:0df7:f780:0000:0000:0000:0000:0000	2001:0df7:f780:ffff:ffff:ffff:ffff:ffff	BD
 2400:1020:0000:0000:0000:0000:0000:0000	2400:1020:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2400:10c0:0000:0000:0000:0000:0000:0000	2400:10c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2400:1140:0000:0000:0000:0000:0000:0000	2400:1140:ffff:ffff:ffff:ffff:ffff:ffff	BD
@@ -8,6 +10,7 @@
 2400:12a0:0000:0000:0000:0000:0000:0000	2400:12a0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2400:14e0:0000:0000:0000:0000:0000:0000	2400:14e0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2400:1620:0000:0000:0000:0000:0000:0000	2400:1620:ffff:ffff:ffff:ffff:ffff:ffff	BD
+2400:1a20:0000:0000:0000:0000:0000:0000	2400:1a20:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2400:3240:0000:0000:0000:0000:0000:0000	2400:3240:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2400:3dc0:0000:0000:0000:0000:0000:0000	2400:3dc0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2400:47c0:0000:0000:0000:0000:0000:0000	2400:47c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
