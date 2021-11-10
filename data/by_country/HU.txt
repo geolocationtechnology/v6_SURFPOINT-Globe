@@ -97,7 +97,6 @@
 2a09:7ac0:0000:0000:0000:0000:0000:0000	2a09:7ac7:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a09:9400:0000:0000:0000:0000:0000:0000	2a09:9407:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a09:af40:0000:0000:0000:0000:0000:0000	2a09:af47:ffff:ffff:ffff:ffff:ffff:ffff	HU
-2a09:b7c0:0000:0000:0000:0000:0000:0000	2a09:b7c0:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a09:f8c0:0000:0000:0000:0000:0000:0000	2a09:f8c0:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0a:3fc0:0000:0000:0000:0000:0000:0000	2a0a:3fc0:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a0a:4000:0000:0000:0000:0000:0000:0000	2a0a:4007:ffff:ffff:ffff:ffff:ffff:ffff	HU

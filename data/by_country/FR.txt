@@ -27,6 +27,8 @@
 2001:4b98:0000:0000:0000:0000:0000:0000	2001:4b9f:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2404:4940:0000:0000:0000:0000:0000:0000	2404:4940:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2406:3bc0:0000:0000:0000:0000:0000:0000	2406:3bc0:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2602:fc30:0000:0000:0000:0000:0000:0000	2602:fc30:0fff:ffff:ffff:ffff:ffff:ffff	FR
+2620:010e:d000:0000:0000:0000:0000:0000	2620:010e:d0ff:ffff:ffff:ffff:ffff:ffff	FR
 2a00:0c70:0000:0000:0000:0000:0000:0000	2a00:0c70:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a00:0e00:0000:0000:0000:0000:0000:0000	2a00:0e00:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a00:0e80:0000:0000:0000:0000:0000:0000	2a00:0e80:ffff:ffff:ffff:ffff:ffff:ffff	FR

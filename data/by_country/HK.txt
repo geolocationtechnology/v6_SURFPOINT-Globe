@@ -519,3 +519,5 @@
 2a11:e000:0000:0000:0000:0000:0000:0000	2a11:e007:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:e4c0:0000:0000:0000:0000:0000:0000	2a11:e4c7:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:fe00:0000:0000:0000:0000:0000:0000	2a11:fe07:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a12:3400:0000:0000:0000:0000:0000:0000	2a12:3407:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a12:be00:0000:0000:0000:0000:0000:0000	2a12:be07:ffff:ffff:ffff:ffff:ffff:ffff	HK

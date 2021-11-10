@@ -2049,3 +2049,9 @@
 2a11:e980:0000:0000:0000:0000:0000:0000	2a11:e987:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a11:fb80:0000:0000:0000:0000:0000:0000	2a11:fb87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a11:fe80:0000:0000:0000:0000:0000:0000	2a11:fe87:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:0e00:0000:0000:0000:0000:0000:0000	2a12:0e07:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:3200:0000:0000:0000:0000:0000:0000	2a12:3207:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:a200:0000:0000:0000:0000:0000:0000	2a12:a207:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:a800:0000:0000:0000:0000:0000:0000	2a12:a807:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:b200:0000:0000:0000:0000:0000:0000	2a12:b207:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:c600:0000:0000:0000:0000:0000:0000	2a12:c607:ffff:ffff:ffff:ffff:ffff:ffff	DE

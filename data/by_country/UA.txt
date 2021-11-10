@@ -437,3 +437,4 @@
 2a11:f080:0000:0000:0000:0000:0000:0000	2a11:f087:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:f240:0000:0000:0000:0000:0000:0000	2a11:f247:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a11:f340:0000:0000:0000:0000:0000:0000	2a11:f347:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a12:e800:0000:0000:0000:0000:0000:0000	2a12:e807:ffff:ffff:ffff:ffff:ffff:ffff	UA
