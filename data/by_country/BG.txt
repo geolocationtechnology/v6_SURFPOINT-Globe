@@ -182,3 +182,4 @@
 2a11:8a00:0000:0000:0000:0000:0000:0000	2a11:8a07:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a11:9d40:0000:0000:0000:0000:0000:0000	2a11:9d47:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a11:c8c0:0000:0000:0000:0000:0000:0000	2a11:c8c7:ffff:ffff:ffff:ffff:ffff:ffff	BG
+2a12:4700:0000:0000:0000:0000:0000:0000	2a12:4707:ffff:ffff:ffff:ffff:ffff:ffff	BG

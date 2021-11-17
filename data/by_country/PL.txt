@@ -650,4 +650,5 @@
 2a11:f140:0000:0000:0000:0000:0000:0000	2a11:f147:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a11:f1c0:0000:0000:0000:0000:0000:0000	2a11:f1c7:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a11:ff00:0000:0000:0000:0000:0000:0000	2a11:ff07:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a12:b300:0000:0000:0000:0000:0000:0000	2a12:b307:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a12:d000:0000:0000:0000:0000:0000:0000	2a12:d007:ffff:ffff:ffff:ffff:ffff:ffff	PL

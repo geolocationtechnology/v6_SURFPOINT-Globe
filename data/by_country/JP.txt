@@ -87,6 +87,8 @@
 2400:1b80:0000:0000:0000:0000:0000:0000	2400:1b80:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:1de0:0000:0000:0000:0000:0000:0000	2400:1de0:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:2000:0000:0000:0000:0000:0000:0000	2400:3000:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2400:3260:0000:0000:0000:0000:0000:0000	2400:3260:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2400:32a0:0000:0000:0000:0000:0000:0000	2400:32a0:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:3800:0000:0000:0000:0000:0000:0000	2400:3800:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:3980:0000:0000:0000:0000:0000:0000	2400:3980:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:3e80:0000:0000:0000:0000:0000:0000	2400:3e80:ffff:ffff:ffff:ffff:ffff:ffff	JP
@@ -449,3 +451,4 @@
 2a0c:5440:0000:0000:0000:0000:0000:0000	2a0c:5447:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2a0f:0600:0000:0000:0000:0000:0000:0000	2a0f:0607:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2a0f:6700:0000:0000:0000:0000:0000:0000	2a0f:6707:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2a12:a300:0000:0000:0000:0000:0000:0000	2a12:a307:ffff:ffff:ffff:ffff:ffff:ffff	JP

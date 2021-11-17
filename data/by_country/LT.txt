@@ -216,3 +216,6 @@
 2a11:e940:0000:0000:0000:0000:0000:0000	2a11:e947:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:ed80:0000:0000:0000:0000:0000:0000	2a11:ed87:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a11:f7c0:0000:0000:0000:0000:0000:0000	2a11:f7c7:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a12:2f00:0000:0000:0000:0000:0000:0000	2a12:2f07:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a12:3900:0000:0000:0000:0000:0000:0000	2a12:3907:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a12:de00:0000:0000:0000:0000:0000:0000	2a12:de07:ffff:ffff:ffff:ffff:ffff:ffff	LT

@@ -47,7 +47,6 @@
 2402:ba40:0000:0000:0000:0000:0000:0000	2402:ba40:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2402:e000:0000:0000:0000:0000:0000:0000	2402:e000:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2402:ed40:0000:0000:0000:0000:0000:0000	2402:ed40:ffff:ffff:ffff:ffff:ffff:ffff	PK
-2402:edc0:0000:0000:0000:0000:0000:0000	2402:edc0:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2402:f7c0:0000:0000:0000:0000:0000:0000	2402:f7c0:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2402:fd00:0000:0000:0000:0000:0000:0000	2402:fd00:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2403:0440:0000:0000:0000:0000:0000:0000	2403:0440:ffff:ffff:ffff:ffff:ffff:ffff	PK

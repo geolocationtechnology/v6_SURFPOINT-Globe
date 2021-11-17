@@ -5,7 +5,6 @@
 2a00:5e60:0000:0000:0000:0000:0000:0000	2a00:5e60:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a00:6920:0000:0000:0000:0000:0000:0000	2a00:6920:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a00:83c0:0000:0000:0000:0000:0000:0000	2a00:83c0:ffff:ffff:ffff:ffff:ffff:ffff	LB
-2a00:9960:0000:0000:0000:0000:0000:0000	2a00:9960:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a00:c6a0:0000:0000:0000:0000:0000:0000	2a00:c6a0:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a00:ee80:0000:0000:0000:0000:0000:0000	2a00:ee80:ffff:ffff:ffff:ffff:ffff:ffff	LB
 2a01:7260:0000:0000:0000:0000:0000:0000	2a01:7267:ffff:ffff:ffff:ffff:ffff:ffff	LB

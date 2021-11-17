@@ -100,9 +100,6 @@
 2a0f:6a80:0000:0000:0000:0000:0000:0000	2a0f:6a87:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:7680:0000:0000:0000:0000:0000:0000	2a0f:7687:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:da40:0000:0000:0000:0000:0000:0000	2a0f:da47:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a0f:e540:0000:0000:0000:0000:0000:0000	2a0f:e547:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a0f:e640:0000:0000:0000:0000:0000:0000	2a0f:e647:ffff:ffff:ffff:ffff:ffff:ffff	IL
-2a0f:e7c0:0000:0000:0000:0000:0000:0000	2a0f:e7c7:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:e8c0:0000:0000:0000:0000:0000:0000	2a0f:e8c7:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a0f:e940:0000:0000:0000:0000:0000:0000	2a0f:e947:ffff:ffff:ffff:ffff:ffff:ffff	IL
 2a10:02c0:0000:0000:0000:0000:0000:0000	2a10:02c7:ffff:ffff:ffff:ffff:ffff:ffff	IL
