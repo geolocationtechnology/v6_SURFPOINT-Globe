@@ -1,7 +1,6 @@
 2001:43f8:1190:0000:0000:0000:0000:0000	2001:43f8:1190:ffff:ffff:ffff:ffff:ffff	BF
 2001:43fd:4000:0000:0000:0000:0000:0000	2001:43fd:4000:ffff:ffff:ffff:ffff:ffff	BF
 2c0f:5700:0000:0000:0000:0000:0000:0000	2c0f:5700:ffff:ffff:ffff:ffff:ffff:ffff	BF
-2c0f:e948:0000:0000:0000:0000:0000:0000	2c0f:e948:ffff:ffff:ffff:ffff:ffff:ffff	BF
 2c0f:ea50:0000:0000:0000:0000:0000:0000	2c0f:ea50:ffff:ffff:ffff:ffff:ffff:ffff	BF
 2c0f:eb58:0000:0000:0000:0000:0000:0000	2c0f:eb58:ffff:ffff:ffff:ffff:ffff:ffff	BF
 2c0f:ec58:0000:0000:0000:0000:0000:0000	2c0f:ec58:ffff:ffff:ffff:ffff:ffff:ffff	BF

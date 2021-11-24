@@ -529,3 +529,4 @@
 2a11:19c0:0000:0000:0000:0000:0000:0000	2a11:19c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a12:5200:0000:0000:0000:0000:0000:0000	2a12:5207:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a12:5c00:0000:0000:0000:0000:0000:0000	2a12:5c07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a12:db00:0000:0000:0000:0000:0000:0000	2a12:db07:ffff:ffff:ffff:ffff:ffff:ffff	CZ

@@ -4,6 +4,7 @@
 2a06:b940:0000:0000:0000:0000:0000:0000	2a06:b947:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:1f00:0000:0000:0000:0000:0000:0000	2c0f:1f00:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:2000:0000:0000:0000:0000:0000:0000	2c0f:2000:ffff:ffff:ffff:ffff:ffff:ffff	NG
+2c0f:2300:0000:0000:0000:0000:0000:0000	2c0f:2300:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:4800:0000:0000:0000:0000:0000:0000	2c0f:4800:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:6200:0000:0000:0000:0000:0000:0000	2c0f:6200:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:6400:0000:0000:0000:0000:0000:0000	2c0f:6400:ffff:ffff:ffff:ffff:ffff:ffff	NG
@@ -41,7 +42,6 @@
 2c0f:f2c0:0000:0000:0000:0000:0000:0000	2c0f:f2c0:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f388:0000:0000:0000:0000:0000:0000	2c0f:f388:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f3a8:0000:0000:0000:0000:0000:0000	2c0f:f3a8:ffff:ffff:ffff:ffff:ffff:ffff	NG
-2c0f:f3b8:0000:0000:0000:0000:0000:0000	2c0f:f3b8:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f418:0000:0000:0000:0000:0000:0000	2c0f:f418:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f520:0000:0000:0000:0000:0000:0000	2c0f:f520:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f5a0:0000:0000:0000:0000:0000:0000	2c0f:f5a0:ffff:ffff:ffff:ffff:ffff:ffff	NG

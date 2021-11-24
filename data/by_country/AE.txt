@@ -54,7 +54,11 @@
 2a0a:9600:0000:0000:0000:0000:0000:0000	2a0a:9607:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0a:a9c0:0000:0000:0000:0000:0000:0000	2a0a:a9c7:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0a:ab40:0000:0000:0000:0000:0000:0000	2a0a:ab47:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a0a:b200:0000:0000:0000:0000:0000:0000	2a0a:b207:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0a:be00:0000:0000:0000:0000:0000:0000	2a0a:be07:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a0a:c600:0000:0000:0000:0000:0000:0000	2a0a:c607:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a0a:ce00:0000:0000:0000:0000:0000:0000	2a0a:ce07:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a0b:0500:0000:0000:0000:0000:0000:0000	2a0b:0507:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0b:4180:0000:0000:0000:0000:0000:0000	2a0b:4187:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0c:2ac0:0000:0000:0000:0000:0000:0000	2a0c:2ac7:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0c:ba40:0000:0000:0000:0000:0000:0000	2a0c:ba47:ffff:ffff:ffff:ffff:ffff:ffff	AE

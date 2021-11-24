@@ -141,7 +141,6 @@
 2c0f:ecf8:0000:0000:0000:0000:0000:0000	2c0f:ecf8:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ed10:0000:0000:0000:0000:0000:0000	2c0f:ed10:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ed28:0000:0000:0000:0000:0000:0000	2c0f:ed28:ffff:ffff:ffff:ffff:ffff:ffff	ZA
-2c0f:ed30:0000:0000:0000:0000:0000:0000	2c0f:ed30:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ed38:0000:0000:0000:0000:0000:0000	2c0f:ed38:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ed40:0000:0000:0000:0000:0000:0000	2c0f:ed40:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:ed48:0000:0000:0000:0000:0000:0000	2c0f:ed48:ffff:ffff:ffff:ffff:ffff:ffff	ZA

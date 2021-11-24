@@ -38,7 +38,13 @@
 2400:30e0:0000:0000:0000:0000:0000:0000	2400:30e0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3180:0000:0000:0000:0000:0000:0000	2400:3180:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3380:0000:0000:0000:0000:0000:0000	2400:3380:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:3420:0000:0000:0000:0000:0000:0000	2400:3420:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:34a0:0000:0000:0000:0000:0000:0000	2400:34a0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:3560:0000:0000:0000:0000:0000:0000	2400:3560:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:35a0:0000:0000:0000:0000:0000:0000	2400:35a0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3680:0000:0000:0000:0000:0000:0000	2400:3680:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:36e0:0000:0000:0000:0000:0000:0000	2400:36e0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:3720:0000:0000:0000:0000:0000:0000	2400:3720:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3840:0000:0000:0000:0000:0000:0000	2400:3840:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3940:0000:0000:0000:0000:0000:0000	2400:3940:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3ac0:0000:0000:0000:0000:0000:0000	2400:3ac0:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -759,7 +765,6 @@
 2a06:d240:0000:0000:0000:0000:0000:0000	2a06:d247:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:d800:0000:0000:0000:0000:0000:0000	2a06:d807:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:df80:0000:0000:0000:0000:0000:0000	2a06:df87:ffff:ffff:ffff:ffff:ffff:ffff	IN
-2a06:e000:0000:0000:0000:0000:0000:0000	2a06:e007:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:e480:0000:0000:0000:0000:0000:0000	2a06:e487:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:f500:0000:0000:0000:0000:0000:0000	2a06:f507:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a06:f680:0000:0000:0000:0000:0000:0000	2a06:f687:ffff:ffff:ffff:ffff:ffff:ffff	IN

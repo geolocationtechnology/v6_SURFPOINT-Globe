@@ -10,7 +10,6 @@
 2c0f:f490:0000:0000:0000:0000:0000:0000	2c0f:f490:ffff:ffff:ffff:ffff:ffff:ffff	GH
 2c0f:f618:0000:0000:0000:0000:0000:0000	2c0f:f618:ffff:ffff:ffff:ffff:ffff:ffff	GH
 2c0f:f7c0:0000:0000:0000:0000:0000:0000	2c0f:f7c0:ffff:ffff:ffff:ffff:ffff:ffff	GH
-2c0f:f820:0000:0000:0000:0000:0000:0000	2c0f:f820:ffff:ffff:ffff:ffff:ffff:ffff	GH
 2c0f:f8e8:0000:0000:0000:0000:0000:0000	2c0f:f8e8:ffff:ffff:ffff:ffff:ffff:ffff	GH
 2c0f:fa00:0000:0000:0000:0000:0000:0000	2c0f:fa00:ffff:ffff:ffff:ffff:ffff:ffff	GH
 2c0f:fa68:0000:0000:0000:0000:0000:0000	2c0f:fa68:ffff:ffff:ffff:ffff:ffff:ffff	GH

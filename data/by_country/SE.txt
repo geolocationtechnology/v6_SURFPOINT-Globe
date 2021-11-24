@@ -56,7 +56,6 @@
 2a00:7080:0000:0000:0000:0000:0000:0000	2a00:7080:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a00:7800:0000:0000:0000:0000:0000:0000	2a00:7800:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a00:8280:0000:0000:0000:0000:0000:0000	2a00:8280:ffff:ffff:ffff:ffff:ffff:ffff	SE
-2a00:8360:0000:0000:0000:0000:0000:0000	2a00:8360:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a00:9620:0000:0000:0000:0000:0000:0000	2a00:9620:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a00:96c0:0000:0000:0000:0000:0000:0000	2a00:96c0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a00:9760:0000:0000:0000:0000:0000:0000	2a00:9760:ffff:ffff:ffff:ffff:ffff:ffff	SE
