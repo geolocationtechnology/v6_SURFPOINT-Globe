@@ -69,3 +69,4 @@
 2a0f:7840:0000:0000:0000:0000:0000:0000	2a0f:7847:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a0f:c0c0:0000:0000:0000:0000:0000:0000	2a0f:c0c7:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a10:8100:0000:0000:0000:0000:0000:0000	2a10:8107:ffff:ffff:ffff:ffff:ffff:ffff	SI
+2a12:ae80:0000:0000:0000:0000:0000:0000	2a12:ae87:ffff:ffff:ffff:ffff:ffff:ffff	SI

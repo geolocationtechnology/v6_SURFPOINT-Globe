@@ -20,7 +20,6 @@
 2a01:5380:0000:0000:0000:0000:0000:0000	2a01:5380:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2a02:47c0:0000:0000:0000:0000:0000:0000	2a02:47c0:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2a05:1680:0000:0000:0000:0000:0000:0000	2a05:1687:ffff:ffff:ffff:ffff:ffff:ffff	ZA
-2a0a:9f00:0000:0000:0000:0000:0000:0000	2a0a:9f07:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2a0e:3900:0000:0000:0000:0000:0000:0000	2a0e:3900:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2a12:0800:0000:0000:0000:0000:0000:0000	2a12:0807:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0e:2000:0000:0000:0000:0000:0000:0000	2c0e:2fff:ffff:ffff:ffff:ffff:ffff:ffff	ZA

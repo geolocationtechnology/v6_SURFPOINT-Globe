@@ -52,3 +52,4 @@
 2a10:2000:0000:0000:0000:0000:0000:0000	2a10:2007:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a11:7fc0:0000:0000:0000:0000:0000:0000	2a11:7fc7:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a12:9000:0000:0000:0000:0000:0000:0000	2a12:9007:ffff:ffff:ffff:ffff:ffff:ffff	LV
+2a12:a480:0000:0000:0000:0000:0000:0000	2a12:a487:ffff:ffff:ffff:ffff:ffff:ffff	LV

@@ -154,7 +154,7 @@
 2a02:0be8:0000:0000:0000:0000:0000:0000	2a02:0be8:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a02:2068:0000:0000:0000:0000:0000:0000	2a02:206f:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a02:2110:0000:0000:0000:0000:0000:0000	2a02:2110:ffff:ffff:ffff:ffff:ffff:ffff	ES
-2a02:2280:0000:0000:0000:0000:0000:0000	2a02:2280:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a02:2280:0000:0000:0000:0000:0000:0000	2a02:2287:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a02:23a0:0000:0000:0000:0000:0000:0000	2a02:23a0:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a02:23c8:0000:0000:0000:0000:0000:0000	2a02:23c8:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a02:25c0:0000:0000:0000:0000:0000:0000	2a02:25c0:ffff:ffff:ffff:ffff:ffff:ffff	ES
