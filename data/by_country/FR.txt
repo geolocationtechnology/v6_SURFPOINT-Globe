@@ -1148,3 +1148,4 @@
 2a12:9680:0000:0000:0000:0000:0000:0000	2a12:9687:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:a080:0000:0000:0000:0000:0000:0000	2a12:a087:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:a580:0000:0000:0000:0000:0000:0000	2a12:a587:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a12:f280:0000:0000:0000:0000:0000:0000	2a12:f287:ffff:ffff:ffff:ffff:ffff:ffff	FR

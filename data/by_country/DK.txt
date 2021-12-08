@@ -270,7 +270,6 @@
 2a0d:8200:0000:0000:0000:0000:0000:0000	2a0d:8207:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0d:8780:0000:0000:0000:0000:0000:0000	2a0d:8787:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0d:9e00:0000:0000:0000:0000:0000:0000	2a0d:9e07:ffff:ffff:ffff:ffff:ffff:ffff	DK
-2a0d:a200:0000:0000:0000:0000:0000:0000	2a0d:a207:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0d:aa00:0000:0000:0000:0000:0000:0000	2a0d:aa07:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0d:b480:0000:0000:0000:0000:0000:0000	2a0d:b480:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0d:bac0:0000:0000:0000:0000:0000:0000	2a0d:bac7:ffff:ffff:ffff:ffff:ffff:ffff	DK

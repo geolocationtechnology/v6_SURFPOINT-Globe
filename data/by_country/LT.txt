@@ -230,3 +230,4 @@
 2a12:d500:0000:0000:0000:0000:0000:0000	2a12:d507:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a12:dd00:0000:0000:0000:0000:0000:0000	2a12:dd07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a12:de00:0000:0000:0000:0000:0000:0000	2a12:de07:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a12:f180:0000:0000:0000:0000:0000:0000	2a12:f187:ffff:ffff:ffff:ffff:ffff:ffff	LT

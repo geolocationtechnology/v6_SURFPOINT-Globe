@@ -67,7 +67,6 @@
 2a03:6ec0:0000:0000:0000:0000:0000:0000	2a03:6ec0:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a03:8c60:0000:0000:0000:0000:0000:0000	2a03:8c60:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a03:9900:0000:0000:0000:0000:0000:0000	2a03:9900:ffff:ffff:ffff:ffff:ffff:ffff	HU
-2a03:9ee0:0000:0000:0000:0000:0000:0000	2a03:9ee0:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a03:aa60:0000:0000:0000:0000:0000:0000	2a03:aa60:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a03:bf00:0000:0000:0000:0000:0000:0000	2a03:bf07:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a03:da00:0000:0000:0000:0000:0000:0000	2a03:da00:ffff:ffff:ffff:ffff:ffff:ffff	HU

@@ -2,6 +2,7 @@
 2001:43e0:0000:0000:0000:0000:0000:0000	2001:43e0:ffff:ffff:ffff:ffff:ffff:ffff	GH
 2001:43f8:1650:0000:0000:0000:0000:0000	2001:43f8:1650:ffff:ffff:ffff:ffff:ffff	GH
 2c0f:2500:0000:0000:0000:0000:0000:0000	2c0f:2500:ffff:ffff:ffff:ffff:ffff:ffff	GH
+2c0f:2b00:0000:0000:0000:0000:0000:0000	2c0f:2b00:ffff:ffff:ffff:ffff:ffff:ffff	GH
 2c0f:e890:0000:0000:0000:0000:0000:0000	2c0f:e890:ffff:ffff:ffff:ffff:ffff:ffff	GH
 2c0f:eea0:0000:0000:0000:0000:0000:0000	2c0f:eea0:ffff:ffff:ffff:ffff:ffff:ffff	GH
 2c0f:eeb8:0000:0000:0000:0000:0000:0000	2c0f:eeb8:ffff:ffff:ffff:ffff:ffff:ffff	GH
