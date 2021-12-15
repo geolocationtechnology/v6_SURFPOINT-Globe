@@ -16,6 +16,8 @@
 2001:2000:0000:0000:0000:0000:0000:0000	2001:2fff:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2001:4040:0000:0000:0000:0000:0000:0000	2001:4040:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2001:4db8:0000:0000:0000:0000:0000:0000	2001:4db8:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2400:3e20:0000:0000:0000:0000:0000:0000	2400:3e20:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2407:1600:0000:0000:0000:0000:0000:0000	2407:1600:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a00:0800:0000:0000:0000:0000:0000:0000	2a00:087f:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a00:0cc8:0000:0000:0000:0000:0000:0000	2a00:0cc8:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a00:0d90:0000:0000:0000:0000:0000:0000	2a00:0d97:ffff:ffff:ffff:ffff:ffff:ffff	SE

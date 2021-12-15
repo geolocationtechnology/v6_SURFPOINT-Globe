@@ -5,7 +5,6 @@
 2c0f:eb58:0000:0000:0000:0000:0000:0000	2c0f:eb58:ffff:ffff:ffff:ffff:ffff:ffff	BF
 2c0f:ec58:0000:0000:0000:0000:0000:0000	2c0f:ec58:ffff:ffff:ffff:ffff:ffff:ffff	BF
 2c0f:ecb8:0000:0000:0000:0000:0000:0000	2c0f:ecb8:ffff:ffff:ffff:ffff:ffff:ffff	BF
-2c0f:ecc8:0000:0000:0000:0000:0000:0000	2c0f:ecc8:ffff:ffff:ffff:ffff:ffff:ffff	BF
 2c0f:ee00:0000:0000:0000:0000:0000:0000	2c0f:ee00:ffff:ffff:ffff:ffff:ffff:ffff	BF
 2c0f:eed0:0000:0000:0000:0000:0000:0000	2c0f:eed0:ffff:ffff:ffff:ffff:ffff:ffff	BF
 2c0f:f138:0000:0000:0000:0000:0000:0000	2c0f:f138:ffff:ffff:ffff:ffff:ffff:ffff	BF

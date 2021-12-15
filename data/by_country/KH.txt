@@ -1,4 +1,6 @@
 2001:0df0:ff80:0000:0000:0000:0000:0000	2001:0df0:ff80:ffff:ffff:ffff:ffff:ffff	KH
+2400:3da0:0000:0000:0000:0000:0000:0000	2400:3da0:ffff:ffff:ffff:ffff:ffff:ffff	KH
+2400:3ee0:0000:0000:0000:0000:0000:0000	2400:3ee0:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2400:4880:0000:0000:0000:0000:0000:0000	2400:4880:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2401:3e00:0000:0000:0000:0000:0000:0000	2401:3e00:ffff:ffff:ffff:ffff:ffff:ffff	KH
 2401:4d80:0000:0000:0000:0000:0000:0000	2401:4d80:ffff:ffff:ffff:ffff:ffff:ffff	KH

@@ -64,6 +64,7 @@
 2a07:6080:0000:0000:0000:0000:0000:0000	2a07:6087:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a07:6a40:0000:0000:0000:0000:0000:0000	2a07:6a47:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a07:6c80:0000:0000:0000:0000:0000:0000	2a07:6c87:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a07:6d00:0000:0000:0000:0000:0000:0000	2a07:6d07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a07:8980:0000:0000:0000:0000:0000:0000	2a07:8987:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a07:ab40:0000:0000:0000:0000:0000:0000	2a07:ab47:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a07:f240:0000:0000:0000:0000:0000:0000	2a07:f247:ffff:ffff:ffff:ffff:ffff:ffff	LT

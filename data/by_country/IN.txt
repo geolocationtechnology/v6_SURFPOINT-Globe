@@ -59,6 +59,7 @@
 2400:3ca0:0000:0000:0000:0000:0000:0000	2400:3ca0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3ce0:0000:0000:0000:0000:0000:0000	2400:3ce0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3d40:0000:0000:0000:0000:0000:0000	2400:3d40:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:3de0:0000:0000:0000:0000:0000:0000	2400:3de0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:4480:0000:0000:0000:0000:0000:0000	2400:4480:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:5200:0000:0000:0000:0000:0000:0000	2400:5200:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:5300:0000:0000:0000:0000:0000:0000	2400:5300:ffff:ffff:ffff:ffff:ffff:ffff	IN

@@ -1,1 +1,2 @@
+2c0f:6f00:0000:0000:0000:0000:0000:0000	2c0f:6f00:ffff:ffff:ffff:ffff:ffff:ffff	ET
 2c0f:f348:0000:0000:0000:0000:0000:0000	2c0f:f348:ffff:ffff:ffff:ffff:ffff:ffff	ET

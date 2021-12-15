@@ -537,6 +537,7 @@
 2a05:46c0:0000:0000:0000:0000:0000:0000	2a05:46c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:4780:0000:0000:0000:0000:0000:0000	2a05:4787:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:47c0:0000:0000:0000:0000:0000:0000	2a05:47c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a05:4b40:0000:0000:0000:0000:0000:0000	2a05:4b47:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:4e80:0000:0000:0000:0000:0000:0000	2a05:4e87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:5000:0000:0000:0000:0000:0000:0000	2a05:5007:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:5600:0000:0000:0000:0000:0000:0000	2a05:5607:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -1142,6 +1143,8 @@
 2a11:e300:0000:0000:0000:0000:0000:0000	2a11:e307:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:e600:0000:0000:0000:0000:0000:0000	2a11:e607:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:e880:0000:0000:0000:0000:0000:0000	2a11:e887:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a11:f940:0000:0000:0000:0000:0000:0000	2a11:f947:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a11:fac0:0000:0000:0000:0000:0000:0000	2a11:fac0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a11:fc80:0000:0000:0000:0000:0000:0000	2a11:fc80:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:5380:0000:0000:0000:0000:0000:0000	2a12:5387:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:6a80:0000:0000:0000:0000:0000:0000	2a12:6a87:ffff:ffff:ffff:ffff:ffff:ffff	FR
