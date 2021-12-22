@@ -79,7 +79,6 @@
 2402:7e00:0000:0000:0000:0000:0000:0000	2402:7e00:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2402:8200:0000:0000:0000:0000:0000:0000	2402:8200:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2402:8b80:0000:0000:0000:0000:0000:0000	2402:8b80:ffff:ffff:ffff:ffff:ffff:ffff	NZ
-2402:8d80:0000:0000:0000:0000:0000:0000	2402:8d80:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2402:9740:0000:0000:0000:0000:0000:0000	2402:9740:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2402:9e00:0000:0000:0000:0000:0000:0000	2402:9e00:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2402:a340:0000:0000:0000:0000:0000:0000	2402:a340:ffff:ffff:ffff:ffff:ffff:ffff	NZ
@@ -241,4 +240,3 @@
 2a05:3340:0000:0000:0000:0000:0000:0000	2a05:3347:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2a0b:0e40:0000:0000:0000:0000:0000:0000	2a0b:0e47:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2a0c:7e40:0000:0000:0000:0000:0000:0000	2a0c:7e47:ffff:ffff:ffff:ffff:ffff:ffff	NZ
-2a0f:6140:0000:0000:0000:0000:0000:0000	2a0f:6147:ffff:ffff:ffff:ffff:ffff:ffff	NZ

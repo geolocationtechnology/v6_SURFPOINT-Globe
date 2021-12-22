@@ -60,7 +60,9 @@
 2400:3ce0:0000:0000:0000:0000:0000:0000	2400:3ce0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3d40:0000:0000:0000:0000:0000:0000	2400:3d40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3de0:0000:0000:0000:0000:0000:0000	2400:3de0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:3fe0:0000:0000:0000:0000:0000:0000	2400:3fe0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:4480:0000:0000:0000:0000:0000:0000	2400:4480:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:44a0:0000:0000:0000:0000:0000:0000	2400:44a0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:5200:0000:0000:0000:0000:0000:0000	2400:5200:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:5300:0000:0000:0000:0000:0000:0000	2400:5300:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:54c0:0000:0000:0000:0000:0000:0000	2400:54c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -818,3 +820,4 @@
 2a0d:aac0:0000:0000:0000:0000:0000:0000	2a0d:aac7:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a0d:f680:0000:0000:0000:0000:0000:0000	2a0d:f687:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2a0f:4a80:0000:0000:0000:0000:0000:0000	2a0f:4a87:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2a12:1440:0000:0000:0000:0000:0000:0000	2a12:1447:ffff:ffff:ffff:ffff:ffff:ffff	IN

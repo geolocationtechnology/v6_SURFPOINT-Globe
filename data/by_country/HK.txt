@@ -462,7 +462,6 @@
 2a06:9200:0000:0000:0000:0000:0000:0000	2a06:9207:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a06:da40:0000:0000:0000:0000:0000:0000	2a06:da47:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a07:5340:0000:0000:0000:0000:0000:0000	2a07:5347:ffff:ffff:ffff:ffff:ffff:ffff	HK
-2a07:9880:0000:0000:0000:0000:0000:0000	2a07:9887:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a07:aec0:0000:0000:0000:0000:0000:0000	2a07:aec7:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a07:d940:0000:0000:0000:0000:0000:0000	2a07:d947:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a07:f600:0000:0000:0000:0000:0000:0000	2a07:f607:ffff:ffff:ffff:ffff:ffff:ffff	HK
