@@ -482,6 +482,7 @@
 2606:99c0:0000:0000:0000:0000:0000:0000	2606:99c0:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:9a40:0000:0000:0000:0000:0000:0000	2606:9a40:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:9ac0:0000:0000:0000:0000:0000:0000	2606:9ac0:ffff:ffff:ffff:ffff:ffff:ffff	CA
+2606:9e40:0000:0000:0000:0000:0000:0000	2606:9e40:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:af00:0000:0000:0000:0000:0000:0000	2606:af00:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:b800:0000:0000:0000:0000:0000:0000	2606:b800:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:bd00:0000:0000:0000:0000:0000:0000	2606:bd00:ffff:ffff:ffff:ffff:ffff:ffff	CA

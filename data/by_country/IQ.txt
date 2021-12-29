@@ -116,4 +116,5 @@
 2a11:3d80:0000:0000:0000:0000:0000:0000	2a11:3d87:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a11:8d00:0000:0000:0000:0000:0000:0000	2a11:8d07:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a12:0100:0000:0000:0000:0000:0000:0000	2a12:0107:ffff:ffff:ffff:ffff:ffff:ffff	IQ
+2a12:2340:0000:0000:0000:0000:0000:0000	2a12:2347:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a12:f680:0000:0000:0000:0000:0000:0000	2a12:f687:ffff:ffff:ffff:ffff:ffff:ffff	IQ

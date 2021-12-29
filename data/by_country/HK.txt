@@ -514,6 +514,8 @@
 2a11:e4c0:0000:0000:0000:0000:0000:0000	2a11:e4c7:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a11:fe00:0000:0000:0000:0000:0000:0000	2a11:fe07:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:00c0:0000:0000:0000:0000:0000:0000	2a12:00c7:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a12:23c0:0000:0000:0000:0000:0000:0000	2a12:23c7:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a12:2940:0000:0000:0000:0000:0000:0000	2a12:2947:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:3400:0000:0000:0000:0000:0000:0000	2a12:3407:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:4980:0000:0000:0000:0000:0000:0000	2a12:4987:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:6100:0000:0000:0000:0000:0000:0000	2a12:6107:ffff:ffff:ffff:ffff:ffff:ffff	HK

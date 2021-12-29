@@ -52,4 +52,5 @@
 2a11:2200:0000:0000:0000:0000:0000:0000	2a11:2207:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a11:aa80:0000:0000:0000:0000:0000:0000	2a11:aa80:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a11:de80:0000:0000:0000:0000:0000:0000	2a11:de87:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a12:2440:0000:0000:0000:0000:0000:0000	2a12:2447:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a12:3880:0000:0000:0000:0000:0000:0000	2a12:3880:ffff:ffff:ffff:ffff:ffff:ffff	KZ
