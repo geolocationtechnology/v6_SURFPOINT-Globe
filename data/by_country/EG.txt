@@ -4,6 +4,7 @@
 2001:4388:0000:0000:0000:0000:0000:0000	2001:4388:ffff:ffff:ffff:ffff:ffff:ffff	EG
 2001:43c8:0000:0000:0000:0000:0000:0000	2001:43c8:ffff:ffff:ffff:ffff:ffff:ffff	EG
 2c0e:0000:0000:0000:0000:0000:0000:0000	2c0e:0fff:ffff:ffff:ffff:ffff:ffff:ffff	EG
+2c0f:7b00:0000:0000:0000:0000:0000:0000	2c0f:7b0f:ffff:ffff:ffff:ffff:ffff:ffff	EG
 2c0f:f0b0:0000:0000:0000:0000:0000:0000	2c0f:f0b0:ffff:ffff:ffff:ffff:ffff:ffff	EG
 2c0f:fc40:0000:0000:0000:0000:0000:0000	2c0f:fc40:ffff:ffff:ffff:ffff:ffff:ffff	EG
 2c0f:fc88:0000:0000:0000:0000:0000:0000	2c0f:fc89:ffff:ffff:ffff:ffff:ffff:ffff	EG

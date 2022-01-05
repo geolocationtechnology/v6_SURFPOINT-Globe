@@ -1763,7 +1763,6 @@
 2a0e:aa80:0000:0000:0000:0000:0000:0000	2a0e:aa87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:ab00:0000:0000:0000:0000:0000:0000	2a0e:ab07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:ad80:0000:0000:0000:0000:0000:0000	2a0e:ad87:ffff:ffff:ffff:ffff:ffff:ffff	DE
-2a0e:af80:0000:0000:0000:0000:0000:0000	2a0e:af87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:afc0:0000:0000:0000:0000:0000:0000	2a0e:afc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:b180:0000:0000:0000:0000:0000:0000	2a0e:b187:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0e:b500:0000:0000:0000:0000:0000:0000	2a0e:b507:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -1836,7 +1835,6 @@
 2a0f:5380:0000:0000:0000:0000:0000:0000	2a0f:5387:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0f:53c0:0000:0000:0000:0000:0000:0000	2a0f:53c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0f:5440:0000:0000:0000:0000:0000:0000	2a0f:5447:ffff:ffff:ffff:ffff:ffff:ffff	DE
-2a0f:5480:0000:0000:0000:0000:0000:0000	2a0f:5487:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0f:5700:0000:0000:0000:0000:0000:0000	2a0f:5707:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0f:5b00:0000:0000:0000:0000:0000:0000	2a0f:5b07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a0f:5c00:0000:0000:0000:0000:0000:0000	2a0f:5c07:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -2056,6 +2054,8 @@
 2a12:16c0:0000:0000:0000:0000:0000:0000	2a12:16c0:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:1b00:0000:0000:0000:0000:0000:0000	2a12:1b07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:2240:0000:0000:0000:0000:0000:0000	2a12:2247:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:2f40:0000:0000:0000:0000:0000:0000	2a12:2f47:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:30c0:0000:0000:0000:0000:0000:0000	2a12:30c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:3200:0000:0000:0000:0000:0000:0000	2a12:3207:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:3480:0000:0000:0000:0000:0000:0000	2a12:3487:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:3e80:0000:0000:0000:0000:0000:0000	2a12:3e87:ffff:ffff:ffff:ffff:ffff:ffff	DE

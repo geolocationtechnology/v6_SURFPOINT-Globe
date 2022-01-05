@@ -45,6 +45,7 @@
 2a05:4280:0000:0000:0000:0000:0000:0000	2a05:4287:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a05:c680:0000:0000:0000:0000:0000:0000	2a05:c687:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a06:22c0:0000:0000:0000:0000:0000:0000	2a06:22c7:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a06:6c40:0000:0000:0000:0000:0000:0000	2a06:6c47:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a06:a980:0000:0000:0000:0000:0000:0000	2a06:a987:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a07:1180:0000:0000:0000:0000:0000:0000	2a07:1187:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a07:1280:0000:0000:0000:0000:0000:0000	2a07:1280:ffff:ffff:ffff:ffff:ffff:ffff	EE
