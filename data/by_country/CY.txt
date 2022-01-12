@@ -105,3 +105,5 @@
 2a10:89c0:0000:0000:0000:0000:0000:0000	2a10:89c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a11:a100:0000:0000:0000:0000:0000:0000	2a11:a107:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a11:ec00:0000:0000:0000:0000:0000:0000	2a11:ec07:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a12:3c40:0000:0000:0000:0000:0000:0000	2a12:3c47:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a12:4b40:0000:0000:0000:0000:0000:0000	2a12:4b47:ffff:ffff:ffff:ffff:ffff:ffff	CY

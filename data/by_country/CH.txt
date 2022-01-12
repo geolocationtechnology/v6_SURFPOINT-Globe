@@ -625,3 +625,4 @@
 2a11:e0c0:0000:0000:0000:0000:0000:0000	2a11:e0c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a11:e480:0000:0000:0000:0000:0000:0000	2a11:e487:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a12:1740:0000:0000:0000:0000:0000:0000	2a12:1747:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a12:44c0:0000:0000:0000:0000:0000:0000	2a12:44c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
