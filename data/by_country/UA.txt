@@ -332,6 +332,7 @@
 2a0e:7780:0000:0000:0000:0000:0000:0000	2a0e:7787:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:7e00:0000:0000:0000:0000:0000:0000	2a0e:7e07:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:9b80:0000:0000:0000:0000:0000:0000	2a0e:9b87:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a0e:b040:0000:0000:0000:0000:0000:0000	2a0e:b047:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:b480:0000:0000:0000:0000:0000:0000	2a0e:b487:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:bf40:0000:0000:0000:0000:0000:0000	2a0e:bf47:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:c080:0000:0000:0000:0000:0000:0000	2a0e:c087:ffff:ffff:ffff:ffff:ffff:ffff	UA

@@ -56,7 +56,6 @@
 2803:fb00:0000:0000:0000:0000:0000:0000	2803:fb00:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2a00:12f0:0000:0000:0000:0000:0000:0000	2a00:12f0:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2a02:29b8:0000:0000:0000:0000:0000:0000	2a02:29b8:ffff:ffff:ffff:ffff:ffff:ffff	PA
-2a03:9a60:0000:0000:0000:0000:0000:0000	2a03:9a60:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2a05:3ac0:0000:0000:0000:0000:0000:0000	2a05:3ac7:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2a06:bbc0:0000:0000:0000:0000:0000:0000	2a06:bbc7:ffff:ffff:ffff:ffff:ffff:ffff	PA
 2a09:4ac0:0000:0000:0000:0000:0000:0000	2a09:4ac7:ffff:ffff:ffff:ffff:ffff:ffff	PA

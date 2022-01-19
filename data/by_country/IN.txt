@@ -74,6 +74,10 @@
 2400:4a60:0000:0000:0000:0000:0000:0000	2400:4a60:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:4b60:0000:0000:0000:0000:0000:0000	2400:4b60:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:4c20:0000:0000:0000:0000:0000:0000	2400:4c20:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:4f20:0000:0000:0000:0000:0000:0000	2400:4f20:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:4f60:0000:0000:0000:0000:0000:0000	2400:4f60:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:4fa0:0000:0000:0000:0000:0000:0000	2400:4fa0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:4fe0:0000:0000:0000:0000:0000:0000	2400:4fe0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:5200:0000:0000:0000:0000:0000:0000	2400:5200:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:5300:0000:0000:0000:0000:0000:0000	2400:5300:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:54c0:0000:0000:0000:0000:0000:0000	2400:54c0:ffff:ffff:ffff:ffff:ffff:ffff	IN

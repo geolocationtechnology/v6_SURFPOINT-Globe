@@ -56,6 +56,7 @@
 2a07:9280:0000:0000:0000:0000:0000:0000	2a07:9287:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a07:9900:0000:0000:0000:0000:0000:0000	2a07:9907:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a07:b400:0000:0000:0000:0000:0000:0000	2a07:b407:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a07:e580:0000:0000:0000:0000:0000:0000	2a07:e587:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a09:1f40:0000:0000:0000:0000:0000:0000	2a09:1f47:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a09:5840:0000:0000:0000:0000:0000:0000	2a09:5847:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a09:6940:0000:0000:0000:0000:0000:0000	2a09:6947:ffff:ffff:ffff:ffff:ffff:ffff	EE
