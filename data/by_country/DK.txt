@@ -138,7 +138,7 @@
 2a03:a480:0000:0000:0000:0000:0000:0000	2a03:a480:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a03:a560:0000:0000:0000:0000:0000:0000	2a03:a560:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a03:dbc0:0000:0000:0000:0000:0000:0000	2a03:dbc0:ffff:ffff:ffff:ffff:ffff:ffff	DK
-2a03:dc80:0000:0000:0000:0000:0000:0000	2a03:dc80:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a03:dc80:0000:0000:0000:0000:0000:0000	2a03:dc87:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a03:f380:0000:0000:0000:0000:0000:0000	2a03:f380:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a03:fb80:0000:0000:0000:0000:0000:0000	2a03:fb80:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a04:3100:0000:0000:0000:0000:0000:0000	2a04:3107:ffff:ffff:ffff:ffff:ffff:ffff	DK
@@ -305,5 +305,6 @@
 2a11:ba80:0000:0000:0000:0000:0000:0000	2a11:ba87:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a12:3d80:0000:0000:0000:0000:0000:0000	2a12:3d87:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a12:5d80:0000:0000:0000:0000:0000:0000	2a12:5d87:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a12:63c0:0000:0000:0000:0000:0000:0000	2a12:63c7:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a12:8900:0000:0000:0000:0000:0000:0000	2a12:8907:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a12:a780:0000:0000:0000:0000:0000:0000	2a12:a780:ffff:ffff:ffff:ffff:ffff:ffff	DK

@@ -11,7 +11,6 @@
 2400:1c80:0000:0000:0000:0000:0000:0000	2400:1c80:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:1e00:0000:0000:0000:0000:0000:0000	2400:1e00:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:1e80:0000:0000:0000:0000:0000:0000	2400:1e80:ffff:ffff:ffff:ffff:ffff:ffff	HK
-2400:1f80:0000:0000:0000:0000:0000:0000	2400:1f80:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:3520:0000:0000:0000:0000:0000:0000	2400:3520:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:38e0:0000:0000:0000:0000:0000:0000	2400:38e0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:3ec0:0000:0000:0000:0000:0000:0000	2400:3ec0:ffff:ffff:ffff:ffff:ffff:ffff	HK

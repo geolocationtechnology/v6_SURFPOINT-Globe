@@ -46,3 +46,4 @@
 2803:e1c0:0000:0000:0000:0000:0000:0000	2803:e1c0:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:e2e0:0000:0000:0000:0000:0000:0000	2803:e2e0:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:e880:0000:0000:0000:0000:0000:0000	2803:e880:ffff:ffff:ffff:ffff:ffff:ffff	GT
+2803:fd10:0000:0000:0000:0000:0000:0000	2803:fd10:ffff:ffff:ffff:ffff:ffff:ffff	GT

@@ -39,3 +39,4 @@
 2a0e:6040:0000:0000:0000:0000:0000:0000	2a0e:6047:ffff:ffff:ffff:ffff:ffff:ffff	AM
 2a0e:7100:0000:0000:0000:0000:0000:0000	2a0e:7107:ffff:ffff:ffff:ffff:ffff:ffff	AM
 2a11:6fc0:0000:0000:0000:0000:0000:0000	2a11:6fc7:ffff:ffff:ffff:ffff:ffff:ffff	AM
+2a12:5d40:0000:0000:0000:0000:0000:0000	2a12:5d47:ffff:ffff:ffff:ffff:ffff:ffff	AM

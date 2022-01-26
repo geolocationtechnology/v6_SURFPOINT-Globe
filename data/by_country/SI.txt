@@ -2,6 +2,7 @@
 2001:1590:0000:0000:0000:0000:0000:0000	2001:1590:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2001:15c0:0000:0000:0000:0000:0000:0000	2001:15c7:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2001:1688:0000:0000:0000:0000:0000:0000	2001:168f:ffff:ffff:ffff:ffff:ffff:ffff	SI
+2400:52e0:0000:0000:0000:0000:0000:0000	2400:52e0:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a00:0ee0:0000:0000:0000:0000:0000:0000	2a00:0ee7:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a00:0fc0:0000:0000:0000:0000:0000:0000	2a00:0fc0:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a00:1368:0000:0000:0000:0000:0000:0000	2a00:1368:ffff:ffff:ffff:ffff:ffff:ffff	SI
