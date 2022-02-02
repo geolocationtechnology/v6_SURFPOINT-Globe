@@ -106,6 +106,7 @@
 2a03:9860:0000:0000:0000:0000:0000:0000	2a03:9860:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a03:a600:0000:0000:0000:0000:0000:0000	2a03:a607:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a03:a840:0000:0000:0000:0000:0000:0000	2a03:a840:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a03:e500:0000:0000:0000:0000:0000:0000	2a03:e507:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a04:0100:0000:0000:0000:0000:0000:0000	2a04:0107:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a04:1740:0000:0000:0000:0000:0000:0000	2a04:1747:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a04:1800:0000:0000:0000:0000:0000:0000	2a04:1807:ffff:ffff:ffff:ffff:ffff:ffff	UA

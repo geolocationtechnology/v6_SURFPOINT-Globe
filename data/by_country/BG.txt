@@ -71,6 +71,7 @@
 2a05:1600:0000:0000:0000:0000:0000:0000	2a05:1607:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a05:4c00:0000:0000:0000:0000:0000:0000	2a05:4c07:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a05:5e40:0000:0000:0000:0000:0000:0000	2a05:5e47:ffff:ffff:ffff:ffff:ffff:ffff	BG
+2a05:6640:0000:0000:0000:0000:0000:0000	2a05:6647:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a05:73c0:0000:0000:0000:0000:0000:0000	2a05:73c7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a05:8cc0:0000:0000:0000:0000:0000:0000	2a05:8cc7:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a06:04c0:0000:0000:0000:0000:0000:0000	2a06:04c7:ffff:ffff:ffff:ffff:ffff:ffff	BG

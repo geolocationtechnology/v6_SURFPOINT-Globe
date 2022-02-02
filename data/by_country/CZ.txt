@@ -285,6 +285,7 @@
 2a06:8200:0000:0000:0000:0000:0000:0000	2a06:8200:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a06:9280:0000:0000:0000:0000:0000:0000	2a06:9287:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a06:9780:0000:0000:0000:0000:0000:0000	2a06:9787:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a06:a7c0:0000:0000:0000:0000:0000:0000	2a06:a7c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a06:bac0:0000:0000:0000:0000:0000:0000	2a06:bac7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a06:bfc0:0000:0000:0000:0000:0000:0000	2a06:bfc7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a06:d540:0000:0000:0000:0000:0000:0000	2a06:d547:ffff:ffff:ffff:ffff:ffff:ffff	CZ
