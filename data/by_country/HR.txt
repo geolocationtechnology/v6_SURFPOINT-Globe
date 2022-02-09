@@ -60,3 +60,4 @@
 2a10:d400:0000:0000:0000:0000:0000:0000	2a10:d407:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a11:42c0:0000:0000:0000:0000:0000:0000	2a11:42c7:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a11:d980:0000:0000:0000:0000:0000:0000	2a11:d987:ffff:ffff:ffff:ffff:ffff:ffff	HR
+2a12:69c0:0000:0000:0000:0000:0000:0000	2a12:69c7:ffff:ffff:ffff:ffff:ffff:ffff	HR

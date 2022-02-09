@@ -28,3 +28,4 @@
 2a0f:f440:0000:0000:0000:0000:0000:0000	2a0f:f440:ffff:ffff:ffff:ffff:ffff:ffff	UZ
 2a10:8ec0:0000:0000:0000:0000:0000:0000	2a10:8ec0:ffff:ffff:ffff:ffff:ffff:ffff	UZ
 2a12:5080:0000:0000:0000:0000:0000:0000	2a12:5087:ffff:ffff:ffff:ffff:ffff:ffff	UZ
+2a12:6b40:0000:0000:0000:0000:0000:0000	2a12:6b47:ffff:ffff:ffff:ffff:ffff:ffff	UZ

@@ -306,6 +306,7 @@
 2a0d:8dc0:0000:0000:0000:0000:0000:0000	2a0d:8dc7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0d:9880:0000:0000:0000:0000:0000:0000	2a0d:9887:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0d:a300:0000:0000:0000:0000:0000:0000	2a0d:a307:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a0d:b140:0000:0000:0000:0000:0000:0000	2a0d:b147:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0d:c140:0000:0000:0000:0000:0000:0000	2a0d:c147:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0d:c500:0000:0000:0000:0000:0000:0000	2a0d:c507:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0d:c980:0000:0000:0000:0000:0000:0000	2a0d:c987:ffff:ffff:ffff:ffff:ffff:ffff	UA
@@ -328,6 +329,7 @@
 2a0e:3300:0000:0000:0000:0000:0000:0000	2a0e:3307:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:40c0:0000:0000:0000:0000:0000:0000	2a0e:40c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:45c0:0000:0000:0000:0000:0000:0000	2a0e:45c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a0e:5140:0000:0000:0000:0000:0000:0000	2a0e:5140:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:6800:0000:0000:0000:0000:0000:0000	2a0e:6807:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:69c0:0000:0000:0000:0000:0000:0000	2a0e:69c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a0e:7780:0000:0000:0000:0000:0000:0000	2a0e:7787:ffff:ffff:ffff:ffff:ffff:ffff	UA

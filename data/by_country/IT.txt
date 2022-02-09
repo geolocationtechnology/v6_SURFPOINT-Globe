@@ -933,6 +933,8 @@
 2a12:37c0:0000:0000:0000:0000:0000:0000	2a12:37c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a12:5140:0000:0000:0000:0000:0000:0000	2a12:5147:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a12:5fc0:0000:0000:0000:0000:0000:0000	2a12:5fc7:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a12:6640:0000:0000:0000:0000:0000:0000	2a12:6647:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a12:67c0:0000:0000:0000:0000:0000:0000	2a12:67c7:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a12:6a00:0000:0000:0000:0000:0000:0000	2a12:6a07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a12:f780:0000:0000:0000:0000:0000:0000	2a12:f780:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a12:ff80:0000:0000:0000:0000:0000:0000	2a12:ff87:ffff:ffff:ffff:ffff:ffff:ffff	IT
