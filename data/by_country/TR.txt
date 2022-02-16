@@ -497,6 +497,9 @@
 2a12:47c0:0000:0000:0000:0000:0000:0000	2a12:47c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a12:5c40:0000:0000:0000:0000:0000:0000	2a12:5c47:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a12:6580:0000:0000:0000:0000:0000:0000	2a12:6587:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a12:75c0:0000:0000:0000:0000:0000:0000	2a12:75c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a12:7740:0000:0000:0000:0000:0000:0000	2a12:7747:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a12:78c0:0000:0000:0000:0000:0000:0000	2a12:78c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a12:8000:0000:0000:0000:0000:0000:0000	2a12:8007:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a12:c500:0000:0000:0000:0000:0000:0000	2a12:c507:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a12:cc80:0000:0000:0000:0000:0000:0000	2a12:cc87:ffff:ffff:ffff:ffff:ffff:ffff	TR

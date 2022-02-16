@@ -104,3 +104,4 @@
 2a10:e840:0000:0000:0000:0000:0000:0000	2a10:e840:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a11:9c80:0000:0000:0000:0000:0000:0000	2a11:9c87:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a11:bb80:0000:0000:0000:0000:0000:0000	2a11:bb87:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a12:7840:0000:0000:0000:0000:0000:0000	2a12:7847:ffff:ffff:ffff:ffff:ffff:ffff	AE

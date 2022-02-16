@@ -202,6 +202,7 @@
 2a05:f500:0000:0000:0000:0000:0000:0000	2a05:f507:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a05:f540:0000:0000:0000:0000:0000:0000	2a05:f547:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a05:fc00:0000:0000:0000:0000:0000:0000	2a05:fc07:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a06:0680:0000:0000:0000:0000:0000:0000	2a06:0687:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a06:2f40:0000:0000:0000:0000:0000:0000	2a06:2f47:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a06:3980:0000:0000:0000:0000:0000:0000	2a06:3987:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a06:3c40:0000:0000:0000:0000:0000:0000	2a06:3c47:ffff:ffff:ffff:ffff:ffff:ffff	AT

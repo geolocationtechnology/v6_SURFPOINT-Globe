@@ -388,5 +388,6 @@
 2a12:3840:0000:0000:0000:0000:0000:0000	2a12:3847:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a12:3ec0:0000:0000:0000:0000:0000:0000	2a12:3ec7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a12:5440:0000:0000:0000:0000:0000:0000	2a12:5447:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a12:6d40:0000:0000:0000:0000:0000:0000	2a12:6d47:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a12:b480:0000:0000:0000:0000:0000:0000	2a12:b487:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a12:fa00:0000:0000:0000:0000:0000:0000	2a12:fa07:ffff:ffff:ffff:ffff:ffff:ffff	IR

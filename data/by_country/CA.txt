@@ -489,6 +489,9 @@
 2606:a1c0:0000:0000:0000:0000:0000:0000	2606:a1c0:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:acc0:0000:0000:0000:0000:0000:0000	2606:acc0:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:af00:0000:0000:0000:0000:0000:0000	2606:af00:ffff:ffff:ffff:ffff:ffff:ffff	CA
+2606:afc0:0000:0000:0000:0000:0000:0000	2606:afc0:ffff:ffff:ffff:ffff:ffff:ffff	CA
+2606:b240:0000:0000:0000:0000:0000:0000	2606:b240:ffff:ffff:ffff:ffff:ffff:ffff	CA
+2606:b340:0000:0000:0000:0000:0000:0000	2606:b340:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:b800:0000:0000:0000:0000:0000:0000	2606:b800:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:bd00:0000:0000:0000:0000:0000:0000	2606:bd00:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:bd80:0000:0000:0000:0000:0000:0000	2606:bd80:ffff:ffff:ffff:ffff:ffff:ffff	CA

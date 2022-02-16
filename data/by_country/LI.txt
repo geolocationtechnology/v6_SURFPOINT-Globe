@@ -9,7 +9,7 @@
 2a03:4c80:0000:0000:0000:0000:0000:0000	2a03:4c80:ffff:ffff:ffff:ffff:ffff:ffff	LI
 2a03:5260:0000:0000:0000:0000:0000:0000	2a03:5260:ffff:ffff:ffff:ffff:ffff:ffff	LI
 2a03:5360:0000:0000:0000:0000:0000:0000	2a03:5360:ffff:ffff:ffff:ffff:ffff:ffff	LI
-2a03:5480:0000:0000:0000:0000:0000:0000	2a03:5480:ffff:ffff:ffff:ffff:ffff:ffff	LI
+2a03:5480:0000:0000:0000:0000:0000:0000	2a03:5487:ffff:ffff:ffff:ffff:ffff:ffff	LI
 2a04:5700:0000:0000:0000:0000:0000:0000	2a04:5707:ffff:ffff:ffff:ffff:ffff:ffff	LI
 2a06:1940:0000:0000:0000:0000:0000:0000	2a06:1947:ffff:ffff:ffff:ffff:ffff:ffff	LI
 2a0a:aec0:0000:0000:0000:0000:0000:0000	2a0a:aec7:ffff:ffff:ffff:ffff:ffff:ffff	LI
