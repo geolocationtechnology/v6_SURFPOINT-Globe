@@ -55,3 +55,4 @@
 2a12:2440:0000:0000:0000:0000:0000:0000	2a12:2447:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a12:2ac0:0000:0000:0000:0000:0000:0000	2a12:2ac7:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a12:3880:0000:0000:0000:0000:0000:0000	2a12:3880:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a12:85c0:0000:0000:0000:0000:0000:0000	2a12:85c7:ffff:ffff:ffff:ffff:ffff:ffff	KZ

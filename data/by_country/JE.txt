@@ -6,3 +6,4 @@
 2a0e:dec0:0000:0000:0000:0000:0000:0000	2a0e:dec7:ffff:ffff:ffff:ffff:ffff:ffff	JE
 2a10:81c0:0000:0000:0000:0000:0000:0000	2a10:81c0:ffff:ffff:ffff:ffff:ffff:ffff	JE
 2a11:4400:0000:0000:0000:0000:0000:0000	2a11:4407:ffff:ffff:ffff:ffff:ffff:ffff	JE
+2a12:8240:0000:0000:0000:0000:0000:0000	2a12:8247:ffff:ffff:ffff:ffff:ffff:ffff	JE

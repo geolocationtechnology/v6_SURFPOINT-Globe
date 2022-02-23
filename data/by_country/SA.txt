@@ -73,3 +73,4 @@
 2a10:0800:0000:0000:0000:0000:0000:0000	2a10:0807:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a10:1600:0000:0000:0000:0000:0000:0000	2a10:1607:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a10:1700:0000:0000:0000:0000:0000:0000	2a10:1707:ffff:ffff:ffff:ffff:ffff:ffff	SA
+2a12:7dc0:0000:0000:0000:0000:0000:0000	2a12:7dc7:ffff:ffff:ffff:ffff:ffff:ffff	SA

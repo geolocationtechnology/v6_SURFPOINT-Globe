@@ -238,6 +238,7 @@
 2a12:6a40:0000:0000:0000:0000:0000:0000	2a12:6a47:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a12:6c80:0000:0000:0000:0000:0000:0000	2a12:6c87:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a12:6d80:0000:0000:0000:0000:0000:0000	2a12:6d87:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a12:8440:0000:0000:0000:0000:0000:0000	2a12:8447:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a12:9780:0000:0000:0000:0000:0000:0000	2a12:9787:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a12:d500:0000:0000:0000:0000:0000:0000	2a12:d507:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a12:dd00:0000:0000:0000:0000:0000:0000	2a12:dd07:ffff:ffff:ffff:ffff:ffff:ffff	LT

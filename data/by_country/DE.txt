@@ -2077,6 +2077,12 @@
 2a12:7140:0000:0000:0000:0000:0000:0000	2a12:7147:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:7640:0000:0000:0000:0000:0000:0000	2a12:7647:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:76c0:0000:0000:0000:0000:0000:0000	2a12:76c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:79c0:0000:0000:0000:0000:0000:0000	2a12:79c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:7d40:0000:0000:0000:0000:0000:0000	2a12:7d40:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:7e40:0000:0000:0000:0000:0000:0000	2a12:7e40:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:7ec0:0000:0000:0000:0000:0000:0000	2a12:7ec7:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:8640:0000:0000:0000:0000:0000:0000	2a12:8647:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:87c0:0000:0000:0000:0000:0000:0000	2a12:87c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:8980:0000:0000:0000:0000:0000:0000	2a12:8987:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:8b80:0000:0000:0000:0000:0000:0000	2a12:8b87:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:9d80:0000:0000:0000:0000:0000:0000	2a12:9d87:ffff:ffff:ffff:ffff:ffff:ffff	DE

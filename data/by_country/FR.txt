@@ -1159,6 +1159,9 @@
 2a12:62c0:0000:0000:0000:0000:0000:0000	2a12:62c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:6a80:0000:0000:0000:0000:0000:0000	2a12:6a87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:6dc0:0000:0000:0000:0000:0000:0000	2a12:6dc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a12:7a40:0000:0000:0000:0000:0000:0000	2a12:7a47:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a12:7fc0:0000:0000:0000:0000:0000:0000	2a12:7fc0:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a12:8140:0000:0000:0000:0000:0000:0000	2a12:8143:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:9680:0000:0000:0000:0000:0000:0000	2a12:9687:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:a080:0000:0000:0000:0000:0000:0000	2a12:a087:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:a580:0000:0000:0000:0000:0000:0000	2a12:a587:ffff:ffff:ffff:ffff:ffff:ffff	FR
