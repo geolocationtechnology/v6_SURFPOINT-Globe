@@ -1,3 +1,4 @@
+2001:43f8:1660:0000:0000:0000:0000:0000	2001:43f8:1660:ffff:ffff:ffff:ffff:ffff	SS
 2c0f:f690:0000:0000:0000:0000:0000:0000	2c0f:f690:ffff:ffff:ffff:ffff:ffff:ffff	SS
 2c0f:f950:0000:0000:0000:0000:0000:0000	2c0f:f950:ffff:ffff:ffff:ffff:ffff:ffff	SS
 2c0f:fa20:0000:0000:0000:0000:0000:0000	2c0f:fa20:ffff:ffff:ffff:ffff:ffff:ffff	SS

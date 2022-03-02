@@ -92,6 +92,9 @@
 2400:5c20:0000:0000:0000:0000:0000:0000	2400:5c20:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:5c60:0000:0000:0000:0000:0000:0000	2400:5c60:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:5ca0:0000:0000:0000:0000:0000:0000	2400:5ca0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:5d20:0000:0000:0000:0000:0000:0000	2400:5d20:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:5d60:0000:0000:0000:0000:0000:0000	2400:5d60:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:5de0:0000:0000:0000:0000:0000:0000	2400:5de0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:6300:0000:0000:0000:0000:0000:0000	2400:6300:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:63c0:0000:0000:0000:0000:0000:0000	2400:63c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:6480:0000:0000:0000:0000:0000:0000	2400:6480:ffff:ffff:ffff:ffff:ffff:ffff	IN

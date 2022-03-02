@@ -14,6 +14,7 @@
 2a00:c700:0000:0000:0000:0000:0000:0000	2a00:c700:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a00:d800:0000:0000:0000:0000:0000:0000	2a00:d800:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a01:0158:0000:0000:0000:0000:0000:0000	2a01:0158:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a01:6560:0000:0000:0000:0000:0000:0000	2a01:6560:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a01:6da0:0000:0000:0000:0000:0000:0000	2a01:6da0:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a01:8020:0000:0000:0000:0000:0000:0000	2a01:8020:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a01:82a0:0000:0000:0000:0000:0000:0000	2a01:82a0:ffff:ffff:ffff:ffff:ffff:ffff	EE

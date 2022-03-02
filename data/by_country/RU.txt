@@ -2596,9 +2596,12 @@
 2a12:8780:0000:0000:0000:0000:0000:0000	2a12:8787:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:8800:0000:0000:0000:0000:0000:0000	2a12:8807:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:8880:0000:0000:0000:0000:0000:0000	2a12:8887:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a12:8940:0000:0000:0000:0000:0000:0000	2a12:8947:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:8a00:0000:0000:0000:0000:0000:0000	2a12:8a07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:8b00:0000:0000:0000:0000:0000:0000	2a12:8b07:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a12:8c40:0000:0000:0000:0000:0000:0000	2a12:8c47:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:8c80:0000:0000:0000:0000:0000:0000	2a12:8c87:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a12:8cc0:0000:0000:0000:0000:0000:0000	2a12:8cc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:8e00:0000:0000:0000:0000:0000:0000	2a12:8e07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:9100:0000:0000:0000:0000:0000:0000	2a12:9107:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:9180:0000:0000:0000:0000:0000:0000	2a12:9187:ffff:ffff:ffff:ffff:ffff:ffff	RU

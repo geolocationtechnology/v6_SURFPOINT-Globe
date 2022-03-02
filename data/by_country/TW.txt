@@ -44,6 +44,7 @@
 2400:50a0:0000:0000:0000:0000:0000:0000	2400:50a0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:50e0:0000:0000:0000:0000:0000:0000	2400:50e0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:5120:0000:0000:0000:0000:0000:0000	2400:5120:ffff:ffff:ffff:ffff:ffff:ffff	TW
+2400:5ea0:0000:0000:0000:0000:0000:0000	2400:5ea0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:7000:0000:0000:0000:0000:0000:0000	2400:7000:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:aa80:0000:0000:0000:0000:0000:0000	2400:aa80:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:b380:0000:0000:0000:0000:0000:0000	2400:b380:ffff:ffff:ffff:ffff:ffff:ffff	TW

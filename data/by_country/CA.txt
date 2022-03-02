@@ -52,6 +52,7 @@
 2602:080b:7000:0000:0000:0000:0000:0000	2602:080b:700f:ffff:ffff:ffff:ffff:ffff	CA
 2602:080c:e000:0000:0000:0000:0000:0000	2602:080c:e0ff:ffff:ffff:ffff:ffff:ffff	CA
 2602:080e:9000:0000:0000:0000:0000:0000	2602:080e:900f:ffff:ffff:ffff:ffff:ffff	CA
+2602:fbb8:0000:0000:0000:0000:0000:0000	2602:fbb8:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fbc7:0000:0000:0000:0000:0000:0000	2602:fbc7:00ff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fbdd:0000:0000:0000:0000:0000:0000	2602:fbdd:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fbe4:0000:0000:0000:0000:0000:0000	2602:fbe4:0fff:ffff:ffff:ffff:ffff:ffff	CA
@@ -494,6 +495,8 @@
 2606:b240:0000:0000:0000:0000:0000:0000	2606:b240:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:b340:0000:0000:0000:0000:0000:0000	2606:b340:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:b5c0:0000:0000:0000:0000:0000:0000	2606:b5c0:ffff:ffff:ffff:ffff:ffff:ffff	CA
+2606:b6c0:0000:0000:0000:0000:0000:0000	2606:b6c0:ffff:ffff:ffff:ffff:ffff:ffff	CA
+2606:b740:0000:0000:0000:0000:0000:0000	2606:b740:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:b800:0000:0000:0000:0000:0000:0000	2606:b800:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:bd00:0000:0000:0000:0000:0000:0000	2606:bd00:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2606:bd80:0000:0000:0000:0000:0000:0000	2606:bd80:ffff:ffff:ffff:ffff:ffff:ffff	CA

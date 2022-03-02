@@ -1909,9 +1909,11 @@
 2a12:81c0:0000:0000:0000:0000:0000:0000	2a12:81c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:8300:0000:0000:0000:0000:0000:0000	2a12:8307:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:8400:0000:0000:0000:0000:0000:0000	2a12:8400:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:88c0:0000:0000:0000:0000:0000:0000	2a12:88c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:8c00:0000:0000:0000:0000:0000:0000	2a12:8c07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:8d80:0000:0000:0000:0000:0000:0000	2a12:8d87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:8f80:0000:0000:0000:0000:0000:0000	2a12:8f87:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:8fc0:0000:0000:0000:0000:0000:0000	2a12:8fc7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:9480:0000:0000:0000:0000:0000:0000	2a12:9487:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:9600:0000:0000:0000:0000:0000:0000	2a12:9607:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:9800:0000:0000:0000:0000:0000:0000	2a12:9807:ffff:ffff:ffff:ffff:ffff:ffff	GB

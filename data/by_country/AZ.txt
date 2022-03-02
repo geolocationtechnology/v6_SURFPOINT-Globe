@@ -49,3 +49,4 @@
 2a10:25c0:0000:0000:0000:0000:0000:0000	2a10:25c7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a10:d880:0000:0000:0000:0000:0000:0000	2a10:d887:ffff:ffff:ffff:ffff:ffff:ffff	AZ
 2a12:5740:0000:0000:0000:0000:0000:0000	2a12:5747:ffff:ffff:ffff:ffff:ffff:ffff	AZ
+2a12:8bc0:0000:0000:0000:0000:0000:0000	2a12:8bc7:ffff:ffff:ffff:ffff:ffff:ffff	AZ
