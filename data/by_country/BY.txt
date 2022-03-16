@@ -24,4 +24,3 @@
 2a0d:2d00:0000:0000:0000:0000:0000:0000	2a0d:2d00:ffff:ffff:ffff:ffff:ffff:ffff	BY
 2a10:0dc0:0000:0000:0000:0000:0000:0000	2a10:0dc7:ffff:ffff:ffff:ffff:ffff:ffff	BY
 2a12:1380:0000:0000:0000:0000:0000:0000	2a12:1387:ffff:ffff:ffff:ffff:ffff:ffff	BY
-2a12:7700:0000:0000:0000:0000:0000:0000	2a12:7707:ffff:ffff:ffff:ffff:ffff:ffff	BY

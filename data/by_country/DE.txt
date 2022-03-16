@@ -75,6 +75,7 @@
 2001:4dc8:0000:0000:0000:0000:0000:0000	2001:4dc8:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2001:4dd0:0000:0000:0000:0000:0000:0000	2001:4dd7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2003:0000:0000:0000:0000:0000:0000:0000	2003:1fff:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2402:1880:0000:0000:0000:0000:0000:0000	2402:1880:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2403:8300:0000:0000:0000:0000:0000:0000	2403:8300:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a00:0000:0000:0000:0000:0000:0000:0000	2a00:03ff:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a00:0c00:0000:0000:0000:0000:0000:0000	2a00:0c00:ffff:ffff:ffff:ffff:ffff:ffff	DE
@@ -2091,7 +2092,9 @@
 2a12:90c0:0000:0000:0000:0000:0000:0000	2a12:90c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:9140:0000:0000:0000:0000:0000:0000	2a12:9147:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:9440:0000:0000:0000:0000:0000:0000	2a12:9447:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:9940:0000:0000:0000:0000:0000:0000	2a12:9947:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:9d80:0000:0000:0000:0000:0000:0000	2a12:9d87:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:a0c0:0000:0000:0000:0000:0000:0000	2a12:a0c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:a200:0000:0000:0000:0000:0000:0000	2a12:a207:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:a800:0000:0000:0000:0000:0000:0000	2a12:a807:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:a900:0000:0000:0000:0000:0000:0000	2a12:a907:ffff:ffff:ffff:ffff:ffff:ffff	DE

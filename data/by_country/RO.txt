@@ -209,3 +209,15 @@
 2a12:7440:0000:0000:0000:0000:0000:0000	2a12:7447:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:74c0:0000:0000:0000:0000:0000:0000	2a12:74c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:7540:0000:0000:0000:0000:0000:0000	2a12:7547:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:97c0:0000:0000:0000:0000:0000:0000	2a12:97c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:9dc0:0000:0000:0000:0000:0000:0000	2a12:9dc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:9ec0:0000:0000:0000:0000:0000:0000	2a12:9ec7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:9f40:0000:0000:0000:0000:0000:0000	2a12:9f47:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:9fc0:0000:0000:0000:0000:0000:0000	2a12:9fc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:a040:0000:0000:0000:0000:0000:0000	2a12:a047:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:a140:0000:0000:0000:0000:0000:0000	2a12:a147:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:a540:0000:0000:0000:0000:0000:0000	2a12:a547:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:a5c0:0000:0000:0000:0000:0000:0000	2a12:a5c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:a640:0000:0000:0000:0000:0000:0000	2a12:a647:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:a6c0:0000:0000:0000:0000:0000:0000	2a12:a6c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:a740:0000:0000:0000:0000:0000:0000	2a12:a747:ffff:ffff:ffff:ffff:ffff:ffff	RO

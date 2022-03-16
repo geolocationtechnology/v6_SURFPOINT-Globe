@@ -1919,7 +1919,9 @@
 2a12:9600:0000:0000:0000:0000:0000:0000	2a12:9607:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:9800:0000:0000:0000:0000:0000:0000	2a12:9807:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:9b00:0000:0000:0000:0000:0000:0000	2a12:9b07:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:9c40:0000:0000:0000:0000:0000:0000	2a12:9c47:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:a100:0000:0000:0000:0000:0000:0000	2a12:a107:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:a440:0000:0000:0000:0000:0000:0000	2a12:a447:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:a980:0000:0000:0000:0000:0000:0000	2a12:a987:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:aa80:0000:0000:0000:0000:0000:0000	2a12:aa87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:ac80:0000:0000:0000:0000:0000:0000	2a12:ac87:ffff:ffff:ffff:ffff:ffff:ffff	GB
