@@ -446,6 +446,7 @@
 2a03:a8e0:0000:0000:0000:0000:0000:0000	2a03:a8e0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:a980:0000:0000:0000:0000:0000:0000	2a03:a980:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:aec0:0000:0000:0000:0000:0000:0000	2a03:aec0:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a03:afc0:0000:0000:0000:0000:0000:0000	2a03:afc0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:bbc0:0000:0000:0000:0000:0000:0000	2a03:bbc0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:be00:0000:0000:0000:0000:0000:0000	2a03:be00:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a03:bec0:0000:0000:0000:0000:0000:0000	2a03:bec0:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -1792,6 +1793,7 @@
 2a12:9b80:0000:0000:0000:0000:0000:0000	2a12:9b87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:9bc0:0000:0000:0000:0000:0000:0000	2a12:9bc7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:a680:0000:0000:0000:0000:0000:0000	2a12:a687:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a12:a8c0:0000:0000:0000:0000:0000:0000	2a12:a8c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:ad00:0000:0000:0000:0000:0000:0000	2a12:ad07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:b000:0000:0000:0000:0000:0000:0000	2a12:b007:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:b600:0000:0000:0000:0000:0000:0000	2a12:b607:ffff:ffff:ffff:ffff:ffff:ffff	NL

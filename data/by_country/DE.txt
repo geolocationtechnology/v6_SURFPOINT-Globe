@@ -2098,7 +2098,10 @@
 2a12:a200:0000:0000:0000:0000:0000:0000	2a12:a207:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:a800:0000:0000:0000:0000:0000:0000	2a12:a807:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:a900:0000:0000:0000:0000:0000:0000	2a12:a907:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:a940:0000:0000:0000:0000:0000:0000	2a12:a947:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:acc0:0000:0000:0000:0000:0000:0000	2a12:acc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:af80:0000:0000:0000:0000:0000:0000	2a12:af87:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:b040:0000:0000:0000:0000:0000:0000	2a12:b047:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:b180:0000:0000:0000:0000:0000:0000	2a12:b187:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:b200:0000:0000:0000:0000:0000:0000	2a12:b207:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:c380:0000:0000:0000:0000:0000:0000	2a12:c387:ffff:ffff:ffff:ffff:ffff:ffff	DE

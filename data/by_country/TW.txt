@@ -266,9 +266,6 @@
 2406:f340:0000:0000:0000:0000:0000:0000	2406:f340:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:f540:0000:0000:0000:0000:0000:0000	2406:f540:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:f5c0:0000:0000:0000:0000:0000:0000	2406:f5c0:ffff:ffff:ffff:ffff:ffff:ffff	TW
-2406:f640:0000:0000:0000:0000:0000:0000	2406:f640:ffff:ffff:ffff:ffff:ffff:ffff	TW
-2406:f6c0:0000:0000:0000:0000:0000:0000	2406:f6c0:ffff:ffff:ffff:ffff:ffff:ffff	TW
-2406:f740:0000:0000:0000:0000:0000:0000	2406:f740:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:f9c0:0000:0000:0000:0000:0000:0000	2406:f9c0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:fcc0:0000:0000:0000:0000:0000:0000	2406:fcc0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:fdc0:0000:0000:0000:0000:0000:0000	2406:fdc0:ffff:ffff:ffff:ffff:ffff:ffff	TW

@@ -221,3 +221,4 @@
 2a12:a640:0000:0000:0000:0000:0000:0000	2a12:a647:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:a6c0:0000:0000:0000:0000:0000:0000	2a12:a6c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:a740:0000:0000:0000:0000:0000:0000	2a12:a747:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:aec0:0000:0000:0000:0000:0000:0000	2a12:aec7:ffff:ffff:ffff:ffff:ffff:ffff	RO

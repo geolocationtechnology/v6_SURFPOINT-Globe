@@ -247,3 +247,4 @@
 2a12:4940:0000:0000:0000:0000:0000:0000	2a12:4947:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a12:5840:0000:0000:0000:0000:0000:0000	2a12:5847:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a12:a700:0000:0000:0000:0000:0000:0000	2a12:a707:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a12:ae40:0000:0000:0000:0000:0000:0000	2a12:ae47:ffff:ffff:ffff:ffff:ffff:ffff	BE
