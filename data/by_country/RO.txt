@@ -194,9 +194,6 @@
 2a11:7100:0000:0000:0000:0000:0000:0000	2a11:7107:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a11:8b00:0000:0000:0000:0000:0000:0000	2a11:8b07:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a11:fd80:0000:0000:0000:0000:0000:0000	2a11:fd87:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a12:27c0:0000:0000:0000:0000:0000:0000	2a12:27c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a12:3640:0000:0000:0000:0000:0000:0000	2a12:3647:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a12:4840:0000:0000:0000:0000:0000:0000	2a12:4847:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:4a80:0000:0000:0000:0000:0000:0000	2a12:4a87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:4ac0:0000:0000:0000:0000:0000:0000	2a12:4ac7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:5500:0000:0000:0000:0000:0000:0000	2a12:5507:ffff:ffff:ffff:ffff:ffff:ffff	RO

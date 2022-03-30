@@ -350,6 +350,7 @@
 2a06:6540:0000:0000:0000:0000:0000:0000	2a06:6547:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:6700:0000:0000:0000:0000:0000:0000	2a06:6707:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:8280:0000:0000:0000:0000:0000:0000	2a06:8287:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a06:89c0:0000:0000:0000:0000:0000:0000	2a06:89c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:8a00:0000:0000:0000:0000:0000:0000	2a06:8a07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:a840:0000:0000:0000:0000:0000:0000	2a06:a847:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a06:b000:0000:0000:0000:0000:0000:0000	2a06:b007:ffff:ffff:ffff:ffff:ffff:ffff	CH

@@ -879,5 +879,7 @@
 2a12:8f40:0000:0000:0000:0000:0000:0000	2a12:8f47:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a12:96c0:0000:0000:0000:0000:0000:0000	2a12:96c7:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a12:9740:0000:0000:0000:0000:0000:0000	2a12:9747:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a12:b5c0:0000:0000:0000:0000:0000:0000	2a12:b5c7:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a12:b740:0000:0000:0000:0000:0000:0000	2a12:b747:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a12:d280:0000:0000:0000:0000:0000:0000	2a12:d280:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a12:f800:0000:0000:0000:0000:0000:0000	2a12:f807:ffff:ffff:ffff:ffff:ffff:ffff	ES
