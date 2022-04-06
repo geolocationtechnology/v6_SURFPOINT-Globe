@@ -83,4 +83,5 @@
 2a10:8a80:0000:0000:0000:0000:0000:0000	2a10:8a87:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a10:e3c0:0000:0000:0000:0000:0000:0000	2a10:e3c7:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a11:8e00:0000:0000:0000:0000:0000:0000	2a11:8e07:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a12:b940:0000:0000:0000:0000:0000:0000	2a12:b947:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a12:c580:0000:0000:0000:0000:0000:0000	2a12:c587:ffff:ffff:ffff:ffff:ffff:ffff	LU

@@ -633,3 +633,4 @@
 2a12:5a40:0000:0000:0000:0000:0000:0000	2a12:5a47:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a12:9a40:0000:0000:0000:0000:0000:0000	2a12:9a47:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a12:b240:0000:0000:0000:0000:0000:0000	2a12:b240:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a12:bfc0:0000:0000:0000:0000:0000:0000	2a12:bfc0:ffff:ffff:ffff:ffff:ffff:ffff	CH

@@ -677,6 +677,7 @@
 2a07:8580:0000:0000:0000:0000:0000:0000	2a07:8587:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:8680:0000:0000:0000:0000:0000:0000	2a07:8687:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:8dc0:0000:0000:0000:0000:0000:0000	2a07:8dc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a07:97c0:0000:0000:0000:0000:0000:0000	2a07:97c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:9980:0000:0000:0000:0000:0000:0000	2a07:9987:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:9c00:0000:0000:0000:0000:0000:0000	2a07:9c07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:9d00:0000:0000:0000:0000:0000:0000	2a07:9d07:ffff:ffff:ffff:ffff:ffff:ffff	FR
