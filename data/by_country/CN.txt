@@ -128,9 +128,11 @@
 2400:6c40:0000:0000:0000:0000:0000:0000	2400:6c40:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:6cc0:0000:0000:0000:0000:0000:0000	2400:6cc0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:6d40:0000:0000:0000:0000:0000:0000	2400:6d40:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2400:6da0:0000:0000:0000:0000:0000:0000	2400:6da0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:6dc0:0000:0000:0000:0000:0000:0000	2400:6dc0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:6e00:0000:0000:0000:0000:0000:0000	2400:6e00:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:6e40:0000:0000:0000:0000:0000:0000	2400:6e40:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2400:6e60:0000:0000:0000:0000:0000:0000	2400:6e60:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:6ec0:0000:0000:0000:0000:0000:0000	2400:6ec0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:6f40:0000:0000:0000:0000:0000:0000	2400:6f40:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:6f80:0000:0000:0000:0000:0000:0000	2400:6f80:ffff:ffff:ffff:ffff:ffff:ffff	CN

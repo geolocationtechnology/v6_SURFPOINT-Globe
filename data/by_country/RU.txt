@@ -2617,6 +2617,8 @@
 2a12:bc80:0000:0000:0000:0000:0000:0000	2a12:bc87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:bdc0:0000:0000:0000:0000:0000:0000	2a12:bdc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:c180:0000:0000:0000:0000:0000:0000	2a12:c187:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a12:c2c0:0000:0000:0000:0000:0000:0000	2a12:c2c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a12:c5c0:0000:0000:0000:0000:0000:0000	2a12:c5c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:c680:0000:0000:0000:0000:0000:0000	2a12:c687:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:c880:0000:0000:0000:0000:0000:0000	2a12:c887:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:c980:0000:0000:0000:0000:0000:0000	2a12:c987:ffff:ffff:ffff:ffff:ffff:ffff	RU

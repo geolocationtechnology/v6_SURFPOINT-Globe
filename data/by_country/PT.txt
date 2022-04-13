@@ -2,7 +2,6 @@
 2001:0818:0000:0000:0000:0000:0000:0000	2001:081f:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2001:08a0:0000:0000:0000:0000:0000:0000	2001:08a7:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2001:0a40:0000:0000:0000:0000:0000:0000	2001:0a47:ffff:ffff:ffff:ffff:ffff:ffff	PT
-2001:0b18:0000:0000:0000:0000:0000:0000	2001:0b18:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2001:1588:0000:0000:0000:0000:0000:0000	2001:158f:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2001:15d8:0000:0000:0000:0000:0000:0000	2001:15df:ffff:ffff:ffff:ffff:ffff:ffff	PT
 2001:4cc0:0000:0000:0000:0000:0000:0000	2001:4cc0:ffff:ffff:ffff:ffff:ffff:ffff	PT
