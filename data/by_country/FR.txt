@@ -305,7 +305,6 @@
 2a02:5fa0:0000:0000:0000:0000:0000:0000	2a02:5fa0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:60e0:0000:0000:0000:0000:0000:0000	2a02:60e0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:6100:0000:0000:0000:0000:0000:0000	2a02:6100:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a02:6480:0000:0000:0000:0000:0000:0000	2a02:6480:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:6560:0000:0000:0000:0000:0000:0000	2a02:6560:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:65e0:0000:0000:0000:0000:0000:0000	2a02:65e0:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a02:6780:0000:0000:0000:0000:0000:0000	2a02:6780:ffff:ffff:ffff:ffff:ffff:ffff	FR

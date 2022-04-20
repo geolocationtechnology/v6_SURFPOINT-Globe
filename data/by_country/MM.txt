@@ -4,6 +4,7 @@
 2400:62c0:0000:0000:0000:0000:0000:0000	2400:62c0:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2400:6340:0000:0000:0000:0000:0000:0000	2400:6340:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2400:6440:0000:0000:0000:0000:0000:0000	2400:6440:ffff:ffff:ffff:ffff:ffff:ffff	MM
+2400:6fa0:0000:0000:0000:0000:0000:0000	2400:6fa0:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2400:8480:0000:0000:0000:0000:0000:0000	2400:8480:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2400:ac40:0000:0000:0000:0000:0000:0000	2400:ac40:ffff:ffff:ffff:ffff:ffff:ffff	MM
 2400:de40:0000:0000:0000:0000:0000:0000	2400:de40:ffff:ffff:ffff:ffff:ffff:ffff	MM
