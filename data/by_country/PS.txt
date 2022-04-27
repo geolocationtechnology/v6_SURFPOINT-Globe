@@ -35,3 +35,4 @@
 2a0f:e800:0000:0000:0000:0000:0000:0000	2a0f:e807:ffff:ffff:ffff:ffff:ffff:ffff	PS
 2a11:0a40:0000:0000:0000:0000:0000:0000	2a11:0a47:ffff:ffff:ffff:ffff:ffff:ffff	PS
 2a11:ac80:0000:0000:0000:0000:0000:0000	2a11:ac87:ffff:ffff:ffff:ffff:ffff:ffff	PS
+2a12:cf40:0000:0000:0000:0000:0000:0000	2a12:cf40:ffff:ffff:ffff:ffff:ffff:ffff	PS

@@ -86,7 +86,6 @@
 2a07:9780:0000:0000:0000:0000:0000:0000	2a07:9787:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a07:c1c0:0000:0000:0000:0000:0000:0000	2a07:c1c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a07:c440:0000:0000:0000:0000:0000:0000	2a07:c447:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a07:f300:0000:0000:0000:0000:0000:0000	2a07:f307:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a09:0100:0000:0000:0000:0000:0000:0000	2a09:0100:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a09:0b80:0000:0000:0000:0000:0000:0000	2a09:0b87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a09:1340:0000:0000:0000:0000:0000:0000	2a09:1347:ffff:ffff:ffff:ffff:ffff:ffff	RO
@@ -188,13 +187,14 @@
 2a11:6740:0000:0000:0000:0000:0000:0000	2a11:6747:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a11:7100:0000:0000:0000:0000:0000:0000	2a11:7107:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a11:8b00:0000:0000:0000:0000:0000:0000	2a11:8b07:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a11:fd80:0000:0000:0000:0000:0000:0000	2a11:fd87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:4a80:0000:0000:0000:0000:0000:0000	2a12:4a87:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a12:4ac0:0000:0000:0000:0000:0000:0000	2a12:4ac7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:5500:0000:0000:0000:0000:0000:0000	2a12:5507:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:5700:0000:0000:0000:0000:0000:0000	2a12:5707:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:5f00:0000:0000:0000:0000:0000:0000	2a12:5f07:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:97c0:0000:0000:0000:0000:0000:0000	2a12:97c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:9dc0:0000:0000:0000:0000:0000:0000	2a12:9dc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a12:ac40:0000:0000:0000:0000:0000:0000	2a12:ac47:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:aec0:0000:0000:0000:0000:0000:0000	2a12:aec7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:cdc0:0000:0000:0000:0000:0000:0000	2a12:cdc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:d540:0000:0000:0000:0000:0000:0000	2a12:d547:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:d5c0:0000:0000:0000:0000:0000:0000	2a12:d5c7:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a12:d6c0:0000:0000:0000:0000:0000:0000	2a12:d6c7:ffff:ffff:ffff:ffff:ffff:ffff	RO

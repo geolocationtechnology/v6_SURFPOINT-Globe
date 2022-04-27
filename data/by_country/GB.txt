@@ -1945,6 +1945,9 @@
 2a12:ca00:0000:0000:0000:0000:0000:0000	2a12:ca07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:cb80:0000:0000:0000:0000:0000:0000	2a12:cb87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:cf00:0000:0000:0000:0000:0000:0000	2a12:cf07:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:cfc0:0000:0000:0000:0000:0000:0000	2a12:cfc7:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:d240:0000:0000:0000:0000:0000:0000	2a12:d247:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:d3c0:0000:0000:0000:0000:0000:0000	2a12:d3c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:d580:0000:0000:0000:0000:0000:0000	2a12:d587:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:d700:0000:0000:0000:0000:0000:0000	2a12:d707:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:d880:0000:0000:0000:0000:0000:0000	2a12:d887:ffff:ffff:ffff:ffff:ffff:ffff	GB

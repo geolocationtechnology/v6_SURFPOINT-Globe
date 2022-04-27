@@ -352,7 +352,7 @@
 2a01:5580:0000:0000:0000:0000:0000:0000	2a01:5580:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:55c0:0000:0000:0000:0000:0000:0000	2a01:55c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:55e0:0000:0000:0000:0000:0000:0000	2a01:55e7:ffff:ffff:ffff:ffff:ffff:ffff	DE
-2a01:5900:0000:0000:0000:0000:0000:0000	2a01:5900:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a01:5900:0000:0000:0000:0000:0000:0000	2a01:5907:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:6420:0000:0000:0000:0000:0000:0000	2a01:6427:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:64c0:0000:0000:0000:0000:0000:0000	2a01:64c0:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:66a0:0000:0000:0000:0000:0000:0000	2a01:66a0:ffff:ffff:ffff:ffff:ffff:ffff	DE
