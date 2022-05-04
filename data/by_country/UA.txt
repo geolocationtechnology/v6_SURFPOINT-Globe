@@ -439,4 +439,5 @@
 2a12:b780:0000:0000:0000:0000:0000:0000	2a12:b787:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a12:bf80:0000:0000:0000:0000:0000:0000	2a12:bf87:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a12:c480:0000:0000:0000:0000:0000:0000	2a12:c487:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a12:e4c0:0000:0000:0000:0000:0000:0000	2a12:e4c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a12:e800:0000:0000:0000:0000:0000:0000	2a12:e807:ffff:ffff:ffff:ffff:ffff:ffff	UA

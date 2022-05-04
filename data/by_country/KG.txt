@@ -16,3 +16,4 @@
 2a0f:5240:0000:0000:0000:0000:0000:0000	2a0f:5240:ffff:ffff:ffff:ffff:ffff:ffff	KG
 2a10:0680:0000:0000:0000:0000:0000:0000	2a10:0680:ffff:ffff:ffff:ffff:ffff:ffff	KG
 2a11:a380:0000:0000:0000:0000:0000:0000	2a11:a387:ffff:ffff:ffff:ffff:ffff:ffff	KG
+2a12:db40:0000:0000:0000:0000:0000:0000	2a12:db47:ffff:ffff:ffff:ffff:ffff:ffff	KG

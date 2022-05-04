@@ -30,6 +30,7 @@
 2400:6d60:0000:0000:0000:0000:0000:0000	2400:6d60:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:7300:0000:0000:0000:0000:0000:0000	2400:7300:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:7460:0000:0000:0000:0000:0000:0000	2400:7460:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2400:74a0:0000:0000:0000:0000:0000:0000	2400:74a0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:7a00:0000:0000:0000:0000:0000:0000	2400:7a00:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:7a80:0000:0000:0000:0000:0000:0000	2400:7a80:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:7e40:0000:0000:0000:0000:0000:0000	2400:7e40:ffff:ffff:ffff:ffff:ffff:ffff	HK
@@ -522,6 +523,7 @@
 2a12:b580:0000:0000:0000:0000:0000:0000	2a12:b587:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:be00:0000:0000:0000:0000:0000:0000	2a12:be07:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:df00:0000:0000:0000:0000:0000:0000	2a12:df00:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a12:e040:0000:0000:0000:0000:0000:0000	2a12:e047:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:e100:0000:0000:0000:0000:0000:0000	2a12:e107:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:e580:0000:0000:0000:0000:0000:0000	2a12:e587:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:e680:0000:0000:0000:0000:0000:0000	2a12:e687:ffff:ffff:ffff:ffff:ffff:ffff	HK

@@ -1954,9 +1954,14 @@
 2a12:d980:0000:0000:0000:0000:0000:0000	2a12:d987:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:da00:0000:0000:0000:0000:0000:0000	2a12:da07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:db80:0000:0000:0000:0000:0000:0000	2a12:db87:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:dc40:0000:0000:0000:0000:0000:0000	2a12:dc47:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:dd40:0000:0000:0000:0000:0000:0000	2a12:dd47:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:dec0:0000:0000:0000:0000:0000:0000	2a12:dec7:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:df40:0000:0000:0000:0000:0000:0000	2a12:df47:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:df80:0000:0000:0000:0000:0000:0000	2a12:df87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:e180:0000:0000:0000:0000:0000:0000	2a12:e187:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:e200:0000:0000:0000:0000:0000:0000	2a12:e207:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a12:e540:0000:0000:0000:0000:0000:0000	2a12:e540:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:e880:0000:0000:0000:0000:0000:0000	2a12:e887:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:e980:0000:0000:0000:0000:0000:0000	2a12:e987:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:ea00:0000:0000:0000:0000:0000:0000	2a12:ea07:ffff:ffff:ffff:ffff:ffff:ffff	GB

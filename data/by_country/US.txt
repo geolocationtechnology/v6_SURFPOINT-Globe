@@ -507,6 +507,11 @@
 2602:080f:4000:0000:0000:0000:0000:0000	2602:080f:40ff:ffff:ffff:ffff:ffff:ffff	US
 2602:080f:5000:0000:0000:0000:0000:0000	2602:080f:500f:ffff:ffff:ffff:ffff:ffff	US
 2602:080f:7000:0000:0000:0000:0000:0000	2602:080f:700f:ffff:ffff:ffff:ffff:ffff	US
+2602:080f:8000:0000:0000:0000:0000:0000	2602:080f:80ff:ffff:ffff:ffff:ffff:ffff	US
+2602:fb79:0000:0000:0000:0000:0000:0000	2602:fb79:00ff:ffff:ffff:ffff:ffff:ffff	US
+2602:fb7b:0000:0000:0000:0000:0000:0000	2602:fb7b:0fff:ffff:ffff:ffff:ffff:ffff	US
+2602:fb7c:0000:0000:0000:0000:0000:0000	2602:fb7c:0fff:ffff:ffff:ffff:ffff:ffff	US
+2602:fb7d:0000:0000:0000:0000:0000:0000	2602:fb7d:0fff:ffff:ffff:ffff:ffff:ffff	US
 2602:fb7e:0000:0000:0000:0000:0000:0000	2602:fb7e:00ff:ffff:ffff:ffff:ffff:ffff	US
 2602:fb7f:0000:0000:0000:0000:0000:0000	2602:fb7f:0fff:ffff:ffff:ffff:ffff:ffff	US
 2602:fb80:0000:0000:0000:0000:0000:0000	2602:fb80:00ff:ffff:ffff:ffff:ffff:ffff	US
@@ -3675,6 +3680,7 @@
 2606:cc80:0000:0000:0000:0000:0000:0000	2606:cc80:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:ccc0:0000:0000:0000:0000:0000:0000	2606:ccc0:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:cd00:0000:0000:0000:0000:0000:0000	2606:cd00:ffff:ffff:ffff:ffff:ffff:ffff	US
+2606:cd40:0000:0000:0000:0000:0000:0000	2606:cd40:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:cd80:0000:0000:0000:0000:0000:0000	2606:cd80:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:ce80:0000:0000:0000:0000:0000:0000	2606:ce80:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:cf00:0000:0000:0000:0000:0000:0000	2606:cf00:ffff:ffff:ffff:ffff:ffff:ffff	US
@@ -5381,6 +5387,7 @@
 2620:00aa:6000:0000:0000:0000:0000:0000	2620:00aa:6000:ffff:ffff:ffff:ffff:ffff	US
 2620:00aa:a000:0000:0000:0000:0000:0000	2620:00aa:a000:ffff:ffff:ffff:ffff:ffff	US
 2620:00aa:c000:0000:0000:0000:0000:0000	2620:00aa:c000:ffff:ffff:ffff:ffff:ffff	US
+2620:00aa:e000:0000:0000:0000:0000:0000	2620:00aa:e000:ffff:ffff:ffff:ffff:ffff	US
 2620:00ab:0000:0000:0000:0000:0000:0000	2620:00ab:0000:ffff:ffff:ffff:ffff:ffff	US
 2620:00ab:4000:0000:0000:0000:0000:0000	2620:00ab:4000:ffff:ffff:ffff:ffff:ffff	US
 2620:00ab:8000:0000:0000:0000:0000:0000	2620:00ab:8000:ffff:ffff:ffff:ffff:ffff	US

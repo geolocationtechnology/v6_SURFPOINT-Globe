@@ -2111,5 +2111,8 @@
 2a12:c4c0:0000:0000:0000:0000:0000:0000	2a12:c4c0:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:c600:0000:0000:0000:0000:0000:0000	2a12:c607:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:ca80:0000:0000:0000:0000:0000:0000	2a12:ca87:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:de40:0000:0000:0000:0000:0000:0000	2a12:de47:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:e0c0:0000:0000:0000:0000:0000:0000	2a12:e0c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:e140:0000:0000:0000:0000:0000:0000	2a12:e147:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:eb00:0000:0000:0000:0000:0000:0000	2a12:eb07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:f600:0000:0000:0000:0000:0000:0000	2a12:f600:ffff:ffff:ffff:ffff:ffff:ffff	DE

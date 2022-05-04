@@ -1817,11 +1817,14 @@
 2a12:dc00:0000:0000:0000:0000:0000:0000	2a12:dc07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:dc80:0000:0000:0000:0000:0000:0000	2a12:dc87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:de80:0000:0000:0000:0000:0000:0000	2a12:de87:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a12:dfc0:0000:0000:0000:0000:0000:0000	2a12:dfc7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:e000:0000:0000:0000:0000:0000:0000	2a12:e007:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:e080:0000:0000:0000:0000:0000:0000	2a12:e087:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a12:e1c0:0000:0000:0000:0000:0000:0000	2a12:e1c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:e280:0000:0000:0000:0000:0000:0000	2a12:e287:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:e400:0000:0000:0000:0000:0000:0000	2a12:e407:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:e480:0000:0000:0000:0000:0000:0000	2a12:e487:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a12:e5c0:0000:0000:0000:0000:0000:0000	2a12:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:e600:0000:0000:0000:0000:0000:0000	2a12:e607:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:eb80:0000:0000:0000:0000:0000:0000	2a12:eb87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:ee00:0000:0000:0000:0000:0000:0000	2a12:ee07:ffff:ffff:ffff:ffff:ffff:ffff	NL

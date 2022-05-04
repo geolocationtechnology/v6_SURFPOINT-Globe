@@ -258,3 +258,4 @@
 2a11:d6c0:0000:0000:0000:0000:0000:0000	2a11:d6c7:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a12:71c0:0000:0000:0000:0000:0000:0000	2a12:71c7:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a12:b440:0000:0000:0000:0000:0000:0000	2a12:b447:ffff:ffff:ffff:ffff:ffff:ffff	FI
+2a12:d940:0000:0000:0000:0000:0000:0000	2a12:d947:ffff:ffff:ffff:ffff:ffff:ffff	FI
