@@ -55,7 +55,6 @@
 2400:3c60:0000:0000:0000:0000:0000:0000	2400:3c60:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3ca0:0000:0000:0000:0000:0000:0000	2400:3ca0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3ce0:0000:0000:0000:0000:0000:0000	2400:3ce0:ffff:ffff:ffff:ffff:ffff:ffff	IN
-2400:3d40:0000:0000:0000:0000:0000:0000	2400:3d40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3de0:0000:0000:0000:0000:0000:0000	2400:3de0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3fe0:0000:0000:0000:0000:0000:0000	2400:3fe0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:4480:0000:0000:0000:0000:0000:0000	2400:4480:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -122,8 +121,12 @@
 2400:7120:0000:0000:0000:0000:0000:0000	2400:7120:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:7160:0000:0000:0000:0000:0000:0000	2400:7160:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:7220:0000:0000:0000:0000:0000:0000	2400:7220:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:76e0:0000:0000:0000:0000:0000:0000	2400:76e0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:7780:0000:0000:0000:0000:0000:0000	2400:7780:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:78e0:0000:0000:0000:0000:0000:0000	2400:78e0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:7900:0000:0000:0000:0000:0000:0000	2400:7900:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:79a0:0000:0000:0000:0000:0000:0000	2400:79a0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:7a60:0000:0000:0000:0000:0000:0000	2400:7a60:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:7c80:0000:0000:0000:0000:0000:0000	2400:7c80:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:80c0:0000:0000:0000:0000:0000:0000	2400:80c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:8180:0000:0000:0000:0000:0000:0000	2400:8180:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -277,7 +280,6 @@
 2402:ccc0:0000:0000:0000:0000:0000:0000	2402:ccc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2402:cd00:0000:0000:0000:0000:0000:0000	2402:cd00:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2402:ce80:0000:0000:0000:0000:0000:0000	2402:ce80:ffff:ffff:ffff:ffff:ffff:ffff	IN
-2402:cfc0:0000:0000:0000:0000:0000:0000	2402:cfc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2402:d400:0000:0000:0000:0000:0000:0000	2402:d400:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2402:d500:0000:0000:0000:0000:0000:0000	2402:d500:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2402:d540:0000:0000:0000:0000:0000:0000	2402:d540:ffff:ffff:ffff:ffff:ffff:ffff	IN

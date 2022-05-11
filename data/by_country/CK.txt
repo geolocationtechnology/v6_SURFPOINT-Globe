@@ -1,1 +1,2 @@
+2400:76a0:0000:0000:0000:0000:0000:0000	2400:76a0:ffff:ffff:ffff:ffff:ffff:ffff	CK
 2407:5800:0000:0000:0000:0000:0000:0000	2407:5800:ffff:ffff:ffff:ffff:ffff:ffff	CK

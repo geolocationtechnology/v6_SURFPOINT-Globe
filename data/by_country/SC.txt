@@ -182,6 +182,9 @@
 2a12:7c80:0000:0000:0000:0000:0000:0000	2a12:7c87:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a12:ac40:0000:0000:0000:0000:0000:0000	2a12:ac47:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a12:b080:0000:0000:0000:0000:0000:0000	2a12:b087:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a12:d540:0000:0000:0000:0000:0000:0000	2a12:d547:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a12:d5c0:0000:0000:0000:0000:0000:0000	2a12:d5c7:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a12:d6c0:0000:0000:0000:0000:0000:0000	2a12:d6c7:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2c0f:0f00:0000:0000:0000:0000:0000:0000	2c0f:0f00:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2c0f:2800:0000:0000:0000:0000:0000:0000	2c0f:2800:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2c0f:e838:0000:0000:0000:0000:0000:0000	2c0f:e838:ffff:ffff:ffff:ffff:ffff:ffff	SC
