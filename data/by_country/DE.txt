@@ -2120,4 +2120,7 @@
 2a12:eb00:0000:0000:0000:0000:0000:0000	2a12:eb07:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:edc0:0000:0000:0000:0000:0000:0000	2a12:edc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:ee40:0000:0000:0000:0000:0000:0000	2a12:ee47:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:efc0:0000:0000:0000:0000:0000:0000	2a12:efc7:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:f040:0000:0000:0000:0000:0000:0000	2a12:f047:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:f140:0000:0000:0000:0000:0000:0000	2a12:f147:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:f600:0000:0000:0000:0000:0000:0000	2a12:f600:ffff:ffff:ffff:ffff:ffff:ffff	DE

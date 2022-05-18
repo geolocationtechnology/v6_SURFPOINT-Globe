@@ -28,7 +28,6 @@
 2400:1be0:0000:0000:0000:0000:0000:0000	2400:1be0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:1ce0:0000:0000:0000:0000:0000:0000	2400:1ce0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:1e20:0000:0000:0000:0000:0000:0000	2400:1e20:ffff:ffff:ffff:ffff:ffff:ffff	TW
-2400:1e60:0000:0000:0000:0000:0000:0000	2400:1e60:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:30a0:0000:0000:0000:0000:0000:0000	2400:30a0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:37a0:0000:0000:0000:0000:0000:0000	2400:37a0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2400:37e0:0000:0000:0000:0000:0000:0000	2400:37e0:ffff:ffff:ffff:ffff:ffff:ffff	TW
@@ -262,7 +261,6 @@
 2406:d7c0:0000:0000:0000:0000:0000:0000	2406:d7c0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:db40:0000:0000:0000:0000:0000:0000	2406:db40:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:dc40:0000:0000:0000:0000:0000:0000	2406:dc40:ffff:ffff:ffff:ffff:ffff:ffff	TW
-2406:df40:0000:0000:0000:0000:0000:0000	2406:df40:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:e5c0:0000:0000:0000:0000:0000:0000	2406:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:ee40:0000:0000:0000:0000:0000:0000	2406:ee40:ffff:ffff:ffff:ffff:ffff:ffff	TW
 2406:f1c0:0000:0000:0000:0000:0000:0000	2406:f1c0:ffff:ffff:ffff:ffff:ffff:ffff	TW

@@ -1,2 +1,3 @@
+2c0f:1680:0000:0000:0000:0000:0000:0000	2c0f:1680:ffff:ffff:ffff:ffff:ffff:ffff	GQ
 2c0f:f840:0000:0000:0000:0000:0000:0000	2c0f:f840:ffff:ffff:ffff:ffff:ffff:ffff	GQ
 2c0f:f8c0:0000:0000:0000:0000:0000:0000	2c0f:f8c0:ffff:ffff:ffff:ffff:ffff:ffff	GQ

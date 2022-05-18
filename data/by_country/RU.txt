@@ -1125,6 +1125,7 @@
 2a09:9b00:0000:0000:0000:0000:0000:0000	2a09:9b07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:9d80:0000:0000:0000:0000:0000:0000	2a09:9d87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:9e80:0000:0000:0000:0000:0000:0000	2a09:9e87:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a09:9f00:0000:0000:0000:0000:0000:0000	2a09:9f07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:a100:0000:0000:0000:0000:0000:0000	2a09:a107:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:a200:0000:0000:0000:0000:0000:0000	2a09:a207:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a09:a4c0:0000:0000:0000:0000:0000:0000	2a09:a4c7:ffff:ffff:ffff:ffff:ffff:ffff	RU

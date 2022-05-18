@@ -285,6 +285,7 @@
 2a0f:0b40:0000:0000:0000:0000:0000:0000	2a0f:0b47:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0f:2280:0000:0000:0000:0000:0000:0000	2a0f:2287:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a0f:2640:0000:0000:0000:0000:0000:0000	2a0f:2647:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a0f:dc80:0000:0000:0000:0000:0000:0000	2a0f:dc87:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a10:0e80:0000:0000:0000:0000:0000:0000	2a10:0e87:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a10:1480:0000:0000:0000:0000:0000:0000	2a10:1487:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a10:2a80:0000:0000:0000:0000:0000:0000	2a10:2a87:ffff:ffff:ffff:ffff:ffff:ffff	DK

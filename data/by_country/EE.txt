@@ -113,6 +113,7 @@
 2a0e:5800:0000:0000:0000:0000:0000:0000	2a0e:5807:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:7c80:0000:0000:0000:0000:0000:0000	2a0e:7c87:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:7d80:0000:0000:0000:0000:0000:0000	2a0e:7d87:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a0e:8340:0000:0000:0000:0000:0000:0000	2a0e:8340:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:8680:0000:0000:0000:0000:0000:0000	2a0e:8687:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:8a80:0000:0000:0000:0000:0000:0000	2a0e:8a87:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:8e40:0000:0000:0000:0000:0000:0000	2a0e:8e47:ffff:ffff:ffff:ffff:ffff:ffff	EE

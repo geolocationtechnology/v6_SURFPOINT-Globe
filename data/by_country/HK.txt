@@ -33,6 +33,8 @@
 2400:74a0:0000:0000:0000:0000:0000:0000	2400:74a0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:7a00:0000:0000:0000:0000:0000:0000	2400:7a00:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:7a80:0000:0000:0000:0000:0000:0000	2400:7a80:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2400:7ba0:0000:0000:0000:0000:0000:0000	2400:7ba0:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2400:7ca0:0000:0000:0000:0000:0000:0000	2400:7ca0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:7e40:0000:0000:0000:0000:0000:0000	2400:7e40:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:84c0:0000:0000:0000:0000:0000:0000	2400:84c0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2400:8540:0000:0000:0000:0000:0000:0000	2400:8540:ffff:ffff:ffff:ffff:ffff:ffff	HK
