@@ -53,6 +53,7 @@
 2401:9ec0:0000:0000:0000:0000:0000:0000	2401:9ec0:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2401:a000:0000:0000:0000:0000:0000:0000	2401:a000:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2401:a800:0000:0000:0000:0000:0000:0000	2401:a800:ffff:ffff:ffff:ffff:ffff:ffff	KR
+2401:ae40:0000:0000:0000:0000:0000:0000	2401:ae40:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2401:c500:0000:0000:0000:0000:0000:0000	2401:c500:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2401:e200:0000:0000:0000:0000:0000:0000	2401:e200:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2402:0000:0000:0000:0000:0000:0000:0000	2402:03ff:ffff:ffff:ffff:ffff:ffff:ffff	KR

@@ -11,6 +11,7 @@
 2a07:6040:0000:0000:0000:0000:0000:0000	2a07:6047:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:0300:0000:0000:0000:0000:0000:0000	2c0f:0300:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:1a00:0000:0000:0000:0000:0000:0000	2c0f:1a00:ffff:ffff:ffff:ffff:ffff:ffff	AO
+2c0f:1c80:0000:0000:0000:0000:0000:0000	2c0f:1c80:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:2700:0000:0000:0000:0000:0000:0000	2c0f:2700:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:5600:0000:0000:0000:0000:0000:0000	2c0f:5600:ffff:ffff:ffff:ffff:ffff:ffff	AO
 2c0f:ea28:0000:0000:0000:0000:0000:0000	2c0f:ea28:ffff:ffff:ffff:ffff:ffff:ffff	AO

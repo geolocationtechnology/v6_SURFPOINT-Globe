@@ -131,6 +131,10 @@
 2400:7b60:0000:0000:0000:0000:0000:0000	2400:7b60:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:7be0:0000:0000:0000:0000:0000:0000	2400:7be0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:7c80:0000:0000:0000:0000:0000:0000	2400:7c80:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:7e60:0000:0000:0000:0000:0000:0000	2400:7e60:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:7f60:0000:0000:0000:0000:0000:0000	2400:7f60:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:7fe0:0000:0000:0000:0000:0000:0000	2400:7fe0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:80a0:0000:0000:0000:0000:0000:0000	2400:80a0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:80c0:0000:0000:0000:0000:0000:0000	2400:80c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:8180:0000:0000:0000:0000:0000:0000	2400:8180:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:85c0:0000:0000:0000:0000:0000:0000	2400:85c0:ffff:ffff:ffff:ffff:ffff:ffff	IN

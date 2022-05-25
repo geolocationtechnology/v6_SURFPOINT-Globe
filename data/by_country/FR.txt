@@ -540,7 +540,6 @@
 2a05:5640:0000:0000:0000:0000:0000:0000	2a05:5647:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:58c0:0000:0000:0000:0000:0000:0000	2a05:58c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:59c0:0000:0000:0000:0000:0000:0000	2a05:59c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a05:5b40:0000:0000:0000:0000:0000:0000	2a05:5b47:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:5c00:0000:0000:0000:0000:0000:0000	2a05:5c07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:5f80:0000:0000:0000:0000:0000:0000	2a05:5f87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a05:6340:0000:0000:0000:0000:0000:0000	2a05:6347:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -1173,3 +1172,4 @@
 2a12:aa40:0000:0000:0000:0000:0000:0000	2a12:aa40:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:b0c0:0000:0000:0000:0000:0000:0000	2a12:b0c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:f280:0000:0000:0000:0000:0000:0000	2a12:f287:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a12:f7c0:0000:0000:0000:0000:0000:0000	2a12:f7c7:ffff:ffff:ffff:ffff:ffff:ffff	FR

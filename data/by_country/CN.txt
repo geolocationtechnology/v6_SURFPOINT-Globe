@@ -227,7 +227,6 @@
 2400:ce00:0000:0000:0000:0000:0000:0000	2400:ce00:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:ce40:0000:0000:0000:0000:0000:0000	2400:ce40:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:cf40:0000:0000:0000:0000:0000:0000	2400:cf40:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2400:cf80:0000:0000:0000:0000:0000:0000	2400:cf80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:cfc0:0000:0000:0000:0000:0000:0000	2400:cfc0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:d0c0:0000:0000:0000:0000:0000:0000	2400:d0c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:d100:0000:0000:0000:0000:0000:0000	2400:d100:ffff:ffff:ffff:ffff:ffff:ffff	CN

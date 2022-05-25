@@ -41,6 +41,7 @@
 2a01:4c20:0000:0000:0000:0000:0000:0000	2a01:4c27:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a01:63a0:0000:0000:0000:0000:0000:0000	2a01:63a0:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a01:6be0:0000:0000:0000:0000:0000:0000	2a01:6be0:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a01:7840:0000:0000:0000:0000:0000:0000	2a01:7840:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a01:8520:0000:0000:0000:0000:0000:0000	2a01:8520:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a01:9a20:0000:0000:0000:0000:0000:0000	2a01:9a20:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a01:a3a0:0000:0000:0000:0000:0000:0000	2a01:a3a0:ffff:ffff:ffff:ffff:ffff:ffff	TR
@@ -515,3 +516,4 @@
 2a12:ef40:0000:0000:0000:0000:0000:0000	2a12:ef47:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a12:f1c0:0000:0000:0000:0000:0000:0000	2a12:f1c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a12:f380:0000:0000:0000:0000:0000:0000	2a12:f387:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a12:f6c0:0000:0000:0000:0000:0000:0000	2a12:f6c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
