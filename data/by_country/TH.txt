@@ -10,6 +10,7 @@
 2400:59c0:0000:0000:0000:0000:0000:0000	2400:59c0:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:6280:0000:0000:0000:0000:0000:0000	2400:6280:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:7b80:0000:0000:0000:0000:0000:0000	2400:7b83:ffff:ffff:ffff:ffff:ffff:ffff	TH
+2400:81a0:0000:0000:0000:0000:0000:0000	2400:81a0:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:b5c0:0000:0000:0000:0000:0000:0000	2400:b5c0:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:b840:0000:0000:0000:0000:0000:0000	2400:b840:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:c540:0000:0000:0000:0000:0000:0000	2400:c540:ffff:ffff:ffff:ffff:ffff:ffff	TH
@@ -104,3 +105,4 @@
 2407:a500:0000:0000:0000:0000:0000:0000	2407:a500:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2407:b1c0:0000:0000:0000:0000:0000:0000	2407:b1c0:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2407:ed00:0000:0000:0000:0000:0000:0000	2407:ed00:ffff:ffff:ffff:ffff:ffff:ffff	TH
+2a05:53c0:0000:0000:0000:0000:0000:0000	2a05:53c7:ffff:ffff:ffff:ffff:ffff:ffff	TH

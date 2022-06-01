@@ -103,7 +103,6 @@
 2400:f9c0:0000:0000:0000:0000:0000:0000	2400:f9c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2400:fa40:0000:0000:0000:0000:0000:0000	2400:fa40:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2400:fec0:0000:0000:0000:0000:0000:0000	2400:fec0:ffff:ffff:ffff:ffff:ffff:ffff	BD
-2401:04c0:0000:0000:0000:0000:0000:0000	2401:04c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2401:0580:0000:0000:0000:0000:0000:0000	2401:0580:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2401:06c0:0000:0000:0000:0000:0000:0000	2401:06c0:ffff:ffff:ffff:ffff:ffff:ffff	BD
 2401:0940:0000:0000:0000:0000:0000:0000	2401:0940:ffff:ffff:ffff:ffff:ffff:ffff	BD

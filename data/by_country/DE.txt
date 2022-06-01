@@ -2123,3 +2123,4 @@
 2a12:f040:0000:0000:0000:0000:0000:0000	2a12:f047:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:f140:0000:0000:0000:0000:0000:0000	2a12:f147:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a12:f600:0000:0000:0000:0000:0000:0000	2a12:f600:ffff:ffff:ffff:ffff:ffff:ffff	DE
+2a12:fb40:0000:0000:0000:0000:0000:0000	2a12:fb47:ffff:ffff:ffff:ffff:ffff:ffff	DE
