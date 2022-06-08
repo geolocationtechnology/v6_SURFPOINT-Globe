@@ -1833,4 +1833,7 @@
 2a12:f740:0000:0000:0000:0000:0000:0000	2a12:f747:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:fbc0:0000:0000:0000:0000:0000:0000	2a12:fbc7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:fc00:0000:0000:0000:0000:0000:0000	2a12:fc07:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a12:fcc0:0000:0000:0000:0000:0000:0000	2a12:fcc7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a12:fd00:0000:0000:0000:0000:0000:0000	2a12:fd00:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a12:fdc0:0000:0000:0000:0000:0000:0000	2a12:fdc7:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a13:0000:0000:0000:0000:0000:0000:0000	2a13:0007:ffff:ffff:ffff:ffff:ffff:ffff	NL

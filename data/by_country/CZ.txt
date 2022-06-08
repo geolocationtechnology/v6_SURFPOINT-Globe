@@ -541,3 +541,5 @@
 2a12:d640:0000:0000:0000:0000:0000:0000	2a12:d647:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a12:db00:0000:0000:0000:0000:0000:0000	2a12:db07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a12:f0c0:0000:0000:0000:0000:0000:0000	2a12:f0c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a12:fe40:0000:0000:0000:0000:0000:0000	2a12:fe47:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a13:1000:0000:0000:0000:0000:0000:0000	2a13:1007:ffff:ffff:ffff:ffff:ffff:ffff	CZ

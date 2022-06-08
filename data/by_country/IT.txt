@@ -246,6 +246,7 @@
 2a02:7d60:0000:0000:0000:0000:0000:0000	2a02:7d60:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:b000:0000:0000:0000:0000:0000:0000	2a02:b1ff:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:c300:0000:0000:0000:0000:0000:0000	2a02:c307:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a02:c480:0000:0000:0000:0000:0000:0000	2a02:c480:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:c540:0000:0000:0000:0000:0000:0000	2a02:c547:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:c680:0000:0000:0000:0000:0000:0000	2a02:c681:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:c700:0000:0000:0000:0000:0000:0000	2a02:c707:ffff:ffff:ffff:ffff:ffff:ffff	IT

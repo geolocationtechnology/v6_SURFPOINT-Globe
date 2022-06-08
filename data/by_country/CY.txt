@@ -109,3 +109,4 @@
 2a12:4b40:0000:0000:0000:0000:0000:0000	2a12:4b47:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a12:c040:0000:0000:0000:0000:0000:0000	2a12:c047:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a12:e740:0000:0000:0000:0000:0000:0000	2a12:e747:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a12:ff40:0000:0000:0000:0000:0000:0000	2a12:ff47:ffff:ffff:ffff:ffff:ffff:ffff	CY
