@@ -76,3 +76,4 @@
 2a12:7dc0:0000:0000:0000:0000:0000:0000	2a12:7dc7:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a12:8ec0:0000:0000:0000:0000:0000:0000	2a12:8ec7:ffff:ffff:ffff:ffff:ffff:ffff	SA
 2a12:f940:0000:0000:0000:0000:0000:0000	2a12:f947:ffff:ffff:ffff:ffff:ffff:ffff	SA
+2a13:2400:0000:0000:0000:0000:0000:0000	2a13:2407:ffff:ffff:ffff:ffff:ffff:ffff	SA

@@ -93,7 +93,7 @@
 2a01:8fc0:0000:0000:0000:0000:0000:0000	2a01:8fc0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:9420:0000:0000:0000:0000:0000:0000	2a01:9427:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:95a0:0000:0000:0000:0000:0000:0000	2a01:95a0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
-2a01:9640:0000:0000:0000:0000:0000:0000	2a01:9640:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a01:9640:0000:0000:0000:0000:0000:0000	2a01:9647:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:9f40:0000:0000:0000:0000:0000:0000	2a01:9f47:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:a040:0000:0000:0000:0000:0000:0000	2a01:a040:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:a4e0:0000:0000:0000:0000:0000:0000	2a01:a4e0:ffff:ffff:ffff:ffff:ffff:ffff	CZ

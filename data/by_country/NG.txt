@@ -1,11 +1,11 @@
 2001:4270:0000:0000:0000:0000:0000:0000	2001:4270:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2001:43b0:0000:0000:0000:0000:0000:0000	2001:43b0:ffff:ffff:ffff:ffff:ffff:ffff	NG
-2001:43fc:c000:0000:0000:0000:0000:0000	2001:43fc:c000:ffff:ffff:ffff:ffff:ffff	NG
 2a06:b940:0000:0000:0000:0000:0000:0000	2a06:b947:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:0480:0000:0000:0000:0000:0000:0000	2c0f:0480:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:1080:0000:0000:0000:0000:0000:0000	2c0f:1080:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:1f00:0000:0000:0000:0000:0000:0000	2c0f:1f00:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:2000:0000:0000:0000:0000:0000:0000	2c0f:2000:ffff:ffff:ffff:ffff:ffff:ffff	NG
+2c0f:2280:0000:0000:0000:0000:0000:0000	2c0f:2280:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:2300:0000:0000:0000:0000:0000:0000	2c0f:2300:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:4800:0000:0000:0000:0000:0000:0000	2c0f:4800:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:5480:0000:0000:0000:0000:0000:0000	2c0f:5480:ffff:ffff:ffff:ffff:ffff:ffff	NG

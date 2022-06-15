@@ -1909,7 +1909,6 @@
 2a0f:3180:0000:0000:0000:0000:0000:0000	2a0f:3187:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:3200:0000:0000:0000:0000:0000:0000	2a0f:3207:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:3ac0:0000:0000:0000:0000:0000:0000	2a0f:3ac7:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a0f:3bc0:0000:0000:0000:0000:0000:0000	2a0f:3bc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:3c40:0000:0000:0000:0000:0000:0000	2a0f:3c47:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:4000:0000:0000:0000:0000:0000:0000	2a0f:4007:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a0f:4140:0000:0000:0000:0000:0000:0000	2a0f:4147:ffff:ffff:ffff:ffff:ffff:ffff	RU
