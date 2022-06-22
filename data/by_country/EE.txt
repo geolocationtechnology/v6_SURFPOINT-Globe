@@ -150,4 +150,5 @@
 2a12:cd40:0000:0000:0000:0000:0000:0000	2a12:cd47:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a12:d0c0:0000:0000:0000:0000:0000:0000	2a12:d0c7:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a12:e240:0000:0000:0000:0000:0000:0000	2a12:e247:ffff:ffff:ffff:ffff:ffff:ffff	EE
+2a13:3600:0000:0000:0000:0000:0000:0000	2a13:3607:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a13:6000:0000:0000:0000:0000:0000:0000	2a13:6007:ffff:ffff:ffff:ffff:ffff:ffff	EE

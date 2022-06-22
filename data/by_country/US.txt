@@ -508,6 +508,11 @@
 2602:080e:f000:0000:0000:0000:0000:0000	2602:080e:f00f:ffff:ffff:ffff:ffff:ffff	US
 2602:0810:0000:0000:0000:0000:0000:0000	2602:0810:00ff:ffff:ffff:ffff:ffff:ffff	US
 2602:0810:1000:0000:0000:0000:0000:0000	2602:0810:10ff:ffff:ffff:ffff:ffff:ffff	US
+2602:0810:2000:0000:0000:0000:0000:0000	2602:0810:20ff:ffff:ffff:ffff:ffff:ffff	US
+2602:fb58:0000:0000:0000:0000:0000:0000	2602:fb58:00ff:ffff:ffff:ffff:ffff:ffff	US
+2602:fb59:0000:0000:0000:0000:0000:0000	2602:fb59:0fff:ffff:ffff:ffff:ffff:ffff	US
+2602:fb5a:0000:0000:0000:0000:0000:0000	2602:fb5a:00ff:ffff:ffff:ffff:ffff:ffff	US
+2602:fb5b:0000:0000:0000:0000:0000:0000	2602:fb5b:00ff:ffff:ffff:ffff:ffff:ffff	US
 2602:fb5c:0000:0000:0000:0000:0000:0000	2602:fb5c:00ff:ffff:ffff:ffff:ffff:ffff	US
 2602:fb5d:0000:0000:0000:0000:0000:0000	2602:fb5d:00ff:ffff:ffff:ffff:ffff:ffff	US
 2602:fb5e:0000:0000:0000:0000:0000:0000	2602:fb5e:0fff:ffff:ffff:ffff:ffff:ffff	US
@@ -2784,6 +2789,7 @@
 2605:ba00:0000:0000:0000:0000:0000:0000	2605:ba00:ffff:ffff:ffff:ffff:ffff:ffff	US
 2605:ba40:0000:0000:0000:0000:0000:0000	2605:ba40:ffff:ffff:ffff:ffff:ffff:ffff	US
 2605:bb00:0000:0000:0000:0000:0000:0000	2605:bb00:ffff:ffff:ffff:ffff:ffff:ffff	US
+2605:bb40:0000:0000:0000:0000:0000:0000	2605:bb40:ffff:ffff:ffff:ffff:ffff:ffff	US
 2605:bb80:0000:0000:0000:0000:0000:0000	2605:bb80:ffff:ffff:ffff:ffff:ffff:ffff	US
 2605:bbc0:0000:0000:0000:0000:0000:0000	2605:bbc0:ffff:ffff:ffff:ffff:ffff:ffff	US
 2605:bc00:0000:0000:0000:0000:0000:0000	2605:bc00:ffff:ffff:ffff:ffff:ffff:ffff	US
@@ -3732,6 +3738,7 @@
 2606:dc80:0000:0000:0000:0000:0000:0000	2606:dc80:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:dcc0:0000:0000:0000:0000:0000:0000	2606:dcc0:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:dd00:0000:0000:0000:0000:0000:0000	2606:dd00:0fff:ffff:ffff:ffff:ffff:ffff	US
+2606:dd40:0000:0000:0000:0000:0000:0000	2606:dd40:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:de80:0000:0000:0000:0000:0000:0000	2606:de80:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:df00:0000:0000:0000:0000:0000:0000	2606:df00:ffff:ffff:ffff:ffff:ffff:ffff	US
 2606:df80:0000:0000:0000:0000:0000:0000	2606:df80:ffff:ffff:ffff:ffff:ffff:ffff	US

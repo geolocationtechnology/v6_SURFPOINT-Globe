@@ -213,7 +213,6 @@
 2402:dc80:0000:0000:0000:0000:0000:0000	2402:dc80:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2402:e580:0000:0000:0000:0000:0000:0000	2402:e580:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2402:f180:0000:0000:0000:0000:0000:0000	2402:f180:ffff:ffff:ffff:ffff:ffff:ffff	HK
-2403:0040:0000:0000:0000:0000:0000:0000	2403:0040:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2403:0380:0000:0000:0000:0000:0000:0000	2403:0380:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2403:03c0:0000:0000:0000:0000:0000:0000	2403:03c0:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2403:0ac0:0000:0000:0000:0000:0000:0000	2403:0ac0:ffff:ffff:ffff:ffff:ffff:ffff	HK

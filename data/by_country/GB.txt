@@ -1975,5 +1975,6 @@
 2a12:fc80:0000:0000:0000:0000:0000:0000	2a12:fc87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:fd80:0000:0000:0000:0000:0000:0000	2a12:fd87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a12:fe80:0000:0000:0000:0000:0000:0000	2a12:fe87:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a13:2e00:0000:0000:0000:0000:0000:0000	2a13:2e07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:3800:0000:0000:0000:0000:0000:0000	2a13:3807:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:4c00:0000:0000:0000:0000:0000:0000	2a13:4c07:ffff:ffff:ffff:ffff:ffff:ffff	GB
