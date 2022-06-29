@@ -6,6 +6,7 @@
 2400:1980:0000:0000:0000:0000:0000:0000	2400:1980:ffff:ffff:ffff:ffff:ffff:ffff	AF
 2400:3080:0000:0000:0000:0000:0000:0000	2400:3080:ffff:ffff:ffff:ffff:ffff:ffff	AF
 2400:5180:0000:0000:0000:0000:0000:0000	2400:5180:ffff:ffff:ffff:ffff:ffff:ffff	AF
+2400:8b20:0000:0000:0000:0000:0000:0000	2400:8b20:ffff:ffff:ffff:ffff:ffff:ffff	AF
 2400:9cc0:0000:0000:0000:0000:0000:0000	2400:9cc0:ffff:ffff:ffff:ffff:ffff:ffff	AF
 2400:bdc0:0000:0000:0000:0000:0000:0000	2400:bdc0:ffff:ffff:ffff:ffff:ffff:ffff	AF
 2400:d5c0:0000:0000:0000:0000:0000:0000	2400:d5c0:ffff:ffff:ffff:ffff:ffff:ffff	AF

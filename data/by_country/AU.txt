@@ -423,6 +423,7 @@
 2400:88e0:0000:0000:0000:0000:0000:0000	2400:88e0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:89a0:0000:0000:0000:0000:0000:0000	2400:89a0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:8a00:0000:0000:0000:0000:0000:0000	2400:8a00:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2400:8ba0:0000:0000:0000:0000:0000:0000	2400:8ba0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:8c80:0000:0000:0000:0000:0000:0000	2400:8c80:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:8f40:0000:0000:0000:0000:0000:0000	2400:8f40:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:8f80:0000:0000:0000:0000:0000:0000	2400:8f80:ffff:ffff:ffff:ffff:ffff:ffff	AU

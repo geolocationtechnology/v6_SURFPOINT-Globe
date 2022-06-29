@@ -179,7 +179,6 @@
 2a02:0020:0000:0000:0000:0000:0000:0000	2a02:0020:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:00f8:0000:0000:0000:0000:0000:0000	2a02:00f8:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:0100:0000:0000:0000:0000:0000:0000	2a02:0100:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a02:0210:0000:0000:0000:0000:0000:0000	2a02:0210:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:0260:0000:0000:0000:0000:0000:0000	2a02:0260:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:02e8:0000:0000:0000:0000:0000:0000	2a02:02e8:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:0490:0000:0000:0000:0000:0000:0000	2a02:0497:ffff:ffff:ffff:ffff:ffff:ffff	IT

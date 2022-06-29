@@ -316,6 +316,7 @@
 2803:f7e0:0000:0000:0000:0000:0000:0000	2803:f7e0:ffff:ffff:ffff:ffff:ffff:ffff	CO
 2803:f840:0000:0000:0000:0000:0000:0000	2803:f840:ffff:ffff:ffff:ffff:ffff:ffff	CO
 2803:f860:0000:0000:0000:0000:0000:0000	2803:f860:ffff:ffff:ffff:ffff:ffff:ffff	CO
+2803:f890:0000:0000:0000:0000:0000:0000	2803:f890:ffff:ffff:ffff:ffff:ffff:ffff	CO
 2803:fd00:0000:0000:0000:0000:0000:0000	2803:fd00:ffff:ffff:ffff:ffff:ffff:ffff	CO
 2803:fe00:0000:0000:0000:0000:0000:0000	2803:fe00:ffff:ffff:ffff:ffff:ffff:ffff	CO
 2803:fe60:0000:0000:0000:0000:0000:0000	2803:fe60:ffff:ffff:ffff:ffff:ffff:ffff	CO

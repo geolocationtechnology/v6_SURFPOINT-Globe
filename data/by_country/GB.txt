@@ -1978,3 +1978,6 @@
 2a13:2e00:0000:0000:0000:0000:0000:0000	2a13:2e07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:3800:0000:0000:0000:0000:0000:0000	2a13:3807:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:4c00:0000:0000:0000:0000:0000:0000	2a13:4c07:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a13:6a00:0000:0000:0000:0000:0000:0000	2a13:6a07:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a13:7200:0000:0000:0000:0000:0000:0000	2a13:7207:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a13:7a00:0000:0000:0000:0000:0000:0000	2a13:7a07:ffff:ffff:ffff:ffff:ffff:ffff	GB
