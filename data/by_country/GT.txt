@@ -29,6 +29,7 @@
 2803:96e0:0000:0000:0000:0000:0000:0000	2803:96e0:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:9760:0000:0000:0000:0000:0000:0000	2803:9760:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:99a0:0000:0000:0000:0000:0000:0000	2803:99a0:ffff:ffff:ffff:ffff:ffff:ffff	GT
+2803:a490:0000:0000:0000:0000:0000:0000	2803:a490:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:a7a0:0000:0000:0000:0000:0000:0000	2803:a7a0:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:b4e0:0000:0000:0000:0000:0000:0000	2803:b4e0:ffff:ffff:ffff:ffff:ffff:ffff	GT
 2803:b760:0000:0000:0000:0000:0000:0000	2803:b760:ffff:ffff:ffff:ffff:ffff:ffff	GT

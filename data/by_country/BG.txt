@@ -62,6 +62,7 @@
 2a03:d240:0000:0000:0000:0000:0000:0000	2a03:d240:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a03:dac0:0000:0000:0000:0000:0000:0000	2a03:dac0:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a04:43c0:0000:0000:0000:0000:0000:0000	2a04:43c7:ffff:ffff:ffff:ffff:ffff:ffff	BG
+2a04:5b80:0000:0000:0000:0000:0000:0000	2a04:5b87:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a04:7080:0000:0000:0000:0000:0000:0000	2a04:7087:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a04:df00:0000:0000:0000:0000:0000:0000	2a04:df07:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a04:f280:0000:0000:0000:0000:0000:0000	2a04:f287:ffff:ffff:ffff:ffff:ffff:ffff	BG

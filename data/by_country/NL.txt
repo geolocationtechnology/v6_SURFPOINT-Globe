@@ -47,6 +47,7 @@
 2001:4cb8:0000:0000:0000:0000:0000:0000	2001:4cbf:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2001:4d60:0000:0000:0000:0000:0000:0000	2001:4d60:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2001:4de0:0000:0000:0000:0000:0000:0000	2001:4de0:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2400:8fe0:0000:0000:0000:0000:0000:0000	2400:8fe0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2402:20c0:0000:0000:0000:0000:0000:0000	2402:20c0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2403:3300:0000:0000:0000:0000:0000:0000	2403:3300:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2403:fa40:0000:0000:0000:0000:0000:0000	2403:fa40:ffff:ffff:ffff:ffff:ffff:ffff	NL

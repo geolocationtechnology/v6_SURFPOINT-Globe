@@ -2,6 +2,7 @@
 2001:0778:0000:0000:0000:0000:0000:0000	2001:077f:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2001:1ab8:0000:0000:0000:0000:0000:0000	2001:1abb:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2001:4048:0000:0000:0000:0000:0000:0000	2001:4048:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2400:8e20:0000:0000:0000:0000:0000:0000	2400:8e20:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2407:d140:0000:0000:0000:0000:0000:0000	2407:d140:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a00:1428:0000:0000:0000:0000:0000:0000	2a00:142f:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a00:1908:0000:0000:0000:0000:0000:0000	2a00:190f:ffff:ffff:ffff:ffff:ffff:ffff	LT

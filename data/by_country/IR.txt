@@ -394,3 +394,5 @@
 2a12:d9c0:0000:0000:0000:0000:0000:0000	2a12:d9c7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a12:fa00:0000:0000:0000:0000:0000:0000	2a12:fa07:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a12:fec0:0000:0000:0000:0000:0000:0000	2a12:fec7:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a13:2100:0000:0000:0000:0000:0000:0000	2a13:2107:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a13:2700:0000:0000:0000:0000:0000:0000	2a13:2707:ffff:ffff:ffff:ffff:ffff:ffff	IR

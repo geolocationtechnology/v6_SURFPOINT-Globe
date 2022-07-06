@@ -29,4 +29,5 @@
 2a10:9740:0000:0000:0000:0000:0000:0000	2a10:9747:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a10:d800:0000:0000:0000:0000:0000:0000	2a10:d807:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a11:d180:0000:0000:0000:0000:0000:0000	2a11:d187:ffff:ffff:ffff:ffff:ffff:ffff	JO
+2a13:1f00:0000:0000:0000:0000:0000:0000	2a13:1f07:ffff:ffff:ffff:ffff:ffff:ffff	JO
 2a13:5c00:0000:0000:0000:0000:0000:0000	2a13:5c07:ffff:ffff:ffff:ffff:ffff:ffff	JO

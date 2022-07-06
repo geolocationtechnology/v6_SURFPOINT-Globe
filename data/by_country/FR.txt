@@ -1175,4 +1175,6 @@
 2a12:b0c0:0000:0000:0000:0000:0000:0000	2a12:b0c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:f280:0000:0000:0000:0000:0000:0000	2a12:f287:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a12:f7c0:0000:0000:0000:0000:0000:0000	2a12:f7c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a13:1d00:0000:0000:0000:0000:0000:0000	2a13:1d07:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a13:2900:0000:0000:0000:0000:0000:0000	2a13:2907:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a13:6c00:0000:0000:0000:0000:0000:0000	2a13:6c07:ffff:ffff:ffff:ffff:ffff:ffff	FR

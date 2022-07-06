@@ -233,7 +233,6 @@
 2a03:62c0:0000:0000:0000:0000:0000:0000	2a03:62c0:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a03:6320:0000:0000:0000:0000:0000:0000	2a03:6320:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a03:64a0:0000:0000:0000:0000:0000:0000	2a03:64a0:ffff:ffff:ffff:ffff:ffff:ffff	ES
-2a03:6520:0000:0000:0000:0000:0000:0000	2a03:6520:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a03:67a0:0000:0000:0000:0000:0000:0000	2a03:67a0:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a03:6ca0:0000:0000:0000:0000:0000:0000	2a03:6ca0:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a03:6e20:0000:0000:0000:0000:0000:0000	2a03:6e20:ffff:ffff:ffff:ffff:ffff:ffff	ES

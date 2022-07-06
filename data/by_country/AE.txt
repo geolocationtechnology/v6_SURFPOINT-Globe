@@ -74,6 +74,7 @@
 2a0a:d200:0000:0000:0000:0000:0000:0000	2a0a:d207:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0b:0300:0000:0000:0000:0000:0000:0000	2a0b:0307:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0b:0500:0000:0000:0000:0000:0000:0000	2a0b:0507:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a0b:2a80:0000:0000:0000:0000:0000:0000	2a0b:2a87:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0b:3300:0000:0000:0000:0000:0000:0000	2a0b:3307:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0b:3700:0000:0000:0000:0000:0000:0000	2a0b:3707:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0b:4180:0000:0000:0000:0000:0000:0000	2a0b:4187:ffff:ffff:ffff:ffff:ffff:ffff	AE
@@ -93,6 +94,7 @@
 2a0e:8980:0000:0000:0000:0000:0000:0000	2a0e:8987:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0e:df40:0000:0000:0000:0000:0000:0000	2a0e:df47:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0f:0c80:0000:0000:0000:0000:0000:0000	2a0f:0c87:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a0f:59c0:0000:0000:0000:0000:0000:0000	2a0f:59c7:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0f:5f00:0000:0000:0000:0000:0000:0000	2a0f:5f07:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0f:a380:0000:0000:0000:0000:0000:0000	2a0f:a387:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a0f:a600:0000:0000:0000:0000:0000:0000	2a0f:a607:ffff:ffff:ffff:ffff:ffff:ffff	AE

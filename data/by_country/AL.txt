@@ -74,3 +74,4 @@
 2a12:e3c0:0000:0000:0000:0000:0000:0000	2a12:e3c7:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a12:fc40:0000:0000:0000:0000:0000:0000	2a12:fc47:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a12:ffc0:0000:0000:0000:0000:0000:0000	2a12:ffc7:ffff:ffff:ffff:ffff:ffff:ffff	AL
+2a13:0500:0000:0000:0000:0000:0000:0000	2a13:0500:ffff:ffff:ffff:ffff:ffff:ffff	AL
