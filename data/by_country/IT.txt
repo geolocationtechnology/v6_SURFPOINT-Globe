@@ -949,3 +949,5 @@
 2a12:ff80:0000:0000:0000:0000:0000:0000	2a12:ff87:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a13:0f00:0000:0000:0000:0000:0000:0000	2a13:0f07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a13:3e00:0000:0000:0000:0000:0000:0000	2a13:3e00:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a13:4300:0000:0000:0000:0000:0000:0000	2a13:4307:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a13:4b00:0000:0000:0000:0000:0000:0000	2a13:4b07:ffff:ffff:ffff:ffff:ffff:ffff	IT

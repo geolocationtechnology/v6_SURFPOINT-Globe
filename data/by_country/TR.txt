@@ -518,4 +518,5 @@
 2a12:f380:0000:0000:0000:0000:0000:0000	2a12:f387:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a12:f6c0:0000:0000:0000:0000:0000:0000	2a12:f6c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a13:1900:0000:0000:0000:0000:0000:0000	2a13:1907:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a13:2f00:0000:0000:0000:0000:0000:0000	2a13:2f07:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a13:4000:0000:0000:0000:0000:0000:0000	2a13:4007:ffff:ffff:ffff:ffff:ffff:ffff	TR
