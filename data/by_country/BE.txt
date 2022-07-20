@@ -83,7 +83,6 @@
 2a02:7860:0000:0000:0000:0000:0000:0000	2a02:7867:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a02:a000:0000:0000:0000:0000:0000:0000	2a02:a03f:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a02:af00:0000:0000:0000:0000:0000:0000	2a02:af07:ffff:ffff:ffff:ffff:ffff:ffff	BE
-2a03:1580:0000:0000:0000:0000:0000:0000	2a03:1580:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a03:15e0:0000:0000:0000:0000:0000:0000	2a03:15e0:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a03:1980:0000:0000:0000:0000:0000:0000	2a03:1987:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a03:1a20:0000:0000:0000:0000:0000:0000	2a03:1a20:ffff:ffff:ffff:ffff:ffff:ffff	BE
@@ -251,3 +250,5 @@
 2a12:c240:0000:0000:0000:0000:0000:0000	2a12:c247:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a12:c640:0000:0000:0000:0000:0000:0000	2a12:c647:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a12:d140:0000:0000:0000:0000:0000:0000	2a12:d147:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a13:5f00:0000:0000:0000:0000:0000:0000	2a13:5f07:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a13:6100:0000:0000:0000:0000:0000:0000	2a13:6107:ffff:ffff:ffff:ffff:ffff:ffff	BE

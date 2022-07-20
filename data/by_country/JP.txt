@@ -60,6 +60,7 @@
 2001:0dc9:0000:0000:0000:0000:0000:0000	2001:0dc9:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2001:0dd8:0022:0000:0000:0000:0000:0000	2001:0dd8:0022:ffff:ffff:ffff:ffff:ffff	JP
 2001:0dda:0000:0000:0000:0000:0000:0000	2001:0dda:0000:ffff:ffff:ffff:ffff:ffff	JP
+2001:0ddb:0000:0000:0000:0000:0000:0000	2001:0ddb:0000:ffff:ffff:ffff:ffff:ffff	JP
 2001:0de1:0000:0000:0000:0000:0000:0000	2001:0de1:003f:ffff:ffff:ffff:ffff:ffff	JP
 2001:0dfa:0000:0000:0000:0000:0000:0000	2001:0dfa:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2001:0e28:0000:0000:0000:0000:0000:0000	2001:0e28:ffff:ffff:ffff:ffff:ffff:ffff	JP

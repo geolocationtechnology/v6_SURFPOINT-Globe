@@ -1,4 +1,5 @@
 2001:0dde:0000:0000:0000:0000:0000:0000	2001:0dde:0000:ffff:ffff:ffff:ffff:ffff	MV
+2001:0dec:c000:0000:0000:0000:0000:0000	2001:0dec:c000:ffff:ffff:ffff:ffff:ffff	MV
 2401:8300:0000:0000:0000:0000:0000:0000	2401:8300:ffff:ffff:ffff:ffff:ffff:ffff	MV
 2404:ab80:0000:0000:0000:0000:0000:0000	2404:ab80:ffff:ffff:ffff:ffff:ffff:ffff	MV
 2406:e400:0000:0000:0000:0000:0000:0000	2406:e401:ffff:ffff:ffff:ffff:ffff:ffff	MV

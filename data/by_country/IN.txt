@@ -4,6 +4,8 @@
 2001:0de8:c000:0000:0000:0000:0000:0000	2001:0de8:c000:ffff:ffff:ffff:ffff:ffff	IN
 2001:0dec:4000:0000:0000:0000:0000:0000	2001:0dec:4000:ffff:ffff:ffff:ffff:ffff	IN
 2001:0ded:8000:0000:0000:0000:0000:0000	2001:0ded:8000:ffff:ffff:ffff:ffff:ffff	IN
+2001:0df0:ff40:0000:0000:0000:0000:0000	2001:0df0:ff40:ffff:ffff:ffff:ffff:ffff	IN
+2001:0df0:ffc0:0000:0000:0000:0000:0000	2001:0df0:ffc0:ffff:ffff:ffff:ffff:ffff	IN
 2001:0df2:ff00:0000:0000:0000:0000:0000	2001:0df2:ff00:ffff:ffff:ffff:ffff:ffff	IN
 2001:0df3:ff80:0000:0000:0000:0000:0000	2001:0df3:ff80:ffff:ffff:ffff:ffff:ffff	IN
 2001:0df5:fe80:0000:0000:0000:0000:0000	2001:0df5:fe80:ffff:ffff:ffff:ffff:ffff	IN
