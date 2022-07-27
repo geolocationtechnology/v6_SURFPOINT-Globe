@@ -72,6 +72,7 @@
 2803:ca20:0000:0000:0000:0000:0000:0000	2803:ca20:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:cba0:0000:0000:0000:0000:0000:0000	2803:cba0:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:ce00:0000:0000:0000:0000:0000:0000	2803:ce00:ffff:ffff:ffff:ffff:ffff:ffff	HN
+2803:d490:0000:0000:0000:0000:0000:0000	2803:d490:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:d4a0:0000:0000:0000:0000:0000:0000	2803:d4a0:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:db00:0000:0000:0000:0000:0000:0000	2803:db00:ffff:ffff:ffff:ffff:ffff:ffff	HN
 2803:e380:0000:0000:0000:0000:0000:0000	2803:e380:ffff:ffff:ffff:ffff:ffff:ffff	HN

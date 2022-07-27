@@ -364,6 +364,7 @@
 2400:1ee0:0000:0000:0000:0000:0000:0000	2400:1ee0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:1f20:0000:0000:0000:0000:0000:0000	2400:1f20:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:1f60:0000:0000:0000:0000:0000:0000	2400:1f60:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2400:1fa0:0000:0000:0000:0000:0000:0000	2400:1fa0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:3120:0000:0000:0000:0000:0000:0000	2400:3120:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:35e0:0000:0000:0000:0000:0000:0000	2400:35e0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:3620:0000:0000:0000:0000:0000:0000	2400:3620:ffff:ffff:ffff:ffff:ffff:ffff	AU

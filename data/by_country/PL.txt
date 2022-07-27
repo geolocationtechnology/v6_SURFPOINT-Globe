@@ -673,3 +673,4 @@
 2a13:0300:0000:0000:0000:0000:0000:0000	2a13:0307:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a13:1300:0000:0000:0000:0000:0000:0000	2a13:1307:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a13:2800:0000:0000:0000:0000:0000:0000	2a13:2807:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a13:6900:0000:0000:0000:0000:0000:0000	2a13:6900:ffff:ffff:ffff:ffff:ffff:ffff	PL

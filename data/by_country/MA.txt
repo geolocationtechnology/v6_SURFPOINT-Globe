@@ -1,5 +1,6 @@
 2001:4288:0000:0000:0000:0000:0000:0000	2001:4288:ffff:ffff:ffff:ffff:ffff:ffff	MA
 2001:4310:0000:0000:0000:0000:0000:0000	2001:4310:ffff:ffff:ffff:ffff:ffff:ffff	MA
+2001:43f8:1670:0000:0000:0000:0000:0000	2001:43f8:1670:ffff:ffff:ffff:ffff:ffff	MA
 2c0f:0900:0000:0000:0000:0000:0000:0000	2c0f:0900:ffff:ffff:ffff:ffff:ffff:ffff	MA
 2c0f:4100:0000:0000:0000:0000:0000:0000	2c0f:4100:ffff:ffff:ffff:ffff:ffff:ffff	MA
 2c0f:5400:0000:0000:0000:0000:0000:0000	2c0f:5400:ffff:ffff:ffff:ffff:ffff:ffff	MA

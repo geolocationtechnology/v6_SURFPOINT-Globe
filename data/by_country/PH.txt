@@ -4,7 +4,6 @@
 2001:0fe0:0000:0000:0000:0000:0000:0000	2001:0fe1:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2001:4450:0000:0000:0000:0000:0000:0000	2001:4457:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2400:1ea0:0000:0000:0000:0000:0000:0000	2400:1ea0:ffff:ffff:ffff:ffff:ffff:ffff	PH
-2400:1fa0:0000:0000:0000:0000:0000:0000	2400:1fa0:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2400:33a0:0000:0000:0000:0000:0000:0000	2400:33a0:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2400:3d60:0000:0000:0000:0000:0000:0000	2400:3d60:ffff:ffff:ffff:ffff:ffff:ffff	PH
 2400:4560:0000:0000:0000:0000:0000:0000	2400:4560:ffff:ffff:ffff:ffff:ffff:ffff	PH

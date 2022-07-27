@@ -195,5 +195,3 @@
 2a12:cdc0:0000:0000:0000:0000:0000:0000	2a12:cdc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:ec40:0000:0000:0000:0000:0000:0000	2a12:ec47:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a13:0200:0000:0000:0000:0000:0000:0000	2a13:0207:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a13:4900:0000:0000:0000:0000:0000:0000	2a13:4907:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a13:4f00:0000:0000:0000:0000:0000:0000	2a13:4f07:ffff:ffff:ffff:ffff:ffff:ffff	RO

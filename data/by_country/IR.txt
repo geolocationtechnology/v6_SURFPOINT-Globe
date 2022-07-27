@@ -397,3 +397,4 @@
 2a13:2100:0000:0000:0000:0000:0000:0000	2a13:2107:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:2700:0000:0000:0000:0000:0000:0000	2a13:2707:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:4500:0000:0000:0000:0000:0000:0000	2a13:4507:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a13:6b00:0000:0000:0000:0000:0000:0000	2a13:6b07:ffff:ffff:ffff:ffff:ffff:ffff	IR

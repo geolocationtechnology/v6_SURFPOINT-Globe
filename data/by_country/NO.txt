@@ -8,7 +8,7 @@
 2001:4b80:0000:0000:0000:0000:0000:0000	2001:4b87:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2001:4c28:0000:0000:0000:0000:0000:0000	2001:4c2f:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2001:4da8:0000:0000:0000:0000:0000:0000	2001:4da8:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2001:4dd8:0000:0000:0000:0000:0000:0000	2001:4dd8:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2001:4dd8:0000:0000:0000:0000:0000:0000	2001:4ddf:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2402:0d00:0000:0000:0000:0000:0000:0000	2402:0d00:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2406:4a80:0000:0000:0000:0000:0000:0000	2406:4a80:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a00:0e08:0000:0000:0000:0000:0000:0000	2a00:0e0f:ffff:ffff:ffff:ffff:ffff:ffff	NO
@@ -60,7 +60,7 @@
 2a00:f980:0000:0000:0000:0000:0000:0000	2a00:f987:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:0160:0000:0000:0000:0000:0000:0000	2a01:0160:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:0460:0000:0000:0000:0000:0000:0000	2a01:0460:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a01:0520:0000:0000:0000:0000:0000:0000	2a01:0520:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a01:0520:0000:0000:0000:0000:0000:0000	2a01:0527:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:0560:0000:0000:0000:0000:0000:0000	2a01:0567:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:0600:0000:0000:0000:0000:0000:0000	2a01:0600:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:0798:0000:0000:0000:0000:0000:0000	2a01:079f:ffff:ffff:ffff:ffff:ffff:ffff	NO
@@ -87,7 +87,7 @@
 2a02:00d8:0000:0000:0000:0000:0000:0000	2a02:00d8:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:00f0:0000:0000:0000:0000:0000:0000	2a02:00f0:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:0228:0000:0000:0000:0000:0000:0000	2a02:022f:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a02:0270:0000:0000:0000:0000:0000:0000	2a02:0270:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a02:0270:0000:0000:0000:0000:0000:0000	2a02:0277:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:02c8:0000:0000:0000:0000:0000:0000	2a02:02c8:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:07e0:0000:0000:0000:0000:0000:0000	2a02:07e0:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a02:09c8:0000:0000:0000:0000:0000:0000	2a02:09cf:ffff:ffff:ffff:ffff:ffff:ffff	NO
