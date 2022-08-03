@@ -1,3 +1,4 @@
+2001:07f8:0130:0000:0000:0000:0000:0000	2001:07f8:0130:ffff:ffff:ffff:ffff:ffff	RO
 2001:0b30:0000:0000:0000:0000:0000:0000	2001:0b37:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2001:4d18:0000:0000:0000:0000:0000:0000	2001:4d18:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2001:4d80:0000:0000:0000:0000:0000:0000	2001:4d80:ffff:ffff:ffff:ffff:ffff:ffff	RO
@@ -195,3 +196,5 @@
 2a12:cdc0:0000:0000:0000:0000:0000:0000	2a12:cdc7:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a12:ec40:0000:0000:0000:0000:0000:0000	2a12:ec47:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a13:0200:0000:0000:0000:0000:0000:0000	2a13:0207:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a13:7900:0000:0000:0000:0000:0000:0000	2a13:7907:ffff:ffff:ffff:ffff:ffff:ffff	RO
+2a13:7b00:0000:0000:0000:0000:0000:0000	2a13:7b07:ffff:ffff:ffff:ffff:ffff:ffff	RO

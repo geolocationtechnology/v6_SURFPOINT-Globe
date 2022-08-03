@@ -1178,3 +1178,5 @@
 2a13:1d00:0000:0000:0000:0000:0000:0000	2a13:1d07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a13:2900:0000:0000:0000:0000:0000:0000	2a13:2907:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a13:6c00:0000:0000:0000:0000:0000:0000	2a13:6c07:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a13:7500:0000:0000:0000:0000:0000:0000	2a13:7500:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a13:7700:0000:0000:0000:0000:0000:0000	2a13:7700:ffff:ffff:ffff:ffff:ffff:ffff	FR
