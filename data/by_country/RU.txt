@@ -2645,6 +2645,7 @@
 2a12:f580:0000:0000:0000:0000:0000:0000	2a12:f587:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:f980:0000:0000:0000:0000:0000:0000	2a12:f987:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a12:fac0:0000:0000:0000:0000:0000:0000	2a12:fac7:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a13:0c80:0000:0000:0000:0000:0000:0000	2a13:0c80:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a13:2300:0000:0000:0000:0000:0000:0000	2a13:2307:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a13:2500:0000:0000:0000:0000:0000:0000	2a13:2507:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a13:5500:0000:0000:0000:0000:0000:0000	2a13:5507:ffff:ffff:ffff:ffff:ffff:ffff	RU
