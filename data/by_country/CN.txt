@@ -689,7 +689,6 @@
 2402:ef80:0000:0000:0000:0000:0000:0000	2402:ef80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:f000:0000:0000:0000:0000:0000:0000	2402:f000:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:f140:0000:0000:0000:0000:0000:0000	2402:f140:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2402:f340:0000:0000:0000:0000:0000:0000	2402:f340:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:f3c0:0000:0000:0000:0000:0000:0000	2402:f3c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:f480:0000:0000:0000:0000:0000:0000	2402:f480:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:f540:0000:0000:0000:0000:0000:0000	2402:f540:ffff:ffff:ffff:ffff:ffff:ffff	CN
@@ -1136,7 +1135,6 @@
 2404:d140:0000:0000:0000:0000:0000:0000	2404:d140:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:d280:0000:0000:0000:0000:0000:0000	2404:d280:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:d3c0:0000:0000:0000:0000:0000:0000	2404:d3c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2404:d480:0000:0000:0000:0000:0000:0000	2404:d480:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:d640:0000:0000:0000:0000:0000:0000	2404:d640:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:d6c0:0000:0000:0000:0000:0000:0000	2404:d6c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2404:d7c0:0000:0000:0000:0000:0000:0000	2404:d7c0:ffff:ffff:ffff:ffff:ffff:ffff	CN

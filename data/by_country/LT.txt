@@ -249,5 +249,7 @@
 2a12:de00:0000:0000:0000:0000:0000:0000	2a12:de07:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a12:f180:0000:0000:0000:0000:0000:0000	2a12:f187:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a13:0480:0000:0000:0000:0000:0000:0000	2a13:0487:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a13:1780:0000:0000:0000:0000:0000:0000	2a13:1787:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a13:1880:0000:0000:0000:0000:0000:0000	2a13:1887:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a13:4400:0000:0000:0000:0000:0000:0000	2a13:4407:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a13:5100:0000:0000:0000:0000:0000:0000	2a13:5107:ffff:ffff:ffff:ffff:ffff:ffff	LT

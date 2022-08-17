@@ -1840,6 +1840,8 @@
 2a13:0800:0000:0000:0000:0000:0000:0000	2a13:0807:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a13:0e00:0000:0000:0000:0000:0000:0000	2a13:0e07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a13:1200:0000:0000:0000:0000:0000:0000	2a13:1207:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a13:1680:0000:0000:0000:0000:0000:0000	2a13:1687:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a13:1b80:0000:0000:0000:0000:0000:0000	2a13:1b87:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a13:2c00:0000:0000:0000:0000:0000:0000	2a13:2c07:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a13:3400:0000:0000:0000:0000:0000:0000	2a13:3407:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a13:4600:0000:0000:0000:0000:0000:0000	2a13:4607:ffff:ffff:ffff:ffff:ffff:ffff	NL

@@ -172,6 +172,9 @@
 2400:9d20:0000:0000:0000:0000:0000:0000	2400:9d20:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:9d60:0000:0000:0000:0000:0000:0000	2400:9d60:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:9d80:0000:0000:0000:0000:0000:0000	2400:9d80:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:9f60:0000:0000:0000:0000:0000:0000	2400:9f60:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:9fa0:0000:0000:0000:0000:0000:0000	2400:9fa0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:9fe0:0000:0000:0000:0000:0000:0000	2400:9fe0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:b580:0000:0000:0000:0000:0000:0000	2400:b580:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:b640:0000:0000:0000:0000:0000:0000	2400:b640:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:c6c0:0000:0000:0000:0000:0000:0000	2400:c6c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
