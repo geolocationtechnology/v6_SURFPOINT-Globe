@@ -14,7 +14,7 @@
 2a00:c920:0000:0000:0000:0000:0000:0000	2a00:c920:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a00:ca60:0000:0000:0000:0000:0000:0000	2a00:ca67:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a00:e860:0000:0000:0000:0000:0000:0000	2a00:e860:ffff:ffff:ffff:ffff:ffff:ffff	LU
-2a01:0608:0000:0000:0000:0000:0000:0000	2a01:0608:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a01:0608:0000:0000:0000:0000:0000:0000	2a01:060f:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a01:7080:0000:0000:0000:0000:0000:0000	2a01:7080:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a01:7360:0000:0000:0000:0000:0000:0000	2a01:7360:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a01:a4a0:0000:0000:0000:0000:0000:0000	2a01:a4a0:ffff:ffff:ffff:ffff:ffff:ffff	LU

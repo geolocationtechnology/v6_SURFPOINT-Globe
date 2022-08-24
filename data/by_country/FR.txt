@@ -1181,6 +1181,7 @@
 2a13:2080:0000:0000:0000:0000:0000:0000	2a13:2087:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a13:2280:0000:0000:0000:0000:0000:0000	2a13:2287:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a13:2900:0000:0000:0000:0000:0000:0000	2a13:2907:ffff:ffff:ffff:ffff:ffff:ffff	FR
+2a13:2a80:0000:0000:0000:0000:0000:0000	2a13:2a87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a13:6c00:0000:0000:0000:0000:0000:0000	2a13:6c07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a13:7500:0000:0000:0000:0000:0000:0000	2a13:7500:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a13:7700:0000:0000:0000:0000:0000:0000	2a13:7700:ffff:ffff:ffff:ffff:ffff:ffff	FR

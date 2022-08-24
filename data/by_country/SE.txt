@@ -187,7 +187,6 @@
 2a03:2780:0000:0000:0000:0000:0000:0000	2a03:2780:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:28e0:0000:0000:0000:0000:0000:0000	2a03:28e0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:2f80:0000:0000:0000:0000:0000:0000	2a03:2f80:ffff:ffff:ffff:ffff:ffff:ffff	SE
-2a03:40c0:0000:0000:0000:0000:0000:0000	2a03:40c0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:4440:0000:0000:0000:0000:0000:0000	2a03:4447:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:4bc0:0000:0000:0000:0000:0000:0000	2a03:4bc0:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a03:4f20:0000:0000:0000:0000:0000:0000	2a03:4f27:ffff:ffff:ffff:ffff:ffff:ffff	SE

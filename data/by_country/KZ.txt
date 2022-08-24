@@ -27,6 +27,7 @@
 2a05:f040:0000:0000:0000:0000:0000:0000	2a05:f047:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a06:0580:0000:0000:0000:0000:0000:0000	2a06:0587:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a06:0940:0000:0000:0000:0000:0000:0000	2a06:0947:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a06:1600:0000:0000:0000:0000:0000:0000	2a06:1607:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a06:1a00:0000:0000:0000:0000:0000:0000	2a06:1a07:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a06:6780:0000:0000:0000:0000:0000:0000	2a06:6787:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a06:8900:0000:0000:0000:0000:0000:0000	2a06:8907:ffff:ffff:ffff:ffff:ffff:ffff	KZ

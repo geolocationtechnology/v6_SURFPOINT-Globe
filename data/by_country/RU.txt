@@ -832,7 +832,6 @@
 2a06:0c40:0000:0000:0000:0000:0000:0000	2a06:0c47:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:0fc0:0000:0000:0000:0000:0000:0000	2a06:0fc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:1300:0000:0000:0000:0000:0000:0000	2a06:1307:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a06:1600:0000:0000:0000:0000:0000:0000	2a06:1607:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:2500:0000:0000:0000:0000:0000:0000	2a06:2507:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:2680:0000:0000:0000:0000:0000:0000	2a06:2687:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:2880:0000:0000:0000:0000:0000:0000	2a06:2887:ffff:ffff:ffff:ffff:ffff:ffff	RU
@@ -2648,6 +2647,9 @@
 2a13:0c80:0000:0000:0000:0000:0000:0000	2a13:0c80:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a13:2300:0000:0000:0000:0000:0000:0000	2a13:2307:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a13:2500:0000:0000:0000:0000:0000:0000	2a13:2507:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a13:2780:0000:0000:0000:0000:0000:0000	2a13:2787:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a13:2980:0000:0000:0000:0000:0000:0000	2a13:2987:ffff:ffff:ffff:ffff:ffff:ffff	RU
+2a13:2c80:0000:0000:0000:0000:0000:0000	2a13:2c87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a13:5500:0000:0000:0000:0000:0000:0000	2a13:5507:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a13:6e00:0000:0000:0000:0000:0000:0000	2a13:6e07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a13:7e00:0000:0000:0000:0000:0000:0000	2a13:7e07:ffff:ffff:ffff:ffff:ffff:ffff	RU
