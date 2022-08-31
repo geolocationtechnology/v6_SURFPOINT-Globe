@@ -30,6 +30,7 @@
 2803:1b10:0000:0000:0000:0000:0000:0000	2803:1b10:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:1b60:0000:0000:0000:0000:0000:0000	2803:1b60:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:1f80:0000:0000:0000:0000:0000:0000	2803:1f80:ffff:ffff:ffff:ffff:ffff:ffff	VE
+2803:2290:0000:0000:0000:0000:0000:0000	2803:2290:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:22c0:0000:0000:0000:0000:0000:0000	2803:22c0:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:2360:0000:0000:0000:0000:0000:0000	2803:2360:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:23e0:0000:0000:0000:0000:0000:0000	2803:23e0:ffff:ffff:ffff:ffff:ffff:ffff	VE
@@ -98,6 +99,7 @@
 2803:c090:0000:0000:0000:0000:0000:0000	2803:c090:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:c1a0:0000:0000:0000:0000:0000:0000	2803:c1a0:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:c210:0000:0000:0000:0000:0000:0000	2803:c210:ffff:ffff:ffff:ffff:ffff:ffff	VE
+2803:c290:0000:0000:0000:0000:0000:0000	2803:c290:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:c2e0:0000:0000:0000:0000:0000:0000	2803:c2e0:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:ca10:0000:0000:0000:0000:0000:0000	2803:ca10:ffff:ffff:ffff:ffff:ffff:ffff	VE
 2803:cf10:0000:0000:0000:0000:0000:0000	2803:cf10:ffff:ffff:ffff:ffff:ffff:ffff	VE

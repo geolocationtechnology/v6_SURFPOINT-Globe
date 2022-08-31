@@ -72,4 +72,5 @@
 2a12:0bc0:0000:0000:0000:0000:0000:0000	2a12:0bc0:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a12:b500:0000:0000:0000:0000:0000:0000	2a12:b507:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a13:3900:0000:0000:0000:0000:0000:0000	2a13:3900:ffff:ffff:ffff:ffff:ffff:ffff	GR
+2a13:4580:0000:0000:0000:0000:0000:0000	2a13:4587:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a13:5a00:0000:0000:0000:0000:0000:0000	2a13:5a07:ffff:ffff:ffff:ffff:ffff:ffff	GR

@@ -52,7 +52,6 @@
 2a05:4940:0000:0000:0000:0000:0000:0000	2a05:4947:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a05:7740:0000:0000:0000:0000:0000:0000	2a05:7747:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a05:acc0:0000:0000:0000:0000:0000:0000	2a05:acc7:ffff:ffff:ffff:ffff:ffff:ffff	SI
-2a06:6fc0:0000:0000:0000:0000:0000:0000	2a06:6fc7:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a06:ab40:0000:0000:0000:0000:0000:0000	2a06:ab47:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a06:c180:0000:0000:0000:0000:0000:0000	2a06:c187:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a07:8b80:0000:0000:0000:0000:0000:0000	2a07:8b83:ffff:ffff:ffff:ffff:ffff:ffff	SI
