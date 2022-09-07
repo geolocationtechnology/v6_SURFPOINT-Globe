@@ -81,7 +81,7 @@
 2a01:5740:0000:0000:0000:0000:0000:0000	2a01:5741:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a01:5e60:0000:0000:0000:0000:0000:0000	2a01:5e60:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a01:6740:0000:0000:0000:0000:0000:0000	2a01:6740:ffff:ffff:ffff:ffff:ffff:ffff	AT
-2a01:6fc0:0000:0000:0000:0000:0000:0000	2a01:6fc0:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a01:6fc0:0000:0000:0000:0000:0000:0000	2a01:6fc7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a01:80a0:0000:0000:0000:0000:0000:0000	2a01:80a0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a01:8cc0:0000:0000:0000:0000:0000:0000	2a01:8cc0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a01:9ea0:0000:0000:0000:0000:0000:0000	2a01:9ea0:ffff:ffff:ffff:ffff:ffff:ffff	AT

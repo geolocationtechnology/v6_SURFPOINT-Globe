@@ -207,6 +207,9 @@
 2400:a380:0000:0000:0000:0000:0000:0000	2400:a380:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:a420:0000:0000:0000:0000:0000:0000	2400:a420:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:a480:0000:0000:0000:0000:0000:0000	2400:a480:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2400:a5a0:0000:0000:0000:0000:0000:0000	2400:a5a0:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2400:a6a0:0000:0000:0000:0000:0000:0000	2400:a6a0:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2400:a6e0:0000:0000:0000:0000:0000:0000	2400:a6e0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:a780:0000:0000:0000:0000:0000:0000	2400:a780:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:a8c0:0000:0000:0000:0000:0000:0000	2400:a8c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:a900:0000:0000:0000:0000:0000:0000	2400:a900:ffff:ffff:ffff:ffff:ffff:ffff	CN

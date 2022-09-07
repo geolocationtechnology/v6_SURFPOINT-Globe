@@ -526,4 +526,5 @@
 2a12:e680:0000:0000:0000:0000:0000:0000	2a12:e687:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a12:e900:0000:0000:0000:0000:0000:0000	2a12:e907:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a13:1e80:0000:0000:0000:0000:0000:0000	2a13:1e87:ffff:ffff:ffff:ffff:ffff:ffff	HK
+2a13:5580:0000:0000:0000:0000:0000:0000	2a13:5587:ffff:ffff:ffff:ffff:ffff:ffff	HK
 2a13:7c00:0000:0000:0000:0000:0000:0000	2a13:7c07:ffff:ffff:ffff:ffff:ffff:ffff	HK

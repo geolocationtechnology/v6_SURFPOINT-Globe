@@ -123,4 +123,6 @@
 2a12:7840:0000:0000:0000:0000:0000:0000	2a12:7847:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a13:0a80:0000:0000:0000:0000:0000:0000	2a13:0a87:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a13:3300:0000:0000:0000:0000:0000:0000	2a13:3307:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a13:4980:0000:0000:0000:0000:0000:0000	2a13:4987:ffff:ffff:ffff:ffff:ffff:ffff	AE
+2a13:4b80:0000:0000:0000:0000:0000:0000	2a13:4b87:ffff:ffff:ffff:ffff:ffff:ffff	AE
 2a13:5200:0000:0000:0000:0000:0000:0000	2a13:5207:ffff:ffff:ffff:ffff:ffff:ffff	AE
