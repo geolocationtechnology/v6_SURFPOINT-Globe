@@ -4,7 +4,6 @@
 2001:42a8:0000:0000:0000:0000:0000:0000	2001:42a8:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2001:4328:0000:0000:0000:0000:0000:0000	2001:4328:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2001:43b8:0000:0000:0000:0000:0000:0000	2001:43b8:ffff:ffff:ffff:ffff:ffff:ffff	MU
-2a0d:9600:0000:0000:0000:0000:0000:0000	2a0d:9600:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:e808:0000:0000:0000:0000:0000:0000	2c0f:e808:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:e8f8:0000:0000:0000:0000:0000:0000	2c0f:e8f8:ffff:ffff:ffff:ffff:ffff:ffff	MU
 2c0f:ec30:0000:0000:0000:0000:0000:0000	2c0f:ec30:ffff:ffff:ffff:ffff:ffff:ffff	MU

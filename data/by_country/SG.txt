@@ -30,6 +30,7 @@
 2400:9e20:0000:0000:0000:0000:0000:0000	2400:9e20:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2400:a260:0000:0000:0000:0000:0000:0000	2400:a260:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2400:a440:0000:0000:0000:0000:0000:0000	2400:a440:ffff:ffff:ffff:ffff:ffff:ffff	SG
+2400:aa20:0000:0000:0000:0000:0000:0000	2400:aa20:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2400:bb00:0000:0000:0000:0000:0000:0000	2400:bb00:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2400:c980:0000:0000:0000:0000:0000:0000	2400:c980:ffff:ffff:ffff:ffff:ffff:ffff	SG
 2400:d800:0000:0000:0000:0000:0000:0000	2400:d803:ffff:ffff:ffff:ffff:ffff:ffff	SG

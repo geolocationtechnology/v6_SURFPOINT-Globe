@@ -45,6 +45,7 @@
 2a03:f800:0000:0000:0000:0000:0000:0000	2a03:f800:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a04:59c0:0000:0000:0000:0000:0000:0000	2a04:59c7:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a04:8a80:0000:0000:0000:0000:0000:0000	2a04:8a87:ffff:ffff:ffff:ffff:ffff:ffff	SI
+2a04:9400:0000:0000:0000:0000:0000:0000	2a04:9407:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a04:db40:0000:0000:0000:0000:0000:0000	2a04:db47:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a04:dd40:0000:0000:0000:0000:0000:0000	2a04:dd47:ffff:ffff:ffff:ffff:ffff:ffff	SI
 2a05:2280:0000:0000:0000:0000:0000:0000	2a05:2287:ffff:ffff:ffff:ffff:ffff:ffff	SI

@@ -45,6 +45,7 @@
 2400:a0a0:0000:0000:0000:0000:0000:0000	2400:a0a0:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2400:a580:0000:0000:0000:0000:0000:0000	2400:a580:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2400:ab00:0000:0000:0000:0000:0000:0000	2400:ab00:ffff:ffff:ffff:ffff:ffff:ffff	KR
+2400:b8c0:0000:0000:0000:0000:0000:0000	2400:b8c0:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2400:cf00:0000:0000:0000:0000:0000:0000	2400:cf00:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2400:e180:0000:0000:0000:0000:0000:0000	2400:e180:ffff:ffff:ffff:ffff:ffff:ffff	KR
 2400:fd80:0000:0000:0000:0000:0000:0000	2400:fd80:ffff:ffff:ffff:ffff:ffff:ffff	KR

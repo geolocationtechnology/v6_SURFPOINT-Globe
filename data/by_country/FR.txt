@@ -505,7 +505,6 @@
 2a04:9ac0:0000:0000:0000:0000:0000:0000	2a04:9ac7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a04:a480:0000:0000:0000:0000:0000:0000	2a04:a487:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a04:b280:0000:0000:0000:0000:0000:0000	2a04:b287:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a04:ba40:0000:0000:0000:0000:0000:0000	2a04:ba47:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a04:bd00:0000:0000:0000:0000:0000:0000	2a04:bd07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a04:bd40:0000:0000:0000:0000:0000:0000	2a04:bd47:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a04:c080:0000:0000:0000:0000:0000:0000	2a04:c087:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -602,7 +601,6 @@
 2a06:7440:0000:0000:0000:0000:0000:0000	2a06:7447:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:7d80:0000:0000:0000:0000:0000:0000	2a06:7d87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:8040:0000:0000:0000:0000:0000:0000	2a06:8047:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a06:8b80:0000:0000:0000:0000:0000:0000	2a06:8b87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:8bc0:0000:0000:0000:0000:0000:0000	2a06:8bc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:8c00:0000:0000:0000:0000:0000:0000	2a06:8c07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a06:9840:0000:0000:0000:0000:0000:0000	2a06:9847:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -645,7 +643,6 @@
 2a07:3800:0000:0000:0000:0000:0000:0000	2a07:3807:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:3940:0000:0000:0000:0000:0000:0000	2a07:3947:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:3a80:0000:0000:0000:0000:0000:0000	2a07:3a87:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a07:3f00:0000:0000:0000:0000:0000:0000	2a07:3f07:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:4100:0000:0000:0000:0000:0000:0000	2a07:4107:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:4200:0000:0000:0000:0000:0000:0000	2a07:4207:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a07:4b00:0000:0000:0000:0000:0000:0000	2a07:4b07:ffff:ffff:ffff:ffff:ffff:ffff	FR
@@ -740,7 +737,6 @@
 2a09:bb80:0000:0000:0000:0000:0000:0000	2a09:bb87:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a09:c6c0:0000:0000:0000:0000:0000:0000	2a09:c6c7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a09:ca00:0000:0000:0000:0000:0000:0000	2a09:ca07:ffff:ffff:ffff:ffff:ffff:ffff	FR
-2a09:ddc0:0000:0000:0000:0000:0000:0000	2a09:ddc7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a09:dec0:0000:0000:0000:0000:0000:0000	2a09:dec7:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a09:e540:0000:0000:0000:0000:0000:0000	2a09:e547:ffff:ffff:ffff:ffff:ffff:ffff	FR
 2a09:e640:0000:0000:0000:0000:0000:0000	2a09:e647:ffff:ffff:ffff:ffff:ffff:ffff	FR

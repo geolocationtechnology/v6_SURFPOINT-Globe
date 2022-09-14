@@ -124,6 +124,7 @@
 2a02:e200:0000:0000:0000:0000:0000:0000	2a02:e203:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a02:fdc0:0000:0000:0000:0000:0000:0000	2a02:fdc7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a03:0940:0000:0000:0000:0000:0000:0000	2a03:0940:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a03:0cc0:0000:0000:0000:0000:0000:0000	2a03:0cc7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a03:0f80:0000:0000:0000:0000:0000:0000	2a03:0f87:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a03:1000:0000:0000:0000:0000:0000:0000	2a03:1000:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a03:1420:0000:0000:0000:0000:0000:0000	2a03:1420:ffff:ffff:ffff:ffff:ffff:ffff	AT

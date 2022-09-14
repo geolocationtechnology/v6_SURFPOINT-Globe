@@ -1,5 +1,4 @@
 2001:1a40:0000:0000:0000:0000:0000:0000	2001:1a40:ffff:ffff:ffff:ffff:ffff:ffff	BH
-2a00:1150:0000:0000:0000:0000:0000:0000	2a00:1150:ffff:ffff:ffff:ffff:ffff:ffff	BH
 2a00:6600:0000:0000:0000:0000:0000:0000	2a00:6600:ffff:ffff:ffff:ffff:ffff:ffff	BH
 2a00:dde0:0000:0000:0000:0000:0000:0000	2a00:dde0:ffff:ffff:ffff:ffff:ffff:ffff	BH
 2a01:4600:0000:0000:0000:0000:0000:0000	2a01:4600:ffff:ffff:ffff:ffff:ffff:ffff	BH

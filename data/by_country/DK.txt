@@ -146,6 +146,7 @@
 2a04:3580:0000:0000:0000:0000:0000:0000	2a04:3587:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a04:3f00:0000:0000:0000:0000:0000:0000	2a04:3f07:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a04:3f80:0000:0000:0000:0000:0000:0000	2a04:3f87:ffff:ffff:ffff:ffff:ffff:ffff	DK
+2a04:5940:0000:0000:0000:0000:0000:0000	2a04:5947:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a04:6b00:0000:0000:0000:0000:0000:0000	2a04:6b07:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a04:6d00:0000:0000:0000:0000:0000:0000	2a04:6d07:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a04:6e80:0000:0000:0000:0000:0000:0000	2a04:6e87:ffff:ffff:ffff:ffff:ffff:ffff	DK

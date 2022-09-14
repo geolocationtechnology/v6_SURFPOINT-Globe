@@ -148,7 +148,6 @@
 2a01:8320:0000:0000:0000:0000:0000:0000	2a01:8320:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:8420:0000:0000:0000:0000:0000:0000	2a01:8420:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:8440:0000:0000:0000:0000:0000:0000	2a01:8440:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a01:84a0:0000:0000:0000:0000:0000:0000	2a01:84a0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:8540:0000:0000:0000:0000:0000:0000	2a01:8540:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:85a0:0000:0000:0000:0000:0000:0000	2a01:85a0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:8d40:0000:0000:0000:0000:0000:0000	2a01:8d47:ffff:ffff:ffff:ffff:ffff:ffff	IT

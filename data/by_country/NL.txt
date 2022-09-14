@@ -152,6 +152,7 @@
 2a00:a940:0000:0000:0000:0000:0000:0000	2a00:a940:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:ae80:0000:0000:0000:0000:0000:0000	2a00:ae80:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:b460:0000:0000:0000:0000:0000:0000	2a00:b460:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a00:b500:0000:0000:0000:0000:0000:0000	2a00:b507:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:b660:0000:0000:0000:0000:0000:0000	2a00:b660:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:bba0:0000:0000:0000:0000:0000:0000	2a00:bba0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a00:bd20:0000:0000:0000:0000:0000:0000	2a00:bd20:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -260,7 +261,6 @@
 2a02:0058:0000:0000:0000:0000:0000:0000	2a02:0058:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:0120:0000:0000:0000:0000:0000:0000	2a02:0127:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:01d8:0000:0000:0000:0000:0000:0000	2a02:01d8:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a02:0310:0000:0000:0000:0000:0000:0000	2a02:0310:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:0348:0000:0000:0000:0000:0000:0000	2a02:0348:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:0360:0000:0000:0000:0000:0000:0000	2a02:0367:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:0458:0000:0000:0000:0000:0000:0000	2a02:0458:ffff:ffff:ffff:ffff:ffff:ffff	NL
@@ -318,7 +318,7 @@
 2a02:2738:0000:0000:0000:0000:0000:0000	2a02:2738:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2770:0000:0000:0000:0000:0000:0000	2a02:2770:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:27c8:0000:0000:0000:0000:0000:0000	2a02:27c8:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a02:27f8:0000:0000:0000:0000:0000:0000	2a02:27f8:ffff:ffff:ffff:ffff:ffff:ffff	NL
+2a02:27f8:0000:0000:0000:0000:0000:0000	2a02:27ff:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2858:0000:0000:0000:0000:0000:0000	2a02:285f:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2870:0000:0000:0000:0000:0000:0000	2a02:2870:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a02:2938:0000:0000:0000:0000:0000:0000	2a02:2938:ffff:ffff:ffff:ffff:ffff:ffff	NL

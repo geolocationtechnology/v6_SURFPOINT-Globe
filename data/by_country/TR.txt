@@ -23,7 +23,6 @@
 2a00:9f20:0000:0000:0000:0000:0000:0000	2a00:9f20:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a00:a440:0000:0000:0000:0000:0000:0000	2a00:a440:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a00:cd60:0000:0000:0000:0000:0000:0000	2a00:cd60:ffff:ffff:ffff:ffff:ffff:ffff	TR
-2a00:d660:0000:0000:0000:0000:0000:0000	2a00:d667:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a00:d860:0000:0000:0000:0000:0000:0000	2a00:d860:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a00:dc00:0000:0000:0000:0000:0000:0000	2a00:dc00:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a00:e5c0:0000:0000:0000:0000:0000:0000	2a00:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	TR
@@ -189,7 +188,6 @@
 2a06:41c0:0000:0000:0000:0000:0000:0000	2a06:41c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:4b40:0000:0000:0000:0000:0000:0000	2a06:4b47:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:5180:0000:0000:0000:0000:0000:0000	2a06:5187:ffff:ffff:ffff:ffff:ffff:ffff	TR
-2a06:6680:0000:0000:0000:0000:0000:0000	2a06:6687:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:74c0:0000:0000:0000:0000:0000:0000	2a06:74c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:7dc0:0000:0000:0000:0000:0000:0000	2a06:7dc7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a06:8240:0000:0000:0000:0000:0000:0000	2a06:8247:ffff:ffff:ffff:ffff:ffff:ffff	TR
@@ -423,7 +421,6 @@
 2a0f:46c0:0000:0000:0000:0000:0000:0000	2a0f:46c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0f:6580:0000:0000:0000:0000:0000:0000	2a0f:6587:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0f:67c0:0000:0000:0000:0000:0000:0000	2a0f:67c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
-2a0f:7800:0000:0000:0000:0000:0000:0000	2a0f:7807:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0f:87c0:0000:0000:0000:0000:0000:0000	2a0f:87c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0f:8c80:0000:0000:0000:0000:0000:0000	2a0f:8c87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a0f:9fc0:0000:0000:0000:0000:0000:0000	2a0f:9fc7:ffff:ffff:ffff:ffff:ffff:ffff	TR
@@ -469,7 +466,6 @@
 2a10:a6c0:0000:0000:0000:0000:0000:0000	2a10:a6c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a10:b700:0000:0000:0000:0000:0000:0000	2a10:b707:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a10:c440:0000:0000:0000:0000:0000:0000	2a10:c447:ffff:ffff:ffff:ffff:ffff:ffff	TR
-2a10:d4c0:0000:0000:0000:0000:0000:0000	2a10:d4c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a10:ec00:0000:0000:0000:0000:0000:0000	2a10:ec07:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a10:f9c0:0000:0000:0000:0000:0000:0000	2a10:f9c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a10:fec0:0000:0000:0000:0000:0000:0000	2a10:fec7:ffff:ffff:ffff:ffff:ffff:ffff	TR
