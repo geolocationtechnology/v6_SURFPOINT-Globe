@@ -192,6 +192,8 @@
 2a13:3380:0000:0000:0000:0000:0000:0000	2a13:3387:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a13:4900:0000:0000:0000:0000:0000:0000	2a13:4907:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a13:4f00:0000:0000:0000:0000:0000:0000	2a13:4f07:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a13:5b80:0000:0000:0000:0000:0000:0000	2a13:5b87:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a13:5c80:0000:0000:0000:0000:0000:0000	2a13:5c87:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a13:7400:0000:0000:0000:0000:0000:0000	2a13:7407:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a13:7900:0000:0000:0000:0000:0000:0000	2a13:7907:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a13:7b00:0000:0000:0000:0000:0000:0000	2a13:7b07:ffff:ffff:ffff:ffff:ffff:ffff	SC

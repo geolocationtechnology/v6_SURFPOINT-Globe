@@ -90,7 +90,6 @@
 2404:c040:0000:0000:0000:0000:0000:0000	2404:c040:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2404:d400:0000:0000:0000:0000:0000:0000	2404:d400:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2404:e2c0:0000:0000:0000:0000:0000:0000	2404:e2c0:ffff:ffff:ffff:ffff:ffff:ffff	PK
-2404:ed80:0000:0000:0000:0000:0000:0000	2404:ed80:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2404:f0c0:0000:0000:0000:0000:0000:0000	2404:f0c0:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2404:f400:0000:0000:0000:0000:0000:0000	2404:f400:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2405:0c00:0000:0000:0000:0000:0000:0000	2405:0c00:ffff:ffff:ffff:ffff:ffff:ffff	PK
