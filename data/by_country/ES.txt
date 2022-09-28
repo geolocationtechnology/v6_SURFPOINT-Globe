@@ -335,6 +335,7 @@
 2a05:4440:0000:0000:0000:0000:0000:0000	2a05:4447:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:4700:0000:0000:0000:0000:0000:0000	2a05:4707:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:4ac0:0000:0000:0000:0000:0000:0000	2a05:4ac0:ffff:ffff:ffff:ffff:ffff:ffff	ES
+2a05:4cc0:0000:0000:0000:0000:0000:0000	2a05:4cc7:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:4d40:0000:0000:0000:0000:0000:0000	2a05:4d47:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:5180:0000:0000:0000:0000:0000:0000	2a05:5187:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:5280:0000:0000:0000:0000:0000:0000	2a05:5283:ffff:ffff:ffff:ffff:ffff:ffff	ES

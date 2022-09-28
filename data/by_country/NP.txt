@@ -14,6 +14,7 @@
 2400:9700:0000:0000:0000:0000:0000:0000	2400:9700:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:9720:0000:0000:0000:0000:0000:0000	2400:9720:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:a400:0000:0000:0000:0000:0000:0000	2400:a400:ffff:ffff:ffff:ffff:ffff:ffff	NP
+2400:af20:0000:0000:0000:0000:0000:0000	2400:af20:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:f0c0:0000:0000:0000:0000:0000:0000	2400:f0c0:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:f6c0:0000:0000:0000:0000:0000:0000	2400:f6c0:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2401:2b80:0000:0000:0000:0000:0000:0000	2401:2b80:ffff:ffff:ffff:ffff:ffff:ffff	NP

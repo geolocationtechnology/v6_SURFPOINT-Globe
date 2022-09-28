@@ -83,6 +83,7 @@
 2a0d:1a00:0000:0000:0000:0000:0000:0000	2a0d:1a07:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a0d:dac0:0000:0000:0000:0000:0000:0000	2a0d:dac7:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a0d:dec0:0000:0000:0000:0000:0000:0000	2a0d:dec7:ffff:ffff:ffff:ffff:ffff:ffff	MD
+2a0d:ec40:0000:0000:0000:0000:0000:0000	2a0d:ec47:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a0d:fb00:0000:0000:0000:0000:0000:0000	2a0d:fb07:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a0e:0340:0000:0000:0000:0000:0000:0000	2a0e:0347:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a0e:0f80:0000:0000:0000:0000:0000:0000	2a0e:0f87:ffff:ffff:ffff:ffff:ffff:ffff	MD

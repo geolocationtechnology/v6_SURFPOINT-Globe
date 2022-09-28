@@ -51,6 +51,7 @@
 2a0c:8240:0000:0000:0000:0000:0000:0000	2a0c:8247:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0c:9240:0000:0000:0000:0000:0000:0000	2a0c:9247:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0c:aa40:0000:0000:0000:0000:0000:0000	2a0c:aa47:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a0c:d380:0000:0000:0000:0000:0000:0000	2a0c:d387:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0c:da80:0000:0000:0000:0000:0000:0000	2a0c:da87:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0d:1000:0000:0000:0000:0000:0000:0000	2a0d:1007:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0d:1840:0000:0000:0000:0000:0000:0000	2a0d:1847:ffff:ffff:ffff:ffff:ffff:ffff	SC
