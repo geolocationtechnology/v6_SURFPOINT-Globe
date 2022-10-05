@@ -1850,6 +1850,5 @@
 2a07:f480:0000:0000:0000:0000:0000:0000	2a07:f487:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2a09:3680:0000:0000:0000:0000:0000:0000	2a09:3687:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2a0a:2840:0000:0000:0000:0000:0000:0000	2a0a:2847:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2a0d:0280:0000:0000:0000:0000:0000:0000	2a0d:0287:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2a0e:7580:0000:0000:0000:0000:0000:0000	2a0e:7587:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2a10:1cc0:0000:0000:0000:0000:0000:0000	2a10:1cc7:ffff:ffff:ffff:ffff:ffff:ffff	CN

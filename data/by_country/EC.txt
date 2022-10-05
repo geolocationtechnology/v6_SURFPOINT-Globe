@@ -69,6 +69,7 @@
 2803:57c0:0000:0000:0000:0000:0000:0000	2803:57c0:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:5810:0000:0000:0000:0000:0000:0000	2803:5810:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:59c0:0000:0000:0000:0000:0000:0000	2803:59c0:ffff:ffff:ffff:ffff:ffff:ffff	EC
+2803:5a90:0000:0000:0000:0000:0000:0000	2803:5a90:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:5c60:0000:0000:0000:0000:0000:0000	2803:5c60:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:5e10:0000:0000:0000:0000:0000:0000	2803:5e10:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:5f80:0000:0000:0000:0000:0000:0000	2803:5f80:ffff:ffff:ffff:ffff:ffff:ffff	EC
@@ -163,6 +164,7 @@
 2803:e360:0000:0000:0000:0000:0000:0000	2803:e360:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:e3e0:0000:0000:0000:0000:0000:0000	2803:e3e0:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:e620:0000:0000:0000:0000:0000:0000	2803:e620:ffff:ffff:ffff:ffff:ffff:ffff	EC
+2803:ea90:0000:0000:0000:0000:0000:0000	2803:ea90:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:ebe0:0000:0000:0000:0000:0000:0000	2803:ebe0:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:ec20:0000:0000:0000:0000:0000:0000	2803:ec20:ffff:ffff:ffff:ffff:ffff:ffff	EC
 2803:ec40:0000:0000:0000:0000:0000:0000	2803:ec40:ffff:ffff:ffff:ffff:ffff:ffff	EC
