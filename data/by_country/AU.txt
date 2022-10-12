@@ -66,6 +66,8 @@
 2001:0df1:5300:0000:0000:0000:0000:0000	2001:0df1:5300:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:54c0:0000:0000:0000:0000:0000	2001:0df1:54c0:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:5a00:0000:0000:0000:0000:0000	2001:0df1:5a00:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df1:5ac0:0000:0000:0000:0000:0000	2001:0df1:5ac0:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df1:5c40:0000:0000:0000:0000:0000	2001:0df1:5c40:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:5e00:0000:0000:0000:0000:0000	2001:0df1:5e00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:5f00:0000:0000:0000:0000:0000	2001:0df1:5f00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:6500:0000:0000:0000:0000:0000	2001:0df1:6500:ffff:ffff:ffff:ffff:ffff	AU
@@ -88,7 +90,6 @@
 2001:0df1:af80:0000:0000:0000:0000:0000	2001:0df1:af80:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:b400:0000:0000:0000:0000:0000	2001:0df1:b401:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:b800:0000:0000:0000:0000:0000	2001:0df1:b800:ffff:ffff:ffff:ffff:ffff	AU
-2001:0df1:bd00:0000:0000:0000:0000:0000	2001:0df1:bd00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:be00:0000:0000:0000:0000:0000	2001:0df1:be00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:c100:0000:0000:0000:0000:0000	2001:0df1:c100:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:c180:0000:0000:0000:0000:0000	2001:0df1:c180:ffff:ffff:ffff:ffff:ffff	AU

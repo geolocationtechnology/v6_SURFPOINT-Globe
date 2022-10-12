@@ -28,8 +28,10 @@
 2c0e:4000:0000:0000:0000:0000:0000:0000	2c0e:40ff:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:0000:0000:0000:0000:0000:0000:0000	2c0f:0000:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:0200:0000:0000:0000:0000:0000:0000	2c0f:0200:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:0380:0000:0000:0000:0000:0000:0000	2c0f:0380:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:0400:0000:0000:0000:0000:0000:0000	2c0f:0400:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:0800:0000:0000:0000:0000:0000:0000	2c0f:0800:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:0980:0000:0000:0000:0000:0000:0000	2c0f:0980:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:0a00:0000:0000:0000:0000:0000:0000	2c0f:0a00:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:0a80:0000:0000:0000:0000:0000:0000	2c0f:0a80:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:0c00:0000:0000:0000:0000:0000:0000	2c0f:0c00:ffff:ffff:ffff:ffff:ffff:ffff	ZA
