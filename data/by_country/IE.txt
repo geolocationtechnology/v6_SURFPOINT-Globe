@@ -189,3 +189,4 @@
 2a12:77c0:0000:0000:0000:0000:0000:0000	2a12:77c7:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a12:e9c0:0000:0000:0000:0000:0000:0000	2a12:e9c7:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a12:fa40:0000:0000:0000:0000:0000:0000	2a12:fa47:ffff:ffff:ffff:ffff:ffff:ffff	IE
+2a13:02c0:0000:0000:0000:0000:0000:0000	2a13:02c7:ffff:ffff:ffff:ffff:ffff:ffff	IE

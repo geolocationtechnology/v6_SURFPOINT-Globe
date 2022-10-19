@@ -5,6 +5,7 @@
 2c0f:0600:0000:0000:0000:0000:0000:0000	2c0f:0600:ffff:ffff:ffff:ffff:ffff:ffff	TZ
 2c0f:0700:0000:0000:0000:0000:0000:0000	2c0f:0700:ffff:ffff:ffff:ffff:ffff:ffff	TZ
 2c0f:0780:0000:0000:0000:0000:0000:0000	2c0f:0780:ffff:ffff:ffff:ffff:ffff:ffff	TZ
+2c0f:0b80:0000:0000:0000:0000:0000:0000	2c0f:0b80:ffff:ffff:ffff:ffff:ffff:ffff	TZ
 2c0f:5500:0000:0000:0000:0000:0000:0000	2c0f:5500:ffff:ffff:ffff:ffff:ffff:ffff	TZ
 2c0f:5c00:0000:0000:0000:0000:0000:0000	2c0f:5c00:ffff:ffff:ffff:ffff:ffff:ffff	TZ
 2c0f:6600:0000:0000:0000:0000:0000:0000	2c0f:6600:ffff:ffff:ffff:ffff:ffff:ffff	TZ

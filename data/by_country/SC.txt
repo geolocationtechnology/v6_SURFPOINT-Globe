@@ -129,6 +129,7 @@
 2a0f:c400:0000:0000:0000:0000:0000:0000	2a0f:c407:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:c780:0000:0000:0000:0000:0000:0000	2a0f:c787:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:cc00:0000:0000:0000:0000:0000:0000	2a0f:cc07:ffff:ffff:ffff:ffff:ffff:ffff	SC
+2a0f:d200:0000:0000:0000:0000:0000:0000	2a0f:d207:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:d940:0000:0000:0000:0000:0000:0000	2a0f:d947:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:d9c0:0000:0000:0000:0000:0000:0000	2a0f:d9c7:ffff:ffff:ffff:ffff:ffff:ffff	SC
 2a0f:da40:0000:0000:0000:0000:0000:0000	2a0f:da47:ffff:ffff:ffff:ffff:ffff:ffff	SC

@@ -7,3 +7,4 @@
 2606:1ec0:0000:0000:0000:0000:0000:0000	2606:1ec0:ffff:ffff:ffff:ffff:ffff:ffff	BM
 2606:9e00:0000:0000:0000:0000:0000:0000	2606:9e00:ffff:ffff:ffff:ffff:ffff:ffff	BM
 2a00:1378:0000:0000:0000:0000:0000:0000	2a00:1378:ffff:ffff:ffff:ffff:ffff:ffff	BM
+2a0a:1a40:0000:0000:0000:0000:0000:0000	2a0a:1a40:ffff:ffff:ffff:ffff:ffff:ffff	BM

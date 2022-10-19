@@ -86,7 +86,6 @@
 2a01:8cc0:0000:0000:0000:0000:0000:0000	2a01:8cc0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a01:9ea0:0000:0000:0000:0000:0000:0000	2a01:9ea0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a01:aea0:0000:0000:0000:0000:0000:0000	2a01:aea0:ffff:ffff:ffff:ffff:ffff:ffff	AT
-2a01:aee0:0000:0000:0000:0000:0000:0000	2a01:aee0:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a01:af80:0000:0000:0000:0000:0000:0000	2a01:af80:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a02:0060:0000:0000:0000:0000:0000:0000	2a02:0067:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a02:01b8:0000:0000:0000:0000:0000:0000	2a02:01bf:ffff:ffff:ffff:ffff:ffff:ffff	AT

@@ -532,6 +532,7 @@
 2400:b300:0000:0000:0000:0000:0000:0000	2400:b300:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:b440:0000:0000:0000:0000:0000:0000	2400:b440:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:b4c0:0000:0000:0000:0000:0000:0000	2400:b4c0:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2400:b6e0:0000:0000:0000:0000:0000:0000	2400:b6e0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:b780:0000:0000:0000:0000:0000:0000	2400:b780:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:b800:0000:0000:0000:0000:0000:0000	2400:b800:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:b880:0000:0000:0000:0000:0000:0000	2400:b880:ffff:ffff:ffff:ffff:ffff:ffff	AU
