@@ -637,6 +637,8 @@
 2a12:f340:0000:0000:0000:0000:0000:0000	2a12:f347:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:0180:0000:0000:0000:0000:0000:0000	2a13:0187:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:0440:0000:0000:0000:0000:0000:0000	2a13:0447:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a13:0bc0:0000:0000:0000:0000:0000:0000	2a13:0bc7:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a13:10c0:0000:0000:0000:0000:0000:0000	2a13:10c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:4a00:0000:0000:0000:0000:0000:0000	2a13:4a07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:4c80:0000:0000:0000:0000:0000:0000	2a13:4c87:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:5400:0000:0000:0000:0000:0000:0000	2a13:5407:ffff:ffff:ffff:ffff:ffff:ffff	CH

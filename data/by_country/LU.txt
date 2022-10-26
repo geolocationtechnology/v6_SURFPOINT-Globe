@@ -77,7 +77,6 @@
 2a0d:92c0:0000:0000:0000:0000:0000:0000	2a0d:92c0:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0d:a380:0000:0000:0000:0000:0000:0000	2a0d:a387:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0d:dc00:0000:0000:0000:0000:0000:0000	2a0d:dc07:ffff:ffff:ffff:ffff:ffff:ffff	LU
-2a0e:4180:0000:0000:0000:0000:0000:0000	2a0e:4187:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0f:4d40:0000:0000:0000:0000:0000:0000	2a0f:4d47:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0f:5340:0000:0000:0000:0000:0000:0000	2a0f:5347:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a0f:6980:0000:0000:0000:0000:0000:0000	2a0f:6987:ffff:ffff:ffff:ffff:ffff:ffff	LU

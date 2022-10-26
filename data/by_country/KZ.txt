@@ -58,3 +58,4 @@
 2a12:85c0:0000:0000:0000:0000:0000:0000	2a12:85c7:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a12:8a40:0000:0000:0000:0000:0000:0000	2a12:8a47:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a12:ce40:0000:0000:0000:0000:0000:0000	2a12:ce47:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a13:1240:0000:0000:0000:0000:0000:0000	2a13:1247:ffff:ffff:ffff:ffff:ffff:ffff	KZ
