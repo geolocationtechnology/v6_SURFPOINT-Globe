@@ -193,7 +193,7 @@
 2a03:3b40:0000:0000:0000:0000:0000:0000	2a03:3b40:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:4260:0000:0000:0000:0000:0000:0000	2a03:4267:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:43a0:0000:0000:0000:0000:0000:0000	2a03:43a0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
-2a03:4760:0000:0000:0000:0000:0000:0000	2a03:4760:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a03:4760:0000:0000:0000:0000:0000:0000	2a03:4767:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:4e60:0000:0000:0000:0000:0000:0000	2a03:4e60:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:56a0:0000:0000:0000:0000:0000:0000	2a03:56a0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a03:5e40:0000:0000:0000:0000:0000:0000	2a03:5e40:ffff:ffff:ffff:ffff:ffff:ffff	CZ

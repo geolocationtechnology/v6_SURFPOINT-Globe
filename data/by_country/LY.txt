@@ -1,3 +1,4 @@
+2001:43f8:16b0:0000:0000:0000:0000:0000	2001:43f8:16b0:ffff:ffff:ffff:ffff:ffff	LY
 2a02:e700:0000:0000:0000:0000:0000:0000	2a02:e707:ffff:ffff:ffff:ffff:ffff:ffff	LY
 2c0f:3200:0000:0000:0000:0000:0000:0000	2c0f:3200:ffff:ffff:ffff:ffff:ffff:ffff	LY
 2c0f:ed18:0000:0000:0000:0000:0000:0000	2c0f:ed18:ffff:ffff:ffff:ffff:ffff:ffff	LY

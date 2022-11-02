@@ -28,6 +28,8 @@
 2400:b540:0000:0000:0000:0000:0000:0000	2400:b540:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2400:b740:0000:0000:0000:0000:0000:0000	2400:b740:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2400:b940:0000:0000:0000:0000:0000:0000	2400:b940:ffff:ffff:ffff:ffff:ffff:ffff	PK
+2400:bb60:0000:0000:0000:0000:0000:0000	2400:bb60:ffff:ffff:ffff:ffff:ffff:ffff	PK
+2400:bba0:0000:0000:0000:0000:0000:0000	2400:bba0:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2400:bf40:0000:0000:0000:0000:0000:0000	2400:bf40:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2400:d7c0:0000:0000:0000:0000:0000:0000	2400:d7c0:ffff:ffff:ffff:ffff:ffff:ffff	PK
 2400:fc00:0000:0000:0000:0000:0000:0000	2400:fc00:ffff:ffff:ffff:ffff:ffff:ffff	PK
