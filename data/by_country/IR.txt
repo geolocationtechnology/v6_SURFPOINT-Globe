@@ -150,6 +150,7 @@
 2a05:a6c0:0000:0000:0000:0000:0000:0000	2a05:a6c7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:ab80:0000:0000:0000:0000:0000:0000	2a05:ab87:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:ba40:0000:0000:0000:0000:0000:0000	2a05:ba47:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a05:c180:0000:0000:0000:0000:0000:0000	2a05:c187:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:cac0:0000:0000:0000:0000:0000:0000	2a05:cac7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:cd00:0000:0000:0000:0000:0000:0000	2a05:cd07:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:d740:0000:0000:0000:0000:0000:0000	2a05:d747:ffff:ffff:ffff:ffff:ffff:ffff	IR

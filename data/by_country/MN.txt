@@ -1,4 +1,5 @@
 2400:7480:0000:0000:0000:0000:0000:0000	2400:7480:ffff:ffff:ffff:ffff:ffff:ffff	MN
+2400:bde0:0000:0000:0000:0000:0000:0000	2400:bde0:ffff:ffff:ffff:ffff:ffff:ffff	MN
 2400:db80:0000:0000:0000:0000:0000:0000	2400:db80:ffff:ffff:ffff:ffff:ffff:ffff	MN
 2401:90c0:0000:0000:0000:0000:0000:0000	2401:90c0:ffff:ffff:ffff:ffff:ffff:ffff	MN
 2401:d600:0000:0000:0000:0000:0000:0000	2401:d600:ffff:ffff:ffff:ffff:ffff:ffff	MN

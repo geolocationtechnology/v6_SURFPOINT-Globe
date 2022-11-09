@@ -422,7 +422,6 @@
 2a0d:af80:0000:0000:0000:0000:0000:0000	2a0d:af87:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0d:b680:0000:0000:0000:0000:0000:0000	2a0d:b687:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0d:db80:0000:0000:0000:0000:0000:0000	2a0d:db87:ffff:ffff:ffff:ffff:ffff:ffff	SE
-2a0d:e800:0000:0000:0000:0000:0000:0000	2a0d:e807:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0d:eb80:0000:0000:0000:0000:0000:0000	2a0d:eb87:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0e:1c80:0000:0000:0000:0000:0000:0000	2a0e:1c87:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a0e:5e80:0000:0000:0000:0000:0000:0000	2a0e:5e87:ffff:ffff:ffff:ffff:ffff:ffff	SE
@@ -486,4 +485,5 @@
 2a12:e780:0000:0000:0000:0000:0000:0000	2a12:e787:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a12:fe00:0000:0000:0000:0000:0000:0000	2a12:fe07:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a13:0640:0000:0000:0000:0000:0000:0000	2a13:0647:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a13:1e40:0000:0000:0000:0000:0000:0000	2a13:1e47:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a13:7c80:0000:0000:0000:0000:0000:0000	2a13:7c87:ffff:ffff:ffff:ffff:ffff:ffff	SE

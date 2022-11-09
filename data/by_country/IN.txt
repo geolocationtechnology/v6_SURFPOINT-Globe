@@ -203,6 +203,7 @@
 2400:b7e0:0000:0000:0000:0000:0000:0000	2400:b7e0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:bbe0:0000:0000:0000:0000:0000:0000	2400:bbe0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:bc20:0000:0000:0000:0000:0000:0000	2400:bc20:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:be60:0000:0000:0000:0000:0000:0000	2400:be60:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:c6c0:0000:0000:0000:0000:0000:0000	2400:c6c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:c700:0000:0000:0000:0000:0000:0000	2400:c700:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:c880:0000:0000:0000:0000:0000:0000	2400:c880:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -782,7 +783,6 @@
 2407:8e80:0000:0000:0000:0000:0000:0000	2407:8e80:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:9300:0000:0000:0000:0000:0000:0000	2407:9300:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:9340:0000:0000:0000:0000:0000:0000	2407:9340:ffff:ffff:ffff:ffff:ffff:ffff	IN
-2407:93c0:0000:0000:0000:0000:0000:0000	2407:93c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:9640:0000:0000:0000:0000:0000:0000	2407:9640:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:96c0:0000:0000:0000:0000:0000:0000	2407:96c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2407:97c0:0000:0000:0000:0000:0000:0000	2407:97c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
