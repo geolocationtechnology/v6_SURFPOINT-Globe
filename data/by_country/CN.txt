@@ -652,9 +652,7 @@
 2402:c3c0:0000:0000:0000:0000:0000:0000	2402:c3c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:c5c0:0000:0000:0000:0000:0000:0000	2402:c5c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:c9c0:0000:0000:0000:0000:0000:0000	2402:c9c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2402:cbc0:0000:0000:0000:0000:0000:0000	2402:cbc0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:cc40:0000:0000:0000:0000:0000:0000	2402:cc40:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2402:cc80:0000:0000:0000:0000:0000:0000	2402:cc80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:cf00:0000:0000:0000:0000:0000:0000	2402:cf00:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:cf40:0000:0000:0000:0000:0000:0000	2402:cf40:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2402:d040:0000:0000:0000:0000:0000:0000	2402:d040:ffff:ffff:ffff:ffff:ffff:ffff	CN

@@ -38,4 +38,3 @@
 2a0a:11c0:0000:0000:0000:0000:0000:0000	2a0a:11c7:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a0d:a740:0000:0000:0000:0000:0000:0000	2a0d:a747:ffff:ffff:ffff:ffff:ffff:ffff	BZ
 2a10:de00:0000:0000:0000:0000:0000:0000	2a10:de07:ffff:ffff:ffff:ffff:ffff:ffff	BZ
-2a10:ebc0:0000:0000:0000:0000:0000:0000	2a10:ebc7:ffff:ffff:ffff:ffff:ffff:ffff	BZ

@@ -89,7 +89,6 @@
 2a0c:1180:0000:0000:0000:0000:0000:0000	2a0c:1187:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0c:36c0:0000:0000:0000:0000:0000:0000	2a0c:36c7:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0c:3e40:0000:0000:0000:0000:0000:0000	2a0c:3e47:ffff:ffff:ffff:ffff:ffff:ffff	EE
-2a0c:4880:0000:0000:0000:0000:0000:0000	2a0c:4887:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0c:4bc0:0000:0000:0000:0000:0000:0000	2a0c:4bc7:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0c:9d40:0000:0000:0000:0000:0000:0000	2a0c:9d47:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0c:e240:0000:0000:0000:0000:0000:0000	2a0c:e240:ffff:ffff:ffff:ffff:ffff:ffff	EE
@@ -110,7 +109,6 @@
 2a0d:e500:0000:0000:0000:0000:0000:0000	2a0d:e500:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:4440:0000:0000:0000:0000:0000:0000	2a0e:4447:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:4c00:0000:0000:0000:0000:0000:0000	2a0e:4c07:ffff:ffff:ffff:ffff:ffff:ffff	EE
-2a0e:5800:0000:0000:0000:0000:0000:0000	2a0e:5807:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:7c80:0000:0000:0000:0000:0000:0000	2a0e:7c87:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:7d80:0000:0000:0000:0000:0000:0000	2a0e:7d87:ffff:ffff:ffff:ffff:ffff:ffff	EE
 2a0e:8340:0000:0000:0000:0000:0000:0000	2a0e:8340:ffff:ffff:ffff:ffff:ffff:ffff	EE

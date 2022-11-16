@@ -525,5 +525,6 @@
 2a13:20c0:0000:0000:0000:0000:0000:0000	2a13:20c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a13:2e80:0000:0000:0000:0000:0000:0000	2a13:2e87:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a13:2f00:0000:0000:0000:0000:0000:0000	2a13:2f07:ffff:ffff:ffff:ffff:ffff:ffff	TR
+2a13:30c0:0000:0000:0000:0000:0000:0000	2a13:30c7:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a13:4000:0000:0000:0000:0000:0000:0000	2a13:4007:ffff:ffff:ffff:ffff:ffff:ffff	TR
 2a13:4880:0000:0000:0000:0000:0000:0000	2a13:4887:ffff:ffff:ffff:ffff:ffff:ffff	TR
