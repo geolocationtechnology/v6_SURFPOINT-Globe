@@ -669,7 +669,6 @@
 2a04:3600:0000:0000:0000:0000:0000:0000	2a04:3607:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:3800:0000:0000:0000:0000:0000:0000	2a04:3807:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:3840:0000:0000:0000:0000:0000:0000	2a04:3847:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a04:3b00:0000:0000:0000:0000:0000:0000	2a04:3b07:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:3cc0:0000:0000:0000:0000:0000:0000	2a04:3cc7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:4140:0000:0000:0000:0000:0000:0000	2a04:4147:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a04:4180:0000:0000:0000:0000:0000:0000	2a04:4187:ffff:ffff:ffff:ffff:ffff:ffff	RU

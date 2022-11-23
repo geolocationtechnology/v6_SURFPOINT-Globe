@@ -36,7 +36,6 @@
 2a09:be40:0000:0000:0000:0000:0000:0000	2a09:be40:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a09:dd80:0000:0000:0000:0000:0000:0000	2a09:dd87:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0a:2c40:0000:0000:0000:0000:0000:0000	2a0a:2c47:ffff:ffff:ffff:ffff:ffff:ffff	HR
-2a0a:c9c0:0000:0000:0000:0000:0000:0000	2a0a:c9c7:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0a:e300:0000:0000:0000:0000:0000:0000	2a0a:e303:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0b:7940:0000:0000:0000:0000:0000:0000	2a0b:7947:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0b:9ec0:0000:0000:0000:0000:0000:0000	2a0b:9ec0:ffff:ffff:ffff:ffff:ffff:ffff	HR
@@ -52,7 +51,6 @@
 2a0e:99c0:0000:0000:0000:0000:0000:0000	2a0e:99c7:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0e:bfc0:0000:0000:0000:0000:0000:0000	2a0e:bfc7:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a0e:d2c0:0000:0000:0000:0000:0000:0000	2a0e:d2c7:ffff:ffff:ffff:ffff:ffff:ffff	HR
-2a0e:ec00:0000:0000:0000:0000:0000:0000	2a0e:ec00:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a10:0940:0000:0000:0000:0000:0000:0000	2a10:0947:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a10:5700:0000:0000:0000:0000:0000:0000	2a10:5707:ffff:ffff:ffff:ffff:ffff:ffff	HR
 2a10:8d80:0000:0000:0000:0000:0000:0000	2a10:8d87:ffff:ffff:ffff:ffff:ffff:ffff	HR

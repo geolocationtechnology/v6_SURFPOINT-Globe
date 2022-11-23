@@ -71,7 +71,6 @@
 2a01:0430:0000:0000:0000:0000:0000:0000	2a01:0430:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:0490:0000:0000:0000:0000:0000:0000	2a01:0490:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:0510:0000:0000:0000:0000:0000:0000	2a01:0510:ffff:ffff:ffff:ffff:ffff:ffff	CZ
-2a01:0538:0000:0000:0000:0000:0000:0000	2a01:0538:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:05e0:0000:0000:0000:0000:0000:0000	2a01:05e0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:05f0:0000:0000:0000:0000:0000:0000	2a01:05f7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a01:4240:0000:0000:0000:0000:0000:0000	2a01:4240:ffff:ffff:ffff:ffff:ffff:ffff	CZ

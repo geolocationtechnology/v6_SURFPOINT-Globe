@@ -400,6 +400,7 @@
 2a13:1740:0000:0000:0000:0000:0000:0000	2a13:1747:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:2100:0000:0000:0000:0000:0000:0000	2a13:2107:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:2700:0000:0000:0000:0000:0000:0000	2a13:2707:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a13:3a40:0000:0000:0000:0000:0000:0000	2a13:3a47:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:4500:0000:0000:0000:0000:0000:0000	2a13:4507:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:5380:0000:0000:0000:0000:0000:0000	2a13:5387:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:6b00:0000:0000:0000:0000:0000:0000	2a13:6b07:ffff:ffff:ffff:ffff:ffff:ffff	IR

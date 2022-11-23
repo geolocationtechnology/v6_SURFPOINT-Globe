@@ -1,3 +1,4 @@
+2001:43f8:16c0:0000:0000:0000:0000:0000	2001:43f8:16c1:ffff:ffff:ffff:ffff:ffff	CV
 2c0f:f420:0000:0000:0000:0000:0000:0000	2c0f:f420:ffff:ffff:ffff:ffff:ffff:ffff	CV
 2c0f:f438:0000:0000:0000:0000:0000:0000	2c0f:f438:ffff:ffff:ffff:ffff:ffff:ffff	CV
 2c0f:f498:0000:0000:0000:0000:0000:0000	2c0f:f498:ffff:ffff:ffff:ffff:ffff:ffff	CV

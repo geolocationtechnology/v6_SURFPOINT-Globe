@@ -1834,6 +1834,7 @@
 240b:2000:0000:0000:0000:0000:0000:0000	240b:23ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240b:6000:0000:0000:0000:0000:0000:0000	240b:6fff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240b:8000:0000:0000:0000:0000:0000:0000	240b:87ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
+240b:a000:0000:0000:0000:0000:0000:0000	240b:a07f:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240c:0000:0000:0000:0000:0000:0000:0000	240c:000f:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240c:4000:0000:0000:0000:0000:0000:0000	240c:43ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240c:8000:0000:0000:0000:0000:0000:0000	240c:87ff:ffff:ffff:ffff:ffff:ffff:ffff	CN

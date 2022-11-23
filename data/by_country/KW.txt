@@ -34,3 +34,4 @@
 2a0f:5980:0000:0000:0000:0000:0000:0000	2a0f:5987:ffff:ffff:ffff:ffff:ffff:ffff	KW
 2a10:be80:0000:0000:0000:0000:0000:0000	2a10:be87:ffff:ffff:ffff:ffff:ffff:ffff	KW
 2a11:dcc0:0000:0000:0000:0000:0000:0000	2a11:dcc7:ffff:ffff:ffff:ffff:ffff:ffff	KW
+2a13:3740:0000:0000:0000:0000:0000:0000	2a13:3747:ffff:ffff:ffff:ffff:ffff:ffff	KW
