@@ -45,7 +45,7 @@
 2a00:9c80:0000:0000:0000:0000:0000:0000	2a00:9c80:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a00:9fc0:0000:0000:0000:0000:0000:0000	2a00:9fc0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a00:a160:0000:0000:0000:0000:0000:0000	2a00:a167:ffff:ffff:ffff:ffff:ffff:ffff	CZ
-2a00:a5a0:0000:0000:0000:0000:0000:0000	2a00:a5a0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a00:a5a0:0000:0000:0000:0000:0000:0000	2a00:a5a3:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a00:bfe0:0000:0000:0000:0000:0000:0000	2a00:bfe0:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a00:c500:0000:0000:0000:0000:0000:0000	2a00:c500:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a00:c580:0000:0000:0000:0000:0000:0000	2a00:c587:ffff:ffff:ffff:ffff:ffff:ffff	CZ
@@ -457,6 +457,7 @@
 2a0d:2600:0000:0000:0000:0000:0000:0000	2a0d:2607:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0d:3140:0000:0000:0000:0000:0000:0000	2a0d:3147:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0d:4b00:0000:0000:0000:0000:0000:0000	2a0d:4b07:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a0d:7640:0000:0000:0000:0000:0000:0000	2a0d:7647:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0d:8680:0000:0000:0000:0000:0000:0000	2a0d:8687:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0d:8f40:0000:0000:0000:0000:0000:0000	2a0d:8f47:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a0d:b0c0:0000:0000:0000:0000:0000:0000	2a0d:b0c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ

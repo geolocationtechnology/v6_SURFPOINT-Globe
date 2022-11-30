@@ -50,7 +50,6 @@
 2a05:0700:0000:0000:0000:0000:0000:0000	2a05:0707:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a05:7340:0000:0000:0000:0000:0000:0000	2a05:7347:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a05:7c40:0000:0000:0000:0000:0000:0000	2a05:7c47:ffff:ffff:ffff:ffff:ffff:ffff	LU
-2a06:1780:0000:0000:0000:0000:0000:0000	2a06:1787:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a06:4940:0000:0000:0000:0000:0000:0000	2a06:4947:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a06:95c0:0000:0000:0000:0000:0000:0000	2a06:95c7:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a06:e6c0:0000:0000:0000:0000:0000:0000	2a06:e6c7:ffff:ffff:ffff:ffff:ffff:ffff	LU

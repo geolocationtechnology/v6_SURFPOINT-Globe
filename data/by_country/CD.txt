@@ -2,6 +2,7 @@
 2001:43ff:6000:0000:0000:0000:0000:0000	2001:43ff:6000:ffff:ffff:ffff:ffff:ffff	CD
 2c0f:0e00:0000:0000:0000:0000:0000:0000	2c0f:0e0f:ffff:ffff:ffff:ffff:ffff:ffff	CD
 2c0f:4400:0000:0000:0000:0000:0000:0000	2c0f:4400:ffff:ffff:ffff:ffff:ffff:ffff	CD
+2c0f:6580:0000:0000:0000:0000:0000:0000	2c0f:6580:ffff:ffff:ffff:ffff:ffff:ffff	CD
 2c0f:7800:0000:0000:0000:0000:0000:0000	2c0f:7800:ffff:ffff:ffff:ffff:ffff:ffff	CD
 2c0f:ea70:0000:0000:0000:0000:0000:0000	2c0f:ea70:ffff:ffff:ffff:ffff:ffff:ffff	CD
 2c0f:eac8:0000:0000:0000:0000:0000:0000	2c0f:eac8:ffff:ffff:ffff:ffff:ffff:ffff	CD

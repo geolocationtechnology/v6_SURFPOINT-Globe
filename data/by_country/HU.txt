@@ -154,3 +154,5 @@
 2a12:f640:0000:0000:0000:0000:0000:0000	2a12:f647:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a13:0b00:0000:0000:0000:0000:0000:0000	2a13:0b07:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a13:0dc0:0000:0000:0000:0000:0000:0000	2a13:0dc7:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a13:3bc0:0000:0000:0000:0000:0000:0000	2a13:3bc7:ffff:ffff:ffff:ffff:ffff:ffff	HU
+2a13:46c0:0000:0000:0000:0000:0000:0000	2a13:46c7:ffff:ffff:ffff:ffff:ffff:ffff	HU

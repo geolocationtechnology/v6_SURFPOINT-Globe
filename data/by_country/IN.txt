@@ -47,7 +47,6 @@
 2400:3680:0000:0000:0000:0000:0000:0000	2400:3680:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:36e0:0000:0000:0000:0000:0000:0000	2400:36e0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3720:0000:0000:0000:0000:0000:0000	2400:3720:ffff:ffff:ffff:ffff:ffff:ffff	IN
-2400:3760:0000:0000:0000:0000:0000:0000	2400:3760:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3840:0000:0000:0000:0000:0000:0000	2400:3840:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3a20:0000:0000:0000:0000:0000:0000	2400:3a20:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:3b00:0000:0000:0000:0000:0000:0000	2400:3b01:ffff:ffff:ffff:ffff:ffff:ffff	IN
@@ -207,6 +206,9 @@
 2400:c020:0000:0000:0000:0000:0000:0000	2400:c020:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:c2a0:0000:0000:0000:0000:0000:0000	2400:c2a0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:c2e0:0000:0000:0000:0000:0000:0000	2400:c2e0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:c520:0000:0000:0000:0000:0000:0000	2400:c520:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:c560:0000:0000:0000:0000:0000:0000	2400:c560:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:c5e0:0000:0000:0000:0000:0000:0000	2400:c5e0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:c6c0:0000:0000:0000:0000:0000:0000	2400:c6c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:c700:0000:0000:0000:0000:0000:0000	2400:c700:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:c880:0000:0000:0000:0000:0000:0000	2400:c880:ffff:ffff:ffff:ffff:ffff:ffff	IN

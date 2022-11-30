@@ -440,5 +440,6 @@
 2a12:e4c0:0000:0000:0000:0000:0000:0000	2a12:e4c7:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a12:e800:0000:0000:0000:0000:0000:0000	2a12:e807:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a13:3ac0:0000:0000:0000:0000:0000:0000	2a13:3ac7:ffff:ffff:ffff:ffff:ffff:ffff	UA
+2a13:4140:0000:0000:0000:0000:0000:0000	2a13:4147:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a13:5b00:0000:0000:0000:0000:0000:0000	2a13:5b00:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a13:6f00:0000:0000:0000:0000:0000:0000	2a13:6f00:ffff:ffff:ffff:ffff:ffff:ffff	UA
