@@ -640,6 +640,7 @@
 2a13:10c0:0000:0000:0000:0000:0000:0000	2a13:10c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:13c0:0000:0000:0000:0000:0000:0000	2a13:13c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:1bc0:0000:0000:0000:0000:0000:0000	2a13:1bc7:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a13:47c0:0000:0000:0000:0000:0000:0000	2a13:47c7:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:4a00:0000:0000:0000:0000:0000:0000	2a13:4a07:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:4c80:0000:0000:0000:0000:0000:0000	2a13:4c87:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:5400:0000:0000:0000:0000:0000:0000	2a13:5407:ffff:ffff:ffff:ffff:ffff:ffff	CH

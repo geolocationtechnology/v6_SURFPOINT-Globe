@@ -675,4 +675,6 @@
 2a13:26c0:0000:0000:0000:0000:0000:0000	2a13:26c7:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a13:2800:0000:0000:0000:0000:0000:0000	2a13:2807:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a13:3780:0000:0000:0000:0000:0000:0000	2a13:3787:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a13:4dc0:0000:0000:0000:0000:0000:0000	2a13:4dc7:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a13:4f40:0000:0000:0000:0000:0000:0000	2a13:4f47:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a13:6900:0000:0000:0000:0000:0000:0000	2a13:6900:ffff:ffff:ffff:ffff:ffff:ffff	PL

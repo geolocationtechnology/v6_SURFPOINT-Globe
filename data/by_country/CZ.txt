@@ -542,4 +542,5 @@
 2a13:1180:0000:0000:0000:0000:0000:0000	2a13:1187:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a13:2ac0:0000:0000:0000:0000:0000:0000	2a13:2ac7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a13:3180:0000:0000:0000:0000:0000:0000	2a13:3187:ffff:ffff:ffff:ffff:ffff:ffff	CZ
+2a13:50c0:0000:0000:0000:0000:0000:0000	2a13:50c7:ffff:ffff:ffff:ffff:ffff:ffff	CZ
 2a13:5280:0000:0000:0000:0000:0000:0000	2a13:5287:ffff:ffff:ffff:ffff:ffff:ffff	CZ

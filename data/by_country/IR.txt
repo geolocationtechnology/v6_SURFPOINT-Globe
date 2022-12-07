@@ -42,7 +42,6 @@
 2a01:a540:0000:0000:0000:0000:0000:0000	2a01:a540:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a01:bd80:0000:0000:0000:0000:0000:0000	2a01:bd87:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a02:0828:0000:0000:0000:0000:0000:0000	2a02:082f:ffff:ffff:ffff:ffff:ffff:ffff	IR
-2a02:08e0:0000:0000:0000:0000:0000:0000	2a02:08e0:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a02:0d30:0000:0000:0000:0000:0000:0000	2a02:0d30:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a02:16c0:0000:0000:0000:0000:0000:0000	2a02:16c7:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a02:1730:0000:0000:0000:0000:0000:0000	2a02:1730:ffff:ffff:ffff:ffff:ffff:ffff	IR
@@ -132,7 +131,6 @@
 2a05:6600:0000:0000:0000:0000:0000:0000	2a05:6607:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:7200:0000:0000:0000:0000:0000:0000	2a05:7207:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:7580:0000:0000:0000:0000:0000:0000	2a05:7587:ffff:ffff:ffff:ffff:ffff:ffff	IR
-2a05:7de0:0000:0000:0000:0000:0000:0000	2a05:7de3:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:8040:0000:0000:0000:0000:0000:0000	2a05:8047:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:8540:0000:0000:0000:0000:0000:0000	2a05:8547:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a05:8640:0000:0000:0000:0000:0000:0000	2a05:8647:ffff:ffff:ffff:ffff:ffff:ffff	IR

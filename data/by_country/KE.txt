@@ -9,7 +9,6 @@
 2c0f:0080:0000:0000:0000:0000:0000:0000	2c0f:0080:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:0500:0000:0000:0000:0000:0000:0000	2c0f:0500:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:0880:0000:0000:0000:0000:0000:0000	2c0f:0880:ffff:ffff:ffff:ffff:ffff:ffff	KE
-2c0f:1800:0000:0000:0000:0000:0000:0000	2c0f:1800:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:1a80:0000:0000:0000:0000:0000:0000	2c0f:1a80:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:1e00:0000:0000:0000:0000:0000:0000	2c0f:1e00:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:2380:0000:0000:0000:0000:0000:0000	2c0f:2380:ffff:ffff:ffff:ffff:ffff:ffff	KE

@@ -60,7 +60,6 @@
 2a02:0538:0000:0000:0000:0000:0000:0000	2a02:0538:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a02:1600:0000:0000:0000:0000:0000:0000	2a02:1607:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a02:2078:0000:0000:0000:0000:0000:0000	2a02:2078:ffff:ffff:ffff:ffff:ffff:ffff	IE
-2a02:2158:0000:0000:0000:0000:0000:0000	2a02:215f:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a02:2a90:0000:0000:0000:0000:0000:0000	2a02:2a90:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a02:2bb0:0000:0000:0000:0000:0000:0000	2a02:2bb0:ffff:ffff:ffff:ffff:ffff:ffff	IE
 2a02:4940:0000:0000:0000:0000:0000:0000	2a02:4940:ffff:ffff:ffff:ffff:ffff:ffff	IE

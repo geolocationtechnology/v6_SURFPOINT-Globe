@@ -43,6 +43,7 @@
 2606:aac0:0000:0000:0000:0000:0000:0000	2606:aac0:ffff:ffff:ffff:ffff:ffff:ffff	PR
 2606:b7c0:0000:0000:0000:0000:0000:0000	2606:b7c0:ffff:ffff:ffff:ffff:ffff:ffff	PR
 2606:d6c0:0000:0000:0000:0000:0000:0000	2606:d6c0:ffff:ffff:ffff:ffff:ffff:ffff	PR
+2607:0ec0:0000:0000:0000:0000:0000:0000	2607:0ec0:ffff:ffff:ffff:ffff:ffff:ffff	PR
 2607:0f00:0000:0000:0000:0000:0000:0000	2607:0f00:ffff:ffff:ffff:ffff:ffff:ffff	PR
 2607:2000:0000:0000:0000:0000:0000:0000	2607:2000:ffff:ffff:ffff:ffff:ffff:ffff	PR
 2607:5980:0000:0000:0000:0000:0000:0000	2607:5980:ffff:ffff:ffff:ffff:ffff:ffff	PR

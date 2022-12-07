@@ -255,5 +255,7 @@
 2a13:1c40:0000:0000:0000:0000:0000:0000	2a13:1c47:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a13:1fc0:0000:0000:0000:0000:0000:0000	2a13:1fc7:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a13:40c0:0000:0000:0000:0000:0000:0000	2a13:40c7:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a13:4840:0000:0000:0000:0000:0000:0000	2a13:4847:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a13:4c40:0000:0000:0000:0000:0000:0000	2a13:4c47:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a13:5f00:0000:0000:0000:0000:0000:0000	2a13:5f07:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a13:6100:0000:0000:0000:0000:0000:0000	2a13:6107:ffff:ffff:ffff:ffff:ffff:ffff	BE

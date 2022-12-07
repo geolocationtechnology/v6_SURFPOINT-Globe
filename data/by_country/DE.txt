@@ -412,7 +412,6 @@
 2a01:ac00:0000:0000:0000:0000:0000:0000	2a01:ac00:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:ae40:0000:0000:0000:0000:0000:0000	2a01:ae40:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:aee0:0000:0000:0000:0000:0000:0000	2a01:aee0:ffff:ffff:ffff:ffff:ffff:ffff	DE
-2a01:b140:0000:0000:0000:0000:0000:0000	2a01:b147:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:b160:0000:0000:0000:0000:0000:0000	2a01:b160:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:b180:0000:0000:0000:0000:0000:0000	2a01:b187:ffff:ffff:ffff:ffff:ffff:ffff	DE
 2a01:b1c0:0000:0000:0000:0000:0000:0000	2a01:b1c7:ffff:ffff:ffff:ffff:ffff:ffff	DE
