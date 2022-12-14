@@ -43,6 +43,7 @@
 2a03:ac40:0000:0000:0000:0000:0000:0000	2a03:ac40:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a03:c480:0000:0000:0000:0000:0000:0000	2a03:c480:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a03:f8c0:0000:0000:0000:0000:0000:0000	2a03:f8c0:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a04:38c0:0000:0000:0000:0000:0000:0000	2a04:38c7:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a04:8190:0000:0000:0000:0000:0000:0000	2a04:8191:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a04:81c0:0000:0000:0000:0000:0000:0000	2a04:81c7:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a04:8dc0:0000:0000:0000:0000:0000:0000	2a04:8dc7:ffff:ffff:ffff:ffff:ffff:ffff	LU
@@ -85,3 +86,5 @@
 2a12:b940:0000:0000:0000:0000:0000:0000	2a12:b947:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a12:c580:0000:0000:0000:0000:0000:0000	2a12:c587:ffff:ffff:ffff:ffff:ffff:ffff	LU
 2a13:2440:0000:0000:0000:0000:0000:0000	2a13:2447:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a13:57c0:0000:0000:0000:0000:0000:0000	2a13:57c7:ffff:ffff:ffff:ffff:ffff:ffff	LU
+2a13:5840:0000:0000:0000:0000:0000:0000	2a13:5847:ffff:ffff:ffff:ffff:ffff:ffff	LU

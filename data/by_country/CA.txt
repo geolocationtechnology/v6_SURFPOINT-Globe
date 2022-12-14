@@ -53,6 +53,8 @@
 2602:080e:9000:0000:0000:0000:0000:0000	2602:080e:900f:ffff:ffff:ffff:ffff:ffff	CA
 2602:080f:f000:0000:0000:0000:0000:0000	2602:080f:f00f:ffff:ffff:ffff:ffff:ffff	CA
 2602:0810:8000:0000:0000:0000:0000:0000	2602:0810:800f:ffff:ffff:ffff:ffff:ffff	CA
+2602:fac3:0000:0000:0000:0000:0000:0000	2602:fac3:00ff:ffff:ffff:ffff:ffff:ffff	CA
+2602:fac5:0000:0000:0000:0000:0000:0000	2602:fac5:00ff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fac8:0000:0000:0000:0000:0000:0000	2602:fac8:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2602:facc:0000:0000:0000:0000:0000:0000	2602:facc:0fff:ffff:ffff:ffff:ffff:ffff	CA
 2602:fad1:0000:0000:0000:0000:0000:0000	2602:fad1:0fff:ffff:ffff:ffff:ffff:ffff	CA

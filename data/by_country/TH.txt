@@ -16,6 +16,8 @@
 2400:bca0:0000:0000:0000:0000:0000:0000	2400:bca0:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:c540:0000:0000:0000:0000:0000:0000	2400:c540:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:c5c0:0000:0000:0000:0000:0000:0000	2400:c5c0:ffff:ffff:ffff:ffff:ffff:ffff	TH
+2400:ca20:0000:0000:0000:0000:0000:0000	2400:ca20:ffff:ffff:ffff:ffff:ffff:ffff	TH
+2400:cb20:0000:0000:0000:0000:0000:0000	2400:cb20:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:cd00:0000:0000:0000:0000:0000:0000	2400:cd00:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:ea00:0000:0000:0000:0000:0000:0000	2400:ea00:ffff:ffff:ffff:ffff:ffff:ffff	TH
 2400:f4c0:0000:0000:0000:0000:0000:0000	2400:f4c0:ffff:ffff:ffff:ffff:ffff:ffff	TH

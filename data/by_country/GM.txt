@@ -1,4 +1,5 @@
 2c0f:4c00:0000:0000:0000:0000:0000:0000	2c0f:4c00:ffff:ffff:ffff:ffff:ffff:ffff	GM
+2c0f:6780:0000:0000:0000:0000:0000:0000	2c0f:6780:ffff:ffff:ffff:ffff:ffff:ffff	GM
 2c0f:f890:0000:0000:0000:0000:0000:0000	2c0f:f890:ffff:ffff:ffff:ffff:ffff:ffff	GM
 2c0f:fcb8:0000:0000:0000:0000:0000:0000	2c0f:fcb8:ffff:ffff:ffff:ffff:ffff:ffff	GM
 2c0f:fd08:0000:0000:0000:0000:0000:0000	2c0f:fd08:ffff:ffff:ffff:ffff:ffff:ffff	GM

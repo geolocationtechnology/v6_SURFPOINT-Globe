@@ -489,4 +489,5 @@
 2a13:1e40:0000:0000:0000:0000:0000:0000	2a13:1e47:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a13:25c0:0000:0000:0000:0000:0000:0000	2a13:25c7:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a13:4e40:0000:0000:0000:0000:0000:0000	2a13:4e47:ffff:ffff:ffff:ffff:ffff:ffff	SE
+2a13:5240:0000:0000:0000:0000:0000:0000	2a13:5247:ffff:ffff:ffff:ffff:ffff:ffff	SE
 2a13:7c80:0000:0000:0000:0000:0000:0000	2a13:7c87:ffff:ffff:ffff:ffff:ffff:ffff	SE

@@ -41,6 +41,7 @@
 2400:c000:0000:0000:0000:0000:0000:0000	2400:c000:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2400:c580:0000:0000:0000:0000:0000:0000	2400:c580:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2400:c760:0000:0000:0000:0000:0000:0000	2400:c760:ffff:ffff:ffff:ffff:ffff:ffff	NZ
+2400:c960:0000:0000:0000:0000:0000:0000	2400:c960:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2400:e780:0000:0000:0000:0000:0000:0000	2400:e780:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2400:e940:0000:0000:0000:0000:0000:0000	2400:e940:ffff:ffff:ffff:ffff:ffff:ffff	NZ
 2400:ee80:0000:0000:0000:0000:0000:0000	2400:ee80:ffff:ffff:ffff:ffff:ffff:ffff	NZ

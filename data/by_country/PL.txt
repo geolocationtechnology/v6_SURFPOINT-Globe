@@ -283,6 +283,7 @@
 2a05:2400:0000:0000:0000:0000:0000:0000	2a05:2407:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a05:3640:0000:0000:0000:0000:0000:0000	2a05:3647:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a05:3a00:0000:0000:0000:0000:0000:0000	2a05:3a07:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a05:3b00:0000:0000:0000:0000:0000:0000	2a05:3b07:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a05:40c0:0000:0000:0000:0000:0000:0000	2a05:40c7:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a05:4480:0000:0000:0000:0000:0000:0000	2a05:4487:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a05:4900:0000:0000:0000:0000:0000:0000	2a05:4907:ffff:ffff:ffff:ffff:ffff:ffff	PL
@@ -677,4 +678,5 @@
 2a13:3780:0000:0000:0000:0000:0000:0000	2a13:3787:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a13:4dc0:0000:0000:0000:0000:0000:0000	2a13:4dc7:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a13:4f40:0000:0000:0000:0000:0000:0000	2a13:4f47:ffff:ffff:ffff:ffff:ffff:ffff	PL
+2a13:59c0:0000:0000:0000:0000:0000:0000	2a13:59c7:ffff:ffff:ffff:ffff:ffff:ffff	PL
 2a13:6900:0000:0000:0000:0000:0000:0000	2a13:6900:ffff:ffff:ffff:ffff:ffff:ffff	PL

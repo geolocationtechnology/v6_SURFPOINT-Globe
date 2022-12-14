@@ -9,6 +9,7 @@
 2c0f:2000:0000:0000:0000:0000:0000:0000	2c0f:2000:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:2280:0000:0000:0000:0000:0000:0000	2c0f:2280:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:2300:0000:0000:0000:0000:0000:0000	2c0f:2300:ffff:ffff:ffff:ffff:ffff:ffff	NG
+2c0f:2980:0000:0000:0000:0000:0000:0000	2c0f:2980:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:2a80:0000:0000:0000:0000:0000:0000	2c0f:2a80:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:3e80:0000:0000:0000:0000:0000:0000	2c0f:3e80:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:4180:0000:0000:0000:0000:0000:0000	2c0f:4180:ffff:ffff:ffff:ffff:ffff:ffff	NG

@@ -61,3 +61,4 @@
 2a13:1240:0000:0000:0000:0000:0000:0000	2a13:1247:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a13:19c0:0000:0000:0000:0000:0000:0000	2a13:19c7:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a13:3940:0000:0000:0000:0000:0000:0000	2a13:3947:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a13:53c0:0000:0000:0000:0000:0000:0000	2a13:53c7:ffff:ffff:ffff:ffff:ffff:ffff	KZ
