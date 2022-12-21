@@ -1542,7 +1542,6 @@
 2406:7a80:0000:0000:0000:0000:0000:0000	2406:7a80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:7b80:0000:0000:0000:0000:0000:0000	2406:7b80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:7c80:0000:0000:0000:0000:0000:0000	2406:7c80:ffff:ffff:ffff:ffff:ffff:ffff	CN
-2406:7cc0:0000:0000:0000:0000:0000:0000	2406:7cc0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:7d00:0000:0000:0000:0000:0000:0000	2406:7d00:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:7d80:0000:0000:0000:0000:0000:0000	2406:7d80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2406:7e80:0000:0000:0000:0000:0000:0000	2406:7e80:ffff:ffff:ffff:ffff:ffff:ffff	CN

@@ -70,7 +70,7 @@
 2a11:7000:0000:0000:0000:0000:0000:0000	2a11:7007:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a11:cfc0:0000:0000:0000:0000:0000:0000	2a11:cfc0:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a12:08c0:0000:0000:0000:0000:0000:0000	2a12:08c7:ffff:ffff:ffff:ffff:ffff:ffff	GR
-2a12:0bc0:0000:0000:0000:0000:0000:0000	2a12:0bc0:ffff:ffff:ffff:ffff:ffff:ffff	GR
+2a12:0bc0:0000:0000:0000:0000:0000:0000	2a12:0bc7:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a12:b500:0000:0000:0000:0000:0000:0000	2a12:b507:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a13:0ec0:0000:0000:0000:0000:0000:0000	2a13:0ec7:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a13:3900:0000:0000:0000:0000:0000:0000	2a13:3900:ffff:ffff:ffff:ffff:ffff:ffff	GR

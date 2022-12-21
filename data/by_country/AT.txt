@@ -409,4 +409,6 @@
 2a13:0980:0000:0000:0000:0000:0000:0000	2a13:0987:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a13:1600:0000:0000:0000:0000:0000:0000	2a13:1607:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a13:2140:0000:0000:0000:0000:0000:0000	2a13:2147:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a13:5cc0:0000:0000:0000:0000:0000:0000	2a13:5cc7:ffff:ffff:ffff:ffff:ffff:ffff	AT
+2a13:62c0:0000:0000:0000:0000:0000:0000	2a13:62c7:ffff:ffff:ffff:ffff:ffff:ffff	AT
 2a13:6600:0000:0000:0000:0000:0000:0000	2a13:6607:ffff:ffff:ffff:ffff:ffff:ffff	AT

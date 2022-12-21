@@ -26,7 +26,6 @@
 2a00:4820:0000:0000:0000:0000:0000:0000	2a00:4820:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a00:49c0:0000:0000:0000:0000:0000:0000	2a00:49c0:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a00:5a20:0000:0000:0000:0000:0000:0000	2a00:5a20:ffff:ffff:ffff:ffff:ffff:ffff	DK
-2a00:5aa0:0000:0000:0000:0000:0000:0000	2a00:5aa0:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a00:5d20:0000:0000:0000:0000:0000:0000	2a00:5d20:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a00:6220:0000:0000:0000:0000:0000:0000	2a00:6220:ffff:ffff:ffff:ffff:ffff:ffff	DK
 2a00:7660:0000:0000:0000:0000:0000:0000	2a00:7667:ffff:ffff:ffff:ffff:ffff:ffff	DK

@@ -2005,6 +2005,7 @@
 2a13:4ec0:0000:0000:0000:0000:0000:0000	2a13:4ec7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:52c0:0000:0000:0000:0000:0000:0000	2a13:52c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:5700:0000:0000:0000:0000:0000:0000	2a13:5707:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a13:6040:0000:0000:0000:0000:0000:0000	2a13:6047:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:6300:0000:0000:0000:0000:0000:0000	2a13:6307:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:6500:0000:0000:0000:0000:0000:0000	2a13:6507:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:6a00:0000:0000:0000:0000:0000:0000	2a13:6a07:ffff:ffff:ffff:ffff:ffff:ffff	GB

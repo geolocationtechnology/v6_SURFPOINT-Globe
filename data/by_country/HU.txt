@@ -70,11 +70,9 @@
 2a03:aa60:0000:0000:0000:0000:0000:0000	2a03:aa60:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a03:bf00:0000:0000:0000:0000:0000:0000	2a03:bf07:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a03:da00:0000:0000:0000:0000:0000:0000	2a03:da00:ffff:ffff:ffff:ffff:ffff:ffff	HU
-2a03:df00:0000:0000:0000:0000:0000:0000	2a03:df00:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a03:f780:0000:0000:0000:0000:0000:0000	2a03:f780:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a04:2380:0000:0000:0000:0000:0000:0000	2a04:2387:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a04:e6c0:0000:0000:0000:0000:0000:0000	2a04:e6c7:ffff:ffff:ffff:ffff:ffff:ffff	HU
-2a04:f040:0000:0000:0000:0000:0000:0000	2a04:f047:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a04:fd80:0000:0000:0000:0000:0000:0000	2a04:fd87:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a04:ffc0:0000:0000:0000:0000:0000:0000	2a04:ffc7:ffff:ffff:ffff:ffff:ffff:ffff	HU
 2a05:3080:0000:0000:0000:0000:0000:0000	2a05:3087:ffff:ffff:ffff:ffff:ffff:ffff	HU
