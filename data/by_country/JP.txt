@@ -141,6 +141,7 @@
 2400:c320:0000:0000:0000:0000:0000:0000	2400:c320:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:c7e0:0000:0000:0000:0000:0000:0000	2400:c7e0:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:c8a0:0000:0000:0000:0000:0000:0000	2400:c8a0:ffff:ffff:ffff:ffff:ffff:ffff	JP
+2400:ce20:0000:0000:0000:0000:0000:0000	2400:ce20:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:d640:0000:0000:0000:0000:0000:0000	2400:d640:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:dcc0:0000:0000:0000:0000:0000:0000	2400:dcc0:ffff:ffff:ffff:ffff:ffff:ffff	JP
 2400:ddc0:0000:0000:0000:0000:0000:0000	2400:ddc0:ffff:ffff:ffff:ffff:ffff:ffff	JP

@@ -26,7 +26,7 @@
 2a03:5220:0000:0000:0000:0000:0000:0000	2a03:5220:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a03:5da0:0000:0000:0000:0000:0000:0000	2a03:5da0:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a03:7180:0000:0000:0000:0000:0000:0000	2a03:7180:ffff:ffff:ffff:ffff:ffff:ffff	GR
-2a03:d6c0:0000:0000:0000:0000:0000:0000	2a03:d6c0:ffff:ffff:ffff:ffff:ffff:ffff	GR
+2a03:d6c0:0000:0000:0000:0000:0000:0000	2a03:d6c7:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a03:f000:0000:0000:0000:0000:0000:0000	2a03:f007:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a03:f740:0000:0000:0000:0000:0000:0000	2a03:f740:ffff:ffff:ffff:ffff:ffff:ffff	GR
 2a04:3040:0000:0000:0000:0000:0000:0000	2a04:3047:ffff:ffff:ffff:ffff:ffff:ffff	GR

@@ -5,7 +5,6 @@
 2a00:1588:0000:0000:0000:0000:0000:0000	2a00:1588:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:1688:0000:0000:0000:0000:0000:0000	2a00:1688:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:17a0:0000:0000:0000:0000:0000:0000	2a00:17a0:ffff:ffff:ffff:ffff:ffff:ffff	UA
-2a00:1ae0:0000:0000:0000:0000:0000:0000	2a00:1ae0:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:1b50:0000:0000:0000:0000:0000:0000	2a00:1b50:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:1d88:0000:0000:0000:0000:0000:0000	2a00:1d88:ffff:ffff:ffff:ffff:ffff:ffff	UA
 2a00:1db0:0000:0000:0000:0000:0000:0000	2a00:1db0:ffff:ffff:ffff:ffff:ffff:ffff	UA

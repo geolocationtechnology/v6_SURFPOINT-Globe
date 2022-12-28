@@ -133,7 +133,6 @@
 2a01:6080:0000:0000:0000:0000:0000:0000	2a01:6080:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:6260:0000:0000:0000:0000:0000:0000	2a01:6260:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:63c0:0000:0000:0000:0000:0000:0000	2a01:63c0:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a01:6580:0000:0000:0000:0000:0000:0000	2a01:6580:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:65c0:0000:0000:0000:0000:0000:0000	2a01:65c0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:6760:0000:0000:0000:0000:0000:0000	2a01:6760:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a01:6d60:0000:0000:0000:0000:0000:0000	2a01:6d67:ffff:ffff:ffff:ffff:ffff:ffff	IT

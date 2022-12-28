@@ -248,6 +248,7 @@
 2400:cc80:0000:0000:0000:0000:0000:0000	2400:cc80:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:ccc0:0000:0000:0000:0000:0000:0000	2400:ccc0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:cd40:0000:0000:0000:0000:0000:0000	2400:cd40:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2400:cda0:0000:0000:0000:0000:0000:0000	2400:cda0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:cdc0:0000:0000:0000:0000:0000:0000	2400:cdc0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:ce00:0000:0000:0000:0000:0000:0000	2400:ce00:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:ce40:0000:0000:0000:0000:0000:0000	2400:ce40:ffff:ffff:ffff:ffff:ffff:ffff	CN
@@ -1833,6 +1834,7 @@
 240b:6000:0000:0000:0000:0000:0000:0000	240b:6fff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240b:8000:0000:0000:0000:0000:0000:0000	240b:87ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240b:a000:0000:0000:0000:0000:0000:0000	240b:a07f:ffff:ffff:ffff:ffff:ffff:ffff	CN
+240b:e000:0000:0000:0000:0000:0000:0000	240b:e03f:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240c:0000:0000:0000:0000:0000:0000:0000	240c:000f:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240c:4000:0000:0000:0000:0000:0000:0000	240c:43ff:ffff:ffff:ffff:ffff:ffff:ffff	CN
 240c:8000:0000:0000:0000:0000:0000:0000	240c:87ff:ffff:ffff:ffff:ffff:ffff:ffff	CN

@@ -835,7 +835,6 @@
 2a0a:5980:0000:0000:0000:0000:0000:0000	2a0a:5987:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0a:60c0:0000:0000:0000:0000:0000:0000	2a0a:60c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0a:6140:0000:0000:0000:0000:0000:0000	2a0a:6147:ffff:ffff:ffff:ffff:ffff:ffff	NL
-2a0a:64c0:0000:0000:0000:0000:0000:0000	2a0a:64c7:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0a:65c0:0000:0000:0000:0000:0000:0000	2a0a:65c0:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0a:6f80:0000:0000:0000:0000:0000:0000	2a0a:6f80:ffff:ffff:ffff:ffff:ffff:ffff	NL
 2a0a:7000:0000:0000:0000:0000:0000:0000	2a0a:7007:ffff:ffff:ffff:ffff:ffff:ffff	NL
