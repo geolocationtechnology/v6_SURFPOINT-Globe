@@ -43,6 +43,7 @@
 2a0a:bac0:0000:0000:0000:0000:0000:0000	2a0a:bac7:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0b:6300:0000:0000:0000:0000:0000:0000	2a0b:6307:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0b:96c0:0000:0000:0000:0000:0000:0000	2a0b:96c7:ffff:ffff:ffff:ffff:ffff:ffff	AL
+2a0c:2380:0000:0000:0000:0000:0000:0000	2a0c:2387:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0c:b340:0000:0000:0000:0000:0000:0000	2a0c:b347:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0c:b600:0000:0000:0000:0000:0000:0000	2a0c:b607:ffff:ffff:ffff:ffff:ffff:ffff	AL
 2a0d:1dc0:0000:0000:0000:0000:0000:0000	2a0d:1dc7:ffff:ffff:ffff:ffff:ffff:ffff	AL

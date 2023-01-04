@@ -123,3 +123,4 @@
 2a13:4940:0000:0000:0000:0000:0000:0000	2a13:4947:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a13:5040:0000:0000:0000:0000:0000:0000	2a13:5047:ffff:ffff:ffff:ffff:ffff:ffff	IQ
 2a13:6400:0000:0000:0000:0000:0000:0000	2a13:6407:ffff:ffff:ffff:ffff:ffff:ffff	IQ
+2a13:74c0:0000:0000:0000:0000:0000:0000	2a13:74c7:ffff:ffff:ffff:ffff:ffff:ffff	IQ

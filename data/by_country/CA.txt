@@ -903,7 +903,6 @@
 2a02:2818:0000:0000:0000:0000:0000:0000	2a02:2818:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2a05:4c40:0000:0000:0000:0000:0000:0000	2a05:4c47:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2a05:79c0:0000:0000:0000:0000:0000:0000	2a05:79c7:ffff:ffff:ffff:ffff:ffff:ffff	CA
-2a07:1040:0000:0000:0000:0000:0000:0000	2a07:1047:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2a07:ff80:0000:0000:0000:0000:0000:0000	2a07:ff80:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2a09:dc00:0000:0000:0000:0000:0000:0000	2a09:dc07:ffff:ffff:ffff:ffff:ffff:ffff	CA
 2a0a:1f40:0000:0000:0000:0000:0000:0000	2a0a:1f47:ffff:ffff:ffff:ffff:ffff:ffff	CA

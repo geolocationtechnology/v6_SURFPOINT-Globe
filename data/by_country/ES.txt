@@ -281,7 +281,6 @@
 2a04:0300:0000:0000:0000:0000:0000:0000	2a04:0307:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a04:0c80:0000:0000:0000:0000:0000:0000	2a04:0c87:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a04:0e80:0000:0000:0000:0000:0000:0000	2a04:0e87:ffff:ffff:ffff:ffff:ffff:ffff	ES
-2a04:0f00:0000:0000:0000:0000:0000:0000	2a04:0f07:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a04:1ec0:0000:0000:0000:0000:0000:0000	2a04:1ec7:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a04:2c40:0000:0000:0000:0000:0000:0000	2a04:2c47:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a04:3240:0000:0000:0000:0000:0000:0000	2a04:3247:ffff:ffff:ffff:ffff:ffff:ffff	ES
@@ -340,7 +339,6 @@
 2a05:5280:0000:0000:0000:0000:0000:0000	2a05:5283:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:52c0:0000:0000:0000:0000:0000:0000	2a05:52c7:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:5c80:0000:0000:0000:0000:0000:0000	2a05:5c87:ffff:ffff:ffff:ffff:ffff:ffff	ES
-2a05:5cc0:0000:0000:0000:0000:0000:0000	2a05:5cc7:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:5d40:0000:0000:0000:0000:0000:0000	2a05:5d47:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:6500:0000:0000:0000:0000:0000:0000	2a05:6507:ffff:ffff:ffff:ffff:ffff:ffff	ES
 2a05:6580:0000:0000:0000:0000:0000:0000	2a05:6587:ffff:ffff:ffff:ffff:ffff:ffff	ES

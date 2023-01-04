@@ -2,6 +2,7 @@
 2c0f:1280:0000:0000:0000:0000:0000:0000	2c0f:1280:ffff:ffff:ffff:ffff:ffff:ffff	BJ
 2c0f:2480:0000:0000:0000:0000:0000:0000	2c0f:2480:ffff:ffff:ffff:ffff:ffff:ffff	BJ
 2c0f:6a80:0000:0000:0000:0000:0000:0000	2c0f:6a80:ffff:ffff:ffff:ffff:ffff:ffff	BJ
+2c0f:7180:0000:0000:0000:0000:0000:0000	2c0f:7180:ffff:ffff:ffff:ffff:ffff:ffff	BJ
 2c0f:e900:0000:0000:0000:0000:0000:0000	2c0f:e900:ffff:ffff:ffff:ffff:ffff:ffff	BJ
 2c0f:f018:0000:0000:0000:0000:0000:0000	2c0f:f018:ffff:ffff:ffff:ffff:ffff:ffff	BJ
 2c0f:f188:0000:0000:0000:0000:0000:0000	2c0f:f188:ffff:ffff:ffff:ffff:ffff:ffff	BJ

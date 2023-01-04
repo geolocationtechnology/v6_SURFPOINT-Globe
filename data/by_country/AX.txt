@@ -1,2 +1,1 @@
-2a0b:c140:0000:0000:0000:0000:0000:0000	2a0b:c147:ffff:ffff:ffff:ffff:ffff:ffff	AX
 2a0d:79c0:0000:0000:0000:0000:0000:0000	2a0d:79c0:ffff:ffff:ffff:ffff:ffff:ffff	AX

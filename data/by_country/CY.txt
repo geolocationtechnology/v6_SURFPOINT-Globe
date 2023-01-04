@@ -131,3 +131,8 @@
 2a13:41c0:0000:0000:0000:0000:0000:0000	2a13:41c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a13:4bc0:0000:0000:0000:0000:0000:0000	2a13:4bc7:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a13:58c0:0000:0000:0000:0000:0000:0000	2a13:58c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a13:68c0:0000:0000:0000:0000:0000:0000	2a13:68c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a13:69c0:0000:0000:0000:0000:0000:0000	2a13:69c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a13:6a40:0000:0000:0000:0000:0000:0000	2a13:6a47:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a13:6ac0:0000:0000:0000:0000:0000:0000	2a13:6ac7:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a13:6bc0:0000:0000:0000:0000:0000:0000	2a13:6bc7:ffff:ffff:ffff:ffff:ffff:ffff	CY

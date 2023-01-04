@@ -220,6 +220,7 @@
 2400:cc60:0000:0000:0000:0000:0000:0000	2400:cc60:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:cde0:0000:0000:0000:0000:0000:0000	2400:cde0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:ce60:0000:0000:0000:0000:0000:0000	2400:ce60:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:d020:0000:0000:0000:0000:0000:0000	2400:d020:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:d180:0000:0000:0000:0000:0000:0000	2400:d180:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:d280:0000:0000:0000:0000:0000:0000	2400:d280:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:d3c0:0000:0000:0000:0000:0000:0000	2400:d3c0:ffff:ffff:ffff:ffff:ffff:ffff	IN

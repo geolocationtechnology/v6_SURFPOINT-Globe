@@ -1063,6 +1063,7 @@
 2a07:0ac0:0000:0000:0000:0000:0000:0000	2a07:0ac7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:0b80:0000:0000:0000:0000:0000:0000	2a07:0b87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:0f80:0000:0000:0000:0000:0000:0000	2a07:0f87:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a07:1040:0000:0000:0000:0000:0000:0000	2a07:1047:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:1300:0000:0000:0000:0000:0000:0000	2a07:1307:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:1500:0000:0000:0000:0000:0000:0000	2a07:1507:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a07:17c0:0000:0000:0000:0000:0000:0000	2a07:17c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
@@ -1660,7 +1661,6 @@
 2a10:9e00:0000:0000:0000:0000:0000:0000	2a10:9e07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:9e80:0000:0000:0000:0000:0000:0000	2a10:9e87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:a180:0000:0000:0000:0000:0000:0000	2a10:a183:ffff:ffff:ffff:ffff:ffff:ffff	GB
-2a10:a280:0000:0000:0000:0000:0000:0000	2a10:a287:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:a3c0:0000:0000:0000:0000:0000:0000	2a10:a3c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:a680:0000:0000:0000:0000:0000:0000	2a10:a687:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a10:a700:0000:0000:0000:0000:0000:0000	2a10:a707:ffff:ffff:ffff:ffff:ffff:ffff	GB
@@ -2011,5 +2011,7 @@
 2a13:6500:0000:0000:0000:0000:0000:0000	2a13:6507:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:6a00:0000:0000:0000:0000:0000:0000	2a13:6a07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:6d00:0000:0000:0000:0000:0000:0000	2a13:6d00:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a13:7040:0000:0000:0000:0000:0000:0000	2a13:7047:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:7200:0000:0000:0000:0000:0000:0000	2a13:7207:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a13:75c0:0000:0000:0000:0000:0000:0000	2a13:75c7:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:7a00:0000:0000:0000:0000:0000:0000	2a13:7a07:ffff:ffff:ffff:ffff:ffff:ffff	GB
