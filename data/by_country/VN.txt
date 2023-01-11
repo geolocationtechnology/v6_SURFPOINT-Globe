@@ -65,7 +65,6 @@
 2400:ca60:0000:0000:0000:0000:0000:0000	2400:ca60:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:cee0:0000:0000:0000:0000:0000:0000	2400:cee0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:cfe0:0000:0000:0000:0000:0000:0000	2400:cfe0:ffff:ffff:ffff:ffff:ffff:ffff	VN
-2400:d060:0000:0000:0000:0000:0000:0000	2400:d060:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:e240:0000:0000:0000:0000:0000:0000	2400:e240:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:e2c0:0000:0000:0000:0000:0000:0000	2400:e2c0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:ed40:0000:0000:0000:0000:0000:0000	2400:ed40:ffff:ffff:ffff:ffff:ffff:ffff	VN

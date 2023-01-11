@@ -22,11 +22,13 @@
 2a03:db40:0000:0000:0000:0000:0000:0000	2a03:db47:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a03:f940:0000:0000:0000:0000:0000:0000	2a03:f940:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a04:1480:0000:0000:0000:0000:0000:0000	2a04:1487:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a04:5f80:0000:0000:0000:0000:0000:0000	2a04:5f87:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a04:f140:0000:0000:0000:0000:0000:0000	2a04:f147:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a05:7880:0000:0000:0000:0000:0000:0000	2a05:7880:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a05:8280:0000:0000:0000:0000:0000:0000	2a05:8287:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a05:8500:0000:0000:0000:0000:0000:0000	2a05:8507:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a05:b7c0:0000:0000:0000:0000:0000:0000	2a05:b7c7:ffff:ffff:ffff:ffff:ffff:ffff	CY
+2a05:f300:0000:0000:0000:0000:0000:0000	2a05:f307:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a06:3b00:0000:0000:0000:0000:0000:0000	2a06:3b07:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a06:3c80:0000:0000:0000:0000:0000:0000	2a06:3c87:ffff:ffff:ffff:ffff:ffff:ffff	CY
 2a06:75c0:0000:0000:0000:0000:0000:0000	2a06:75c7:ffff:ffff:ffff:ffff:ffff:ffff	CY

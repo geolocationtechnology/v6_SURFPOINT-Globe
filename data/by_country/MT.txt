@@ -15,7 +15,6 @@
 2a03:3bc0:0000:0000:0000:0000:0000:0000	2a03:3bc0:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a03:50e0:0000:0000:0000:0000:0000:0000	2a03:50e0:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a03:6bc0:0000:0000:0000:0000:0000:0000	2a03:6bc7:ffff:ffff:ffff:ffff:ffff:ffff	MT
-2a03:75e0:0000:0000:0000:0000:0000:0000	2a03:75e0:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a03:8820:0000:0000:0000:0000:0000:0000	2a03:8820:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a03:cb00:0000:0000:0000:0000:0000:0000	2a03:cb00:ffff:ffff:ffff:ffff:ffff:ffff	MT
 2a04:6700:0000:0000:0000:0000:0000:0000	2a04:6707:ffff:ffff:ffff:ffff:ffff:ffff	MT

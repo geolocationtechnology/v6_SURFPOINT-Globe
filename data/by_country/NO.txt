@@ -70,7 +70,7 @@
 2a01:6060:0000:0000:0000:0000:0000:0000	2a01:6060:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:6f80:0000:0000:0000:0000:0000:0000	2a01:6f80:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:79e0:0000:0000:0000:0000:0000:0000	2a01:79e0:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a01:80e0:0000:0000:0000:0000:0000:0000	2a01:80e0:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a01:80e0:0000:0000:0000:0000:0000:0000	2a01:80e7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:83c0:0000:0000:0000:0000:0000:0000	2a01:83c0:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:8d80:0000:0000:0000:0000:0000:0000	2a01:8d80:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a01:8dc0:0000:0000:0000:0000:0000:0000	2a01:8dc0:ffff:ffff:ffff:ffff:ffff:ffff	NO
@@ -337,7 +337,7 @@
 2a11:14c0:0000:0000:0000:0000:0000:0000	2a11:14c7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a11:2f40:0000:0000:0000:0000:0000:0000	2a11:2f40:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a11:5100:0000:0000:0000:0000:0000:0000	2a11:5107:ffff:ffff:ffff:ffff:ffff:ffff	NO
-2a11:5cc0:0000:0000:0000:0000:0000:0000	2a11:5cc0:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a11:5cc0:0000:0000:0000:0000:0000:0000	2a11:5cc7:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a11:ea00:0000:0000:0000:0000:0000:0000	2a11:ea07:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a12:5100:0000:0000:0000:0000:0000:0000	2a12:5107:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a12:64c0:0000:0000:0000:0000:0000:0000	2a12:64c7:ffff:ffff:ffff:ffff:ffff:ffff	NO
