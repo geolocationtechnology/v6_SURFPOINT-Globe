@@ -254,3 +254,4 @@
 2a13:5100:0000:0000:0000:0000:0000:0000	2a13:5107:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a13:6940:0000:0000:0000:0000:0000:0000	2a13:6947:ffff:ffff:ffff:ffff:ffff:ffff	LT
 2a13:7f80:0000:0000:0000:0000:0000:0000	2a13:7f87:ffff:ffff:ffff:ffff:ffff:ffff	LT
+2a13:8000:0000:0000:0000:0000:0000:0000	2a13:8007:ffff:ffff:ffff:ffff:ffff:ffff	LT

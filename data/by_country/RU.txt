@@ -860,7 +860,6 @@
 2a06:aec0:0000:0000:0000:0000:0000:0000	2a06:aec7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:b180:0000:0000:0000:0000:0000:0000	2a06:b187:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:b400:0000:0000:0000:0000:0000:0000	2a06:b407:ffff:ffff:ffff:ffff:ffff:ffff	RU
-2a06:b4c0:0000:0000:0000:0000:0000:0000	2a06:b4c7:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:b800:0000:0000:0000:0000:0000:0000	2a06:b807:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:ba80:0000:0000:0000:0000:0000:0000	2a06:ba87:ffff:ffff:ffff:ffff:ffff:ffff	RU
 2a06:c000:0000:0000:0000:0000:0000:0000	2a06:c007:ffff:ffff:ffff:ffff:ffff:ffff	RU

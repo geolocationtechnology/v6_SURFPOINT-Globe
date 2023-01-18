@@ -204,7 +204,7 @@
 2a02:27e8:0000:0000:0000:0000:0000:0000	2a02:27e8:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:2888:0000:0000:0000:0000:0000:0000	2a02:2888:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:29a0:0000:0000:0000:0000:0000:0000	2a02:29a0:ffff:ffff:ffff:ffff:ffff:ffff	IT
-2a02:29e0:0000:0000:0000:0000:0000:0000	2a02:29e0:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a02:29e0:0000:0000:0000:0000:0000:0000	2a02:29e3:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:2ae0:0000:0000:0000:0000:0000:0000	2a02:2ae0:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:2c80:0000:0000:0000:0000:0000:0000	2a02:2c80:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a02:2ce0:0000:0000:0000:0000:0000:0000	2a02:2ce0:ffff:ffff:ffff:ffff:ffff:ffff	IT

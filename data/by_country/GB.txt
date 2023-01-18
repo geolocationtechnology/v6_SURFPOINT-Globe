@@ -1031,6 +1031,7 @@
 2a06:9c00:0000:0000:0000:0000:0000:0000	2a06:9c07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a06:9d00:0000:0000:0000:0000:0000:0000	2a06:9d07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a06:9e80:0000:0000:0000:0000:0000:0000	2a06:9e87:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a06:a200:0000:0000:0000:0000:0000:0000	2a06:a207:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a06:a800:0000:0000:0000:0000:0000:0000	2a06:a807:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a06:a8c0:0000:0000:0000:0000:0000:0000	2a06:a8c0:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a06:ac40:0000:0000:0000:0000:0000:0000	2a06:ac47:ffff:ffff:ffff:ffff:ffff:ffff	GB
