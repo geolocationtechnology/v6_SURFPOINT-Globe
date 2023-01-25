@@ -1,6 +1,6 @@
 2a00:12f8:0000:0000:0000:0000:0000:0000	2a00:12f8:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a00:1a08:0000:0000:0000:0000:0000:0000	2a00:1a08:ffff:ffff:ffff:ffff:ffff:ffff	KZ
-2a00:5da0:0000:0000:0000:0000:0000:0000	2a00:5da0:ffff:ffff:ffff:ffff:ffff:ffff	KZ
+2a00:5da0:0000:0000:0000:0000:0000:0000	2a00:5da7:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a00:8d20:0000:0000:0000:0000:0000:0000	2a00:8d20:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a00:ab40:0000:0000:0000:0000:0000:0000	2a00:ab40:ffff:ffff:ffff:ffff:ffff:ffff	KZ
 2a01:42e0:0000:0000:0000:0000:0000:0000	2a01:42e0:ffff:ffff:ffff:ffff:ffff:ffff	KZ

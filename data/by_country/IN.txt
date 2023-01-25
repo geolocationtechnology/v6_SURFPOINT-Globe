@@ -227,6 +227,8 @@
 2400:d420:0000:0000:0000:0000:0000:0000	2400:d420:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:d660:0000:0000:0000:0000:0000:0000	2400:d660:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:d6e0:0000:0000:0000:0000:0000:0000	2400:d6e0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:d8a0:0000:0000:0000:0000:0000:0000	2400:d8a0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:d920:0000:0000:0000:0000:0000:0000	2400:d920:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:dbc0:0000:0000:0000:0000:0000:0000	2400:dbc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:dc40:0000:0000:0000:0000:0000:0000	2400:dc40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:e1c0:0000:0000:0000:0000:0000:0000	2400:e1c0:ffff:ffff:ffff:ffff:ffff:ffff	IN

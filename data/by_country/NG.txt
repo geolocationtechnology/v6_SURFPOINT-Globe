@@ -54,7 +54,6 @@
 2c0f:f098:0000:0000:0000:0000:0000:0000	2c0f:f098:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f128:0000:0000:0000:0000:0000:0000	2c0f:f128:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f270:0000:0000:0000:0000:0000:0000	2c0f:f270:ffff:ffff:ffff:ffff:ffff:ffff	NG
-2c0f:f2c0:0000:0000:0000:0000:0000:0000	2c0f:f2c0:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f388:0000:0000:0000:0000:0000:0000	2c0f:f388:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f3a8:0000:0000:0000:0000:0000:0000	2c0f:f3a8:ffff:ffff:ffff:ffff:ffff:ffff	NG
 2c0f:f418:0000:0000:0000:0000:0000:0000	2c0f:f418:ffff:ffff:ffff:ffff:ffff:ffff	NG
