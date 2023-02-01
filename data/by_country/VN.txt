@@ -73,6 +73,7 @@
 2400:d760:0000:0000:0000:0000:0000:0000	2400:d760:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:d7e0:0000:0000:0000:0000:0000:0000	2400:d7e0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:d8e0:0000:0000:0000:0000:0000:0000	2400:d8e0:ffff:ffff:ffff:ffff:ffff:ffff	VN
+2400:da20:0000:0000:0000:0000:0000:0000	2400:da20:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:e240:0000:0000:0000:0000:0000:0000	2400:e240:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:e2c0:0000:0000:0000:0000:0000:0000	2400:e2c0:ffff:ffff:ffff:ffff:ffff:ffff	VN
 2400:ed40:0000:0000:0000:0000:0000:0000	2400:ed40:ffff:ffff:ffff:ffff:ffff:ffff	VN

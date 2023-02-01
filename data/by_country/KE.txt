@@ -42,7 +42,6 @@
 2c0f:e9b0:0000:0000:0000:0000:0000:0000	2c0f:e9b0:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:e9c8:0000:0000:0000:0000:0000:0000	2c0f:e9c8:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:eb78:0000:0000:0000:0000:0000:0000	2c0f:eb78:ffff:ffff:ffff:ffff:ffff:ffff	KE
-2c0f:ed78:0000:0000:0000:0000:0000:0000	2c0f:ed78:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:ed90:0000:0000:0000:0000:0000:0000	2c0f:ed90:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:eda0:0000:0000:0000:0000:0000:0000	2c0f:eda0:ffff:ffff:ffff:ffff:ffff:ffff	KE
 2c0f:ee68:0000:0000:0000:0000:0000:0000	2c0f:ee68:ffff:ffff:ffff:ffff:ffff:ffff	KE

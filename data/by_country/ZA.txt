@@ -113,6 +113,7 @@
 2c0f:7500:0000:0000:0000:0000:0000:0000	2c0f:7500:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:7580:0000:0000:0000:0000:0000:0000	2c0f:7580:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:7680:0000:0000:0000:0000:0000:0000	2c0f:7680:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:7780:0000:0000:0000:0000:0000:0000	2c0f:7780:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:7900:0000:0000:0000:0000:0000:0000	2c0f:7900:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:7d00:0000:0000:0000:0000:0000:0000	2c0f:7d00:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:7e80:0000:0000:0000:0000:0000:0000	2c0f:7e80:ffff:ffff:ffff:ffff:ffff:ffff	ZA
@@ -240,6 +241,7 @@
 2c0f:f0f0:0000:0000:0000:0000:0000:0000	2c0f:f0f0:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f110:0000:0000:0000:0000:0000:0000	2c0f:f110:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f148:0000:0000:0000:0000:0000:0000	2c0f:f148:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:f150:0000:0000:0000:0000:0000:0000	2c0f:f150:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f158:0000:0000:0000:0000:0000:0000	2c0f:f158:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f178:0000:0000:0000:0000:0000:0000	2c0f:f178:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:f1a0:0000:0000:0000:0000:0000:0000	2c0f:f1a0:ffff:ffff:ffff:ffff:ffff:ffff	ZA

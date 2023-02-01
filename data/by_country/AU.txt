@@ -118,6 +118,7 @@
 2001:0df1:d800:0000:0000:0000:0000:0000	2001:0df1:d800:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:de00:0000:0000:0000:0000:0000	2001:0df1:de00:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:df00:0000:0000:0000:0000:0000	2001:0df1:df00:ffff:ffff:ffff:ffff:ffff	AU
+2001:0df1:e240:0000:0000:0000:0000:0000	2001:0df1:e240:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:e700:0000:0000:0000:0000:0000	2001:0df1:e700:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:e800:0000:0000:0000:0000:0000	2001:0df1:e800:ffff:ffff:ffff:ffff:ffff	AU
 2001:0df1:ec00:0000:0000:0000:0000:0000	2001:0df1:ec00:ffff:ffff:ffff:ffff:ffff	AU
@@ -564,6 +565,7 @@
 2400:d400:0000:0000:0000:0000:0000:0000	2400:d400:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:d480:0000:0000:0000:0000:0000:0000	2400:d480:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:d500:0000:0000:0000:0000:0000:0000	2400:d500:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2400:d9a0:0000:0000:0000:0000:0000:0000	2400:d9a0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:d9c0:0000:0000:0000:0000:0000:0000	2400:d9c0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:e200:0000:0000:0000:0000:0000:0000	2400:e200:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:e300:0000:0000:0000:0000:0000:0000	2400:e300:ffff:ffff:ffff:ffff:ffff:ffff	AU
