@@ -971,3 +971,5 @@
 2a13:ac00:0000:0000:0000:0000:0000:0000	2a13:ac07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a13:cc00:0000:0000:0000:0000:0000:0000	2a13:cc07:ffff:ffff:ffff:ffff:ffff:ffff	IT
 2a13:dc00:0000:0000:0000:0000:0000:0000	2a13:dc07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a13:ee00:0000:0000:0000:0000:0000:0000	2a13:ee07:ffff:ffff:ffff:ffff:ffff:ffff	IT
+2a13:f600:0000:0000:0000:0000:0000:0000	2a13:f607:ffff:ffff:ffff:ffff:ffff:ffff	IT
