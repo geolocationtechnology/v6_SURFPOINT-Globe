@@ -51,3 +51,4 @@
 2a10:9840:0000:0000:0000:0000:0000:0000	2a10:9847:ffff:ffff:ffff:ffff:ffff:ffff	IS
 2a11:24c0:0000:0000:0000:0000:0000:0000	2a11:24c7:ffff:ffff:ffff:ffff:ffff:ffff	IS
 2a12:bf40:0000:0000:0000:0000:0000:0000	2a12:bf47:ffff:ffff:ffff:ffff:ffff:ffff	IS
+2a13:9900:0000:0000:0000:0000:0000:0000	2a13:9900:ffff:ffff:ffff:ffff:ffff:ffff	IS

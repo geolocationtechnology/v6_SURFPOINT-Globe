@@ -3,6 +3,7 @@
 2a00:1780:0000:0000:0000:0000:0000:0000	2a00:1780:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a00:17c0:0000:0000:0000:0000:0000:0000	2a00:17c0:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a00:1810:0000:0000:0000:0000:0000:0000	2a00:1810:ffff:ffff:ffff:ffff:ffff:ffff	LV
+2a00:4080:0000:0000:0000:0000:0000:0000	2a00:4087:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a00:81e0:0000:0000:0000:0000:0000:0000	2a00:81e0:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a00:8480:0000:0000:0000:0000:0000:0000	2a00:8480:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a00:9000:0000:0000:0000:0000:0000:0000	2a00:9007:ffff:ffff:ffff:ffff:ffff:ffff	LV
@@ -25,6 +26,7 @@
 2a03:6740:0000:0000:0000:0000:0000:0000	2a03:6747:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a03:6820:0000:0000:0000:0000:0000:0000	2a03:6820:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a03:ec00:0000:0000:0000:0000:0000:0000	2a03:ec00:ffff:ffff:ffff:ffff:ffff:ffff	LV
+2a04:1bc0:0000:0000:0000:0000:0000:0000	2a04:1bc7:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a04:4e00:0000:0000:0000:0000:0000:0000	2a04:4e07:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a04:5f40:0000:0000:0000:0000:0000:0000	2a04:5f47:ffff:ffff:ffff:ffff:ffff:ffff	LV
 2a04:f0c0:0000:0000:0000:0000:0000:0000	2a04:f0c7:ffff:ffff:ffff:ffff:ffff:ffff	LV

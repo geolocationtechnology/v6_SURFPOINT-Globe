@@ -17,7 +17,6 @@
 2803:38c0:0000:0000:0000:0000:0000:0000	2803:38c0:ffff:ffff:ffff:ffff:ffff:ffff	BO
 2803:3e20:0000:0000:0000:0000:0000:0000	2803:3e20:ffff:ffff:ffff:ffff:ffff:ffff	BO
 2803:3ea0:0000:0000:0000:0000:0000:0000	2803:3ea0:ffff:ffff:ffff:ffff:ffff:ffff	BO
-2803:4380:0000:0000:0000:0000:0000:0000	2803:4380:ffff:ffff:ffff:ffff:ffff:ffff	BO
 2803:4ac0:0000:0000:0000:0000:0000:0000	2803:4ac0:ffff:ffff:ffff:ffff:ffff:ffff	BO
 2803:5700:0000:0000:0000:0000:0000:0000	2803:5700:ffff:ffff:ffff:ffff:ffff:ffff	BO
 2803:5c00:0000:0000:0000:0000:0000:0000	2803:5c00:ffff:ffff:ffff:ffff:ffff:ffff	BO

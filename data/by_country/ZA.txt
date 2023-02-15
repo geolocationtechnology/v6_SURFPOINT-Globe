@@ -115,6 +115,7 @@
 2c0f:7680:0000:0000:0000:0000:0000:0000	2c0f:7680:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:7780:0000:0000:0000:0000:0000:0000	2c0f:7780:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:7900:0000:0000:0000:0000:0000:0000	2c0f:7900:ffff:ffff:ffff:ffff:ffff:ffff	ZA
+2c0f:7b80:0000:0000:0000:0000:0000:0000	2c0f:7b80:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:7d00:0000:0000:0000:0000:0000:0000	2c0f:7d00:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:7e80:0000:0000:0000:0000:0000:0000	2c0f:7e80:ffff:ffff:ffff:ffff:ffff:ffff	ZA
 2c0f:e810:0000:0000:0000:0000:0000:0000	2c0f:e810:ffff:ffff:ffff:ffff:ffff:ffff	ZA

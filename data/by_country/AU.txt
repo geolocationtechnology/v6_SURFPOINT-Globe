@@ -566,6 +566,7 @@
 2400:d500:0000:0000:0000:0000:0000:0000	2400:d500:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:d9a0:0000:0000:0000:0000:0000:0000	2400:d9a0:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:d9c0:0000:0000:0000:0000:0000:0000	2400:d9c0:ffff:ffff:ffff:ffff:ffff:ffff	AU
+2400:de60:0000:0000:0000:0000:0000:0000	2400:de60:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:e200:0000:0000:0000:0000:0000:0000	2400:e200:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:e300:0000:0000:0000:0000:0000:0000	2400:e300:ffff:ffff:ffff:ffff:ffff:ffff	AU
 2400:e3c0:0000:0000:0000:0000:0000:0000	2400:e3c0:ffff:ffff:ffff:ffff:ffff:ffff	AU
