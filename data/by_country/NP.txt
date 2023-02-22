@@ -1,5 +1,6 @@
 2001:0dd8:0024:0000:0000:0000:0000:0000	2001:0dd8:0025:ffff:ffff:ffff:ffff:ffff	NP
 2001:0def:8000:0000:0000:0000:0000:0000	2001:0def:8001:ffff:ffff:ffff:ffff:ffff	NP
+2001:0df1:ffc0:0000:0000:0000:0000:0000	2001:0df1:ffc0:ffff:ffff:ffff:ffff:ffff	NP
 2400:1a00:0000:0000:0000:0000:0000:0000	2400:1a00:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:36a0:0000:0000:0000:0000:0000:0000	2400:36a0:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:3820:0000:0000:0000:0000:0000:0000	2400:3820:ffff:ffff:ffff:ffff:ffff:ffff	NP
@@ -15,6 +16,7 @@
 2400:9720:0000:0000:0000:0000:0000:0000	2400:9720:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:a400:0000:0000:0000:0000:0000:0000	2400:a400:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:af20:0000:0000:0000:0000:0000:0000	2400:af20:ffff:ffff:ffff:ffff:ffff:ffff	NP
+2400:e0e0:0000:0000:0000:0000:0000:0000	2400:e0e0:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:f0c0:0000:0000:0000:0000:0000:0000	2400:f0c0:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2400:f6c0:0000:0000:0000:0000:0000:0000	2400:f6c0:ffff:ffff:ffff:ffff:ffff:ffff	NP
 2401:2b80:0000:0000:0000:0000:0000:0000	2401:2b80:ffff:ffff:ffff:ffff:ffff:ffff	NP

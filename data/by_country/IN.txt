@@ -237,6 +237,14 @@
 2400:dbc0:0000:0000:0000:0000:0000:0000	2400:dbc0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:dc40:0000:0000:0000:0000:0000:0000	2400:dc40:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:dde0:0000:0000:0000:0000:0000:0000	2400:dde0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:df20:0000:0000:0000:0000:0000:0000	2400:df20:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:df60:0000:0000:0000:0000:0000:0000	2400:df60:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:dfa0:0000:0000:0000:0000:0000:0000	2400:dfa0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:dfe0:0000:0000:0000:0000:0000:0000	2400:dfe0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:e020:0000:0000:0000:0000:0000:0000	2400:e020:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:e060:0000:0000:0000:0000:0000:0000	2400:e060:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:e0a0:0000:0000:0000:0000:0000:0000	2400:e0a0:ffff:ffff:ffff:ffff:ffff:ffff	IN
+2400:e1a0:0000:0000:0000:0000:0000:0000	2400:e1a0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:e1c0:0000:0000:0000:0000:0000:0000	2400:e1c0:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:e980:0000:0000:0000:0000:0000:0000	2400:e980:ffff:ffff:ffff:ffff:ffff:ffff	IN
 2400:ea80:0000:0000:0000:0000:0000:0000	2400:ea80:ffff:ffff:ffff:ffff:ffff:ffff	IN

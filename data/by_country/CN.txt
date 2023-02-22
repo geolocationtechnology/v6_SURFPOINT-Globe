@@ -274,6 +274,7 @@
 2400:de00:0000:0000:0000:0000:0000:0000	2400:de00:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:de20:0000:0000:0000:0000:0000:0000	2400:de20:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:de80:0000:0000:0000:0000:0000:0000	2400:de80:ffff:ffff:ffff:ffff:ffff:ffff	CN
+2400:dee0:0000:0000:0000:0000:0000:0000	2400:dee0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:e0c0:0000:0000:0000:0000:0000:0000	2400:e0c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:e5c0:0000:0000:0000:0000:0000:0000	2400:e5c0:ffff:ffff:ffff:ffff:ffff:ffff	CN
 2400:e680:0000:0000:0000:0000:0000:0000	2400:e680:ffff:ffff:ffff:ffff:ffff:ffff	CN
