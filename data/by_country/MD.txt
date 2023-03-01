@@ -187,3 +187,7 @@
 2a13:7980:0000:0000:0000:0000:0000:0000	2a13:7987:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a13:7a80:0000:0000:0000:0000:0000:0000	2a13:7a87:ffff:ffff:ffff:ffff:ffff:ffff	MD
 2a13:7b80:0000:0000:0000:0000:0000:0000	2a13:7b87:ffff:ffff:ffff:ffff:ffff:ffff	MD
+2a13:8780:0000:0000:0000:0000:0000:0000	2a13:8787:ffff:ffff:ffff:ffff:ffff:ffff	MD
+2a13:8880:0000:0000:0000:0000:0000:0000	2a13:8887:ffff:ffff:ffff:ffff:ffff:ffff	MD
+2a13:8980:0000:0000:0000:0000:0000:0000	2a13:8987:ffff:ffff:ffff:ffff:ffff:ffff	MD
+2a13:8a80:0000:0000:0000:0000:0000:0000	2a13:8a87:ffff:ffff:ffff:ffff:ffff:ffff	MD

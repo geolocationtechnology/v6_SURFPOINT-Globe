@@ -260,4 +260,5 @@
 2a12:d940:0000:0000:0000:0000:0000:0000	2a12:d947:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a13:4f80:0000:0000:0000:0000:0000:0000	2a13:4f87:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a13:5300:0000:0000:0000:0000:0000:0000	2a13:5307:ffff:ffff:ffff:ffff:ffff:ffff	FI
+2a13:8680:0000:0000:0000:0000:0000:0000	2a13:8687:ffff:ffff:ffff:ffff:ffff:ffff	FI
 2a13:8c00:0000:0000:0000:0000:0000:0000	2a13:8c00:ffff:ffff:ffff:ffff:ffff:ffff	FI

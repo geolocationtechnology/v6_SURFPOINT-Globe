@@ -9,7 +9,6 @@
 2a02:5580:0000:0000:0000:0000:0000:0000	2a02:5580:ffff:ffff:ffff:ffff:ffff:ffff	MK
 2a02:5720:0000:0000:0000:0000:0000:0000	2a02:5720:ffff:ffff:ffff:ffff:ffff:ffff	MK
 2a02:cbc0:0000:0000:0000:0000:0000:0000	2a02:cbc3:ffff:ffff:ffff:ffff:ffff:ffff	MK
-2a03:2560:0000:0000:0000:0000:0000:0000	2a03:2560:ffff:ffff:ffff:ffff:ffff:ffff	MK
 2a03:af40:0000:0000:0000:0000:0000:0000	2a03:af40:ffff:ffff:ffff:ffff:ffff:ffff	MK
 2a03:e380:0000:0000:0000:0000:0000:0000	2a03:e380:ffff:ffff:ffff:ffff:ffff:ffff	MK
 2a04:69c0:0000:0000:0000:0000:0000:0000	2a04:69c7:ffff:ffff:ffff:ffff:ffff:ffff	MK

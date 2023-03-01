@@ -1,5 +1,6 @@
 2400:a240:0000:0000:0000:0000:0000:0000	2400:a240:ffff:ffff:ffff:ffff:ffff:ffff	LK
 2400:d040:0000:0000:0000:0000:0000:0000	2400:d040:ffff:ffff:ffff:ffff:ffff:ffff	LK
+2400:e2e0:0000:0000:0000:0000:0000:0000	2400:e2e0:ffff:ffff:ffff:ffff:ffff:ffff	LK
 2400:ff00:0000:0000:0000:0000:0000:0000	2400:ff00:ffff:ffff:ffff:ffff:ffff:ffff	LK
 2401:dd00:0000:0000:0000:0000:0000:0000	2401:dd00:ffff:ffff:ffff:ffff:ffff:ffff	LK
 2402:4000:0000:0000:0000:0000:0000:0000	2402:4000:ffff:ffff:ffff:ffff:ffff:ffff	LK

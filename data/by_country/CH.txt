@@ -218,6 +218,7 @@
 2a03:2120:0000:0000:0000:0000:0000:0000	2a03:2120:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a03:2480:0000:0000:0000:0000:0000:0000	2a03:2480:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a03:24e0:0000:0000:0000:0000:0000:0000	2a03:24e0:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a03:2560:0000:0000:0000:0000:0000:0000	2a03:2560:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a03:2600:0000:0000:0000:0000:0000:0000	2a03:2600:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a03:2960:0000:0000:0000:0000:0000:0000	2a03:2960:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a03:36c0:0000:0000:0000:0000:0000:0000	2a03:36c0:ffff:ffff:ffff:ffff:ffff:ffff	CH
