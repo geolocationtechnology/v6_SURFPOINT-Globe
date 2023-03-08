@@ -181,7 +181,6 @@
 2a13:2d80:0000:0000:0000:0000:0000:0000	2a13:2d87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a13:6240:0000:0000:0000:0000:0000:0000	2a13:6247:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a13:6440:0000:0000:0000:0000:0000:0000	2a13:6447:ffff:ffff:ffff:ffff:ffff:ffff	RO
-2a13:6840:0000:0000:0000:0000:0000:0000	2a13:6847:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a13:7140:0000:0000:0000:0000:0000:0000	2a13:7147:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a13:8c80:0000:0000:0000:0000:0000:0000	2a13:8c87:ffff:ffff:ffff:ffff:ffff:ffff	RO
 2a13:9080:0000:0000:0000:0000:0000:0000	2a13:9087:ffff:ffff:ffff:ffff:ffff:ffff	RO

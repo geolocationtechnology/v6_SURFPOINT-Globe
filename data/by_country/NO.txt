@@ -355,3 +355,5 @@
 2a13:6200:0000:0000:0000:0000:0000:0000	2a13:6207:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a13:7f00:0000:0000:0000:0000:0000:0000	2a13:7f07:ffff:ffff:ffff:ffff:ffff:ffff	NO
 2a13:9980:0000:0000:0000:0000:0000:0000	2a13:9987:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a13:a480:0000:0000:0000:0000:0000:0000	2a13:a487:ffff:ffff:ffff:ffff:ffff:ffff	NO
+2a13:a680:0000:0000:0000:0000:0000:0000	2a13:a687:ffff:ffff:ffff:ffff:ffff:ffff	NO

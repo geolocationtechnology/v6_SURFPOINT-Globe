@@ -1,3 +1,2 @@
 2c0f:ef08:0000:0000:0000:0000:0000:0000	2c0f:ef08:ffff:ffff:ffff:ffff:ffff:ffff	NA
 2c0f:f778:0000:0000:0000:0000:0000:0000	2c0f:f778:ffff:ffff:ffff:ffff:ffff:ffff	NA
-2c0f:f980:0000:0000:0000:0000:0000:0000	2c0f:f980:ffff:ffff:ffff:ffff:ffff:ffff	NA

@@ -1,3 +1,4 @@
+2602:faf8:0000:0000:0000:0000:0000:0000	2602:faf8:00ff:ffff:ffff:ffff:ffff:ffff	GP
 2604:1800:0000:0000:0000:0000:0000:0000	2604:1800:ffff:ffff:ffff:ffff:ffff:ffff	GP
 2605:adc0:0000:0000:0000:0000:0000:0000	2605:adc0:ffff:ffff:ffff:ffff:ffff:ffff	GP
 2606:2480:0000:0000:0000:0000:0000:0000	2606:2480:ffff:ffff:ffff:ffff:ffff:ffff	GP

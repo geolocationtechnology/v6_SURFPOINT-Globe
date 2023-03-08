@@ -60,4 +60,5 @@
 2a13:3b00:0000:0000:0000:0000:0000:0000	2a13:3b07:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a13:5140:0000:0000:0000:0000:0000:0000	2a13:5147:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a13:5180:0000:0000:0000:0000:0000:0000	2a13:5187:ffff:ffff:ffff:ffff:ffff:ffff	GE
+2a13:a780:0000:0000:0000:0000:0000:0000	2a13:a787:ffff:ffff:ffff:ffff:ffff:ffff	GE
 2a13:b400:0000:0000:0000:0000:0000:0000	2a13:b407:ffff:ffff:ffff:ffff:ffff:ffff	GE
