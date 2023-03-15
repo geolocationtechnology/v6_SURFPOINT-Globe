@@ -39,6 +39,7 @@
 2a01:0498:0000:0000:0000:0000:0000:0000	2a01:0498:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:0690:0000:0000:0000:0000:0000:0000	2a01:0697:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:4340:0000:0000:0000:0000:0000:0000	2a01:4340:ffff:ffff:ffff:ffff:ffff:ffff	BE
+2a01:43a0:0000:0000:0000:0000:0000:0000	2a01:43a0:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:5960:0000:0000:0000:0000:0000:0000	2a01:5960:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:5a00:0000:0000:0000:0000:0000:0000	2a01:5a00:ffff:ffff:ffff:ffff:ffff:ffff	BE
 2a01:5b80:0000:0000:0000:0000:0000:0000	2a01:5b80:ffff:ffff:ffff:ffff:ffff:ffff	BE

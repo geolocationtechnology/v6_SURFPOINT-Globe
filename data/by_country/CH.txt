@@ -651,4 +651,5 @@
 2a13:9000:0000:0000:0000:0000:0000:0000	2a13:9007:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:a200:0000:0000:0000:0000:0000:0000	2a13:a207:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:aa00:0000:0000:0000:0000:0000:0000	2a13:aa07:ffff:ffff:ffff:ffff:ffff:ffff	CH
+2a13:bc80:0000:0000:0000:0000:0000:0000	2a13:bc87:ffff:ffff:ffff:ffff:ffff:ffff	CH
 2a13:de00:0000:0000:0000:0000:0000:0000	2a13:de07:ffff:ffff:ffff:ffff:ffff:ffff	CH

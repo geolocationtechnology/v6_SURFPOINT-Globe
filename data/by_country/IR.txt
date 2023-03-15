@@ -413,4 +413,5 @@
 2a13:8600:0000:0000:0000:0000:0000:0000	2a13:8607:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:9600:0000:0000:0000:0000:0000:0000	2a13:9607:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:9a00:0000:0000:0000:0000:0000:0000	2a13:9a07:ffff:ffff:ffff:ffff:ffff:ffff	IR
+2a13:bd80:0000:0000:0000:0000:0000:0000	2a13:bd87:ffff:ffff:ffff:ffff:ffff:ffff	IR
 2a13:d000:0000:0000:0000:0000:0000:0000	2a13:d007:ffff:ffff:ffff:ffff:ffff:ffff	IR

@@ -191,4 +191,6 @@
 2a13:4480:0000:0000:0000:0000:0000:0000	2a13:4487:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a13:4a40:0000:0000:0000:0000:0000:0000	2a13:4a47:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a13:8b80:0000:0000:0000:0000:0000:0000	2a13:8b87:ffff:ffff:ffff:ffff:ffff:ffff	BG
+2a13:b980:0000:0000:0000:0000:0000:0000	2a13:b987:ffff:ffff:ffff:ffff:ffff:ffff	BG
+2a13:c080:0000:0000:0000:0000:0000:0000	2a13:c087:ffff:ffff:ffff:ffff:ffff:ffff	BG
 2a13:f200:0000:0000:0000:0000:0000:0000	2a13:f207:ffff:ffff:ffff:ffff:ffff:ffff	BG
