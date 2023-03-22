@@ -369,7 +369,7 @@
 2a01:7fc0:0000:0000:0000:0000:0000:0000	2a01:7fc0:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a01:8000:0000:0000:0000:0000:0000:0000	2a01:8000:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a01:82e0:0000:0000:0000:0000:0000:0000	2a01:82e0:ffff:ffff:ffff:ffff:ffff:ffff	GB
-2a01:8340:0000:0000:0000:0000:0000:0000	2a01:8340:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a01:8340:0000:0000:0000:0000:0000:0000	2a01:8347:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a01:8560:0000:0000:0000:0000:0000:0000	2a01:8560:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a01:85c0:0000:0000:0000:0000:0000:0000	2a01:85c0:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a01:86e0:0000:0000:0000:0000:0000:0000	2a01:86e0:ffff:ffff:ffff:ffff:ffff:ffff	GB
@@ -2009,5 +2009,6 @@
 2a13:bb00:0000:0000:0000:0000:0000:0000	2a13:bb07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:bb80:0000:0000:0000:0000:0000:0000	2a13:bb87:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:c300:0000:0000:0000:0000:0000:0000	2a13:c307:ffff:ffff:ffff:ffff:ffff:ffff	GB
+2a13:c980:0000:0000:0000:0000:0000:0000	2a13:c980:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:cb00:0000:0000:0000:0000:0000:0000	2a13:cb07:ffff:ffff:ffff:ffff:ffff:ffff	GB
 2a13:d800:0000:0000:0000:0000:0000:0000	2a13:d800:ffff:ffff:ffff:ffff:ffff:ffff	GB
